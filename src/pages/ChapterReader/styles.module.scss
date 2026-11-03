@@ -12,8 +12,6 @@
   min-height: 75vh;
   padding: 1rem max(1rem, env(safe-area-inset-right))
     max(3rem, env(safe-area-inset-bottom)) max(1rem, env(safe-area-inset-left));
-  // Faixa lateral reservada para o botão, sem sobrepor texto ou navegação.
-  padding-right: calc(4.25rem + env(safe-area-inset-right, 0px));
   overflow-wrap: anywhere;
   &[data-theme="sepia"] {
     --reader-background: #f1e4cd;
