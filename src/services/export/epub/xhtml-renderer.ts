@@ -1,3 +1,4 @@
+import { signatureParts } from '../../document-signatures.ts';
 import type { FormattedText, InlineSegment } from '../../../types/fanfic.ts';
 import type { ExportAsset, ExportBook, ExportChapter, ExportNode } from '../export-types.ts';
 
@@ -22,6 +23,7 @@ function localLink(href: string, book: ExportBook) {
 }
 
 export function renderNodes(nodes: ExportNode[], book: ExportBook, assets: ExportAsset[]): string {
+  const assetsBySource = new Map(assets.map(asset => [asset.src, asset]));
   const inline = (segments: InlineSegment[]): string => segments.map(segment => {
     switch (segment.type) {
       case 'text': return xml(segment.text);
@@ -32,25 +34,30 @@ export function renderNodes(nodes: ExportNode[], book: ExportBook, assets: Expor
     }
   }).join('');
   const value = (text: FormattedText) => text.segments ? inline(text.segments) : xml(text.text);
-  return nodes.map(node => {
+  const render = (items: ExportNode[]): string => items.map(node => {
     const id = `id="${xml(node.id)}"`;
     switch (node.kind) {
       case 'divider': return `<div ${id} class="divider" role="separator" aria-label="Mudança de cena">* * *</div>`;
       case 'text': {
+        if (node.role === 'signature') {
+          const { name, rest } = signatureParts(node.value);
+          return `<p ${id} class="signature"><span>${xml(name)}</span>${value(rest)}</p>`;
+        }
         const style = node.value.alignment ? ` style="text-align:${node.value.alignment}"` : '';
-        const tag = node.role === 'heading' ? `h${node.level ?? 2}` : node.role === 'quote' ? 'blockquote' : node.role === 'aside' ? 'aside' : 'p';
-        return `<${tag} ${id}${style}>${value(node.value)}${node.attribution ? `<footer>${xml(node.attribution)}</footer>` : ''}</${tag}>`;
+        const tag = node.role === 'heading' ? `h${node.level ?? 2}` : 'p';
+        return `<${tag} ${id}${style}>${value(node.value)}</${tag}>${node.attribution ? `<p id="${xml(node.id)}-attribution">${xml(node.attribution)}</p>` : ''}`;
       }
       case 'link': return `<p ${id}><a href="${xml(localLink(node.href, book))}">${xml(node.label)}</a></p>`;
       case 'image': {
-        const asset = assets.find(asset => asset.src === node.src);
+        const asset = assetsBySource.get(node.src);
         if (!asset) throw new Error(`Imagem não incorporada: ${node.src}`);
         return `<figure ${id}${node.alignment ? ` style="text-align:${node.alignment}"` : ''}><img src="../${xml(asset.path)}" alt="${xml(node.alt)}"/>${node.caption ? `<figcaption>${xml(node.caption)}</figcaption>` : ''}</figure>`;
       }
-      case 'section': return `<section ${id} class="${node.role}${node.side ? ` ${node.side}` : ''}">${node.title ? `<h3>${xml(node.title)}</h3>` : ''}${renderNodes(node.children, book, assets)}</section>`;
+      case 'section': return `<div ${id}>${node.title ? `<p><strong>${xml(node.title)}</strong></p>` : ''}${render(node.children)}</div>`;
       default: throw new Error('Bloco sem suporte no EPUB.');
     }
   }).join('\n');
+  return render(nodes);
 }
 
 export function renderChapter(chapter: ExportChapter, book: ExportBook, assets: ExportAsset[]) {
@@ -65,7 +72,7 @@ export function renderCover(book: ExportBook) {
   const work = book.work;
   return xhtml(exportTitle(book), work.language, `<section class="cover" epub:type="cover"><p>Biblioteca de Alexandria</p><h1>${xml(work.title)}</h1>${exportAuthor(book) ? `<p>${xml(exportAuthor(book)!)}</p>` : ''}<p class="credit">Edição para leitura · capa tipográfica editorial</p></section>` +
     `<section><h2>Sinopse</h2><p>${xml(work.synopsis)}</p>` +
-    (work.classification ? `<h2>Classificação</h2><p>${xml(work.classification.rating)}</p><p>${xml(work.classification.archiveWarning)}</p>` : '') +
+    (work.classification ? `<h2>Classificação</h2><p>${xml(work.classification.rating)}</p><p>${xml(work.classification.archiveWarning ?? '')}</p>` : '') +
     `<p>${xml(work.category)}</p><h2>Avisos de conteúdo</h2>${work.contentAdvisories.map(item => `<p>${xml(item)}</p>`).join('')}` +
     (work.tags.length ? `<h2>Tags</h2><p>${xml(work.tags.join(' · '))}</p>` : '') +
     (work.links.original ? `<p><a href="${xml(work.links.original)}">Publicação original</a></p>` : '') + '</section>');

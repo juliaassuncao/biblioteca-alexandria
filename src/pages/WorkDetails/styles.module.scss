@@ -3,7 +3,8 @@
 .back{display:inline-flex;align-items:center;gap:7px;font-size:12px;color:t.$muted;text-decoration:none;margin-bottom:35px;}.back:hover{color:t.$wine;}
 .top{display:grid;grid-template-columns:300px minmax(0,1fr);gap:57px;padding-bottom:45px;border-bottom:1px solid t.$line;}
 .coverArea{padding:16px;align-self:start;background:#e6ded4;border-radius:11px;}
-.information h1{font:500 clamp(49px,6vw,80px)/.92 'Cormorant Garamond',Georgia,serif;letter-spacing:-2px;margin:17px 0 15px;color:t.$ink;}
+.information h1{font:500 calc(clamp(49px,6vw,80px) * var(--title-scale,1))/.92 'Cormorant Garamond',Georgia,serif;letter-spacing:-2px;margin:17px 0 15px;color:t.$ink;}
+.information h1.longTitle{text-wrap:balance;line-height:1.05;letter-spacing:-.025em;}
 .author{display:flex;align-items:center;gap:6px;color:t.$muted;font-size:12px;margin:0 0 18px;}.author strong{color:t.$wine;}.author span{font-size:11px;}
 .status{color:#6a806e;background:#e8efe5;border:1px solid #c9d5c6;font-size:11px;border-radius:30px;padding:6px 10px;display:inline-block;}
 .summary{margin:27px 0 15px;}.summary p{color:#554c4a;font:400 14px/1.95 'DM Sans',system-ui,sans-serif;max-width:700px;margin:12px 0;}
@@ -12,6 +13,11 @@
 .pendingLink{display:flex;align-items:center;gap:10px;border-left:3px solid #bd9571;background:#f0e6dc;padding:14px 17px;font-size:12px;color:#756153;max-width:560px;line-height:1.6;}
 .pendingLink code{font-size:11px;}
 .original{margin-top:18px;display:flex;gap:7px;align-items:center;font-size:11px;color:t.$wine;text-decoration:none;font-weight:600;}
+.ownSite{margin-top:24px;padding-top:20px;border-top:1px solid t.$line;}
+.ownSite h2{font:600 23px/1.2 'Cormorant Garamond',Georgia,serif;margin:0 0 8px;color:t.$ink;}
+.ownSite p{font-size:12px;line-height:1.8;color:t.$muted;margin:0 0 12px;}
+.ownSite a{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:10px 14px;border:1px solid t.$line;border-radius:5px;color:t.$wine;font-size:12px;font-weight:600;text-decoration:none;}
+.ownSite a:hover{border-color:t.$wine;}
 .contentInfo{border-bottom:1px solid t.$line;padding:31px 0;}
 .contentInfo h2{display:flex;gap:10px;align-items:center;font:600 25px 'Cormorant Garamond',Georgia,serif;margin:0 0 15px;}
 .labels,.tags{display:flex;flex-wrap:wrap;gap:8px;}.labels span{font-size:11px;border:1px solid #dfd3c6;padding:7px 9px;color:t.$wine;border-radius:5px;}
@@ -19,5 +25,5 @@
 .tags span{background:#eee8df;border-radius:3px;font-size:10px;color:#70635b;padding:7px 9px;}
 .externalFootnote{margin-top:35px;display:flex;gap:12px;align-items:center;color:t.$muted;background:#f0e7db;padding:24px;}.externalFootnote p{font-size:12px;line-height:1.7;}
 .summary p { white-space:pre-line; }
-@media(max-width:770px){.top{grid-template-columns:210px minmax(0,1fr);gap:25px;}.coverArea{padding:10px;}.information h1{font-size:49px;}}
-@media(max-width:610px){.top{grid-template-columns:1fr;gap:30px;}.coverArea{width:min(270px,80%);margin:auto;}.information h1{font-size:59px;}.page{padding-top:24px;}.back{margin-bottom:23px;}}
+@media(max-width:770px){.top{grid-template-columns:210px minmax(0,1fr);gap:25px;}.coverArea{padding:10px;}.information h1{font-size:calc(49px * var(--title-scale,1));}}
+@media(max-width:610px){.top{grid-template-columns:1fr;gap:30px;}.coverArea{width:min(270px,80%);margin:auto;}.information h1{font-size:calc(59px * var(--title-scale,1));}.page{padding-top:24px;}.back{margin-bottom:23px;}}

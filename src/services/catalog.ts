@@ -4,8 +4,8 @@ import type { Fanfic } from '../types/fanfic';
 export const getWorkBySlug = (slug: string): Fanfic | undefined =>
   works.find((work) => work.slug === slug);
 
-// O link de site próprio pode ser preenchido em .env.local sem editar o JSON.
-// Ao habilitar as URLs reais, o card redireciona diretamente para esses sites.
+// URLs públicas do catálogo funcionam em produção sem configuração local.
+// Variáveis legadas são apenas fallback para registros sem destino cadastrado.
 export function getReadingUrl(work: Fanfic): string | null {
   if (work.reading.mode !== 'external') return null;
   const configured = work.id === 'bones'
@@ -13,7 +13,7 @@ export function getReadingUrl(work: Fanfic): string | null {
     : work.id === 'custode'
       ? import.meta.env.VITE_CUSTODE_URL
       : undefined;
-  const candidate = (configured || work.reading.externalUrl || '').trim();
+  const candidate = (work.reading.externalUrl || configured || '').trim();
   if (!candidate) return null;
   try {
     const url = new URL(candidate);

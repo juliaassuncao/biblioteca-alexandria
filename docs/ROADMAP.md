@@ -90,3 +90,14 @@ Procedimento e hashes em [IMPORTACAO-NO-VERDE-DOS-SEUS-OLHOS.md](./IMPORTACAO-NO
 - [ ] Procedimento de recebimento e validação por autora.
 - [ ] Importador assistido de EPUB/HTML/PDF com revisão humana.
 - [ ] Melhorias de indexação, filtros e governança editorial.
+
+## Ampliação do acervo — Como conquistar (e perder) uma mulher em 30 dias
+
+- [x] Cadastro de Okada/medvegoals e metadados do PDF local.
+- [x] 30 capítulos individuais, notas, dupla extração e relatório de integridade.
+- [x] Manifestos universais para contrato, artigo, mensagens/posts e epígrafes.
+- [x] Capa cobre com assinatura, primeira posição e Hero pela convenção de inclusão.
+- [x] Downloads universais autorizados para obra e capítulo.
+- [ ] Revisão editorial humana e homologação em dispositivos físicos; contentReady permanece false.
+
+Procedimento em [IMPORTACAO-COMO-CONQUISTAR-E-PERDER.md](./IMPORTACAO-COMO-CONQUISTAR-E-PERDER.md).

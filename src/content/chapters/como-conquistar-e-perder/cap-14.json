@@ -1,0 +1,1322 @@
+{
+  "id": "cap-14",
+  "blocks": [
+    {
+      "id": "cap-14-0002",
+      "type": "paragraph",
+      "text": "— Tá, o que a gente vai fazer? - Lorena perguntou enquanto folheava a pasta com várias opções de tatuagens dispostas em um portfólio."
+    },
+    {
+      "id": "cap-14-0003",
+      "type": "paragraph",
+      "text": "Elas estavam em um estúdio que, após pesquisas meticulosas que duraram cinco minutos no google, decidiram que deveria ser boa já que não haviam avaliações ruins e o nome da tatuadora era Camila.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Elas estavam em um estúdio que, após pesquisas meticulosas que duraram cinco minutos no "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "google"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", decidiram que deveria ser boa já que não haviam avaliações ruins e o nome da tatuadora era Camila."
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0004",
+      "type": "paragraph",
+      "text": "Eduarda disse que Camila era um nome de confiança, baseado em pesquisas feitas por ela mesma em sua mente, e Lorena não questionou. Estava aprendendo a lidar com a mente especial de Eduarda Fragoso, e apenas concordou com a escolha rindo."
+    },
+    {
+      "id": "cap-14-0005",
+      "type": "paragraph",
+      "text": "Podiam ouvir a maquininha zumbir na sala ao lado, e não iria admitir mas Lorena estava começando a ficar um pouco apreensiva."
+    },
+    {
+      "id": "cap-14-0006",
+      "type": "paragraph",
+      "text": "Eduarda ergueu uma sobrancelha."
+    },
+    {
+      "id": "cap-14-0007",
+      "type": "paragraph",
+      "text": "— A gente ?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— A "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "gente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " ?"
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0008",
+      "type": "paragraph",
+      "text": "— Eu não vou fazer isso sozinha Eduarda, a ideia foi sua.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Eu não vou fazer isso sozinha Eduarda, a ideia foi "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sua"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0009",
+      "type": "paragraph",
+      "text": "— Na verdade o desejo foi seu.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Na verdade o desejo foi "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "seu"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0010",
+      "type": "paragraph",
+      "text": "— E você concordou!"
+    },
+    {
+      "id": "cap-14-0011",
+      "type": "paragraph",
+      "text": "— Eu só to te acompanhando!"
+    },
+    {
+      "id": "cap-14-0012",
+      "type": "paragraph",
+      "text": "Lorena a encarou, os olhos verdes brilhando e um bico começando a se formar nos lábios."
+    },
+    {
+      "id": "cap-14-0013",
+      "type": "paragraph",
+      "text": "Eduarda suspirou derrotada."
+    },
+    {
+      "id": "cap-14-0014",
+      "type": "paragraph",
+      "text": "— Tá, tá, eu concordei mesmo. - Estendeu a mão para ela. — Deixa eu ver isso."
+    },
+    {
+      "id": "cap-14-0015",
+      "type": "paragraph",
+      "text": "Lorena bateu palminhas animada, e se encostou nela para analisarem juntas, os ombros colados e o perfume de Eduarda invadindo o seu espaço."
+    },
+    {
+      "id": "cap-14-0016",
+      "type": "paragraph",
+      "text": "— Que tal uma frase em japonês? - Lorena apontou para um kanji. — Tipo paz, amor, saúde…"
+    },
+    {
+      "id": "cap-14-0017",
+      "type": "paragraph",
+      "text": "— Claro. - Eduarda respondeu passando a página que Lorena havia visto. — Aí quando formos traduzir no meu vai estar escrito “pastel de frango “ e o seu “no meu é mais barato”. Não obrigado.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Claro. - Eduarda respondeu passando a página que Lorena havia visto. — Aí quando formos traduzir no meu vai estar escrito “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pastel de frango"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " “ e o seu “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "no meu é mais barato”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Não obrigado."
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0018",
+      "type": "paragraph",
+      "text": "Lorena abafou uma risada."
+    },
+    {
+      "id": "cap-14-0019",
+      "type": "paragraph",
+      "text": "— E que tal uns arames farpados? A gente poderia ficar com cara de mal…"
+    },
+    {
+      "id": "cap-14-0020",
+      "type": "paragraph",
+      "text": "— Não Eduarda, com toda a certeza não.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Não Eduarda, com toda a certeza "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "não"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0021",
+      "type": "paragraph",
+      "text": "— Você é muito chata, tá e se você fizer um cigarro e eu um isqueiro?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Você é muito "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "chata"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", tá e se você fizer um cigarro e eu um isqueiro?"
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0022",
+      "type": "paragraph",
+      "text": "Lorena soltou um riso incrédulo."
+    },
+    {
+      "id": "cap-14-0023",
+      "type": "paragraph",
+      "text": "— Você só pode estar brincando."
+    },
+    {
+      "id": "cap-14-0024",
+      "type": "paragraph",
+      "text": "— É sério, representa a nossa amizade e tal…"
+    },
+    {
+      "id": "cap-14-0025",
+      "type": "paragraph",
+      "text": "— Não, sem chances. - Lorena passou mais uma página. — Olha esse que bonitinho!"
+    },
+    {
+      "id": "cap-14-0026",
+      "type": "paragraph",
+      "text": "A imagem era uma xícara de café com olhos fofinhos e um sorriso, dando a mão para uma rosquinha sorridente."
+    },
+    {
+      "id": "cap-14-0027",
+      "type": "paragraph",
+      "text": "— Taí, gostei desse. Eu quero ser o café. - Eduarda apontou o desenho."
+    },
+    {
+      "id": "cap-14-0028",
+      "type": "paragraph",
+      "text": "— Ah não, eu quero ser o café, eu amo café!",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Ah não, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "eu"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " quero ser o café, eu amo café!"
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0029",
+      "type": "paragraph",
+      "text": "— Eu também amo café, todos os tipos inclusive. Qual o plural de café? - Franziu o cenho pensando. — Cafezes?"
+    },
+    {
+      "id": "cap-14-0030",
+      "type": "paragraph",
+      "text": "Lorena explodiu em uma gargalhada."
+    },
+    {
+      "id": "cap-14-0031",
+      "type": "paragraph",
+      "text": "— Você é muito idiota! Sério!"
+    },
+    {
+      "id": "cap-14-0032",
+      "type": "paragraph",
+      "text": "— Essa foi boa vai, pode admitir."
+    },
+    {
+      "id": "cap-14-0033",
+      "type": "paragraph",
+      "text": "— Essa foi mesmo. Não muda de assunto, eu quero ser o café. - E com a voz mais manhosa que Eduarda já havia ouvido na vida, assinou a sentença das duas. — É o meu desejo poxa."
+    },
+    {
+      "id": "cap-14-0034",
+      "type": "paragraph",
+      "text": "Eduarda se afastou o suficiente para encarar Lorena, semicerrando os olhos."
+    },
+    {
+      "id": "cap-14-0035",
+      "type": "paragraph",
+      "text": "— Você sempre consegue o que quer né?"
+    },
+    {
+      "id": "cap-14-0036",
+      "type": "paragraph",
+      "text": "Lorena sorriu."
+    },
+    {
+      "id": "cap-14-0037",
+      "type": "paragraph",
+      "text": "— Sempre."
+    },
+    {
+      "id": "cap-14-0038",
+      "type": "paragraph",
+      "text": "— Tá, pode ser o café então."
+    },
+    {
+      "id": "cap-14-0039",
+      "type": "paragraph",
+      "text": "— Eba!"
+    },
+    {
+      "id": "cap-14-0040",
+      "type": "paragraph",
+      "text": "— Então eu tatuo a rosquinha diabética e você o café depressivo, bora!"
+    },
+    {
+      "id": "cap-14-0041",
+      "type": "paragraph",
+      "text": "Se levantaram e Eduarda chamou a tatuadora Camila, indicando que Lorena seria a primeira e mostrando os desenhos."
+    },
+    {
+      "id": "cap-14-0042",
+      "type": "paragraph",
+      "text": "Lorena a encarou desacreditada nessa traição, seus planos eram Eduarda ir primeiro para saber se doía muito."
+    },
+    {
+      "id": "cap-14-0043",
+      "type": "paragraph",
+      "text": "Mas com toda a coragem do mundo respirou fundo e caminhou até a tatuadora de cabelos coloridos."
+    },
+    {
+      "id": "cap-14-0044",
+      "type": "paragraph",
+      "text": "— Aonde você quer fazer para eu colar o decalque? - Perguntou gentil."
+    },
+    {
+      "id": "cap-14-0045",
+      "type": "paragraph",
+      "text": "Lorena pensou por um momento."
+    },
+    {
+      "id": "cap-14-0046",
+      "type": "paragraph",
+      "text": "Queria que fosse em um lugar escondido, onde ninguém pudesse ver somente ela. Como um segredo que guardaria junto com Eduarda."
+    },
+    {
+      "id": "cap-14-0047",
+      "type": "paragraph",
+      "text": "— Na virilha. - Se virou sorrindo torto para Eduarda que havia arregalado os olhos quando disse o local. — Bem aqui."
+    },
+    {
+      "id": "cap-14-0048",
+      "type": "paragraph",
+      "text": "Levantou um pedaço da blusa, e abaixou um pouco a calça mostrando a curva do quadril e um pedaço mínimo do monte Vênus."
+    },
+    {
+      "id": "cap-14-0049",
+      "type": "paragraph",
+      "text": "Eduarda ficou pálida e engoliu em seco, pôde ver a ruiva tentando desviar os olhos a todo custo e se divertiu em pensar no esforço colossal que ela estava fazendo e falhando miseravelmente."
+    },
+    {
+      "id": "cap-14-0050",
+      "type": "paragraph",
+      "text": "Camila de luvas, passou o gel no local o frio em contato com o corpo quente fez sua pele arrepiar. Com cuidado, ela colou o desenho e apertou um pouco para fixar."
+    },
+    {
+      "id": "cap-14-0051",
+      "type": "paragraph",
+      "text": "Quando retirou, Lorena teve a visão de uma xícara feliz em linhas roxas. Analisou o lugar sorrindo."
+    },
+    {
+      "id": "cap-14-0052",
+      "type": "paragraph",
+      "text": "— Perfeito!"
+    },
+    {
+      "id": "cap-14-0053",
+      "type": "paragraph",
+      "text": "— Então tudo certo. - Camila sorriu. — E você? - Se virou para Eduarda."
+    },
+    {
+      "id": "cap-14-0054",
+      "type": "paragraph",
+      "text": "Ela sorriu sacana."
+    },
+    {
+      "id": "cap-14-0055",
+      "type": "paragraph",
+      "text": "— Ah, no mesmo lugar que ela."
+    },
+    {
+      "id": "cap-14-0056",
+      "type": "paragraph",
+      "text": "E fez o mesmo que Lorena."
+    },
+    {
+      "id": "cap-14-0057",
+      "type": "paragraph",
+      "text": "Em seus vinte e seis anos de vida, nada preparou Lorena Ferette para visualizar uma ruiva bonita a olhando com enormes olhos castanhos que brilhavam, e o sorriso mais profano que já havia visto na vida."
+    },
+    {
+      "id": "cap-14-0058",
+      "type": "paragraph",
+      "text": "Quando Eduarda ergueu a camiseta, e baixou o lado da calça, fez com uma lentidão calculada fazendo com que Lorena prendesse o fôlego e se arrepiasse inteira. Foi forçada a morder os lábios com força para não suspirar."
+    },
+    {
+      "id": "cap-14-0059",
+      "type": "paragraph",
+      "text": "Eduarda não parou de olhá-la, estava claramente se divertindo com o efeito que estava causando na mais nova."
+    },
+    {
+      "id": "cap-14-0060",
+      "type": "paragraph",
+      "text": "A tatuadora fez o mesmo processo, mas para Lorena pareceu demorar anos."
+    },
+    {
+      "id": "cap-14-0061",
+      "type": "paragraph",
+      "text": "— Certo, Lorena. Deita ali na maca que já vamos começar."
+    },
+    {
+      "id": "cap-14-0062",
+      "type": "paragraph",
+      "text": "Lorena fez o que ela mandou, o coração ainda ribombava no peito e as mãos que seguravam a calça levemente abaixada tremiam um pouco. Eduarda se aproximou, tentando fixar o rosto de Lorena como se ela não tivesse feito o mesmo segundos atrás."
+    },
+    {
+      "id": "cap-14-0063",
+      "type": "paragraph",
+      "text": "— Se quiser pode segurar minha mão. - Falou provocando."
+    },
+    {
+      "id": "cap-14-0064",
+      "type": "paragraph",
+      "text": "Lorena sorriu."
+    },
+    {
+      "id": "cap-14-0065",
+      "type": "paragraph",
+      "text": "— Vou apertar com bastante força."
+    },
+    {
+      "id": "cap-14-0066",
+      "type": "paragraph",
+      "text": "A tatuadora se virou na cadeira com a maquininha na mão, e colocou uma máscara no rosto."
+    },
+    {
+      "id": "cap-14-0067",
+      "type": "paragraph",
+      "text": "— Certo vamos começar, se sentir muita dor e quiser fazer uma pausa é só me avisar."
+    },
+    {
+      "id": "cap-14-0068",
+      "type": "paragraph",
+      "text": "Lorena assentiu e fechou os olhos."
+    },
+    {
+      "id": "cap-14-0069",
+      "type": "paragraph",
+      "text": "Ouviu o barulho suave da maquininha ser ligada, e sentiu a ponta da agulha tocar sua pele."
+    },
+    {
+      "id": "cap-14-0070",
+      "type": "paragraph",
+      "text": "A dor não era insuportável: uma leve ardência com a sensação de sobe e desce, e a cada traço feito seu peito se aquecia se enchendo de um orgulho oculto por finalmente ter tido coragem de enfrentar o pai."
+    },
+    {
+      "id": "cap-14-0071",
+      "type": "paragraph",
+      "text": "Ali, mais uma corda foi cortada das amarras de Santiago Ferette.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Ali, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mais uma"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " corda foi cortada das amarras de Santiago Ferette."
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0072",
+      "type": "paragraph",
+      "text": "Sentiu vontade de chorar de emoção, deixar transbordar o que sentia por meio de gotas salgadas, mas se controlou respirando fundo."
+    },
+    {
+      "id": "cap-14-0073",
+      "type": "paragraph",
+      "text": "Eduarda a observava em silêncio, talvez entendendo o que se passava dentro dela, talvez só morrendo de medo de quando chegaria a sua vez."
+    },
+    {
+      "id": "cap-14-0074",
+      "type": "paragraph",
+      "text": "O desenho era pequeno, então em vinte minutos já havia terminado. Camila limpou o excesso de tinta, e aplicou um gel que cheirava a aloe vera para acalmar a pele. Lorena desceu da maca ainda mantendo a calça levemente abaixada e admirou a obra prima sorrindo largamente.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "O desenho era pequeno, então em vinte minutos já havia terminado. Camila limpou o excesso de tinta, e aplicou um gel que cheirava a "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "aloe vera"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " para acalmar a pele. Lorena desceu da maca ainda mantendo a calça levemente abaixada e admirou a obra prima sorrindo largamente."
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0075",
+      "type": "paragraph",
+      "text": "Após o gel secar, a tatuadora passou outro gel mas esse, ela explicou que endureceria e ficaria como uma segunda pele, que sairia no banho. Era apenas para proteção no primeiro dia."
+    },
+    {
+      "id": "cap-14-0076",
+      "type": "paragraph",
+      "text": "Na vez de Eduarda, Lorena pensou que ela fosse desistir ou chorar, e não a culparia se desistisse. Mas Eduarda Fragoso era louca o suficiente para seguir com ela."
+    },
+    {
+      "id": "cap-14-0077",
+      "type": "paragraph",
+      "text": "O processo foi refeito, Eduarda esboçava caretas de dor e Lorena não se contentou em tirar com a cara dela que mostrou o dedo do meio."
+    },
+    {
+      "id": "cap-14-0078",
+      "type": "paragraph",
+      "text": "Depois de finalizada, Eduarda entregou o celular para Camila, e a abraçou pela cintura juntando seus quadris ao que Lorena engoliu em seco."
+    },
+    {
+      "id": "cap-14-0079",
+      "type": "paragraph",
+      "text": "— Tira uma foto pra gente!"
+    },
+    {
+      "id": "cap-14-0080",
+      "type": "paragraph",
+      "text": "A tatuadora prontamente capturou os dois desenhos, diferentes mas tão conectados se encaixando naquele espaço."
+    },
+    {
+      "id": "cap-14-0081",
+      "type": "paragraph",
+      "text": "Assim como elas.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Assim como "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "elas"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0082",
+      "type": "paragraph",
+      "text": "Saíram do estúdio depois das orientações de cuidados com a tatuagem, ainda extasiadas pela loucura que fizeram."
+    },
+    {
+      "id": "cap-14-0083",
+      "type": "paragraph",
+      "text": "Passaram tanto tempo fazendo loucuras que só perceberam que eram quatro da tarde quando o estômago de Eduarda roncou em alto e bom som dentro do carro fazendo Lorena rir."
+    },
+    {
+      "id": "cap-14-0084",
+      "type": "paragraph",
+      "text": "— Agora qual o próximo item da lista? - Perguntou Eduarda ligando o carro."
+    },
+    {
+      "id": "cap-14-0085",
+      "type": "paragraph",
+      "text": "Lorena pensou novamente, e uma coisa veio clara em sua mente e disso tinha certeza que Eduarda amaria."
+    },
+    {
+      "id": "cap-14-0086",
+      "type": "paragraph",
+      "text": "— Eu nunca vi um jogo de futebol. - Falou sorrindo."
+    },
+    {
+      "id": "cap-14-0087",
+      "type": "paragraph",
+      "text": "O sorriso de Eduarda poderia ofuscá-la."
+    },
+    {
+      "id": "cap-14-0088",
+      "type": "paragraph",
+      "text": "— Eu estava rezando pra você dizer isso! Sério! Eu até vim preparada. - Se inclinou entre os bancos a mão tateando o banco traseiro. Lorena escutou um barulho parecido com uma sacola, ao que Eduarda puxou."
+    },
+    {
+      "id": "cap-14-0089",
+      "type": "paragraph",
+      "text": "Era realmente uma sacola de papel, de onde ela tirou duas coisas verdes. Jogou uma para Lorena, e ficou com outra."
+    },
+    {
+      "id": "cap-14-0090",
+      "type": "paragraph",
+      "text": "Lorena viu se tratar de uma camiseta, e quando apanhou viu que era o escudo do Palmeiras. Soltou uma risada."
+    },
+    {
+      "id": "cap-14-0091",
+      "type": "paragraph",
+      "text": "— É você veio mesmo preparada pra isso.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— É você veio "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mesmo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " preparada pra isso."
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0092",
+      "type": "paragraph",
+      "text": "— Eu falei! - Respondeu animada enquanto enfiava a camiseta por cima da sua."
+    },
+    {
+      "id": "cap-14-0093",
+      "type": "paragraph",
+      "text": "Lorena, desvencilhou os braços da camisa social arrancando por baixo da camiseta polo. Em seguida vestiu a blusa por cima."
+    },
+    {
+      "id": "cap-14-0094",
+      "type": "paragraph",
+      "text": "— Como estou? - Perguntou estendendo os braços."
+    },
+    {
+      "id": "cap-14-0095",
+      "type": "paragraph",
+      "text": "Eduarda a olhava com a boca levemente aberta e os olhos brilhando."
+    },
+    {
+      "id": "cap-14-0096",
+      "type": "paragraph",
+      "text": "— Linda. - Respondeu em voz baixa. — Absurdamente linda.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Linda. - Respondeu em voz baixa. — Absurdamente "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "linda"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0097",
+      "type": "paragraph",
+      "text": "Lorena se sentiu corar sem graça."
+    },
+    {
+      "id": "cap-14-0098",
+      "type": "paragraph",
+      "text": "— E onde vamos ver um jogo de futebol? - Perguntou desviando os olhos."
+    },
+    {
+      "id": "cap-14-0099",
+      "type": "paragraph",
+      "text": "Eduarda pigarreou."
+    },
+    {
+      "id": "cap-14-0100",
+      "type": "paragraph",
+      "text": "— Tem um bar muito bom na rua palestra perto do Allianz, não consegui ingressos para assistirmos no estádio hoje, me desculpa mas vai ser bem legal mesmo assim. Eu prometo."
+    },
+    {
+      "id": "cap-14-0101",
+      "type": "paragraph",
+      "text": "— Acredito em você."
+    },
+    {
+      "id": "cap-14-0102",
+      "type": "paragraph",
+      "text": "Eduarda sorriu satisfeita e ligou o carro seguindo rumo ao bar, deixando Lorena com o frio na barriga em expectativa e o leve latejar da nova tatuagem que carregava como se a ardência fosse o símbolo mais profundo de uma palavra que até então lhe era desconhecida:"
+    },
+    {
+      "id": "cap-14-0103",
+      "type": "paragraph",
+      "text": "Liberdade.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Liberdade"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0104",
+      "type": "divider",
+      "text": "*"
+    },
+    {
+      "id": "cap-14-0105",
+      "type": "paragraph",
+      "text": "Liberdade , Substantivo feminino.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Liberdade , Substantivo feminino."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0106",
+      "type": "paragraph",
+      "text": "A palavra liberdade é definida como a faculdade de cada um decidir e agir segundo a sua própria determinação.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "A palavra liberdade é definida como a faculdade de cada um decidir e agir segundo a sua"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "própria determinação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0107",
+      "type": "paragraph",
+      "text": "Há muitos anos atrás, Lorena Ferette havia lido essa frase em seu dicionário Aurélio surrado, um exemplar que tinha certeza que existia desde a época que os dinossauros andavam pela terra. Estava tentando concluir uma lição de português particularmente difícil: uma redação com o tema \" o que é liberdade\"?"
+    },
+    {
+      "id": "cap-14-0108",
+      "type": "paragraph",
+      "text": "No auge dos seus nove anos, ela não entendeu o que significavam aquelas palavras. Determinação? Faculdade? As pessoas iam para a faculdade quando cresciam certo? Então o que essa determinação tinha a ver? Seria uma matéria que eles estudavam assim como matemática e ciências?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "No auge dos seus nove anos, ela não entendeu o que significavam aquelas palavras. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Determinação? Faculdade?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " As pessoas iam para a faculdade quando cresciam certo? Então o que essa determinação tinha a ver? Seria uma matéria que eles estudavam assim como matemática e ciências?"
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0109",
+      "type": "paragraph",
+      "text": "Ela então decidiu perguntar a pessoa mais inteligente que conhecia, sua mãe."
+    },
+    {
+      "id": "cap-14-0110",
+      "type": "paragraph",
+      "text": "— Mãe o que é determina… - Espremeu os olhos para ler as letras miúdas na página amarelada."
+    },
+    {
+      "id": "cap-14-0111",
+      "type": "paragraph",
+      "text": "Zenilda riu suave, enquanto conferia o bolo que estava assando no forno, o cheiro gostoso preenchendo a cozinha e tornando para Lorena mais difícil ainda se concentrar naquela"
+    },
+    {
+      "id": "cap-14-0112",
+      "type": "paragraph",
+      "text": "palavra difícil."
+    },
+    {
+      "id": "cap-14-0113",
+      "type": "paragraph",
+      "text": "— Determinação? - Perguntou suavemente."
+    },
+    {
+      "id": "cap-14-0114",
+      "type": "paragraph",
+      "text": "— Isso! O que quer dizer?"
+    },
+    {
+      "id": "cap-14-0115",
+      "type": "paragraph",
+      "text": "A mãe se virou a contemplando com o rosto pensativo."
+    },
+    {
+      "id": "cap-14-0116",
+      "type": "paragraph",
+      "text": "— É você decidir. É escolher fazer algo com um propósito."
+    },
+    {
+      "id": "cap-14-0117",
+      "type": "paragraph",
+      "text": "— Ah. - Lorena respondeu ainda sem entender. Mordeu o lápis pensando."
+    },
+    {
+      "id": "cap-14-0118",
+      "type": "paragraph",
+      "text": "— E o que é liberdade?"
+    },
+    {
+      "id": "cap-14-0119",
+      "type": "paragraph",
+      "text": "— Liberdade… Hm…. Liberdade meu amor, é quando decidimos fazer algo do jeito que você quiser."
+    },
+    {
+      "id": "cap-14-0120",
+      "type": "paragraph",
+      "text": "Lorena bufou irritada."
+    },
+    {
+      "id": "cap-14-0121",
+      "type": "paragraph",
+      "text": "— Eu ainda não entendi. - Resmungou baixinho frustrada, o que fez sua mãe rir."
+    },
+    {
+      "id": "cap-14-0122",
+      "type": "paragraph",
+      "text": "— Sabe os pássaros que ficam no bebedouro?"
+    },
+    {
+      "id": "cap-14-0123",
+      "type": "paragraph",
+      "text": "Ela assentiu atentamente."
+    },
+    {
+      "id": "cap-14-0124",
+      "type": "paragraph",
+      "text": "— Eles são livres para voar para onde eles quiserem. Eles podem vir beber água lá fora, mas também podem ir embora quando bem entenderem."
+    },
+    {
+      "id": "cap-14-0125",
+      "type": "paragraph",
+      "text": "— A hora que eles quiserem?"
+    },
+    {
+      "id": "cap-14-0126",
+      "type": "paragraph",
+      "text": "— Isso mesmo."
+    },
+    {
+      "id": "cap-14-0127",
+      "type": "paragraph",
+      "text": "— Mas tem gente que cuida deles né? Nas gaiolas. Igual o vô."
+    },
+    {
+      "id": "cap-14-0128",
+      "type": "paragraph",
+      "text": "— E eles não podem ir a hora que quiserem embora. Então eles não são livres."
+    },
+    {
+      "id": "cap-14-0129",
+      "type": "paragraph",
+      "text": "As engrenagens na cabeça de Lorena começaram a funcionar, se movimento pintando ideias e mais ideias ao entender o significado daquela palavra esquisita."
+    },
+    {
+      "id": "cap-14-0130",
+      "type": "paragraph",
+      "text": "— E nós somos livres?"
+    },
+    {
+      "id": "cap-14-0131",
+      "type": "paragraph",
+      "text": "Zenilda a encarou, os olhos brilhando transbordando amor e compreensão."
+    },
+    {
+      "id": "cap-14-0132",
+      "type": "paragraph",
+      "text": "— Isso meu amor, você vai ter que descobrir sozinha.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Isso meu amor, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "você"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " vai ter que descobrir sozinha."
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0133",
+      "type": "paragraph",
+      "text": "E ali, dezessete anos depois em um bar aberto na calçada de uma rua com centenas de pessoas vestindo verde e branco, e com Eduarda Fragoso ao seu lado, ela finalmente entendeu o que a mãe quis dizer."
+    },
+    {
+      "id": "cap-14-0134",
+      "type": "paragraph",
+      "text": "Eduarda sorria enquanto cantava algo que parecia um hino repetido por todos em uníssono como um só, e isso fazia a pele de Lorena se arrepiar."
+    },
+    {
+      "id": "cap-14-0135",
+      "type": "paragraph",
+      "text": "Todos unidos, tão diferentes mas ao mesmo tempo tão iguais. Desconhecidos que sorriram para ela quando o gol foi marcado, se abraçando gritando juntos.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Todos unidos, tão diferentes mas ao mesmo tempo "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tão iguais"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Desconhecidos que sorriram para ela quando o gol foi marcado, se abraçando gritando juntos."
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0136",
+      "type": "paragraph",
+      "text": "Aquilo era liberdade.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Aquilo era liberdade."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0137",
+      "type": "paragraph",
+      "text": "— Daleee, dale, dale palmeiras, eu sou da mancha guerreira de corpo alma e coração!",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Daleee, dale, dale palmeiras, eu sou da mancha guerreira de corpo alma e coração!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0138",
+      "type": "paragraph",
+      "text": "Todos juntos, as vozes retumbando no vento morno da noite."
+    },
+    {
+      "id": "cap-14-0139",
+      "type": "paragraph",
+      "text": "Eduarda gritava feliz, viva, linda. Tão linda.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Eduarda gritava feliz, viva, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "linda"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Tão "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "linda"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0140",
+      "type": "paragraph",
+      "text": "— Vamo, vamo meu verdão! Tem que ter raça pra ser campeão! Te amo tanto meu Palmeiras minha fé religião! E dale daleeee!",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vamo, vamo meu verdão! Tem que ter raça pra ser campeão! Te amo tanto meu Palmeiras"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "minha fé religião! E dale daleeee!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0141",
+      "type": "paragraph",
+      "text": "Lorena nunca antes havia sentido aquilo, aquela sensação quente preenchendo cada canto do seu corpo, sentia que todo o peso que carregava estava se dissolvendo."
+    },
+    {
+      "id": "cap-14-0142",
+      "type": "paragraph",
+      "text": "E tinha Eduarda."
+    },
+    {
+      "id": "cap-14-0143",
+      "type": "paragraph",
+      "text": "Eduarda que cantava, que vibrava junto com todos, que a abraçou quando o gol marcado e Lorena gritou junto, vibrou junto, mesmo sem entender exatamente tudo o que estava acontecendo."
+    },
+    {
+      "id": "cap-14-0144",
+      "type": "paragraph",
+      "text": "Ela só queria sentir.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Ela só queria "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sentir"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0145",
+      "type": "paragraph",
+      "text": "Num rompante de coragem, Lorena agarrou a blusa verde de Eduarda que arqueou as sobrancelhas mas a puxou pela cintura com uma firmeza que fez um suspiro morrer em sua garganta."
+    },
+    {
+      "id": "cap-14-0146",
+      "type": "paragraph",
+      "text": "Estavam coladas agora, na frente de centenas de rostos desconhecidos mas para ela naquele momento o mundo parou e tudo que ela podia ver eram os olhos castanhos a fitando com um brilho divertido e desafiador."
+    },
+    {
+      "id": "cap-14-0147",
+      "type": "paragraph",
+      "text": "Eduarda deslizou uma mão para seu rosto, segurando seu queixo com firmeza. Do mesmo jeito que fez anteriormente, e Lorena vibrou em expectativa."
+    },
+    {
+      "id": "cap-14-0148",
+      "type": "paragraph",
+      "text": "No segundo seguinte tudo que existia ali eram os lábios de Eduarda nos seus, sua língua deslizando pela sua, chupando, entrelaçando. Os dedos se enterrando em seus cabelos a puxando-a para mais perto."
+    },
+    {
+      "id": "cap-14-0149",
+      "type": "paragraph",
+      "text": "Lorena tremeu em sua boca, deixando um gemido morrer na língua quente de Eduarda que passeava pela sua, deslizando, chupando."
+    },
+    {
+      "id": "cap-14-0150",
+      "type": "paragraph",
+      "text": "Quente, tão quente.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Quente, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tão quente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0151",
+      "type": "paragraph",
+      "text": "A ruiva mordeu seu lábio inferior, deslizando os dentes devagar e tornou a chupá-lo para morder mais uma vez."
+    },
+    {
+      "id": "cap-14-0152",
+      "type": "paragraph",
+      "text": "Lorena sentia uma pressão no baixo ventre que chegava a ser dolorosa, arrepios percorriam sua espinha e tudo o que ela mais queria era Eduarda Fragoso dentro dela, quente, firme e forte.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena sentia uma pressão no baixo ventre que chegava a ser dolorosa, arrepios percorriam sua espinha e tudo o que ela mais queria era Eduarda Fragoso "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "dentro"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " dela, quente, firme e forte."
+        }
+      ]
+    },
+    {
+      "id": "cap-14-0153",
+      "type": "paragraph",
+      "text": "Mas o ar começou a faltar e elas se separaram ofegantes, mas permaneceram abraçadas. Lorena se inclinou, traçando um caminho com os lábios pelo pescoço da ruiva distribuindo beijos molhados subindo para a orelha. Mordeu o lóbulo devagar e com um sussurro tímido disse:"
+    },
+    {
+      "id": "cap-14-0154",
+      "type": "paragraph",
+      "text": "— Obrigado."
+    },
+    {
+      "id": "cap-14-0155",
+      "type": "paragraph",
+      "text": "Seus olhos se encontraram, e Eduarda sorria mais do que nunca. As bochechas vermelhas de empolgação, os olhos castanhos brilhando como dois faróis."
+    },
+    {
+      "id": "cap-14-0156",
+      "type": "paragraph",
+      "text": "Em resposta ela abraçou Lorena, a mantendo ali em seu peito."
+    },
+    {
+      "id": "cap-14-0157",
+      "type": "paragraph",
+      "text": "Assistiram todo o jogo assim, juntas, os corações acelerados se encaixando na mesma batida do ribombar dos tambores na rua."
+    },
+    {
+      "id": "cap-14-0158",
+      "type": "paragraph",
+      "text": "E Lorena havia entendido outra palavra que até então, lhe era desconhecida."
+    },
+    {
+      "id": "cap-14-0159",
+      "type": "paragraph",
+      "text": "Felicidade.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Felicidade."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": {
+    "before": [
+      {
+        "id": "cap-14-0001",
+        "type": "paragraph",
+        "text": "Sextou com att duplaaaaaa"
+      }
+    ],
+    "after": []
+  }
+}

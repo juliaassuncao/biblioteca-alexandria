@@ -50,9 +50,11 @@
     },
     "reading": {
       "mode": "internal",
-      "externalUrl": null
+      "externalUrl": "https://morte-a-linguagem-perfectimmaculatebi.netlify.app/"
     },
-    "downloads": { "enabled": true },
+    "downloads": {
+      "enabled": true
+    },
     "links": {
       "original": "https://archiveofourown.org/works/78179326"
     },
@@ -255,17 +257,33 @@
     "slug": "bones",
     "title": "Bones",
     "author": {
-      "displayName": null,
-      "ao3Name": null
+      "displayName": "Mary",
+      "ao3Name": "marydebones",
+      "authorLink": "https://x.com/marydebones"
     },
-    "synopsis": "Este projeto possui uma experiência de leitura independente. Ao acessar a obra, você será direcionada ao site próprio.",
-    "status": "unknown",
+    "synopsis": "A renomada PhD em antropologia forense e superintendente da policial federal, Eduarda Fragoso, conhecida mundialmente por sua genialidade, seu currículo invejável e sua mente extremamente fria e calculista, está de volta ao Brasil. Após anos afastada de sua terra natal, Eduarda aceita um convite inusitado e começa a lecionar para a turma de concluintes em psicologia da USP. Assim, depara-se com Lorena, uma estudante atenciosa e cativante cuja vida está estranhamente ligada a sua. Em meio a intensas investigações policiais, novas sensações e noites de insônia, a antropóloga será obrigada a enfrentar os fantasmas de seu passado enquanto sua vida é invadida por algo que sua mente brilhante nunca soube lidar: sentimentos.",
+    "status": "ongoing",
     "language": "pt-BR",
     "fandom": "Três Graças (TV)",
     "category": "F/F",
-    "classification": null,
-    "tags": [],
-    "contentAdvisories": [],
+    "classification": {
+      "rating": "Explicit",
+      "archiveWarning": null
+    },
+    "tags": [
+      "Romance",
+      "Investigação",
+      "Drama",
+      "Antropologia forense"
+    ],
+    "contentAdvisories": [
+      "Violência",
+      "Trauma",
+      "Luto",
+      "Ataques de pânico",
+      "Temas de suicídio",
+      "Conteúdo sexual explícito"
+    ],
     "stats": {
       "words": null,
       "publishedChapters": null,
@@ -281,10 +299,10 @@
     },
     "reading": {
       "mode": "external",
-      "externalUrl": null
+      "externalUrl": "https://bones-project-six.vercel.app/"
     },
     "links": {
-      "original": null
+      "original": "https://archiveofourown.org/works/84490006"
     },
     "editorial": {
       "submittedByAuthor": true,
@@ -293,24 +311,46 @@
       "sourceUpdatedAt": null,
       "coverOfficial": false
     },
-    "chapters": []
+    "chapters": [],
+    "relationships": [
+      "Lorena Ferette / Eduarda “Juquinha” Fragoso"
+    ],
+    "characters": [
+      "Eduarda Fragoso",
+      "Lorena Ferette",
+      "Angélica",
+      "Cristine",
+      "Paulo “Paulinho” Reitz",
+      "Viviane",
+      "Júnior, Ana e Maggye"
+    ]
   },
   {
     "id": "custode",
     "slug": "custode",
     "title": "Custode",
     "author": {
-      "displayName": null,
-      "ao3Name": null
+      "displayName": "jmedev",
+      "ao3Name": "jmedev",
+      "authorLink": "https://x.com/__medv"
     },
-    "synopsis": "Este projeto possui uma experiência de leitura independente. Ao acessar a obra, você será direcionada ao site próprio.",
-    "status": "unknown",
+    "synopsis": "Eduarda Fragoso achava que tinha deixado o passado para trás ao se afogar na medicina e se tornar uma das maiores jovens referências da oncologia brasileira. Com um trauma enterrado, a Dama de Gelo, médica do Hospital São Peregrino, vivia uma vida controlada nos mínimos detalhes para não pensar demais, porque sabia o que encontraria por baixo das camadas da sua mente. Ela.\n\nQuando Lorena Ferette volta para a sua vida como paciente, Eduarda se vê presa no conflito entre a necessidade do perdão e a urgência da ameaça de uma morte precoce para a estilista que, em algum ponto, se tornara o seu maior amor e, ao mesmo tempo, a sua maior cicatriz.",
+    "status": "ongoing",
     "language": "pt-BR",
     "fandom": "Três Graças (TV)",
     "category": "F/F",
     "classification": null,
-    "tags": [],
-    "contentAdvisories": [],
+    "tags": [
+      "Drama",
+      "Segunda chance",
+      "Medicina",
+      "Oncologia"
+    ],
+    "contentAdvisories": [
+      "Câncer",
+      "Doença",
+      "Violência"
+    ],
     "stats": {
       "words": null,
       "publishedChapters": null,
@@ -326,10 +366,10 @@
     },
     "reading": {
       "mode": "external",
-      "externalUrl": null
+      "externalUrl": "https://custode-experience.vercel.app/"
     },
     "links": {
-      "original": null
+      "original": "https://archiveofourown.org/works/86801665"
     },
     "editorial": {
       "submittedByAuthor": true,
@@ -338,7 +378,29 @@
       "sourceUpdatedAt": null,
       "coverOfficial": false
     },
-    "chapters": []
+    "chapters": [],
+    "workNotes": [
+      {
+        "id": "work-note-01",
+        "type": "paragraph",
+        "text": "Olá. Sou relativamente nova no fandom de Loquinha, apesar de escrever fanfics para um outro fandom muito famoso (e obcecado). Tenho me aprofundado cada vez mais nas histórias de Eduarda e Lorena e isso me fez começar a nutrir um certo desejo de escrever uma fanfic própria."
+      },
+      {
+        "id": "work-note-02",
+        "type": "paragraph",
+        "text": "Essa história é sobre câncer, um tipo de plot que sempre tive vontade de explorar e, pelo que pesquisei, ainda não foi abordado com Loquinha. Acho importante deixar esse ponto claro desde o começo porque sei que é um assunto delicado, que pode gerar gatilhos. Então, leiam com cautela. E sim, obviamente é um drama (isso não significa que alguém morre, mas também não significa que todos sobrevivem. Vamos ver o que o futuro reserva)."
+      },
+      {
+        "id": "work-note-03",
+        "type": "paragraph",
+        "text": "Como sou uma grande fã de amores de \"segunda chance\", essa é mais uma história que decidi escrever nesse padrão de encontros e desencontros amorosos ao longo da vida. Espero que gostem e aproveitem, chorando, rindo e amando."
+      },
+      {
+        "id": "work-note-04",
+        "type": "paragraph",
+        "text": "OBS: eu não sou médica e passo longe da área da saúde, então é possível que a história tenha alguns errinhos nesse sentido, mas prometo tentar pesquisar tudo ao máximo. Se alguém encontrar algo muito absurdo e quiser comentar, sintam-se à vontade."
+      }
+    ]
   },
   {
     "id": "no-verde-dos-seus-olhos",
@@ -406,7 +468,7 @@
     },
     "reading": {
       "mode": "internal",
-      "externalUrl": null
+      "externalUrl": "https://perrysbian.github.io/nvdso/#capitulos"
     },
     "downloads": {
       "enabled": true
@@ -832,6 +894,511 @@
         "notes": {
           "hasBefore": false,
           "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      }
+    ]
+  },
+  {
+    "id": "como-conquistar-e-perder",
+    "slug": "como-conquistar-e-perder",
+    "title": "Como conquistar (e perder) uma mulher em 30 dias",
+    "author": {
+      "displayName": "Okada",
+      "ao3Name": "medvegoals",
+      "authorLink": "https://x.com/medvegoals"
+    },
+    "ao3Authors": [
+      "medvegoals"
+    ],
+    "synopsis": "Após uma desilusão amorosa, Eduarda Fragoso se muda para São Paulo para recomeçar a\nvida como fotógrafa em uma das maiores revistas do Brasil. Engraçada, intensa e incapaz de\npassar despercebida, ela fez uma promessa silenciosa: Nunca mais se apaixonar.\nLorena Ferette, filha do CEO da revista e diretora de marketing, vive presa entre a lealdade à\nfamília e os próprios princípios. Quando um escândalo ameaça destruir o nome dos Ferette,\nLorena é forçada a aceitar um acordo perigoso e Eduarda acaba envolvida nele.\nUm contrato. Um segredo. E regras que nenhuma das duas consegue seguir.",
+    "status": "ongoing",
+    "language": "pt-BR",
+    "fandom": "Três Graças (TV)",
+    "category": "F/F",
+    "classification": {
+      "rating": "Explicit",
+      "archiveWarning": "No Archive Warnings Apply"
+    },
+    "relationships": [
+      "Lorena Ferette/Eduarda \"Juquinha\" Fragoso",
+      "Gerluce Maria das Graças/Paulo \"Paulinho\" Reitz"
+    ],
+    "characters": [
+      "Lorena Ferette",
+      "Eduarda \"Juquinha\" Fragoso",
+      "Paulo \"Paulinho\" Reitz",
+      "Gerluce Maria das Graças",
+      "Leonardo \"Léo\" Ferette",
+      "Maggye Damatta",
+      "Santiago Ferette",
+      "Violeta Fragoso",
+      "Henrique Fragoso"
+    ],
+    "workNotes": [
+      {
+        "id": "work-note-01",
+        "type": "paragraph",
+        "text": "oi rs \nnão sei usar esse site, então me desculpem qualquer coisa\n \nespero que gostem"
+      }
+    ],
+    "tags": [
+      "Love",
+      "Lesbian Sex",
+      "Lesbian Character",
+      "Slow Romance",
+      "Contracts",
+      "Photography",
+      "Party",
+      "Family",
+      "LGBTQ Character",
+      "LGBTQ Themes"
+    ],
+    "contentAdvisories": [],
+    "stats": {
+      "words": 113719,
+      "publishedChapters": 32,
+      "plannedChapters": null,
+      "publishedAt": "2026-05-31",
+      "updatedAt": "2026-10-08"
+    },
+    "cover": {
+      "variant": "typographic",
+      "tone": "copper",
+      "ornament": "contract",
+      "caption": ""
+    },
+    "reading": {
+      "mode": "internal",
+      "externalUrl": "https://fic-do-contrato.vercel.app/"
+    },
+    "downloads": {
+      "enabled": true
+    },
+    "links": {
+      "original": "https://archiveofourown.org/works/85840201"
+    },
+    "editorial": {
+      "submittedByAuthor": true,
+      "contentReady": false,
+      "sourceFile": "Como_conquistar_e_perder.pdf",
+      "sourceUpdatedAt": "2026-08-27",
+      "coverOfficial": false
+    },
+    "chapters": [
+      {
+        "id": "cap-01",
+        "number": 1,
+        "title": "Prólogo",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-02",
+        "number": 2,
+        "title": "Lorena Ferette sempre tem um bom dia",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-03",
+        "number": 3,
+        "title": "Sério universo o que eu fiz pra você!? (perdão, namastê, gratidão)",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-04",
+        "number": 4,
+        "title": "Eduarda Fragoso (quase) sempre tem tudo sob controle",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-05",
+        "number": 5,
+        "title": "Isso é realmente sério?",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-06",
+        "number": 6,
+        "title": "O diabo escreve torto por linhas retas",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-07",
+        "number": 7,
+        "title": "Hasta la vista!",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-08",
+        "number": 8,
+        "title": "Isso vai dar um rolo da porra",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-09",
+        "number": 9,
+        "title": "A vida não é uma música do Michael Bublé",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-10",
+        "number": 10,
+        "title": "Pede com jeitinho e quem sabe eu aceite",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-11",
+        "number": 11,
+        "title": "Dias de cão",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-12",
+        "number": 12,
+        "title": "Eu nunca",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-13",
+        "number": 13,
+        "title": "Ah vai sim!",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-14",
+        "number": 14,
+        "title": "Você tem uma lista e eu tenho tempo de sobra",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-15",
+        "number": 15,
+        "title": "Eu aceito isso",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-16",
+        "number": 16,
+        "title": "Jogar tênis",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-17",
+        "number": 17,
+        "title": "Road Trip",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-18",
+        "number": 18,
+        "title": "Fim de semana com os Fragosos I",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-19",
+        "number": 19,
+        "title": "Fim de semana com os Fragosos II",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-20",
+        "number": 20,
+        "title": "Fim de semana com os Fragosos III",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-21",
+        "number": 21,
+        "title": "Fim de semana com os Fragosos IV",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-22",
+        "number": 22,
+        "title": "Inferno",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-23",
+        "number": 23,
+        "title": "Purgatório",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-24",
+        "number": 24,
+        "title": "Achou que era o Paraíso né?",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-25",
+        "number": 25,
+        "title": "O amor é uma faca de dois legumes",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-26",
+        "number": 26,
+        "title": "Paraíso",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-27",
+        "number": 27,
+        "title": "Um universo de coisas que eu desconheço",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-28",
+        "number": 28,
+        "title": "Comer",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-29",
+        "number": 29,
+        "title": "La tua cantante!",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-30",
+        "number": 30,
+        "title": "Viva o Papa e essas coisas aí",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-31",
+        "number": 31,
+        "title": "Arrivederci Italia!",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-32",
+        "number": 32,
+        "title": "Rezar",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
           "before": [],
           "after": []
         },

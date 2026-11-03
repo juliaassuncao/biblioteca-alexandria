@@ -1,0 +1,1765 @@
+{
+  "id": "cap-19",
+  "blocks": [
+    {
+      "id": "cap-19-0002",
+      "type": "paragraph",
+      "text": "O dia amanheceu ensolarado, derramando uma luz quente e preguiçosa no corpo de Lorena Ferette que dormia serenamente agarrada ao travesseiro da cama de Eduarda. A sensação dos raios quentes subindo pelas suas pernas era deliciosa, e ficou mais alguns minutos de olhos fechados apenas absorvendo a claridade e o calor gostoso abraçando seu corpo."
+    },
+    {
+      "id": "cap-19-0003",
+      "type": "paragraph",
+      "text": "Esse era um grande problema de se morar em apartamento: Não importa o tamanho, era realmente difícil ter algum resquício de calor matinal e alguma vitamina D e Lorena achava ridículo ser obrigada a tomar uma vitamina em comprimido que existia de graça por aí."
+    },
+    {
+      "id": "cap-19-0004",
+      "type": "paragraph",
+      "text": "Pode ouvir a movimentação no andar de baixo, e finalmente abriu os olhos e apanhou o celular para verificar as horas."
+    },
+    {
+      "id": "cap-19-0005",
+      "type": "paragraph",
+      "text": "Sete da manhã.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Sete da manhã."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0006",
+      "type": "paragraph",
+      "text": "Estava acostumada a acordar às cinco religiosamente todos os dias, mas havia dormido tão bem e tão relaxada que não ligou de passar um pouco do horário. Deslizou os dedos pela tela apagando as notificações até que havia uma mensagem de Eduarda:"
+    },
+    {
+      "id": "cap-19-0007",
+      "type": "paragraph",
+      "text": "Duda: Já acordamos por aqui. Pode dormir tranquila mas quando acordar já tem café na mesa.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Duda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Já acordamos por aqui. Pode dormir tranquila mas quando acordar já tem café na"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mesa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0008",
+      "type": "paragraph",
+      "text": "Duda: A Alice queria te acordar mas minha mãe jurou ela de morte e ela desistiu da ideia",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Duda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "A Alice queria te acordar mas minha mãe jurou ela de morte e ela desistiu da ideia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0009",
+      "type": "paragraph",
+      "text": "Ela riu."
+    },
+    {
+      "id": "cap-19-0010",
+      "type": "paragraph",
+      "text": "Lorena: Bom dia, acordei agora. Vou tomar um banho e já desço",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena: Bom dia, acordei agora. Vou tomar um banho e já desço"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0011",
+      "type": "paragraph",
+      "text": "Lorena: Vou agradecer sua mãe por isso.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vou agradecer sua mãe por isso."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0012",
+      "type": "paragraph",
+      "text": "Duda: Eu sei que você ta ansiosa para o dia de hoje",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Duda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu sei que você ta ansiosa para o dia de hoje"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0013",
+      "type": "paragraph",
+      "text": "Duda: vou ir pescar com meu pai na represa, igual os incas e os maias faziam",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Duda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "vou ir pescar com meu pai na represa, igual os incas e os maias faziam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0014",
+      "type": "paragraph",
+      "text": "Duda: pelo jeito pra minha mãe não da pra comprar a porra de um peixe no mercado",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Duda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pelo jeito pra minha mãe não da pra comprar a porra de um peixe no mercado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0015",
+      "type": "paragraph",
+      "text": "Duda: a gente tem que caçar o alimento igual nossos ancestrais",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Duda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "a gente tem que caçar o alimento igual nossos ancestrais"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0016",
+      "type": "paragraph",
+      "text": "Lorena soltou uma risada."
+    },
+    {
+      "id": "cap-19-0017",
+      "type": "paragraph",
+      "text": "Lorena: É o seu castigo por dizer que eu tenho síndrome do intestino irritado.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "É o seu castigo por dizer que eu tenho síndrome do intestino irritado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0018",
+      "type": "paragraph",
+      "text": "Duda: eram gases!!! eu não falei nada disso!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Duda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "eram gases!!! eu não falei nada disso!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0019",
+      "type": "paragraph",
+      "text": "Se levantou espreguiçando e deixando o celular na cama. Abriu a mala e retirou um shorts jeans verde militar e uma camiseta regata listrada branca e verde, e se encaminhou para o banheiro."
+    },
+    {
+      "id": "cap-19-0020",
+      "type": "paragraph",
+      "text": "Tomou um banho quente sentindo o corpo relaxar, levando toda tensão com a água que escorria. Ela queria que fosse assim também com seus pensamentos que ainda insistiam em martelar em sua cabeça."
+    },
+    {
+      "id": "cap-19-0021",
+      "type": "paragraph",
+      "text": "Saiu secando os cabelos e deu de cara com Eduarda sentada na cama a esperando, e agradeceu mentalmente por ter se trocado no banheiro porque não saberia o que faria se saísse de toalha e se deparasse com Eduarda a encarando daquele jeito.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Saiu secando os cabelos e deu de cara com Eduarda sentada na cama a esperando, e agradeceu mentalmente por ter se trocado no banheiro porque não saberia o que faria se saísse de toalha e se deparasse com Eduarda a encarando "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "daquele jeito."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0022",
+      "type": "paragraph",
+      "text": "Ela sorriu se encaminhando para a ruiva que levantou."
+    },
+    {
+      "id": "cap-19-0023",
+      "type": "paragraph",
+      "text": "— Você não ia caçar nosso alimento? - Perguntou divertida, colocando um fio solto atrás da orelha de Eduarda."
+    },
+    {
+      "id": "cap-19-0024",
+      "type": "paragraph",
+      "text": "A ruiva sorriu."
+    },
+    {
+      "id": "cap-19-0025",
+      "type": "paragraph",
+      "text": "— Ah eu ainda vou, mas…"
+    },
+    {
+      "id": "cap-19-0026",
+      "type": "paragraph",
+      "text": "Os olhos castanhos brilhavam correndo de um lado para o outro como fazia quando ficava nervosa, e Lorena achava isso perigosamente adorável."
+    },
+    {
+      "id": "cap-19-0027",
+      "type": "paragraph",
+      "text": "— Eu… queria te ver antes de ir. - Eduarda finalizou."
+    },
+    {
+      "id": "cap-19-0028",
+      "type": "paragraph",
+      "text": "Novamente Lorena sentiu algo quente preenchendo seu peito, e pulsando em seu coração que acelerou. Não sabia o que dizer, se sentia como uma adolescente pega no flagra encarando uma garota bonita, e de repente não soube o que fazer com as mãos."
+    },
+    {
+      "id": "cap-19-0029",
+      "type": "paragraph",
+      "text": "Ela pigarreou limpando a garganta."
+    },
+    {
+      "id": "cap-19-0030",
+      "type": "paragraph",
+      "text": "— Oi. - Sussurrou sorrindo tímida."
+    },
+    {
+      "id": "cap-19-0031",
+      "type": "paragraph",
+      "text": "— Oi. - Eduarda respondeu sorrindo sem jeito. Se inclinou e beijou Lorena."
+    },
+    {
+      "id": "cap-19-0032",
+      "type": "paragraph",
+      "text": "Era incrível como Lorena achava que ainda conseguiria ficar um dia sequer sem sentir os lábios de Eduarda nos seus, ela havia desenvolvido uma necessidade patológica de Eduarda Fragoso, ela precisava da língua dela, dos dentes mordiscando seus lábios, do sorriso que se formava durante o beijo. Do gosto de café na língua dela, misturado levemente com o de cigarro que aprendera a identificar como algo dela. Somente dela.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Era incrível como Lorena achava que ainda conseguiria ficar um dia sequer sem sentir os lábios de Eduarda nos seus, ela havia desenvolvido uma necessidade patológica de Eduarda Fragoso, ela precisava da língua dela, dos dentes mordiscando seus lábios, do sorriso que se formava durante o beijo. Do gosto de café na língua dela, misturado levemente com o de cigarro que aprendera a identificar como algo "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "dela. Somente dela."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0033",
+      "type": "paragraph",
+      "text": "Se separaram ofegantes, Eduarda distribuindo selinhos leves nela, as mãos em sua cintura."
+    },
+    {
+      "id": "cap-19-0034",
+      "type": "paragraph",
+      "text": "— Eu acho melhor eu ir, meu pai vai invadir aqui a qualquer momento."
+    },
+    {
+      "id": "cap-19-0035",
+      "type": "paragraph",
+      "text": "Lorena riu nervosa."
+    },
+    {
+      "id": "cap-19-0036",
+      "type": "paragraph",
+      "text": "— Vai, espero que pegue um peixe bem grande. - Lorena a puxou depositando um último beijo. Com o dedo, fez um carinho no nariz da ruiva que fechou os olhos sorrindo."
+    },
+    {
+      "id": "cap-19-0037",
+      "type": "paragraph",
+      "text": "— Ah eu vou você vai ver. - Eduarda sorriu satisfeita. — Vai ser o maior de todos e a gente pode chamar ele de Cláudio."
+    },
+    {
+      "id": "cap-19-0038",
+      "type": "paragraph",
+      "text": "— Eu não vou querer comer um peixe com nome Eduarda."
+    },
+    {
+      "id": "cap-19-0039",
+      "type": "paragraph",
+      "text": "— É eu também não, nada a ver né?"
+    },
+    {
+      "id": "cap-19-0040",
+      "type": "paragraph",
+      "text": "Elas riram, e juntas desceram para encontrar a família."
+    },
+    {
+      "id": "cap-19-0041",
+      "type": "paragraph",
+      "text": "Eduarda se despediu mais uma vez beijando Lorena na frente de Alice que fingiu sentir ânsias de vômito, e expulsou Eduarda porta afora."
+    },
+    {
+      "id": "cap-19-0042",
+      "type": "paragraph",
+      "text": "Lorena foi guiada para a cozinha onde se sentou e se serviu de um café. Violeta ainda estava a mesa, óculos na ponta do nariz lendo uma revista."
+    },
+    {
+      "id": "cap-19-0043",
+      "type": "paragraph",
+      "text": "— Ela age como se estivesse indo pra guerra. - A irmã resmungou. — Aposto que ela cai no rio e vamos ter que comprar um peixe no mercado."
+    },
+    {
+      "id": "cap-19-0044",
+      "type": "paragraph",
+      "text": "Lorena riu."
+    },
+    {
+      "id": "cap-19-0045",
+      "type": "paragraph",
+      "text": "— Eu queria poder defender ela mas eu sei que é muito provável que isso aconteça. -Respondeu bebendo um gole do líquido quente."
+    },
+    {
+      "id": "cap-19-0046",
+      "type": "paragraph",
+      "text": "— E você resolveu seus problemas com gases? - Alice provocou."
+    },
+    {
+      "id": "cap-19-0047",
+      "type": "paragraph",
+      "text": "Lorena se engasgou com o café, tendo uma crise de tosse."
+    },
+    {
+      "id": "cap-19-0048",
+      "type": "paragraph",
+      "text": "— Alice! - Violeta ralhou. — Não liga pra ela querida, vou fazer um cházinho de hortelã para você que vai ajudar."
+    },
+    {
+      "id": "cap-19-0049",
+      "type": "paragraph",
+      "text": "Lorena secou as lágrimas dos olhos fulminando Alice com o olhar, a garota sorria divertida."
+    },
+    {
+      "id": "cap-19-0050",
+      "type": "paragraph",
+      "text": "— Vou dormir com você hoje Alice, aí você vai descobrir."
+    },
+    {
+      "id": "cap-19-0051",
+      "type": "paragraph",
+      "text": "— Ah eu pago pra ver. - Provocou rindo."
+    },
+    {
+      "id": "cap-19-0052",
+      "type": "paragraph",
+      "text": "Lorena meneou a cabeça rindo. Encarou a revista vendo se tratar da Looking Great.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena meneou a cabeça rindo. Encarou a revista vendo se tratar da "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Looking Great."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0053",
+      "type": "paragraph",
+      "text": "— Ah a senhora lê a revista? - Perguntou genuinamente feliz."
+    },
+    {
+      "id": "cap-19-0054",
+      "type": "paragraph",
+      "text": "A mais velha abaixou o exemplar sorrindo."
+    },
+    {
+      "id": "cap-19-0055",
+      "type": "paragraph",
+      "text": "— Claro, é a minha favorita!"
+    },
+    {
+      "id": "cap-19-0056",
+      "type": "paragraph",
+      "text": "— Só porque a duda que tira as fotos. - Resmungou Alice. — É sério, ela bem compra uns vinte exemplares toda semana e distribui na vizinhança."
+    },
+    {
+      "id": "cap-19-0057",
+      "type": "paragraph",
+      "text": "— Ela é muito boa mesmo, esse ensaio da Prada ficou lindo. - Lorena apontou para a capa. — Essa coleção de outono é a minha favorita.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Ela é muito boa "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mesmo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", esse ensaio da Prada ficou lindo. - Lorena apontou para a capa. — Essa coleção de outono é a minha favorita."
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0058",
+      "type": "paragraph",
+      "text": "Violeta bateu palminhas feliz."
+    },
+    {
+      "id": "cap-19-0059",
+      "type": "paragraph",
+      "text": "— E ela entende de moda! É uma dessa que você precisa arrumar Alice! Bonita, inteligente, e que entende de moda!"
+    },
+    {
+      "id": "cap-19-0060",
+      "type": "paragraph",
+      "text": "— Eu vou roubar ela da Eduarda logo logo. - Deu uma piscadela para Lorena que corou."
+    },
+    {
+      "id": "cap-19-0061",
+      "type": "paragraph",
+      "text": "Violeta deu um tapa no braço de Alice."
+    },
+    {
+      "id": "cap-19-0062",
+      "type": "paragraph",
+      "text": "— Você não ouse, Lorena não liga pra ela. Ela adora brincar."
+    },
+    {
+      "id": "cap-19-0063",
+      "type": "paragraph",
+      "text": "— É eu como palhacitos todo dia de manhã. - A garota deu de ombros.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— É eu como "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "palhacitos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " todo dia de manhã. - A garota deu de ombros."
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0064",
+      "type": "paragraph",
+      "text": "— E você criança? Além de ser engraçadinha, Eduarda disse que você faz veterinária."
+    },
+    {
+      "id": "cap-19-0065",
+      "type": "paragraph",
+      "text": "Alice sorriu feliz, e desandou a contar todos os pormenores da faculdade para Lorena, incluindo as aulas onde ela tinha que fertilizar vacas, ao que ela achou um exagero saber de tanta informação."
+    },
+    {
+      "id": "cap-19-0066",
+      "type": "paragraph",
+      "text": "Violeta ainda lia, mas ora ou outra Lorena a via acompanhar a interação delas com um sorriso satisfeito no rosto."
+    },
+    {
+      "id": "cap-19-0067",
+      "type": "paragraph",
+      "text": "Em determinado momento, a avó entrou na cozinha e a cumprimentou com um beijo estalado no rosto e dando a benção. Lorena são sabia muito bem como responder então fez o mesmo que Eduarda no dia anterior."
+    },
+    {
+      "id": "cap-19-0068",
+      "type": "paragraph",
+      "text": "— Vou precisar ir no mercado comprar umas coisas que faltaram. - Falou a senhora. — Paulinho e Gerluce irão vir e ele é um morto de fome."
+    },
+    {
+      "id": "cap-19-0069",
+      "type": "paragraph",
+      "text": "— Mãe! - Repreendeu Violeta fazendo as duas mais novas rirem. — Ele come muito, está em desenvolvimento."
+    },
+    {
+      "id": "cap-19-0070",
+      "type": "paragraph",
+      "text": "— O Paulinho parou de se desenvolver já faz uns dez anos mãe. - Alice se espreguiçou. — Eu vou com a Lorena, aproveito para mostrar as belezas do interior."
+    },
+    {
+      "id": "cap-19-0071",
+      "type": "paragraph",
+      "text": "— Como assim a gente não vai colher ovos das galinhas? - Lorena perguntou divertida."
+    },
+    {
+      "id": "cap-19-0072",
+      "type": "paragraph",
+      "text": "— Ah, o que mais tem aqui são galinhas, Eduarda pode te dizer."
+    },
+    {
+      "id": "cap-19-0073",
+      "type": "paragraph",
+      "text": "Lorena sentiu um incômodo começar a se plantar e revirou os olhos irritada."
+    },
+    {
+      "id": "cap-19-0074",
+      "type": "paragraph",
+      "text": "— Lore, não deixa ela tirar com a sua cara. - Violeta sinalizou. — Ela adora irritar os outros."
+    },
+    {
+      "id": "cap-19-0075",
+      "type": "paragraph",
+      "text": "— É se ela for boazinha eu levo ela de carroça."
+    },
+    {
+      "id": "cap-19-0076",
+      "type": "paragraph",
+      "text": "— Eba! - Lorena respondeu fingindo empolgação. Se levantou com a falsa cunhada."
+    },
+    {
+      "id": "cap-19-0077",
+      "type": "paragraph",
+      "text": "— Bora Lorena, temos muito o que conversar.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Bora Lorena, temos "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "muito"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " o que conversar."
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0078",
+      "type": "divider",
+      "text": "*"
+    },
+    {
+      "id": "cap-19-0079",
+      "type": "paragraph",
+      "text": "— Você viu!? Eu juro que puxou!"
+    },
+    {
+      "id": "cap-19-0080",
+      "type": "paragraph",
+      "text": "— Eduarda se você continuar agitando a água assim eles vão embora!"
+    },
+    {
+      "id": "cap-19-0081",
+      "type": "paragraph",
+      "text": "— Pai eu não vi um peixe aqui ainda, acho que a gente devia voltar comprar um e fingir que deu certo."
+    },
+    {
+      "id": "cap-19-0082",
+      "type": "paragraph",
+      "text": "Henrique riu lançando a linha novamente. Ficaram em silêncio por um momento observando a isca afundar na água."
+    },
+    {
+      "id": "cap-19-0083",
+      "type": "paragraph",
+      "text": "Isso era algo que sempre fizera com o pai: Pescar. Assim como os jogos do Palmeiras no bar do seu zé, e churrasco aos sábados, pescar era o momento dos dois. Onde conversavam sobre a vida longe de Alice e Violeta."
+    },
+    {
+      "id": "cap-19-0084",
+      "type": "paragraph",
+      "text": "Eduarda era muito parecida com o pai, engraçada, divertida mas um tanto calada com quem não tinha espaço em sua vida. E claro, nutriam uma paixão por filmes antigos como Duro de Matar, Indiana Jones e O Vento Levou."
+    },
+    {
+      "id": "cap-19-0085",
+      "type": "paragraph",
+      "text": "O pai a havia ensinado tudo, sobre como conquistar uma mulher, e de fazê-la feliz."
+    },
+    {
+      "id": "cap-19-0086",
+      "type": "paragraph",
+      "text": "Eram apenas três lições:"
+    },
+    {
+      "id": "cap-19-0087",
+      "type": "paragraph",
+      "text": "1- Faça com que ela se sinta especial.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "1- Faça com que ela se sinta especial."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0088",
+      "type": "paragraph",
+      "text": "2- Se importe com as pequenas coisas",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "2- Se importe com as pequenas coisas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0089",
+      "type": "paragraph",
+      "text": "3- Esteja com ela independente de qualquer coisa.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "3- Esteja com ela independente de qualquer coisa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0090",
+      "type": "paragraph",
+      "text": "Ela seguia apenas a primeira, esse era o item mais importante para garantir que quem quer que fosse estivesse em sua cama. Às vezes ia para o segundo passo, para que elas pensassem que ela se importava o suficiente para tê-las novamente."
+    },
+    {
+      "id": "cap-19-0091",
+      "type": "paragraph",
+      "text": "A assustava que, inconscientemente estivesse no terceiro passo com Lorena Ferette."
+    },
+    {
+      "id": "cap-19-0092",
+      "type": "paragraph",
+      "text": "Amiga. Amigos sempre ficam juntos é por isso.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Amiga. Amigos sempre ficam juntos é por isso."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0093",
+      "type": "paragraph",
+      "text": "Suspirou."
+    },
+    {
+      "id": "cap-19-0094",
+      "type": "paragraph",
+      "text": "— E você e a Lorena hein? - O pai começou sorrindo. Estava radiante em ter Eduarda de novo em casa, e principalmente com alguém."
+    },
+    {
+      "id": "cap-19-0095",
+      "type": "paragraph",
+      "text": "— O que tem ela? - Eduarda não pode evitar sorrir, era inevitável sorrir quando tocavam no nome de Lorena."
+    },
+    {
+      "id": "cap-19-0096",
+      "type": "paragraph",
+      "text": "— Eu amei ela. Sua mãe e sua vó também."
+    },
+    {
+      "id": "cap-19-0097",
+      "type": "paragraph",
+      "text": "— Alice está testando o terreno, espero que não pegue pesado com ela."
+    },
+    {
+      "id": "cap-19-0098",
+      "type": "paragraph",
+      "text": "— Sua irmã também gostou dela, você sabe como ela é."
+    },
+    {
+      "id": "cap-19-0099",
+      "type": "paragraph",
+      "text": "Eduarda sorriu."
+    },
+    {
+      "id": "cap-19-0100",
+      "type": "paragraph",
+      "text": "— É eu sei."
+    },
+    {
+      "id": "cap-19-0101",
+      "type": "paragraph",
+      "text": "— E vocês… Sabe. Estão sério mesmo? É pra valer?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— E vocês… Sabe. Estão sério "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mesmo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "? É pra "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "valer"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0102",
+      "type": "paragraph",
+      "text": "É pra valer?",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "É pra valer?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0103",
+      "type": "paragraph",
+      "text": "A palavra ecoou na cabeça de Eduarda como um aviso silencioso. Como dizer ao pai que tudo não passava de uma grande farsa, onde em breve um contrato acabaria, elas terminariam amigavelmente mas talvez continuassem a transar sem compromisso?"
+    },
+    {
+      "id": "cap-19-0104",
+      "type": "paragraph",
+      "text": "— É, eu acho que sim. - Respondeu olhando o horizonte, o lago agora imóvel. Segurava a vara com força, tensa."
+    },
+    {
+      "id": "cap-19-0105",
+      "type": "paragraph",
+      "text": "O pai sorriu feliz."
+    },
+    {
+      "id": "cap-19-0106",
+      "type": "paragraph",
+      "text": "— Finalmente hein!? Sabe, quando casarem…"
+    },
+    {
+      "id": "cap-19-0107",
+      "type": "paragraph",
+      "text": "— Epa, epa quem falou em casamento?"
+    },
+    {
+      "id": "cap-19-0108",
+      "type": "paragraph",
+      "text": "— Uma hora isso vai acontecer Eduarda."
+    },
+    {
+      "id": "cap-19-0109",
+      "type": "paragraph",
+      "text": "A ruiva meneou a cabeça."
+    },
+    {
+      "id": "cap-19-0110",
+      "type": "paragraph",
+      "text": "— Vamos focar no… presente.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Vamos focar no… "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "presente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0111",
+      "type": "paragraph",
+      "text": "O pai assentiu sorrindo. Ficaram em silêncio novamente encarando o lago a espera de algum peixe desavisado mordiscar a isca que prepararam, mas Eduarda achava mais fácil ela e Lorena casarem do que ela apanhar um peixe."
+    },
+    {
+      "id": "cap-19-0112",
+      "type": "paragraph",
+      "text": "Porque estava pensando em casamento?",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Porque estava pensando em casamento?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0113",
+      "type": "paragraph",
+      "text": "Pigarreou."
+    },
+    {
+      "id": "cap-19-0114",
+      "type": "paragraph",
+      "text": "— Pai?"
+    },
+    {
+      "id": "cap-19-0115",
+      "type": "paragraph",
+      "text": "— Sim?"
+    },
+    {
+      "id": "cap-19-0116",
+      "type": "paragraph",
+      "text": "— Como você… Digo, quando a gente sabe que é pra valer?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Como você… Digo, quando a gente sabe que é pra "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "valer"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0117",
+      "type": "paragraph",
+      "text": "O homem sorriu, se virou encarando a filha."
+    },
+    {
+      "id": "cap-19-0118",
+      "type": "paragraph",
+      "text": "— Você só sente Duda. Aqui dentro. - Apontou para o peito."
+    },
+    {
+      "id": "cap-19-0119",
+      "type": "paragraph",
+      "text": "— Mas sente o que exatamente?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Mas sente o que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "exatamente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0120",
+      "type": "paragraph",
+      "text": "O homem pensou por alguns segundos."
+    },
+    {
+      "id": "cap-19-0121",
+      "type": "paragraph",
+      "text": "— É quando você não consegue mais imaginar a vida sem aquela pessoa. Quando acontece algo bom no meu dia, eu conto as horas para chegar em casa e contar para sua mãe, para ela rir comigo. E quando algo ruim estraga meu dia, eu mal posso esperar para vê-la porque sei que tudo vai ficar bem só de estar com ela."
+    },
+    {
+      "id": "cap-19-0122",
+      "type": "paragraph",
+      "text": "Ele respirou fundo, um sorriso bobo escapando."
+    },
+    {
+      "id": "cap-19-0123",
+      "type": "paragraph",
+      "text": "— Não importa meu passado, mas não existe um futuro sem ela entende? É como se… Tudo girasse em torno dela e para ela.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Não importa meu passado, mas não existe um futuro sem ela entende? É como se… Tudo girasse em torno "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "dela"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " e para "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ela."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0124",
+      "type": "paragraph",
+      "text": "Eduarda sorriu."
+    },
+    {
+      "id": "cap-19-0125",
+      "type": "paragraph",
+      "text": "— Mesmo depois de tantos anos? - Perguntou."
+    },
+    {
+      "id": "cap-19-0126",
+      "type": "paragraph",
+      "text": "O pai riu."
+    },
+    {
+      "id": "cap-19-0127",
+      "type": "paragraph",
+      "text": "— Sempre."
+    },
+    {
+      "id": "cap-19-0128",
+      "type": "paragraph",
+      "text": "Uma sensação estranha começou a se formar em seu peito, os pensamentos quebrados confusos como se não conseguissem mais se juntar e discorrer uma ideia."
+    },
+    {
+      "id": "cap-19-0129",
+      "type": "paragraph",
+      "text": "Trincou a mandíbula ansiosa."
+    },
+    {
+      "id": "cap-19-0130",
+      "type": "paragraph",
+      "text": "Antes que pudesse responder sentiu um puxão na vara, e encarou o pai com os olhos arregalados e surpresa."
+    },
+    {
+      "id": "cap-19-0131",
+      "type": "paragraph",
+      "text": "— Puxa duda! Anda Puxa!"
+    },
+    {
+      "id": "cap-19-0132",
+      "type": "paragraph",
+      "text": "— Eu to tentando!"
+    },
+    {
+      "id": "cap-19-0133",
+      "type": "paragraph",
+      "text": "Eduarda girava o carretel com força, sentiu outro puxão e foi para a frente derrubando as iscas da lata no chão e entrando no lago."
+    },
+    {
+      "id": "cap-19-0134",
+      "type": "paragraph",
+      "text": "— Força! Puxa!"
+    },
+    {
+      "id": "cap-19-0135",
+      "type": "paragraph",
+      "text": "Puxou de novo com mais força mas se desequilibrou: caiu no lago espirrando água e largando a vara, as iscas espalhadas pelo chão."
+    },
+    {
+      "id": "cap-19-0136",
+      "type": "paragraph",
+      "text": "Que ótimo!",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Que ótimo!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0137",
+      "type": "paragraph",
+      "text": "O pai gargalhava tanto que sua própria vara caiu no chão."
+    },
+    {
+      "id": "cap-19-0138",
+      "type": "paragraph",
+      "text": "— Nossa senhora duda! Eu não acredito nisso!"
+    },
+    {
+      "id": "cap-19-0139",
+      "type": "paragraph",
+      "text": "Ela se levantou ensopada, as botas cheias de água e lama. Olhou irritada a bagunça por alguns segundos e explodiu em uma gargalhada."
+    },
+    {
+      "id": "cap-19-0140",
+      "type": "paragraph",
+      "text": "— É vamos ter que comprar um peixe. - Falou rindo."
+    },
+    {
+      "id": "cap-19-0141",
+      "type": "paragraph",
+      "text": "— É vai ser nosso segredo. A gente tira do saco e finge que pegamos."
+    },
+    {
+      "id": "cap-19-0142",
+      "type": "paragraph",
+      "text": "— Combinado."
+    },
+    {
+      "id": "cap-19-0143",
+      "type": "paragraph",
+      "text": "A barriga doía de tanto rir. Abriu o cooler pegando duas cervejas e entregou uma ao pai. Pegou o maço de cigarro que havia deixado em cima da cadeira, e agradeceu a Eduarda do passado por ter esquecido ali. Acendeu um cigarro abrindo a garrafa e estendeu para o pai, que tilintou brindando."
+    },
+    {
+      "id": "cap-19-0144",
+      "type": "paragraph",
+      "text": "— Um brinde a nossa pescaria. – Eduarda murmurou sorrindo."
+    },
+    {
+      "id": "cap-19-0145",
+      "type": "paragraph",
+      "text": "— E um brinde a Lorena que te trouxe aqui para que pudéssemos ter nossa pescaria."
+    },
+    {
+      "id": "cap-19-0146",
+      "type": "paragraph",
+      "text": "Eduarda ergueu sua garrafa."
+    },
+    {
+      "id": "cap-19-0147",
+      "type": "paragraph",
+      "text": "— À Lorena."
+    },
+    {
+      "id": "cap-19-0148",
+      "type": "paragraph",
+      "text": "— À Lorena. - O pai repetiu."
+    },
+    {
+      "id": "cap-19-0149",
+      "type": "paragraph",
+      "text": "Ficaram ali bebendo em silêncio observando o lago, o sol iluminando o ambiente e deixando tudo mais colorido e bonito. O coração de Eduarda se aqueceu, e sentiu uma emoção que nunca antes a havia atingido e se segurou para não chorar."
+    },
+    {
+      "id": "cap-19-0150",
+      "type": "paragraph",
+      "text": "Estar ali com seu pai valia por tudo, e agradeceu silenciosamente ao universo por permitir que ela vivesse esse momento."
+    },
+    {
+      "id": "cap-19-0151",
+      "type": "divider",
+      "text": "*"
+    },
+    {
+      "id": "cap-19-0152",
+      "type": "paragraph",
+      "text": "Alice Fragoso era uma versão mais nova e mais ácida de Eduarda, e Lorena estava adorando cada segundo com a falsa cunhada."
+    },
+    {
+      "id": "cap-19-0153",
+      "type": "paragraph",
+      "text": "Ela havia feito um tour com muito sarcasmo apresentando a cidade, até que finalmente chegaram no mercado. Foram arrastando o carrinho e lendo atentamente o que precisavam comprar, porque Alice assim como Eduarda tinha o dom de se distrair com absolutamente qualquer coisa."
+    },
+    {
+      "id": "cap-19-0154",
+      "type": "paragraph",
+      "text": "Haviam acabado de abastecer o carrinho com cervejas, vodcas, sucos e refrigerantes e Lorena achou que eram coisas demais, mas Alice garantiu que a família era assim mesmo: exagerados."
+    },
+    {
+      "id": "cap-19-0155",
+      "type": "paragraph",
+      "text": "Não falaram sobre Eduarda, o que ela agradeceu mentalmente. Ela tinha curiosidade genuína em conhecer Lorena, e a morena contou tudo a ela. Sobre sua pós no exterior, a época da faculdade, sobre os livros que gostava e trocou muitos títulos com Alice, que ao contrário da irmã era uma leitora voraz."
+    },
+    {
+      "id": "cap-19-0156",
+      "type": "paragraph",
+      "text": "Estavam na fila do caixa quando uma voz chamou Alice, e elas se viraram para ver quem era."
+    },
+    {
+      "id": "cap-19-0157",
+      "type": "paragraph",
+      "text": "Uma mulher loira, sorria abertamente para a mais nova. Usava um vestido florido com all stars, e uma cesta no braço. A pele clara, os olhos verdes olhavam curiosos de Lorena para Alice."
+    },
+    {
+      "id": "cap-19-0158",
+      "type": "paragraph",
+      "text": "— Alice! Quanto tempo que não te vejo, você cresceu! - Ela fez menção de cumprimentá-la ao que Alice se afastou."
+    },
+    {
+      "id": "cap-19-0159",
+      "type": "paragraph",
+      "text": "Lorena encarou a falsa cunhada que estava com o semblante fechado."
+    },
+    {
+      "id": "cap-19-0160",
+      "type": "paragraph",
+      "text": "— Uma pena que eu não posso dizer o mesmo."
+    },
+    {
+      "id": "cap-19-0161",
+      "type": "paragraph",
+      "text": "— Ah que isso. E que linda que você é. - Se virou para Lorena. — Você arrumou uma namorada linda Alice, sério. Você é a mulher mais linda que eu já vi.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Ah que isso. E que linda que você é. - Se virou para Lorena. — Você arrumou uma namorada linda Alice, sério. Você é a mulher "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mais linda"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que eu já vi."
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0162",
+      "type": "paragraph",
+      "text": "Lorena abriu a boca para responder mas Alice a interrompeu."
+    },
+    {
+      "id": "cap-19-0163",
+      "type": "paragraph",
+      "text": "— Ah ela não é minha namorada, é minha cunhada. Lorena, essa é Isabella. Isabella, Lorena Ferette.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Ah ela não é minha namorada, é minha "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "cunhada"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Lorena, essa é Isabella. Isabella, Lorena Ferette."
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0164",
+      "type": "paragraph",
+      "text": "Imediatamente Lorena entendeu a aversão de Alice, e uma sensação quente de raiva se espalhou pelo seu peito, sentia um latejar nos ouvidos e o coração acelerou."
+    },
+    {
+      "id": "cap-19-0165",
+      "type": "paragraph",
+      "text": "Então era ela?",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Então era ela?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0166",
+      "type": "paragraph",
+      "text": "A causa de Eduarda ficar três anos sem ver os pais, de não conseguir confiar em ninguém, de ter suas regras. A culpa era dela?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "A causa de Eduarda ficar três anos sem ver os pais, de não conseguir confiar em ninguém, de ter suas regras. A culpa era "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "dela"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0167",
+      "type": "paragraph",
+      "text": "— Me admira você ainda ter a cara de falar comigo, sempre soube que você é cínica mas isso?"
+    },
+    {
+      "id": "cap-19-0168",
+      "type": "paragraph",
+      "text": "Isabella pareceu murchar depois da apresentação. Abriu a boca mas não conseguiu articular uma resposta."
+    },
+    {
+      "id": "cap-19-0169",
+      "type": "paragraph",
+      "text": "— Então você é…"
+    },
+    {
+      "id": "cap-19-0170",
+      "type": "paragraph",
+      "text": "— Namorada da Eduarda, e lamento mas não é um prazer te conhecer. - Lorena respondeu secamente.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Namorada"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " da Eduarda, e lamento mas não é um prazer te conhecer. - Lorena respondeu secamente."
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0171",
+      "type": "paragraph",
+      "text": "— Olha Alice já faz anos, pra que agir assim? Sempre nos demos bem."
+    },
+    {
+      "id": "cap-19-0172",
+      "type": "paragraph",
+      "text": "— Até você ferrar com a minha irmã. Sim."
+    },
+    {
+      "id": "cap-19-0173",
+      "type": "paragraph",
+      "text": "— Eu não ferrei com a Eduarda eu só…"
+    },
+    {
+      "id": "cap-19-0174",
+      "type": "paragraph",
+      "text": "— Não ouse falar o nome dela! - Lorena a cortou secamente. — Você não tem esse direito!"
+    },
+    {
+      "id": "cap-19-0175",
+      "type": "paragraph",
+      "text": "Isabella encarava as duas com um sorriso cínico no rosto."
+    },
+    {
+      "id": "cap-19-0176",
+      "type": "paragraph",
+      "text": "— É vejo que ela fez mesmo minha caveira para vocês, não é? Ela é assim mesmo.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— É vejo que ela fez mesmo minha caveira para vocês, não é? Ela é "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "assim"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " mesmo."
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0177",
+      "type": "paragraph",
+      "text": "— Você é muito ridícula mesmo, vamos Lore, vamos para a outra fila…"
+    },
+    {
+      "id": "cap-19-0178",
+      "type": "paragraph",
+      "text": "— Não agora eu quero saber o que tanto ela quer falar. Anda , desembuncha. Ela é assim como?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Não agora eu quero saber o que tanto ela quer falar. Anda , desembuncha. Ela é assim "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "como"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0179",
+      "type": "paragraph",
+      "text": "A loira fechou o cenho, mas ainda mantinha o sorriso encarando as duas, quase como se estivesse se divertindo."
+    },
+    {
+      "id": "cap-19-0180",
+      "type": "paragraph",
+      "text": "— Ela é assim! Vai te prometer mundos e quando a barra pesar ela vai fugir, porque ela é uma covarde que…",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Ela é assim! Vai te prometer mundos e quando a barra pesar ela vai fugir, porque ela é uma "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "covarde"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que…"
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0181",
+      "type": "paragraph",
+      "text": "Lorena nunca chegou a saber o que ela disse, porque no segundo que ouviu o nome de Eduarda sair da boca dela, ela fez a coisa mais impulsiva que poderia ter feito."
+    },
+    {
+      "id": "cap-19-0182",
+      "type": "paragraph",
+      "text": "Antes que pudesse se conter, ou que Alice percebesse o movimento, Lorena deferiu um tapa estalado no rosto de Isabella."
+    },
+    {
+      "id": "cap-19-0183",
+      "type": "paragraph",
+      "text": "A loira demorou alguns segundos para entender o que tinha acontecido, Alice tinha um sorriso gigantesco no rosto e faltava dar pulinhos de alegria. Lorena bufava, a mão ardia e tinha certeza que o rosto estava vermelho."
+    },
+    {
+      "id": "cap-19-0184",
+      "type": "paragraph",
+      "text": "— Nunca mais diga o nome dela. Nunca mais ouse chamar ela de covarde! E nunca mais dirija a palavra à minha cunhada!"
+    },
+    {
+      "id": "cap-19-0185",
+      "type": "paragraph",
+      "text": "Puxou Alice e juntas foram para outra fila, as pessoas ao redor olhando e começando a comentar sobre o acontecido. Sentia olhos a seguirem mas não se importou."
+    },
+    {
+      "id": "cap-19-0186",
+      "type": "paragraph",
+      "text": "Pararam em uma fila mais afastada, Alice ainda a encarava assombrada."
+    },
+    {
+      "id": "cap-19-0187",
+      "type": "paragraph",
+      "text": "Aos poucos a raiva começou a se dissipar e assimilou o que tinha feito, a consciência começou a pesar."
+    },
+    {
+      "id": "cap-19-0188",
+      "type": "paragraph",
+      "text": "Foi demais?",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Foi demais?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0189",
+      "type": "paragraph",
+      "text": "Alice em contrapartida a surpreendeu em um abraço apertado."
+    },
+    {
+      "id": "cap-19-0190",
+      "type": "paragraph",
+      "text": "— Garota, você é a melhor! Puta que pariu quando eu contar pros outros eles não vão acreditar! Que coisa Magnífica! - Ela gargalhava."
+    },
+    {
+      "id": "cap-19-0191",
+      "type": "paragraph",
+      "text": "Lorena relaxou um pouco, rindo nervosamente."
+    },
+    {
+      "id": "cap-19-0192",
+      "type": "paragraph",
+      "text": "Mal havia acabado de conhecer a família de Eduarda e já seria deserdada por ela. Meu deus! O que ela tinha na cabeça?"
+    },
+    {
+      "id": "cap-19-0193",
+      "type": "paragraph",
+      "text": "Mas Alice estava empolgada demais para dar ouvido as preocupações de Lorena ao que ela engoliu em seco, e rezou para todas as divindades que conhecia para que ninguém tivesse gravado isso e ela saísse em mais uma manchete de jornal:"
+    },
+    {
+      "id": "cap-19-0194",
+      "type": "paragraph",
+      "text": "Herdeira Ferette esbofeteia caipira loira de farmácia em supermercado no interior.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Herdeira Ferette esbofeteia caipira loira de farmácia em supermercado no interior."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0195",
+      "type": "paragraph",
+      "text": "Sacudiu a cabeça tentando afastar os pensamentos."
+    },
+    {
+      "id": "cap-19-0196",
+      "type": "paragraph",
+      "text": "Mas por dentro se sentiu aliviada, como se ao fazer isso também tivesse libertado Eduarda de alguma forma."
+    },
+    {
+      "id": "cap-19-0197",
+      "type": "paragraph",
+      "text": "Eu nunca bati em ninguém",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu nunca bati em ninguém"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-19-0198",
+      "type": "paragraph",
+      "text": "Sorriu ticando mais um item da lista."
+    }
+  ],
+  "notes": {
+    "before": [
+      {
+        "id": "cap-19-0001",
+        "type": "paragraph",
+        "text": "Tome att druplaaaaaa"
+      }
+    ],
+    "after": []
+  }
+}

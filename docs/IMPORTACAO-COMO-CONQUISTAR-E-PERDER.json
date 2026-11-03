@@ -1,0 +1,2873 @@
+{
+  "source": {
+    "file": "Como_conquistar_e_perder.pdf",
+    "sha256": "1e7ddf430e228149d412c5afcc1a06ecec2291b38b1baf0a04281d031affff6a",
+    "pages": 465
+  },
+  "chapterCount": 30,
+  "chapters": [
+    {
+      "id": "cap-01",
+      "number": 1,
+      "title": "Prólogo",
+      "startPage": 3,
+      "endPage": 6,
+      "bodyBlocks": 68,
+      "notesBefore": 0,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "72994d4b5fe740f4d025411368ede719f020fe44760f9d3b52967ffcbf571150",
+      "importedGlyphSha256": "72994d4b5fe740f4d025411368ede719f020fe44760f9d3b52967ffcbf571150",
+      "independentGlyphSha256": "72994d4b5fe740f4d025411368ede719f020fe44760f9d3b52967ffcbf571150",
+      "structuredTextSha256": "48cf59cd8a156e919fdd032b6c77adec28d7ba0828dab080621d8bfb3fd8b810",
+      "fileSha256": "655a458cfdc5837597efbad35098d245cdb423c0dedac7c1a2536c40abcf3e9b",
+      "nonWhitespaceCharacters": 5320,
+      "italicCharacters": 37,
+      "boldCharacters": 15,
+      "editorialMarkersExcluded": []
+    },
+    {
+      "id": "cap-02",
+      "number": 2,
+      "title": "Lorena Ferette sempre tem um bom dia",
+      "startPage": 7,
+      "endPage": 16,
+      "bodyBlocks": 173,
+      "notesBefore": 1,
+      "notesAfter": 1,
+      "sourceGlyphSha256": "e4c9b38ba213806eb0856fd3ce08c06b78e1f0bf4ac595401ac8e6d4244b78b6",
+      "importedGlyphSha256": "e4c9b38ba213806eb0856fd3ce08c06b78e1f0bf4ac595401ac8e6d4244b78b6",
+      "independentGlyphSha256": "e4c9b38ba213806eb0856fd3ce08c06b78e1f0bf4ac595401ac8e6d4244b78b6",
+      "structuredTextSha256": "6e56ac58e56686cd45749bfb8d4b593e01b5036830db19d0a10a8b8468eceac5",
+      "fileSha256": "ba1933f808b47a40d64277606f27cdf42107eafd6e69a313cf867890bb94bb29",
+      "nonWhitespaceCharacters": 13738,
+      "italicCharacters": 716,
+      "boldCharacters": 19,
+      "editorialMarkersExcluded": [
+        {
+          "page": 7,
+          "marker": "Chapter Notes"
+        },
+        {
+          "page": 7,
+          "marker": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 16,
+          "marker": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-03",
+      "number": 3,
+      "title": "Sério universo o que eu fiz pra você!? (perdão, namastê, gratidão)",
+      "startPage": 17,
+      "endPage": 27,
+      "bodyBlocks": 204,
+      "notesBefore": 0,
+      "notesAfter": 1,
+      "sourceGlyphSha256": "c1cbe4beebc33b70eb38ec1d83c66035eac658a8fcf12bc094b9d996263f1d18",
+      "importedGlyphSha256": "c1cbe4beebc33b70eb38ec1d83c66035eac658a8fcf12bc094b9d996263f1d18",
+      "independentGlyphSha256": "c1cbe4beebc33b70eb38ec1d83c66035eac658a8fcf12bc094b9d996263f1d18",
+      "structuredTextSha256": "b607a0a311729c544a5ba29f7d001072457f5e84b3e0546df2d9dd60ce3a4973",
+      "fileSha256": "e1e98e81ceb161a2e50f74bf634c2cfdac3c46cb6a5d3969fdb0bb03fc865e67",
+      "nonWhitespaceCharacters": 15615,
+      "italicCharacters": 1969,
+      "boldCharacters": 0,
+      "editorialMarkersExcluded": [
+        {
+          "page": 17,
+          "marker": "Chapter Notes"
+        },
+        {
+          "page": 17,
+          "marker": "See the end of the chapter for notes"
+        },
+        {
+          "page": 27,
+          "marker": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-04",
+      "number": 4,
+      "title": "Eduarda Fragoso (quase) sempre tem tudo sob controle",
+      "startPage": 28,
+      "endPage": 37,
+      "bodyBlocks": 190,
+      "notesBefore": 3,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "387e3a5a87ae0b9e1be9891ab2bf14b842f9262f381061001789f7c2bb34b377",
+      "importedGlyphSha256": "387e3a5a87ae0b9e1be9891ab2bf14b842f9262f381061001789f7c2bb34b377",
+      "independentGlyphSha256": "387e3a5a87ae0b9e1be9891ab2bf14b842f9262f381061001789f7c2bb34b377",
+      "structuredTextSha256": "4c56a3cd34e123a480f434991bd38a44456ae28e2240354b70a0fcdd49a26953",
+      "fileSha256": "a1b632bd37055848c067364f5b1de9d9bc961c7c6d1b7c8b2c2c907c3c6f4f30",
+      "nonWhitespaceCharacters": 13646,
+      "italicCharacters": 442,
+      "boldCharacters": 0,
+      "editorialMarkersExcluded": [
+        {
+          "page": 28,
+          "marker": "Chapter Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-05",
+      "number": 5,
+      "title": "Isso é realmente sério?",
+      "startPage": 38,
+      "endPage": 47,
+      "bodyBlocks": 208,
+      "notesBefore": 0,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "556b6ee893622f3f72cf58e360f0a49c1f888e92738feb689933774b2d255cc7",
+      "importedGlyphSha256": "556b6ee893622f3f72cf58e360f0a49c1f888e92738feb689933774b2d255cc7",
+      "independentGlyphSha256": "556b6ee893622f3f72cf58e360f0a49c1f888e92738feb689933774b2d255cc7",
+      "structuredTextSha256": "b588d4f855945010d0bd64a6bf37539e02b8048de7c74013b98b83ef88a70c41",
+      "fileSha256": "d1a8015795ccd14d94be8f712fd6e8f6b2326491b3d752d4ea5a071e4ab29a91",
+      "nonWhitespaceCharacters": 11792,
+      "italicCharacters": 2006,
+      "boldCharacters": 256,
+      "editorialMarkersExcluded": []
+    },
+    {
+      "id": "cap-06",
+      "number": 6,
+      "title": "O diabo escreve torto por linhas retas",
+      "startPage": 48,
+      "endPage": 65,
+      "bodyBlocks": 346,
+      "notesBefore": 4,
+      "notesAfter": 2,
+      "sourceGlyphSha256": "982554deeb80cb475633b4008ebe2b3f06b7fa284c7f7bd0edcd8f5895bb42ed",
+      "importedGlyphSha256": "982554deeb80cb475633b4008ebe2b3f06b7fa284c7f7bd0edcd8f5895bb42ed",
+      "independentGlyphSha256": "982554deeb80cb475633b4008ebe2b3f06b7fa284c7f7bd0edcd8f5895bb42ed",
+      "structuredTextSha256": "1319933c772dc0c8a26089933be34f5e43a59925cee8748821a8df7841716c4c",
+      "fileSha256": "7ab9e856263ee08637c130d50526c165b53164e99e69884bdc1dec9e8879e717",
+      "nonWhitespaceCharacters": 21732,
+      "italicCharacters": 1421,
+      "boldCharacters": 189,
+      "editorialMarkersExcluded": [
+        {
+          "page": 48,
+          "marker": "Chapter Notes"
+        },
+        {
+          "page": 48,
+          "marker": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 64,
+          "marker": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-07",
+      "number": 7,
+      "title": "Hasta la vista!",
+      "startPage": 66,
+      "endPage": 74,
+      "bodyBlocks": 153,
+      "notesBefore": 2,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "9df32ddbc1ede338f2abcfaf629e6910d0b99bddd620f7ccefb1058b9875a27a",
+      "importedGlyphSha256": "9df32ddbc1ede338f2abcfaf629e6910d0b99bddd620f7ccefb1058b9875a27a",
+      "independentGlyphSha256": "9df32ddbc1ede338f2abcfaf629e6910d0b99bddd620f7ccefb1058b9875a27a",
+      "structuredTextSha256": "37f6224291c237b00084ac16191318bb0ea364c3a040431aee6b69eb400ee02b",
+      "fileSha256": "c94ee612d99e6127d2cf23afe0a157fd9563aadf6e3ab64f011bce9bd99f275d",
+      "nonWhitespaceCharacters": 14959,
+      "italicCharacters": 740,
+      "boldCharacters": 0,
+      "editorialMarkersExcluded": [
+        {
+          "page": 66,
+          "marker": "Chapter Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-08",
+      "number": 8,
+      "title": "Isso vai dar um rolo da porra",
+      "startPage": 75,
+      "endPage": 94,
+      "bodyBlocks": 199,
+      "notesBefore": 11,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "714ff1a5c0df59e36e62d3fa56ea8769fdef64960cba1d51b3a53a9a3f88cfdb",
+      "importedGlyphSha256": "714ff1a5c0df59e36e62d3fa56ea8769fdef64960cba1d51b3a53a9a3f88cfdb",
+      "independentGlyphSha256": "714ff1a5c0df59e36e62d3fa56ea8769fdef64960cba1d51b3a53a9a3f88cfdb",
+      "structuredTextSha256": "1b49ed17f13bce9be9fb537ca63e8e9b139a2b6427c8ada297e9c57f7dfa7218",
+      "fileSha256": "2b8f9b0590c0390d61d64271b4ea7283b9f725e35cfe7f64fcfc2faf4558e929",
+      "nonWhitespaceCharacters": 19556,
+      "italicCharacters": 671,
+      "boldCharacters": 15,
+      "editorialMarkersExcluded": [
+        {
+          "page": 75,
+          "marker": "Chapter Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-09",
+      "number": 9,
+      "title": "A vida não é uma música do Michael Bublé",
+      "startPage": 95,
+      "endPage": 110,
+      "bodyBlocks": 168,
+      "notesBefore": 0,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "49e6a3e659b85880e65a9561dc66ebc62900c3c29573dd870b7df8a0d42ef9e7",
+      "importedGlyphSha256": "49e6a3e659b85880e65a9561dc66ebc62900c3c29573dd870b7df8a0d42ef9e7",
+      "independentGlyphSha256": "49e6a3e659b85880e65a9561dc66ebc62900c3c29573dd870b7df8a0d42ef9e7",
+      "structuredTextSha256": "c0f4c2b992206841669fd964e0daa3772cc2316f22084b8001323b65753efed0",
+      "fileSha256": "dcecc38bada1075e3215021a7a08149bc44e7ad94ccd2c30df40e25644c3a5a1",
+      "nonWhitespaceCharacters": 14821,
+      "italicCharacters": 610,
+      "boldCharacters": 73,
+      "editorialMarkersExcluded": []
+    },
+    {
+      "id": "cap-10",
+      "number": 10,
+      "title": "Pede com jeitinho e quem sabe eu aceite",
+      "startPage": 111,
+      "endPage": 127,
+      "bodyBlocks": 184,
+      "notesBefore": 0,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "7aa0306278c7df864826f455726dfd8b619b266f80d63349445a3dd4870702a3",
+      "importedGlyphSha256": "7aa0306278c7df864826f455726dfd8b619b266f80d63349445a3dd4870702a3",
+      "independentGlyphSha256": "7aa0306278c7df864826f455726dfd8b619b266f80d63349445a3dd4870702a3",
+      "structuredTextSha256": "71bb81495b08000ac3e5a3d1f17e91780bd77af02ad59caeb25c266d6e4ece67",
+      "fileSha256": "fa72e69e65211df0e50a348f54dc6d99935ef9deb8edd352fef7fcd277096f7e",
+      "nonWhitespaceCharacters": 13696,
+      "italicCharacters": 1475,
+      "boldCharacters": 181,
+      "editorialMarkersExcluded": []
+    },
+    {
+      "id": "cap-11",
+      "number": 11,
+      "title": "Dias de cão",
+      "startPage": 128,
+      "endPage": 145,
+      "bodyBlocks": 194,
+      "notesBefore": 0,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "7e5f6601b3ad802a943e58cffa8c745324565be41508fd940004c1e492981718",
+      "importedGlyphSha256": "7e5f6601b3ad802a943e58cffa8c745324565be41508fd940004c1e492981718",
+      "independentGlyphSha256": "7e5f6601b3ad802a943e58cffa8c745324565be41508fd940004c1e492981718",
+      "structuredTextSha256": "642aab6bf666866271500f2663618286e08f19f4c250af8488363fa8d0135fc8",
+      "fileSha256": "14d26423852d5a097f00262c2264e4e172f020d23867e329c34246a9b4412bd2",
+      "nonWhitespaceCharacters": 14477,
+      "italicCharacters": 839,
+      "boldCharacters": 63,
+      "editorialMarkersExcluded": []
+    },
+    {
+      "id": "cap-12",
+      "number": 12,
+      "title": "Eu nunca",
+      "startPage": 146,
+      "endPage": 164,
+      "bodyBlocks": 201,
+      "notesBefore": 4,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "8aa4609c30d92149c66fe84cfa817a524da2f1ef42c5410fda4d69486af06ee5",
+      "importedGlyphSha256": "8aa4609c30d92149c66fe84cfa817a524da2f1ef42c5410fda4d69486af06ee5",
+      "independentGlyphSha256": "8aa4609c30d92149c66fe84cfa817a524da2f1ef42c5410fda4d69486af06ee5",
+      "structuredTextSha256": "fa7d87cb32126f6f5c2705596d29d3803d03311de026b4a63a3c479be42ded12",
+      "fileSha256": "083f66d45b30bc441a18d91c0d372940316ff6f881773c020b47433a8759ee81",
+      "nonWhitespaceCharacters": 15716,
+      "italicCharacters": 1504,
+      "boldCharacters": 157,
+      "editorialMarkersExcluded": [
+        {
+          "page": 146,
+          "marker": "Chapter Summary"
+        }
+      ]
+    },
+    {
+      "id": "cap-13",
+      "number": 13,
+      "title": "Ah vai sim!",
+      "startPage": 165,
+      "endPage": 176,
+      "bodyBlocks": 118,
+      "notesBefore": 0,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "71c0c03522c1a5bcda541e969187d274a45ac1b4aeb60ec0c98337335fabfe2b",
+      "importedGlyphSha256": "71c0c03522c1a5bcda541e969187d274a45ac1b4aeb60ec0c98337335fabfe2b",
+      "independentGlyphSha256": "71c0c03522c1a5bcda541e969187d274a45ac1b4aeb60ec0c98337335fabfe2b",
+      "structuredTextSha256": "adb73c959c5da9a34dd8152c1610406779551a93fcc0c8a765c19174933d79e1",
+      "fileSha256": "7d1506cf141ea17f6649e7173dc7826ddaeb03c99ca88809d09d81cf50f0d339",
+      "nonWhitespaceCharacters": 10545,
+      "italicCharacters": 711,
+      "boldCharacters": 0,
+      "editorialMarkersExcluded": []
+    },
+    {
+      "id": "cap-14",
+      "number": 14,
+      "title": "Você tem uma lista e eu tenho tempo de sobra",
+      "startPage": 177,
+      "endPage": 191,
+      "bodyBlocks": 158,
+      "notesBefore": 1,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "3fbb69df707d20a64377089449d090b6f957862f505373bddb557e39fdf054b3",
+      "importedGlyphSha256": "3fbb69df707d20a64377089449d090b6f957862f505373bddb557e39fdf054b3",
+      "independentGlyphSha256": "3fbb69df707d20a64377089449d090b6f957862f505373bddb557e39fdf054b3",
+      "structuredTextSha256": "f1cd6e23d6d510e44287219ae9bd21bdfb16e5337efdbef4c0a76da3d7427278",
+      "fileSha256": "420eb62be57aae09be9d4b6efe21214a5d4ed6d03ee7c9b027523d91d0c463fc",
+      "nonWhitespaceCharacters": 11839,
+      "italicCharacters": 480,
+      "boldCharacters": 0,
+      "editorialMarkersExcluded": [
+        {
+          "page": 177,
+          "marker": "Chapter Summary"
+        }
+      ]
+    },
+    {
+      "id": "cap-15",
+      "number": 15,
+      "title": "Eu aceito isso",
+      "startPage": 192,
+      "endPage": 204,
+      "bodyBlocks": 122,
+      "notesBefore": 3,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "fc8e349dbdc6f070d97f1a668a3e784e2547a729b15ed9f090373d7305e64e40",
+      "importedGlyphSha256": "fc8e349dbdc6f070d97f1a668a3e784e2547a729b15ed9f090373d7305e64e40",
+      "independentGlyphSha256": "fc8e349dbdc6f070d97f1a668a3e784e2547a729b15ed9f090373d7305e64e40",
+      "structuredTextSha256": "75bc3377a54008a65bf97126470526fbf29dafdfae30938da238dbd416edaa72",
+      "fileSha256": "0a31f7c58293d1107538b0c1dbcdb06e0e2732eb431167340827e673cd2f271d",
+      "nonWhitespaceCharacters": 12987,
+      "italicCharacters": 82,
+      "boldCharacters": 0,
+      "editorialMarkersExcluded": [
+        {
+          "page": 192,
+          "marker": "Chapter Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-16",
+      "number": 16,
+      "title": "Jogar tênis",
+      "startPage": 205,
+      "endPage": 221,
+      "bodyBlocks": 169,
+      "notesBefore": 8,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "54a48dcae1f64bde10c2e702e8a70c071443a683a03ad945740497cdf29aee21",
+      "importedGlyphSha256": "54a48dcae1f64bde10c2e702e8a70c071443a683a03ad945740497cdf29aee21",
+      "independentGlyphSha256": "54a48dcae1f64bde10c2e702e8a70c071443a683a03ad945740497cdf29aee21",
+      "structuredTextSha256": "49c668486d99aec8f7b99f0cb2eea7634a4781037bd605e656d984c5541f49c1",
+      "fileSha256": "816f8b1c13e2ae6dad24829f4f0137b4f16971944e8be1fd20b203df5a47329e",
+      "nonWhitespaceCharacters": 15658,
+      "italicCharacters": 1105,
+      "boldCharacters": 58,
+      "editorialMarkersExcluded": [
+        {
+          "page": 205,
+          "marker": "Chapter Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-17",
+      "number": 17,
+      "title": "Road Trip",
+      "startPage": 222,
+      "endPage": 235,
+      "bodyBlocks": 136,
+      "notesBefore": 7,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "a88e01c521dc3dcec271785e7377bb2d935e009f0e5aaaab0ec6db0fdaeb2c82",
+      "importedGlyphSha256": "a88e01c521dc3dcec271785e7377bb2d935e009f0e5aaaab0ec6db0fdaeb2c82",
+      "independentGlyphSha256": "a88e01c521dc3dcec271785e7377bb2d935e009f0e5aaaab0ec6db0fdaeb2c82",
+      "structuredTextSha256": "91344d428fe1742b6ba6e22497694b906097cdebea088a6a7614618d1ddd9ffe",
+      "fileSha256": "9b45f7a7c8290693aa345d9b1a91faecb90bb70bd0a1605b779fe4217d2ccc6e",
+      "nonWhitespaceCharacters": 13904,
+      "italicCharacters": 149,
+      "boldCharacters": 0,
+      "editorialMarkersExcluded": [
+        {
+          "page": 222,
+          "marker": "Chapter Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-18",
+      "number": 18,
+      "title": "Fim de semana com os Fragosos I",
+      "startPage": 236,
+      "endPage": 256,
+      "bodyBlocks": 217,
+      "notesBefore": 15,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "10d150e4683f624606c1a963a5c567265ac276d79abaaa1d558b4db246c3ae0c",
+      "importedGlyphSha256": "10d150e4683f624606c1a963a5c567265ac276d79abaaa1d558b4db246c3ae0c",
+      "independentGlyphSha256": "10d150e4683f624606c1a963a5c567265ac276d79abaaa1d558b4db246c3ae0c",
+      "structuredTextSha256": "e94750846955cb946fdd0cca87c52a7b508653c5dbd4d8807b420136beb4e686",
+      "fileSha256": "088f4d401ed72f9ed39bb5462eb0105e4923b1323c83e82238ece28661983ab2",
+      "nonWhitespaceCharacters": 17030,
+      "italicCharacters": 538,
+      "boldCharacters": 0,
+      "editorialMarkersExcluded": [
+        {
+          "page": 236,
+          "marker": "Chapter Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-19",
+      "number": 19,
+      "title": "Fim de semana com os Fragosos II",
+      "startPage": 257,
+      "endPage": 274,
+      "bodyBlocks": 197,
+      "notesBefore": 1,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "18def2f722b23adcfd56d3924664dae4787ad26461c2523a4e02884db80368c3",
+      "importedGlyphSha256": "18def2f722b23adcfd56d3924664dae4787ad26461c2523a4e02884db80368c3",
+      "independentGlyphSha256": "18def2f722b23adcfd56d3924664dae4787ad26461c2523a4e02884db80368c3",
+      "structuredTextSha256": "970d6eb55bb88d434c59e2c350faa74df7bb83a729ef47583d432874124182a8",
+      "fileSha256": "a6fea6dcafa57bb5a89309ca438599c073f0e7dd6260cbdb2e3a6389a539a582",
+      "nonWhitespaceCharacters": 14510,
+      "italicCharacters": 1015,
+      "boldCharacters": 49,
+      "editorialMarkersExcluded": [
+        {
+          "page": 257,
+          "marker": "Chapter Summary"
+        }
+      ]
+    },
+    {
+      "id": "cap-20",
+      "number": 20,
+      "title": "Fim de semana com os Fragosos III",
+      "startPage": 275,
+      "endPage": 293,
+      "bodyBlocks": 192,
+      "notesBefore": 3,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "cfd4f1362e3ba114c3f8fc236054eb4adf474e453aa7ce90bd66f21d6b4491d8",
+      "importedGlyphSha256": "cfd4f1362e3ba114c3f8fc236054eb4adf474e453aa7ce90bd66f21d6b4491d8",
+      "independentGlyphSha256": "cfd4f1362e3ba114c3f8fc236054eb4adf474e453aa7ce90bd66f21d6b4491d8",
+      "structuredTextSha256": "88ea1003cf5b2ae51fd03f45bc80089e0f9985d44e620adca1ac69a2883045c6",
+      "fileSha256": "9f4b12c72022699b5f0a9ef5229879cf95cb68935fbdbef42ba52268e2c1177b",
+      "nonWhitespaceCharacters": 16525,
+      "italicCharacters": 241,
+      "boldCharacters": 0,
+      "editorialMarkersExcluded": [
+        {
+          "page": 275,
+          "marker": "Chapter Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-21",
+      "number": 21,
+      "title": "Fim de semana com os Fragosos IV",
+      "startPage": 294,
+      "endPage": 308,
+      "bodyBlocks": 149,
+      "notesBefore": 6,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "e06260a890a0089461510fc4a6ff46238dee241308cbb726284ddad895f0a4bf",
+      "importedGlyphSha256": "e06260a890a0089461510fc4a6ff46238dee241308cbb726284ddad895f0a4bf",
+      "independentGlyphSha256": "e06260a890a0089461510fc4a6ff46238dee241308cbb726284ddad895f0a4bf",
+      "structuredTextSha256": "fa6a266cac01016e6daca9fe88fdb495020026cc0aecdcb660f6af161d928a45",
+      "fileSha256": "84402c2c5ad70370030924e606b00533f05038947758ae8c143ed231716b9a17",
+      "nonWhitespaceCharacters": 13715,
+      "italicCharacters": 1276,
+      "boldCharacters": 0,
+      "editorialMarkersExcluded": [
+        {
+          "page": 294,
+          "marker": "Chapter Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-22",
+      "number": 22,
+      "title": "Inferno",
+      "startPage": 309,
+      "endPage": 317,
+      "bodyBlocks": 81,
+      "notesBefore": 4,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "82dafe684423e36b8cab4d0822c4d30ff650ca77cb99caec3f78a12c40b0bd80",
+      "importedGlyphSha256": "82dafe684423e36b8cab4d0822c4d30ff650ca77cb99caec3f78a12c40b0bd80",
+      "independentGlyphSha256": "82dafe684423e36b8cab4d0822c4d30ff650ca77cb99caec3f78a12c40b0bd80",
+      "structuredTextSha256": "195bc0a81f48e0eabec61dce34fc6cde93cfeca98f5f22ccf6bade40abb536f0",
+      "fileSha256": "f6f430f2e0d8794c79e744dd5071673216a8ad124b608b6227e3bd1cc765cbeb",
+      "nonWhitespaceCharacters": 8583,
+      "italicCharacters": 530,
+      "boldCharacters": 0,
+      "editorialMarkersExcluded": [
+        {
+          "page": 309,
+          "marker": "Chapter Summary"
+        }
+      ]
+    },
+    {
+      "id": "cap-23",
+      "number": 23,
+      "title": "Purgatório",
+      "startPage": 318,
+      "endPage": 329,
+      "bodyBlocks": 105,
+      "notesBefore": 5,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "dbd8f888d46e9d8656cfda2670a98a28d31c26990f1915812c128be104560491",
+      "importedGlyphSha256": "dbd8f888d46e9d8656cfda2670a98a28d31c26990f1915812c128be104560491",
+      "independentGlyphSha256": "dbd8f888d46e9d8656cfda2670a98a28d31c26990f1915812c128be104560491",
+      "structuredTextSha256": "8b466d2276a96e396807f222c25f006bec568568cbfa4ce359b6e84c01b8e91f",
+      "fileSha256": "566c8f6357dd70c0ab0190004d886465aa773ca36e5618f2f4fe5e8df70806e2",
+      "nonWhitespaceCharacters": 11104,
+      "italicCharacters": 399,
+      "boldCharacters": 24,
+      "editorialMarkersExcluded": [
+        {
+          "page": 318,
+          "marker": "Chapter Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-24",
+      "number": 24,
+      "title": "Achou que era o Paraíso né?",
+      "startPage": 330,
+      "endPage": 349,
+      "bodyBlocks": 198,
+      "notesBefore": 8,
+      "notesAfter": 1,
+      "sourceGlyphSha256": "da741510969f2f299b7499f311ade89f00ad0b5015eba1ab88446e874eeae2e5",
+      "importedGlyphSha256": "da741510969f2f299b7499f311ade89f00ad0b5015eba1ab88446e874eeae2e5",
+      "independentGlyphSha256": "da741510969f2f299b7499f311ade89f00ad0b5015eba1ab88446e874eeae2e5",
+      "structuredTextSha256": "1c9f0c1069edbf52236bba9386a9b83f285a65c6d42b1be6f7831c7829680a80",
+      "fileSha256": "bd8ec865d2e8fdc9cfda86ffd8da2dc1ab15673a24d0534253364609a4263bb6",
+      "nonWhitespaceCharacters": 17339,
+      "italicCharacters": 857,
+      "boldCharacters": 28,
+      "editorialMarkersExcluded": [
+        {
+          "page": 330,
+          "marker": "Chapter Notes"
+        },
+        {
+          "page": 330,
+          "marker": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 349,
+          "marker": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-25",
+      "number": 25,
+      "title": "O amor é uma faca de dois legumes",
+      "startPage": 350,
+      "endPage": 362,
+      "bodyBlocks": 195,
+      "notesBefore": 13,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "610d2a93b9c46a7bdbaebf72f7c8354bf7c0e9977adbd03ced2c458118ce05cc",
+      "importedGlyphSha256": "610d2a93b9c46a7bdbaebf72f7c8354bf7c0e9977adbd03ced2c458118ce05cc",
+      "independentGlyphSha256": "610d2a93b9c46a7bdbaebf72f7c8354bf7c0e9977adbd03ced2c458118ce05cc",
+      "structuredTextSha256": "2dd9181902c3eb7fb82926ccb1a88d5d5f248c83396108ad9bdc0935da576214",
+      "fileSha256": "b1dc068cce6f458e5c2d6f3d9cb976ed0dc0880156288bf520bf080a9093f8f4",
+      "nonWhitespaceCharacters": 21105,
+      "italicCharacters": 817,
+      "boldCharacters": 39,
+      "editorialMarkersExcluded": [
+        {
+          "page": 350,
+          "marker": "Chapter Summary"
+        }
+      ]
+    },
+    {
+      "id": "cap-26",
+      "number": 26,
+      "title": "Paraíso",
+      "startPage": 363,
+      "endPage": 384,
+      "bodyBlocks": 216,
+      "notesBefore": 7,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "0fd99d9d20899f440d70b002d5097bf2f546235724bc11d709fa9e1993ebb322",
+      "importedGlyphSha256": "0fd99d9d20899f440d70b002d5097bf2f546235724bc11d709fa9e1993ebb322",
+      "independentGlyphSha256": "0fd99d9d20899f440d70b002d5097bf2f546235724bc11d709fa9e1993ebb322",
+      "structuredTextSha256": "277672e046aa2261f230bf9f783b1ca67d331ae89c5da46189149e8c7b03db08",
+      "fileSha256": "a40f68792af5c6b4f82a8198d531321b0c8a1dd282566fad8ba35d70698ccc92",
+      "nonWhitespaceCharacters": 22348,
+      "italicCharacters": 914,
+      "boldCharacters": 37,
+      "editorialMarkersExcluded": [
+        {
+          "page": 363,
+          "marker": "Chapter Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-27",
+      "number": 27,
+      "title": "Um universo de coisas que eu desconheço",
+      "startPage": 385,
+      "endPage": 409,
+      "bodyBlocks": 259,
+      "notesBefore": 8,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "7981fb73d2e69764a8e71a11c837e620cb5a8a19aafa9da7a62fbf9157bf0a28",
+      "importedGlyphSha256": "7981fb73d2e69764a8e71a11c837e620cb5a8a19aafa9da7a62fbf9157bf0a28",
+      "independentGlyphSha256": "7981fb73d2e69764a8e71a11c837e620cb5a8a19aafa9da7a62fbf9157bf0a28",
+      "structuredTextSha256": "252dd1a123f81570055b431471373a25168b6add31a82cc0f747a48edd44baa0",
+      "fileSha256": "a8bc23d26eddafd7163ddf1ac29701160b5d9b5879474dddb4325de1faf90cdb",
+      "nonWhitespaceCharacters": 21780,
+      "italicCharacters": 490,
+      "boldCharacters": 0,
+      "editorialMarkersExcluded": [
+        {
+          "page": 385,
+          "marker": "Chapter Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-28",
+      "number": 28,
+      "title": "Comer",
+      "startPage": 410,
+      "endPage": 426,
+      "bodyBlocks": 180,
+      "notesBefore": 6,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "f79ba545fa23b92eda326ab19e0f5cfec05a5950e12ebc8d35dcf99a9d7a0366",
+      "importedGlyphSha256": "f79ba545fa23b92eda326ab19e0f5cfec05a5950e12ebc8d35dcf99a9d7a0366",
+      "independentGlyphSha256": "f79ba545fa23b92eda326ab19e0f5cfec05a5950e12ebc8d35dcf99a9d7a0366",
+      "structuredTextSha256": "c38435bc1835f3665c07373375bdc3f4295d86580fb2a01e6ebbad77236face0",
+      "fileSha256": "25647538b897dada0e72067f1375208262ab886bbf0a944d555ba37b499c51ef",
+      "nonWhitespaceCharacters": 15162,
+      "italicCharacters": 1388,
+      "boldCharacters": 0,
+      "editorialMarkersExcluded": [
+        {
+          "page": 410,
+          "marker": "Chapter Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-29",
+      "number": 29,
+      "title": "La tua cantante!",
+      "startPage": 427,
+      "endPage": 443,
+      "bodyBlocks": 266,
+      "notesBefore": 7,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "b1cc9aa87e262ec5afc8137cecb772514633a4e58479d919b915c25f9768371f",
+      "importedGlyphSha256": "b1cc9aa87e262ec5afc8137cecb772514633a4e58479d919b915c25f9768371f",
+      "independentGlyphSha256": "b1cc9aa87e262ec5afc8137cecb772514633a4e58479d919b915c25f9768371f",
+      "structuredTextSha256": "7ba1619c9d303495760845841b780d46c3a88d69f6c50191753c68a88402f30d",
+      "fileSha256": "e18214050a117694fb59408e3b4787d5009576b9b1eca358cf12bcc2df1191c8",
+      "nonWhitespaceCharacters": 30322,
+      "italicCharacters": 1111,
+      "boldCharacters": 0,
+      "editorialMarkersExcluded": [
+        {
+          "page": 427,
+          "marker": "Chapter Summary"
+        }
+      ]
+    },
+    {
+      "id": "cap-30",
+      "number": 30,
+      "title": "Viva o Papa e essas coisas aí",
+      "startPage": 444,
+      "endPage": 464,
+      "bodyBlocks": 332,
+      "notesBefore": 7,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "e682acf1398ed7430dc1179f3ee244a93d96f5e21276e552a536e1adcb77b599",
+      "importedGlyphSha256": "e682acf1398ed7430dc1179f3ee244a93d96f5e21276e552a536e1adcb77b599",
+      "independentGlyphSha256": "e682acf1398ed7430dc1179f3ee244a93d96f5e21276e552a536e1adcb77b599",
+      "structuredTextSha256": "da210b293e36bbcc88aa1e87ed2ca19cd5487e64586447b8dd948d23b77e57a4",
+      "fileSha256": "c6ee76555ba9434f5f3f29f261e925569ae8a42c94ab7378014a9311954b4d8c",
+      "nonWhitespaceCharacters": 35849,
+      "italicCharacters": 762,
+      "boldCharacters": 31,
+      "editorialMarkersExcluded": [
+        {
+          "page": 444,
+          "marker": "Chapter Notes"
+        }
+      ]
+    }
+  ],
+  "pageBoundaries": [
+    {
+      "chapter": 1,
+      "nextPage": 4,
+      "joined": false
+    },
+    {
+      "chapter": 1,
+      "nextPage": 5,
+      "joined": false
+    },
+    {
+      "chapter": 1,
+      "nextPage": 6,
+      "joined": false
+    },
+    {
+      "chapter": 2,
+      "nextPage": 8,
+      "joined": false
+    },
+    {
+      "chapter": 2,
+      "nextPage": 9,
+      "joined": false
+    },
+    {
+      "chapter": 2,
+      "nextPage": 10,
+      "joined": false
+    },
+    {
+      "chapter": 2,
+      "nextPage": 11,
+      "joined": false
+    },
+    {
+      "chapter": 2,
+      "nextPage": 12,
+      "joined": false
+    },
+    {
+      "chapter": 2,
+      "nextPage": 13,
+      "joined": false
+    },
+    {
+      "chapter": 2,
+      "nextPage": 14,
+      "joined": false
+    },
+    {
+      "chapter": 2,
+      "nextPage": 15,
+      "joined": false
+    },
+    {
+      "chapter": 2,
+      "nextPage": 16,
+      "joined": false
+    },
+    {
+      "chapter": 3,
+      "nextPage": 18,
+      "joined": false
+    },
+    {
+      "chapter": 3,
+      "nextPage": 19,
+      "joined": false
+    },
+    {
+      "chapter": 3,
+      "nextPage": 20,
+      "joined": false
+    },
+    {
+      "chapter": 3,
+      "nextPage": 21,
+      "joined": false
+    },
+    {
+      "chapter": 3,
+      "nextPage": 22,
+      "joined": false
+    },
+    {
+      "chapter": 3,
+      "nextPage": 23,
+      "joined": false
+    },
+    {
+      "chapter": 3,
+      "nextPage": 24,
+      "joined": false
+    },
+    {
+      "chapter": 3,
+      "nextPage": 25,
+      "joined": false
+    },
+    {
+      "chapter": 3,
+      "nextPage": 26,
+      "joined": false
+    },
+    {
+      "chapter": 3,
+      "nextPage": 27,
+      "joined": false
+    },
+    {
+      "chapter": 4,
+      "nextPage": 29,
+      "joined": false
+    },
+    {
+      "chapter": 4,
+      "nextPage": 30,
+      "joined": false
+    },
+    {
+      "chapter": 4,
+      "nextPage": 31,
+      "joined": false
+    },
+    {
+      "chapter": 4,
+      "nextPage": 32,
+      "joined": false
+    },
+    {
+      "chapter": 4,
+      "nextPage": 33,
+      "joined": false
+    },
+    {
+      "chapter": 4,
+      "nextPage": 34,
+      "joined": false
+    },
+    {
+      "chapter": 4,
+      "nextPage": 35,
+      "joined": false
+    },
+    {
+      "chapter": 4,
+      "nextPage": 36,
+      "joined": false
+    },
+    {
+      "chapter": 4,
+      "nextPage": 37,
+      "joined": false
+    },
+    {
+      "chapter": 5,
+      "nextPage": 39,
+      "joined": false
+    },
+    {
+      "chapter": 5,
+      "nextPage": 40,
+      "joined": false
+    },
+    {
+      "chapter": 5,
+      "nextPage": 41,
+      "joined": false
+    },
+    {
+      "chapter": 5,
+      "nextPage": 42,
+      "joined": false
+    },
+    {
+      "chapter": 5,
+      "nextPage": 43,
+      "joined": false
+    },
+    {
+      "chapter": 5,
+      "nextPage": 44,
+      "joined": false
+    },
+    {
+      "chapter": 5,
+      "nextPage": 45,
+      "joined": false
+    },
+    {
+      "chapter": 5,
+      "nextPage": 46,
+      "joined": false
+    },
+    {
+      "chapter": 5,
+      "nextPage": 47,
+      "joined": false
+    },
+    {
+      "chapter": 6,
+      "nextPage": 49,
+      "joined": false
+    },
+    {
+      "chapter": 6,
+      "nextPage": 50,
+      "joined": false
+    },
+    {
+      "chapter": 6,
+      "nextPage": 51,
+      "joined": false
+    },
+    {
+      "chapter": 6,
+      "nextPage": 52,
+      "joined": false
+    },
+    {
+      "chapter": 6,
+      "nextPage": 53,
+      "joined": false
+    },
+    {
+      "chapter": 6,
+      "nextPage": 54,
+      "joined": false
+    },
+    {
+      "chapter": 6,
+      "nextPage": 55,
+      "joined": false
+    },
+    {
+      "chapter": 6,
+      "nextPage": 56,
+      "joined": false
+    },
+    {
+      "chapter": 6,
+      "nextPage": 57,
+      "joined": false
+    },
+    {
+      "chapter": 6,
+      "nextPage": 58,
+      "joined": false
+    },
+    {
+      "chapter": 6,
+      "nextPage": 59,
+      "joined": false
+    },
+    {
+      "chapter": 6,
+      "nextPage": 60,
+      "joined": false
+    },
+    {
+      "chapter": 6,
+      "nextPage": 61,
+      "joined": false
+    },
+    {
+      "chapter": 6,
+      "nextPage": 62,
+      "joined": false
+    },
+    {
+      "chapter": 6,
+      "nextPage": 63,
+      "joined": false
+    },
+    {
+      "chapter": 6,
+      "nextPage": 64,
+      "joined": false
+    },
+    {
+      "chapter": 7,
+      "nextPage": 67,
+      "joined": false
+    },
+    {
+      "chapter": 7,
+      "nextPage": 68,
+      "joined": false
+    },
+    {
+      "chapter": 7,
+      "nextPage": 69,
+      "joined": false
+    },
+    {
+      "chapter": 7,
+      "nextPage": 70,
+      "joined": false
+    },
+    {
+      "chapter": 7,
+      "nextPage": 71,
+      "joined": false
+    },
+    {
+      "chapter": 7,
+      "nextPage": 72,
+      "joined": false
+    },
+    {
+      "chapter": 7,
+      "nextPage": 73,
+      "joined": false
+    },
+    {
+      "chapter": 7,
+      "nextPage": 74,
+      "joined": false
+    },
+    {
+      "chapter": 8,
+      "nextPage": 76,
+      "joined": false
+    },
+    {
+      "chapter": 8,
+      "nextPage": 77,
+      "joined": false
+    },
+    {
+      "chapter": 8,
+      "nextPage": 78,
+      "joined": false
+    },
+    {
+      "chapter": 8,
+      "nextPage": 79,
+      "joined": false
+    },
+    {
+      "chapter": 8,
+      "nextPage": 80,
+      "joined": false
+    },
+    {
+      "chapter": 8,
+      "nextPage": 81,
+      "joined": false
+    },
+    {
+      "chapter": 8,
+      "nextPage": 82,
+      "joined": false
+    },
+    {
+      "chapter": 8,
+      "nextPage": 83,
+      "joined": false
+    },
+    {
+      "chapter": 8,
+      "nextPage": 84,
+      "joined": false
+    },
+    {
+      "chapter": 8,
+      "nextPage": 85,
+      "joined": false
+    },
+    {
+      "chapter": 8,
+      "nextPage": 86,
+      "joined": true
+    },
+    {
+      "chapter": 8,
+      "nextPage": 87,
+      "joined": false
+    },
+    {
+      "chapter": 8,
+      "nextPage": 88,
+      "joined": false
+    },
+    {
+      "chapter": 8,
+      "nextPage": 89,
+      "joined": false
+    },
+    {
+      "chapter": 8,
+      "nextPage": 90,
+      "joined": false
+    },
+    {
+      "chapter": 8,
+      "nextPage": 91,
+      "joined": false
+    },
+    {
+      "chapter": 8,
+      "nextPage": 92,
+      "joined": false
+    },
+    {
+      "chapter": 8,
+      "nextPage": 93,
+      "joined": false
+    },
+    {
+      "chapter": 8,
+      "nextPage": 94,
+      "joined": false
+    },
+    {
+      "chapter": 9,
+      "nextPage": 96,
+      "joined": false
+    },
+    {
+      "chapter": 9,
+      "nextPage": 97,
+      "joined": false
+    },
+    {
+      "chapter": 9,
+      "nextPage": 98,
+      "joined": false
+    },
+    {
+      "chapter": 9,
+      "nextPage": 99,
+      "joined": false
+    },
+    {
+      "chapter": 9,
+      "nextPage": 100,
+      "joined": false
+    },
+    {
+      "chapter": 9,
+      "nextPage": 101,
+      "joined": false
+    },
+    {
+      "chapter": 9,
+      "nextPage": 102,
+      "joined": false
+    },
+    {
+      "chapter": 9,
+      "nextPage": 103,
+      "joined": false
+    },
+    {
+      "chapter": 9,
+      "nextPage": 104,
+      "joined": false
+    },
+    {
+      "chapter": 9,
+      "nextPage": 105,
+      "joined": false
+    },
+    {
+      "chapter": 9,
+      "nextPage": 106,
+      "joined": false
+    },
+    {
+      "chapter": 9,
+      "nextPage": 107,
+      "joined": false
+    },
+    {
+      "chapter": 9,
+      "nextPage": 108,
+      "joined": false
+    },
+    {
+      "chapter": 9,
+      "nextPage": 109,
+      "joined": false
+    },
+    {
+      "chapter": 9,
+      "nextPage": 110,
+      "joined": false
+    },
+    {
+      "chapter": 10,
+      "nextPage": 112,
+      "joined": false
+    },
+    {
+      "chapter": 10,
+      "nextPage": 113,
+      "joined": false
+    },
+    {
+      "chapter": 10,
+      "nextPage": 114,
+      "joined": false
+    },
+    {
+      "chapter": 10,
+      "nextPage": 115,
+      "joined": false
+    },
+    {
+      "chapter": 10,
+      "nextPage": 116,
+      "joined": false
+    },
+    {
+      "chapter": 10,
+      "nextPage": 117,
+      "joined": false
+    },
+    {
+      "chapter": 10,
+      "nextPage": 118,
+      "joined": false
+    },
+    {
+      "chapter": 10,
+      "nextPage": 119,
+      "joined": false
+    },
+    {
+      "chapter": 10,
+      "nextPage": 120,
+      "joined": false
+    },
+    {
+      "chapter": 10,
+      "nextPage": 121,
+      "joined": false
+    },
+    {
+      "chapter": 10,
+      "nextPage": 122,
+      "joined": false
+    },
+    {
+      "chapter": 10,
+      "nextPage": 123,
+      "joined": false
+    },
+    {
+      "chapter": 10,
+      "nextPage": 124,
+      "joined": false
+    },
+    {
+      "chapter": 10,
+      "nextPage": 125,
+      "joined": false
+    },
+    {
+      "chapter": 10,
+      "nextPage": 126,
+      "joined": false
+    },
+    {
+      "chapter": 10,
+      "nextPage": 127,
+      "joined": false
+    },
+    {
+      "chapter": 11,
+      "nextPage": 129,
+      "joined": false
+    },
+    {
+      "chapter": 11,
+      "nextPage": 130,
+      "joined": false
+    },
+    {
+      "chapter": 11,
+      "nextPage": 131,
+      "joined": false
+    },
+    {
+      "chapter": 11,
+      "nextPage": 132,
+      "joined": false
+    },
+    {
+      "chapter": 11,
+      "nextPage": 133,
+      "joined": false
+    },
+    {
+      "chapter": 11,
+      "nextPage": 134,
+      "joined": false
+    },
+    {
+      "chapter": 11,
+      "nextPage": 135,
+      "joined": false
+    },
+    {
+      "chapter": 11,
+      "nextPage": 136,
+      "joined": false
+    },
+    {
+      "chapter": 11,
+      "nextPage": 137,
+      "joined": false
+    },
+    {
+      "chapter": 11,
+      "nextPage": 138,
+      "joined": false
+    },
+    {
+      "chapter": 11,
+      "nextPage": 139,
+      "joined": false
+    },
+    {
+      "chapter": 11,
+      "nextPage": 140,
+      "joined": false
+    },
+    {
+      "chapter": 11,
+      "nextPage": 141,
+      "joined": false
+    },
+    {
+      "chapter": 11,
+      "nextPage": 142,
+      "joined": false
+    },
+    {
+      "chapter": 11,
+      "nextPage": 143,
+      "joined": false
+    },
+    {
+      "chapter": 11,
+      "nextPage": 144,
+      "joined": false
+    },
+    {
+      "chapter": 11,
+      "nextPage": 145,
+      "joined": false
+    },
+    {
+      "chapter": 12,
+      "nextPage": 147,
+      "joined": false
+    },
+    {
+      "chapter": 12,
+      "nextPage": 148,
+      "joined": false
+    },
+    {
+      "chapter": 12,
+      "nextPage": 149,
+      "joined": false
+    },
+    {
+      "chapter": 12,
+      "nextPage": 150,
+      "joined": false
+    },
+    {
+      "chapter": 12,
+      "nextPage": 151,
+      "joined": false
+    },
+    {
+      "chapter": 12,
+      "nextPage": 152,
+      "joined": false
+    },
+    {
+      "chapter": 12,
+      "nextPage": 153,
+      "joined": false
+    },
+    {
+      "chapter": 12,
+      "nextPage": 154,
+      "joined": false
+    },
+    {
+      "chapter": 12,
+      "nextPage": 155,
+      "joined": false
+    },
+    {
+      "chapter": 12,
+      "nextPage": 156,
+      "joined": false
+    },
+    {
+      "chapter": 12,
+      "nextPage": 157,
+      "joined": false
+    },
+    {
+      "chapter": 12,
+      "nextPage": 158,
+      "joined": false
+    },
+    {
+      "chapter": 12,
+      "nextPage": 159,
+      "joined": false
+    },
+    {
+      "chapter": 12,
+      "nextPage": 160,
+      "joined": false
+    },
+    {
+      "chapter": 12,
+      "nextPage": 161,
+      "joined": false
+    },
+    {
+      "chapter": 12,
+      "nextPage": 162,
+      "joined": false
+    },
+    {
+      "chapter": 12,
+      "nextPage": 163,
+      "joined": false
+    },
+    {
+      "chapter": 12,
+      "nextPage": 164,
+      "joined": false
+    },
+    {
+      "chapter": 13,
+      "nextPage": 166,
+      "joined": true
+    },
+    {
+      "chapter": 13,
+      "nextPage": 167,
+      "joined": false
+    },
+    {
+      "chapter": 13,
+      "nextPage": 168,
+      "joined": false
+    },
+    {
+      "chapter": 13,
+      "nextPage": 169,
+      "joined": false
+    },
+    {
+      "chapter": 13,
+      "nextPage": 170,
+      "joined": false
+    },
+    {
+      "chapter": 13,
+      "nextPage": 171,
+      "joined": false
+    },
+    {
+      "chapter": 13,
+      "nextPage": 172,
+      "joined": false
+    },
+    {
+      "chapter": 13,
+      "nextPage": 173,
+      "joined": false
+    },
+    {
+      "chapter": 13,
+      "nextPage": 174,
+      "joined": false
+    },
+    {
+      "chapter": 13,
+      "nextPage": 175,
+      "joined": false
+    },
+    {
+      "chapter": 13,
+      "nextPage": 176,
+      "joined": false
+    },
+    {
+      "chapter": 14,
+      "nextPage": 178,
+      "joined": false
+    },
+    {
+      "chapter": 14,
+      "nextPage": 179,
+      "joined": false
+    },
+    {
+      "chapter": 14,
+      "nextPage": 180,
+      "joined": false
+    },
+    {
+      "chapter": 14,
+      "nextPage": 181,
+      "joined": false
+    },
+    {
+      "chapter": 14,
+      "nextPage": 182,
+      "joined": false
+    },
+    {
+      "chapter": 14,
+      "nextPage": 183,
+      "joined": false
+    },
+    {
+      "chapter": 14,
+      "nextPage": 184,
+      "joined": false
+    },
+    {
+      "chapter": 14,
+      "nextPage": 185,
+      "joined": false
+    },
+    {
+      "chapter": 14,
+      "nextPage": 186,
+      "joined": false
+    },
+    {
+      "chapter": 14,
+      "nextPage": 187,
+      "joined": false
+    },
+    {
+      "chapter": 14,
+      "nextPage": 188,
+      "joined": false
+    },
+    {
+      "chapter": 14,
+      "nextPage": 189,
+      "joined": false
+    },
+    {
+      "chapter": 14,
+      "nextPage": 190,
+      "joined": false
+    },
+    {
+      "chapter": 14,
+      "nextPage": 191,
+      "joined": false
+    },
+    {
+      "chapter": 15,
+      "nextPage": 193,
+      "joined": false
+    },
+    {
+      "chapter": 15,
+      "nextPage": 194,
+      "joined": false
+    },
+    {
+      "chapter": 15,
+      "nextPage": 195,
+      "joined": false
+    },
+    {
+      "chapter": 15,
+      "nextPage": 196,
+      "joined": false
+    },
+    {
+      "chapter": 15,
+      "nextPage": 197,
+      "joined": false
+    },
+    {
+      "chapter": 15,
+      "nextPage": 198,
+      "joined": false
+    },
+    {
+      "chapter": 15,
+      "nextPage": 199,
+      "joined": false
+    },
+    {
+      "chapter": 15,
+      "nextPage": 200,
+      "joined": false
+    },
+    {
+      "chapter": 15,
+      "nextPage": 201,
+      "joined": false
+    },
+    {
+      "chapter": 15,
+      "nextPage": 202,
+      "joined": false
+    },
+    {
+      "chapter": 15,
+      "nextPage": 203,
+      "joined": false
+    },
+    {
+      "chapter": 15,
+      "nextPage": 204,
+      "joined": false
+    },
+    {
+      "chapter": 16,
+      "nextPage": 206,
+      "joined": false
+    },
+    {
+      "chapter": 16,
+      "nextPage": 207,
+      "joined": false
+    },
+    {
+      "chapter": 16,
+      "nextPage": 208,
+      "joined": false
+    },
+    {
+      "chapter": 16,
+      "nextPage": 209,
+      "joined": false
+    },
+    {
+      "chapter": 16,
+      "nextPage": 210,
+      "joined": false
+    },
+    {
+      "chapter": 16,
+      "nextPage": 211,
+      "joined": false
+    },
+    {
+      "chapter": 16,
+      "nextPage": 212,
+      "joined": false
+    },
+    {
+      "chapter": 16,
+      "nextPage": 213,
+      "joined": false
+    },
+    {
+      "chapter": 16,
+      "nextPage": 214,
+      "joined": false
+    },
+    {
+      "chapter": 16,
+      "nextPage": 215,
+      "joined": false
+    },
+    {
+      "chapter": 16,
+      "nextPage": 216,
+      "joined": false
+    },
+    {
+      "chapter": 16,
+      "nextPage": 217,
+      "joined": false
+    },
+    {
+      "chapter": 16,
+      "nextPage": 218,
+      "joined": false
+    },
+    {
+      "chapter": 16,
+      "nextPage": 219,
+      "joined": false
+    },
+    {
+      "chapter": 16,
+      "nextPage": 220,
+      "joined": false
+    },
+    {
+      "chapter": 16,
+      "nextPage": 221,
+      "joined": false
+    },
+    {
+      "chapter": 17,
+      "nextPage": 223,
+      "joined": false
+    },
+    {
+      "chapter": 17,
+      "nextPage": 224,
+      "joined": false
+    },
+    {
+      "chapter": 17,
+      "nextPage": 225,
+      "joined": false
+    },
+    {
+      "chapter": 17,
+      "nextPage": 226,
+      "joined": false
+    },
+    {
+      "chapter": 17,
+      "nextPage": 227,
+      "joined": false
+    },
+    {
+      "chapter": 17,
+      "nextPage": 228,
+      "joined": false
+    },
+    {
+      "chapter": 17,
+      "nextPage": 229,
+      "joined": false
+    },
+    {
+      "chapter": 17,
+      "nextPage": 230,
+      "joined": false
+    },
+    {
+      "chapter": 17,
+      "nextPage": 231,
+      "joined": false
+    },
+    {
+      "chapter": 17,
+      "nextPage": 232,
+      "joined": false
+    },
+    {
+      "chapter": 17,
+      "nextPage": 233,
+      "joined": false
+    },
+    {
+      "chapter": 17,
+      "nextPage": 234,
+      "joined": false
+    },
+    {
+      "chapter": 17,
+      "nextPage": 235,
+      "joined": false
+    },
+    {
+      "chapter": 18,
+      "nextPage": 238,
+      "joined": false
+    },
+    {
+      "chapter": 18,
+      "nextPage": 239,
+      "joined": false
+    },
+    {
+      "chapter": 18,
+      "nextPage": 240,
+      "joined": false
+    },
+    {
+      "chapter": 18,
+      "nextPage": 241,
+      "joined": false
+    },
+    {
+      "chapter": 18,
+      "nextPage": 242,
+      "joined": false
+    },
+    {
+      "chapter": 18,
+      "nextPage": 243,
+      "joined": false
+    },
+    {
+      "chapter": 18,
+      "nextPage": 244,
+      "joined": false
+    },
+    {
+      "chapter": 18,
+      "nextPage": 245,
+      "joined": false
+    },
+    {
+      "chapter": 18,
+      "nextPage": 246,
+      "joined": false
+    },
+    {
+      "chapter": 18,
+      "nextPage": 247,
+      "joined": false
+    },
+    {
+      "chapter": 18,
+      "nextPage": 248,
+      "joined": false
+    },
+    {
+      "chapter": 18,
+      "nextPage": 249,
+      "joined": false
+    },
+    {
+      "chapter": 18,
+      "nextPage": 250,
+      "joined": false
+    },
+    {
+      "chapter": 18,
+      "nextPage": 251,
+      "joined": false
+    },
+    {
+      "chapter": 18,
+      "nextPage": 252,
+      "joined": false
+    },
+    {
+      "chapter": 18,
+      "nextPage": 253,
+      "joined": false
+    },
+    {
+      "chapter": 18,
+      "nextPage": 254,
+      "joined": false
+    },
+    {
+      "chapter": 18,
+      "nextPage": 255,
+      "joined": false
+    },
+    {
+      "chapter": 18,
+      "nextPage": 256,
+      "joined": false
+    },
+    {
+      "chapter": 19,
+      "nextPage": 258,
+      "joined": false
+    },
+    {
+      "chapter": 19,
+      "nextPage": 259,
+      "joined": false
+    },
+    {
+      "chapter": 19,
+      "nextPage": 260,
+      "joined": false
+    },
+    {
+      "chapter": 19,
+      "nextPage": 261,
+      "joined": false
+    },
+    {
+      "chapter": 19,
+      "nextPage": 262,
+      "joined": false
+    },
+    {
+      "chapter": 19,
+      "nextPage": 263,
+      "joined": false
+    },
+    {
+      "chapter": 19,
+      "nextPage": 264,
+      "joined": false
+    },
+    {
+      "chapter": 19,
+      "nextPage": 265,
+      "joined": false
+    },
+    {
+      "chapter": 19,
+      "nextPage": 266,
+      "joined": false
+    },
+    {
+      "chapter": 19,
+      "nextPage": 267,
+      "joined": false
+    },
+    {
+      "chapter": 19,
+      "nextPage": 268,
+      "joined": false
+    },
+    {
+      "chapter": 19,
+      "nextPage": 269,
+      "joined": false
+    },
+    {
+      "chapter": 19,
+      "nextPage": 270,
+      "joined": false
+    },
+    {
+      "chapter": 19,
+      "nextPage": 271,
+      "joined": false
+    },
+    {
+      "chapter": 19,
+      "nextPage": 272,
+      "joined": false
+    },
+    {
+      "chapter": 19,
+      "nextPage": 273,
+      "joined": false
+    },
+    {
+      "chapter": 19,
+      "nextPage": 274,
+      "joined": false
+    },
+    {
+      "chapter": 20,
+      "nextPage": 276,
+      "joined": false
+    },
+    {
+      "chapter": 20,
+      "nextPage": 277,
+      "joined": false
+    },
+    {
+      "chapter": 20,
+      "nextPage": 278,
+      "joined": false
+    },
+    {
+      "chapter": 20,
+      "nextPage": 279,
+      "joined": false
+    },
+    {
+      "chapter": 20,
+      "nextPage": 280,
+      "joined": false
+    },
+    {
+      "chapter": 20,
+      "nextPage": 281,
+      "joined": false
+    },
+    {
+      "chapter": 20,
+      "nextPage": 282,
+      "joined": false
+    },
+    {
+      "chapter": 20,
+      "nextPage": 283,
+      "joined": false
+    },
+    {
+      "chapter": 20,
+      "nextPage": 284,
+      "joined": false
+    },
+    {
+      "chapter": 20,
+      "nextPage": 285,
+      "joined": false
+    },
+    {
+      "chapter": 20,
+      "nextPage": 286,
+      "joined": false
+    },
+    {
+      "chapter": 20,
+      "nextPage": 287,
+      "joined": false
+    },
+    {
+      "chapter": 20,
+      "nextPage": 288,
+      "joined": false
+    },
+    {
+      "chapter": 20,
+      "nextPage": 289,
+      "joined": false
+    },
+    {
+      "chapter": 20,
+      "nextPage": 290,
+      "joined": false
+    },
+    {
+      "chapter": 20,
+      "nextPage": 291,
+      "joined": false
+    },
+    {
+      "chapter": 20,
+      "nextPage": 292,
+      "joined": false
+    },
+    {
+      "chapter": 20,
+      "nextPage": 293,
+      "joined": false
+    },
+    {
+      "chapter": 21,
+      "nextPage": 295,
+      "joined": false
+    },
+    {
+      "chapter": 21,
+      "nextPage": 296,
+      "joined": false
+    },
+    {
+      "chapter": 21,
+      "nextPage": 297,
+      "joined": false
+    },
+    {
+      "chapter": 21,
+      "nextPage": 298,
+      "joined": false
+    },
+    {
+      "chapter": 21,
+      "nextPage": 299,
+      "joined": false
+    },
+    {
+      "chapter": 21,
+      "nextPage": 300,
+      "joined": false
+    },
+    {
+      "chapter": 21,
+      "nextPage": 301,
+      "joined": false
+    },
+    {
+      "chapter": 21,
+      "nextPage": 302,
+      "joined": false
+    },
+    {
+      "chapter": 21,
+      "nextPage": 303,
+      "joined": false
+    },
+    {
+      "chapter": 21,
+      "nextPage": 304,
+      "joined": false
+    },
+    {
+      "chapter": 21,
+      "nextPage": 305,
+      "joined": false
+    },
+    {
+      "chapter": 21,
+      "nextPage": 306,
+      "joined": false
+    },
+    {
+      "chapter": 21,
+      "nextPage": 307,
+      "joined": false
+    },
+    {
+      "chapter": 21,
+      "nextPage": 308,
+      "joined": false
+    },
+    {
+      "chapter": 22,
+      "nextPage": 310,
+      "joined": false
+    },
+    {
+      "chapter": 22,
+      "nextPage": 311,
+      "joined": false
+    },
+    {
+      "chapter": 22,
+      "nextPage": 312,
+      "joined": false
+    },
+    {
+      "chapter": 22,
+      "nextPage": 313,
+      "joined": false
+    },
+    {
+      "chapter": 22,
+      "nextPage": 314,
+      "joined": false
+    },
+    {
+      "chapter": 22,
+      "nextPage": 315,
+      "joined": false
+    },
+    {
+      "chapter": 22,
+      "nextPage": 316,
+      "joined": false
+    },
+    {
+      "chapter": 22,
+      "nextPage": 317,
+      "joined": false
+    },
+    {
+      "chapter": 23,
+      "nextPage": 319,
+      "joined": false
+    },
+    {
+      "chapter": 23,
+      "nextPage": 320,
+      "joined": false
+    },
+    {
+      "chapter": 23,
+      "nextPage": 321,
+      "joined": false
+    },
+    {
+      "chapter": 23,
+      "nextPage": 322,
+      "joined": true
+    },
+    {
+      "chapter": 23,
+      "nextPage": 323,
+      "joined": false
+    },
+    {
+      "chapter": 23,
+      "nextPage": 324,
+      "joined": false
+    },
+    {
+      "chapter": 23,
+      "nextPage": 325,
+      "joined": false
+    },
+    {
+      "chapter": 23,
+      "nextPage": 326,
+      "joined": false
+    },
+    {
+      "chapter": 23,
+      "nextPage": 327,
+      "joined": false
+    },
+    {
+      "chapter": 23,
+      "nextPage": 328,
+      "joined": false
+    },
+    {
+      "chapter": 24,
+      "nextPage": 331,
+      "joined": false
+    },
+    {
+      "chapter": 24,
+      "nextPage": 332,
+      "joined": false
+    },
+    {
+      "chapter": 24,
+      "nextPage": 333,
+      "joined": false
+    },
+    {
+      "chapter": 24,
+      "nextPage": 334,
+      "joined": false
+    },
+    {
+      "chapter": 24,
+      "nextPage": 335,
+      "joined": false
+    },
+    {
+      "chapter": 24,
+      "nextPage": 336,
+      "joined": false
+    },
+    {
+      "chapter": 24,
+      "nextPage": 337,
+      "joined": false
+    },
+    {
+      "chapter": 24,
+      "nextPage": 338,
+      "joined": true
+    },
+    {
+      "chapter": 24,
+      "nextPage": 339,
+      "joined": false
+    },
+    {
+      "chapter": 24,
+      "nextPage": 340,
+      "joined": false
+    },
+    {
+      "chapter": 24,
+      "nextPage": 341,
+      "joined": false
+    },
+    {
+      "chapter": 24,
+      "nextPage": 342,
+      "joined": false
+    },
+    {
+      "chapter": 24,
+      "nextPage": 343,
+      "joined": false
+    },
+    {
+      "chapter": 24,
+      "nextPage": 344,
+      "joined": false
+    },
+    {
+      "chapter": 24,
+      "nextPage": 345,
+      "joined": false
+    },
+    {
+      "chapter": 24,
+      "nextPage": 346,
+      "joined": false
+    },
+    {
+      "chapter": 24,
+      "nextPage": 347,
+      "joined": false
+    },
+    {
+      "chapter": 24,
+      "nextPage": 348,
+      "joined": false
+    },
+    {
+      "chapter": 25,
+      "nextPage": 352,
+      "joined": false
+    },
+    {
+      "chapter": 25,
+      "nextPage": 353,
+      "joined": false
+    },
+    {
+      "chapter": 25,
+      "nextPage": 354,
+      "joined": false
+    },
+    {
+      "chapter": 25,
+      "nextPage": 355,
+      "joined": false
+    },
+    {
+      "chapter": 25,
+      "nextPage": 356,
+      "joined": false
+    },
+    {
+      "chapter": 25,
+      "nextPage": 357,
+      "joined": false
+    },
+    {
+      "chapter": 25,
+      "nextPage": 358,
+      "joined": false
+    },
+    {
+      "chapter": 25,
+      "nextPage": 359,
+      "joined": false
+    },
+    {
+      "chapter": 25,
+      "nextPage": 360,
+      "joined": false
+    },
+    {
+      "chapter": 25,
+      "nextPage": 361,
+      "joined": false
+    },
+    {
+      "chapter": 25,
+      "nextPage": 362,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 364,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 365,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 366,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 367,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 368,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 369,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 370,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 371,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 372,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 373,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 374,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 375,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 376,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 377,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 378,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 379,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 380,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 381,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 382,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 383,
+      "joined": false
+    },
+    {
+      "chapter": 26,
+      "nextPage": 384,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 386,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 387,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 388,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 389,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 390,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 391,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 392,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 393,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 394,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 395,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 396,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 397,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 398,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 399,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 400,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 401,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 402,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 403,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 404,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 405,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 406,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 407,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 408,
+      "joined": false
+    },
+    {
+      "chapter": 27,
+      "nextPage": 409,
+      "joined": false
+    },
+    {
+      "chapter": 28,
+      "nextPage": 411,
+      "joined": false
+    },
+    {
+      "chapter": 28,
+      "nextPage": 412,
+      "joined": false
+    },
+    {
+      "chapter": 28,
+      "nextPage": 413,
+      "joined": false
+    },
+    {
+      "chapter": 28,
+      "nextPage": 414,
+      "joined": false
+    },
+    {
+      "chapter": 28,
+      "nextPage": 415,
+      "joined": false
+    },
+    {
+      "chapter": 28,
+      "nextPage": 416,
+      "joined": false
+    },
+    {
+      "chapter": 28,
+      "nextPage": 417,
+      "joined": false
+    },
+    {
+      "chapter": 28,
+      "nextPage": 418,
+      "joined": false
+    },
+    {
+      "chapter": 28,
+      "nextPage": 419,
+      "joined": false
+    },
+    {
+      "chapter": 28,
+      "nextPage": 420,
+      "joined": false
+    },
+    {
+      "chapter": 28,
+      "nextPage": 421,
+      "joined": false
+    },
+    {
+      "chapter": 28,
+      "nextPage": 422,
+      "joined": false
+    },
+    {
+      "chapter": 28,
+      "nextPage": 423,
+      "joined": false
+    },
+    {
+      "chapter": 28,
+      "nextPage": 424,
+      "joined": false
+    },
+    {
+      "chapter": 28,
+      "nextPage": 425,
+      "joined": false
+    },
+    {
+      "chapter": 28,
+      "nextPage": 426,
+      "joined": false
+    },
+    {
+      "chapter": 29,
+      "nextPage": 428,
+      "joined": false
+    },
+    {
+      "chapter": 29,
+      "nextPage": 429,
+      "joined": false
+    },
+    {
+      "chapter": 29,
+      "nextPage": 430,
+      "joined": false
+    },
+    {
+      "chapter": 29,
+      "nextPage": 431,
+      "joined": false
+    },
+    {
+      "chapter": 29,
+      "nextPage": 432,
+      "joined": false
+    },
+    {
+      "chapter": 29,
+      "nextPage": 433,
+      "joined": false
+    },
+    {
+      "chapter": 29,
+      "nextPage": 434,
+      "joined": false
+    },
+    {
+      "chapter": 29,
+      "nextPage": 435,
+      "joined": false
+    },
+    {
+      "chapter": 29,
+      "nextPage": 436,
+      "joined": false
+    },
+    {
+      "chapter": 29,
+      "nextPage": 437,
+      "joined": false
+    },
+    {
+      "chapter": 29,
+      "nextPage": 438,
+      "joined": false
+    },
+    {
+      "chapter": 29,
+      "nextPage": 439,
+      "joined": false
+    },
+    {
+      "chapter": 29,
+      "nextPage": 440,
+      "joined": false
+    },
+    {
+      "chapter": 29,
+      "nextPage": 441,
+      "joined": false
+    },
+    {
+      "chapter": 29,
+      "nextPage": 442,
+      "joined": false
+    },
+    {
+      "chapter": 29,
+      "nextPage": 443,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 445,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 446,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 447,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 448,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 449,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 450,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 451,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 452,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 453,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 454,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 455,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 456,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 457,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 458,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 459,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 460,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 461,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 462,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 463,
+      "joined": false
+    },
+    {
+      "chapter": 30,
+      "nextPage": 464,
+      "joined": false
+    }
+  ],
+  "limitations": [
+    "PDF sem tags de parágrafo: espaços e quebras reconstituídos pela geometria.",
+    "Revisão editorial humana da disposição dos parágrafos pendente."
+  ]
+}

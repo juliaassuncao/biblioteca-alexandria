@@ -1,3 +1,5 @@
+import AuthorLink from '../../components/AuthorLink';
+import { ArrowUp } from 'lucide-react';
 import { useEffect, useRef, useState, type CSSProperties } from "react";
 import { Link, useParams } from "react-router";
 import ChapterBody from "../../components/ChapterBody";
@@ -33,6 +35,8 @@ function ReaderSession({ work, number }: ReaderSessionProps) {
   const { preferences, updatePreferences } = useReaderPreferences();
   const { result, retry } = useChapter(work, number);
   const [panel, setPanel] = useState<"index" | "settings" | null>(null);
+  const [showBackToTop, setShowBackToTop] = useState(false);
+  const reader = useRef<HTMLDivElement>(null);
   const heading = useRef<HTMLHeadingElement>(null);
   const article = useRef<HTMLElement>(null);
   const parsedNumber = parseChapterNumber(number);
@@ -71,8 +75,29 @@ function ReaderSession({ work, number }: ReaderSessionProps) {
     setPanel("index");
   };
 
+  useEffect(() => {
+    if (external || result.status !== 'ready') return;
+    let frame = 0;
+    const update = () => {
+      frame = 0;
+      const bounds = reader.current?.getBoundingClientRect();
+      setShowBackToTop(Boolean(bounds && bounds.top < -Math.max(240, window.innerHeight / 2)
+        && bounds.bottom > window.innerHeight - 72));
+    };
+    const schedule = () => { if (!frame) frame = window.requestAnimationFrame(update); };
+    update();
+    window.addEventListener('scroll', schedule, { passive: true });
+    window.addEventListener('resize', schedule);
+    return () => {
+      window.removeEventListener('scroll', schedule);
+      window.removeEventListener('resize', schedule);
+      window.cancelAnimationFrame(frame);
+    };
+  }, [external, result.status]);
+
   return (
     <div
+      ref={reader}
       className={styles.reader}
       data-theme={preferences.theme}
       style={variables}
@@ -122,9 +147,7 @@ function ReaderSession({ work, number }: ReaderSessionProps) {
             {work.author.displayName && (
               <p className={styles.author}>
                 por{" "}
-                <a href={work.author.authorLink} target="_blank" rel="noopener noreferrer">
-                  {work.author.displayName}
-                </a>
+                <AuthorLink author={work.author} />
               </p>
             )}
             <SceneDivider label="Separador do cabeçalho" />
@@ -188,10 +211,23 @@ function ReaderSession({ work, number }: ReaderSessionProps) {
               previous={previous}
               next={next}
               onIndex={openIndex}
+              indexOpen={panel === 'index'}
             />
           )}
         </div>
       </div>
+      {!external && result.status === 'ready' && showBackToTop && panel === null && (
+        <button
+          type="button"
+          className={styles.backToTop}
+          aria-label="Voltar ao início do capítulo"
+          title="Voltar ao início do capítulo"
+          onClick={() => {
+            reader.current?.scrollIntoView({ block: 'start', behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth' });
+            heading.current?.focus({ preventScroll: true });
+          }}
+        ><ArrowUp size={19} aria-hidden="true" /></button>
+      )}
       {!external && (
         <>
           <ReaderPanel

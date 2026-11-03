@@ -7,3 +7,5 @@
 .right { text-align:right; }
 .right small { display:flex; gap:6px; justify-content:flex-end; align-items:center; color:#cba987; font-size:11px; }
 @media(max-width:620px){ .inner{flex-direction:column;} .right{text-align:left;} .right small{justify-content:start;} }
+
+.about { color:inherit; font-size:12px; text-underline-offset:.2em; }

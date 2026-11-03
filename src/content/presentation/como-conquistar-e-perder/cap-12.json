@@ -1,0 +1,125 @@
+{
+  "chapterId": "cap-12",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-12-0019",
+      "end": "cap-12-0019"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0022",
+      "end": "cap-12-0022"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0023",
+      "end": "cap-12-0023"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0083",
+      "end": "cap-12-0083"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0084",
+      "end": "cap-12-0084"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0085",
+      "end": "cap-12-0085"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0086",
+      "end": "cap-12-0086"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0087",
+      "end": "cap-12-0087"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0088",
+      "end": "cap-12-0088"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0089",
+      "end": "cap-12-0089"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0090",
+      "end": "cap-12-0090"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0091",
+      "end": "cap-12-0091"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0092",
+      "end": "cap-12-0092"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0093",
+      "end": "cap-12-0093"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0094",
+      "end": "cap-12-0094"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0096",
+      "end": "cap-12-0096"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0097",
+      "end": "cap-12-0097"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0098",
+      "end": "cap-12-0098"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0100",
+      "end": "cap-12-0100"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0101",
+      "end": "cap-12-0101"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0104",
+      "end": "cap-12-0104"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0107",
+      "end": "cap-12-0107"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0108",
+      "end": "cap-12-0108"
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0109",
+      "end": "cap-12-0109"
+    }
+  ]
+}

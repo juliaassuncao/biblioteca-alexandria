@@ -1,0 +1,457 @@
+{
+  "id": "cap-01",
+  "blocks": [
+    {
+      "id": "cap-01-0001",
+      "type": "paragraph",
+      "text": "Março/2022",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Março/2022"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0002",
+      "type": "paragraph",
+      "text": "Antes",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Antes"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0003",
+      "type": "paragraph",
+      "text": "Eduarda estava ansiosa."
+    },
+    {
+      "id": "cap-01-0004",
+      "type": "paragraph",
+      "text": "Os pés batucavam no chão em um ritmo descompassado, as mãos inquietas mexiam no saleiro em cima da mesa, derramando o sal e espalhando os pequenos grãos sob a madeira em um padrão tão confuso quanto a sua mente. Já havia até contado quantos ladrilhos haviam no chão numa falha tentativa de se acalmar."
+    },
+    {
+      "id": "cap-01-0005",
+      "type": "paragraph",
+      "text": "A título de curiosidade: duzentos e trinta e quatro."
+    },
+    {
+      "id": "cap-01-0006",
+      "type": "paragraph",
+      "text": "Suspirou, ajeitando o boné e puxando a aba um pouco mais para frente do rosto, como se isso realmente a tornasse invisível. Claro. Porque nada gritava mais “discrição” do que um boné verde do Palmeiras sobre uma cabeleira ruiva."
+    },
+    {
+      "id": "cap-01-0007",
+      "type": "paragraph",
+      "text": "Precisava rever suas escolhas. A começar pelo seu time de futebol."
+    },
+    {
+      "id": "cap-01-0008",
+      "type": "paragraph",
+      "text": "Pela terceira vez a garçonete já estava impaciente ao passar pela sua mesa."
+    },
+    {
+      "id": "cap-01-0009",
+      "type": "paragraph",
+      "text": "— Agora vai pedir? — Questionou apontando o bloco em suas mãos, o rosto rechonchudo, suado e franzido."
+    },
+    {
+      "id": "cap-01-0010",
+      "type": "paragraph",
+      "text": "Eduarda suspirou. Sabia muito bem o que queria pedir, mas tinha absoluta certeza de que essa senhora não acharia no cardápio.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Eduarda suspirou. Sabia "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "muito bem"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " o que queria pedir, mas tinha absoluta certeza de que essa senhora não acharia no cardápio."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0011",
+      "type": "paragraph",
+      "text": "Certo, isso ajudaria no disfarce. Qualquer um que a olhasse veria uma garota normal, com seu boné verde normal, se alimentando normalmente."
+    },
+    {
+      "id": "cap-01-0012",
+      "type": "paragraph",
+      "text": "Tomou o cardápio engordurado nas mãos e analisou de cenho franzido."
+    },
+    {
+      "id": "cap-01-0013",
+      "type": "paragraph",
+      "text": "Passou os olhos rapidamente pelas opções até parar no óbvio. Aquilo que sua mente pedia naquele momento."
+    },
+    {
+      "id": "cap-01-0014",
+      "type": "paragraph",
+      "text": "— Me traz um chopp, por favor.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Me traz um "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "chopp"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", por favor."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0015",
+      "type": "paragraph",
+      "text": "— E …"
+    },
+    {
+      "id": "cap-01-0016",
+      "type": "paragraph",
+      "text": "Eduarda encarou a senhora de bochechas rosadas sem entender."
+    },
+    {
+      "id": "cap-01-0017",
+      "type": "paragraph",
+      "text": "— Hã, só…"
+    },
+    {
+      "id": "cap-01-0018",
+      "type": "paragraph",
+      "text": "— E uma porção de batatas, certo?"
+    },
+    {
+      "id": "cap-01-0019",
+      "type": "paragraph",
+      "text": "A ruiva levantou uma sobrancelha."
+    },
+    {
+      "id": "cap-01-0020",
+      "type": "paragraph",
+      "text": "— Era só…"
+    },
+    {
+      "id": "cap-01-0021",
+      "type": "paragraph",
+      "text": "— As batatas. — Rabiscou em seu bloquinho o pedido e deu as costas antes que Eduarda pudesse protestar."
+    },
+    {
+      "id": "cap-01-0022",
+      "type": "paragraph",
+      "text": "Certo, ela merecia. Estava plantada na mesma mesa há quase uma hora. Precisava mesmo comer algo.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Certo, ela merecia. Estava plantada na mesma mesa há quase uma hora. Precisava "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mesmo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " comer algo."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0023",
+      "type": "paragraph",
+      "text": "Mas ela não podia esquecer que tinha um motivo para estar ali."
+    },
+    {
+      "id": "cap-01-0024",
+      "type": "paragraph",
+      "text": "Não era a primeira vez que ouvia de conhecidos e amigos que sua namorada, Isabella, estava tendo um caso com o dono de uma das muitas chácaras das redondezas às escondidas. Eduarda não acreditava nunca. Isabella era fiel. Sempre fora. Era a garota com quem namorava desde o ensino médio. Quem a ajudou a se assumir, a se entender. Quem enfrentou a cidade ao seu lado."
+    },
+    {
+      "id": "cap-01-0025",
+      "type": "paragraph",
+      "text": "Isabella não faria isso. Não depois de tudo.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Isabella não faria isso. Não depois de "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tudo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0026",
+      "type": "paragraph",
+      "text": "Ainda assim, algo dentro dela insistira dessa vez. Um incômodo surdo, persistente. E ali estava Eduarda Fragoso, numa lanchonete de beira de estrada, próxima a rodovia."
+    },
+    {
+      "id": "cap-01-0027",
+      "type": "paragraph",
+      "text": "E até agora nada."
+    },
+    {
+      "id": "cap-01-0028",
+      "type": "paragraph",
+      "text": "Por um lado estava aliviada mas seu coração pesava pela culpa de desconfiar da namorada mesmo sentindo que algo não estava certo."
+    },
+    {
+      "id": "cap-01-0029",
+      "type": "paragraph",
+      "text": "A cerveja chegou, acompanhada das batatas. Eduarda comeu rápido, percebendo o quanto estava faminta. A ansiedade lhe roubara o apetite durante horas, deixando no lugar apenas um nó na garganta e o estômago revirado."
+    },
+    {
+      "id": "cap-01-0030",
+      "type": "paragraph",
+      "text": "Observou o copo já pela metade, as gotículas escorrendo lentamente pelo vidro."
+    },
+    {
+      "id": "cap-01-0031",
+      "type": "paragraph",
+      "text": "Suspirou."
+    },
+    {
+      "id": "cap-01-0032",
+      "type": "paragraph",
+      "text": "O que estava fazendo ali?"
+    },
+    {
+      "id": "cap-01-0033",
+      "type": "paragraph",
+      "text": "Gerluce era sua melhor amiga. Nunca mentiria sobre algo assim. Mesmo assim… por que aquela desconfiança agora?"
+    },
+    {
+      "id": "cap-01-0034",
+      "type": "paragraph",
+      "text": "No fundo, Eduarda sabia: queria provar que todos estavam errados. Gerluce, seus pais, quem quer que fosse. Isabella jamais faria aquilo com ela."
+    },
+    {
+      "id": "cap-01-0035",
+      "type": "paragraph",
+      "text": "Decidiu ir embora."
+    },
+    {
+      "id": "cap-01-0036",
+      "type": "paragraph",
+      "text": "Não havia motivo para continuar ali. Isabella nunca lhe deu razões para desconfiança. Diria a Gerluce que nada aconteceu, que tudo não passou de uma paranoia e dinheiro jogado fora."
+    },
+    {
+      "id": "cap-01-0037",
+      "type": "paragraph",
+      "text": "Enfiou a mão no bolso do jeans e puxou uma nota de cem reais amassada, colocando-a sobre a mesa. Estava prestes a se levantar quando a porta se abriu."
+    },
+    {
+      "id": "cap-01-0038",
+      "type": "paragraph",
+      "text": "O sino tocou, alto e agudo."
+    },
+    {
+      "id": "cap-01-0039",
+      "type": "paragraph",
+      "text": "Mas não tão agudo quanto a risada que o acompanhou. A risada que fez o estômago de Eduarda gelar e se embrulhar."
+    },
+    {
+      "id": "cap-01-0040",
+      "type": "paragraph",
+      "text": "A garota que entrou era loira e usava um vestido azul com estampa de flores, que combinava com o coturno preto. Estava de mãos dadas com um homem forte, de cavanhaque, um boné azul enfiado nos cabelos pretos oleosos."
+    },
+    {
+      "id": "cap-01-0041",
+      "type": "paragraph",
+      "text": "A garota ficou na ponta dos pés e lhe deu um beijo apaixonado antes de sentarem do outro lado do salão."
+    },
+    {
+      "id": "cap-01-0042",
+      "type": "paragraph",
+      "text": "Eduarda ficou alguns segundos paralisada, a mão ainda sobre a mesa, metade do corpo ainda fora do assento, metade presa a ele. As mãos tremiam. O chão parecia instável, quase fofo. O coração batia errado, doloroso."
+    },
+    {
+      "id": "cap-01-0043",
+      "type": "paragraph",
+      "text": "Tinha certeza de que seus lábios estavam brancos. O suor frio escorria pelo rosto."
+    },
+    {
+      "id": "cap-01-0044",
+      "type": "paragraph",
+      "text": "Sentou-se de novo e respirou fundo, tentando conter a mistura violenta de fúria e dor."
+    },
+    {
+      "id": "cap-01-0045",
+      "type": "paragraph",
+      "text": "Pensou em levantar, gritar, causar uma cena."
+    },
+    {
+      "id": "cap-01-0046",
+      "type": "paragraph",
+      "text": "Xingá-la."
+    },
+    {
+      "id": "cap-01-0047",
+      "type": "paragraph",
+      "text": "Dizer tudo o que estava entalado na garganta."
+    },
+    {
+      "id": "cap-01-0048",
+      "type": "paragraph",
+      "text": "Não. Não faria isso."
+    },
+    {
+      "id": "cap-01-0049",
+      "type": "paragraph",
+      "text": "Pegou o celular e, com movimentos rápidos, tirou três fotos: Isabella beijando o rosto do homem, os dois rindo e então ele beijando seus lábios."
+    },
+    {
+      "id": "cap-01-0050",
+      "type": "paragraph",
+      "text": "Como Eduarda costumava fazer."
+    },
+    {
+      "id": "cap-01-0051",
+      "type": "paragraph",
+      "text": "Há quanto tempo aquilo vinha acontecendo?"
+    },
+    {
+      "id": "cap-01-0052",
+      "type": "paragraph",
+      "text": "Sentiu nojo. Mais do que raiva."
+    },
+    {
+      "id": "cap-01-0053",
+      "type": "paragraph",
+      "text": "Dessa vez se levantou por completo, e novamente a senhora que havia a atendido correu até ela, quem sabe pensando que Eduarda dessa vez compraria uma garrafa inteira de whisky garantindo uma ótima gorjeta."
+    },
+    {
+      "id": "cap-01-0054",
+      "type": "paragraph",
+      "text": "— Você quer mais alguma coisa ? — Perguntou, os olhinhos de contas indo de Eduarda para o cardápio."
+    },
+    {
+      "id": "cap-01-0055",
+      "type": "paragraph",
+      "text": "Eduarda meneou a cabeça. Apanhou a nota amassada e enfiou nas mãos da senhora."
+    },
+    {
+      "id": "cap-01-0056",
+      "type": "paragraph",
+      "text": "— Essa é sua gorjeta. A conta, pode mandar para aquela mesa. — Indicou o casal que agora se abraçava. — Só me faz um favor?"
+    },
+    {
+      "id": "cap-01-0057",
+      "type": "paragraph",
+      "text": "A senhora assentiu, atenta."
+    },
+    {
+      "id": "cap-01-0058",
+      "type": "paragraph",
+      "text": "— Cobre o mais caro possível deles dois. E diga que Eduarda Fragoso mandou lembranças."
+    },
+    {
+      "id": "cap-01-0059",
+      "type": "paragraph",
+      "text": "Deu as costas, parou à porta e encarou novamente o casal que parecia feliz, seu coração sendo esticado e rasgado a cada segundo."
+    },
+    {
+      "id": "cap-01-0060",
+      "type": "paragraph",
+      "text": "Por um momento, Isabella virou o rosto, seus olhos se encontrando naquela curta distância, os verdes nos castanhos. Como tantas vezes antes havia acontecido. Mas dessa vez, Eduarda sentiu o vazio e um gosto metálico na boca."
+    },
+    {
+      "id": "cap-01-0061",
+      "type": "paragraph",
+      "text": "Abaixou a aba do boné como um cumprimento, e saiu porta afora, os sinos a acompanhando."
+    },
+    {
+      "id": "cap-01-0062",
+      "type": "paragraph",
+      "text": "Dirigiu sem música desta vez, concentrada na estrada, tentando não pensar no que acabara de ver."
+    },
+    {
+      "id": "cap-01-0063",
+      "type": "paragraph",
+      "text": "A vergonha em admitir a Gerluce e sua família que eles estavam certos, a dor de ser traída, de todos os planos jogados no lixo."
+    },
+    {
+      "id": "cap-01-0064",
+      "type": "paragraph",
+      "text": "Eduarda parou no acostamento. Não conseguiria seguir em frente, e pensava, não somente naquela estrada."
+    },
+    {
+      "id": "cap-01-0065",
+      "type": "paragraph",
+      "text": "Abaixou a cabeça apoiando as mãos no volante, e as lágrimas vieram. Quentes, primeiro timidamente como se estivessem pedindo permissão, mas logo em seguida estava soluçando."
+    },
+    {
+      "id": "cap-01-0066",
+      "type": "paragraph",
+      "text": "Eduarda Fragoso jurou por tudo que nunca mais alguém machucaria seu coração daquela maneira."
+    },
+    {
+      "id": "cap-01-0067",
+      "type": "paragraph",
+      "text": "Naquele dia, ela ainda não sabia que algumas promessas não foram feitas para serem cumpridas."
+    },
+    {
+      "id": "cap-01-0068",
+      "type": "paragraph",
+      "text": "Apenas adiadas."
+    }
+  ],
+  "notes": {
+    "before": [],
+    "after": []
+  }
+}

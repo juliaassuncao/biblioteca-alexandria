@@ -1,0 +1,2257 @@
+{
+  "id": "cap-10",
+  "blocks": [
+    {
+      "id": "cap-10-0001",
+      "type": "paragraph",
+      "text": "Não, não, não, não, não!",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Não, não, não, não, não!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0002",
+      "type": "paragraph",
+      "text": "— Samantha… Isso não pode estar acontecendo! Pelo amor de deus Samantha!"
+    },
+    {
+      "id": "cap-10-0003",
+      "type": "paragraph",
+      "text": "A amiga andava de um lado para o outro na pequena sala de Eduarda, a porta fechada e as cortinas de persianas também por precaução. A revista estava em cima da mesa da fotógrafa esquecida, como se tocar naquilo pudesse fazer com que o prédio inteiro explodisse."
+    },
+    {
+      "id": "cap-10-0004",
+      "type": "paragraph",
+      "text": "Na realidade era quase isso.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Na realidade era "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "quase"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " isso."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0005",
+      "type": "paragraph",
+      "text": "Eduarda encarava a tela do computador, as mãos na cabeça, a boca aberta sem nenhuma reação. Havia acabado de entrar nas redes sociais para ver se tinha mais alguma coisa a seu respeito e se arrependeu amargamente."
+    },
+    {
+      "id": "cap-10-0006",
+      "type": "paragraph",
+      "text": "No instagram, em sua página inicial um post de uma página chamada Fofoca dos famosos exibia uma sequência de fotos suas beijando Lorena Ferette em seu carro, em vários ângulos. Assim como a revista intocada na mesa.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "No "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "instagram"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", em sua página inicial um post de uma página chamada "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Fofoca dos famosos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " exibia uma sequência de fotos suas beijando Lorena Ferette em seu carro, em vários ângulos. Assim como a revista intocada na mesa."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0007",
+      "type": "paragraph",
+      "text": "10 mil reposts.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "10 mil "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "reposts"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0008",
+      "type": "paragraph",
+      "text": "15 mil likes.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "15 mil "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "likes"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0009",
+      "type": "paragraph",
+      "text": "3 mil comentários."
+    },
+    {
+      "id": "cap-10-0010",
+      "type": "paragraph",
+      "text": "Entrou no twitter clicando na aba de busca, onde nos trend topics o nome Lorena Ferette e Looking Great Magazine estavam no “assuntos do momento.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Entrou no twitter clicando na aba de busca, onde nos "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "trend topics"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " o nome "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena Ferette"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " e "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Looking Great Magazine"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " estavam no “assuntos do momento.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0011",
+      "type": "paragraph",
+      "text": "— Olha essa merda Samantha! Olha isso!"
+    },
+    {
+      "id": "cap-10-0012",
+      "type": "paragraph",
+      "text": "Clicou em uma das muitas fotos expandindo para ler os comentários."
+    },
+    {
+      "id": "cap-10-0013",
+      "type": "paragraph",
+      "text": "@gsampaio23: Eu não acredito que Lorena Ferette é do vale!!! que deliciaaaaaa",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "@"
+            }
+          ]
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "gsampaio23"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": ":"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu não acredito que Lorena Ferette é do vale!!! que deliciaaaaaa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0014",
+      "type": "paragraph",
+      "text": "@falagiogio: Off: queria ser essa ruiva",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@falagiogio:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Off: queria ser essa ruiva"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0015",
+      "type": "paragraph",
+      "text": "@indiansummer_ : isso tá na cara que é marketing muito conveniente “ vazarem” isso agora nao acham?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@indiansummer_ :"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "isso tá na cara que é marketing muito conveniente “ vazarem” isso"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "agora nao acham?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0016",
+      "type": "paragraph",
+      "text": "@vivitalima: eu quero que santiago e leonardo ferette se explodam e que essa revista entre em falência ta na cara que isso é puro oportunismo",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@vivitalima:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "eu quero que santiago e leonardo ferette se explodam e que essa revista entre"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "em falência ta na cara que isso é puro oportunismo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0017",
+      "type": "paragraph",
+      "text": "@fefalizando: muito conveniente hein choquei quanto que os ferretes te pagaram pra isso?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@fefalizando:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "muito conveniente hein choquei quanto que os ferretes te pagaram pra isso?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0018",
+      "type": "paragraph",
+      "text": "Eduarda passou comentário por comentário, alguns xingavam os Ferettes , alguns diziam que ela tinha sorte por beijar Lorena, mas a grande maioria batiam na tecla de ser marketing. Tudo ter sido milimetricamente calculado para limpar a barra da família e retomar os negócios de um dos maiores impérios jornalísticos do Brasil."
+    },
+    {
+      "id": "cap-10-0019",
+      "type": "paragraph",
+      "text": "Samantha andava de um lado para o outro ainda sem dizer nada, o que Eduarda considerou um indicativo da situação realmente estar muito ruim.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Samantha andava de um lado para o outro ainda sem dizer nada, o que Eduarda considerou um indicativo da situação realmente estar "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "muito"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " ruim."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0020",
+      "type": "paragraph",
+      "text": "Continuou rolando a timeline, já havia visto tantas vezes as benditas fotos que mesmo que fechasse os olhos elas ainda estariam ali gravadas em sua retina.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Continuou rolando a "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "timeline,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " já havia visto tantas vezes as benditas fotos que mesmo que fechasse os olhos elas ainda estariam ali gravadas em sua retina."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0021",
+      "type": "paragraph",
+      "text": "— Samantha caralho que porra é essa!?"
+    },
+    {
+      "id": "cap-10-0022",
+      "type": "paragraph",
+      "text": "A amiga suspirou, e se aproximou de Eduarda ficando por trás da amiga olhando a tela do computador."
+    },
+    {
+      "id": "cap-10-0023",
+      "type": "paragraph",
+      "text": "Leu alguns comentários ofensivos, bufando indignada."
+    },
+    {
+      "id": "cap-10-0024",
+      "type": "paragraph",
+      "text": "— Ta, Duda, seguinte ainda não sabem quem é você. Por enquanto é uma ruiva qualquer, nada demais. A bomba é com a Lorena não contigo."
+    },
+    {
+      "id": "cap-10-0025",
+      "type": "paragraph",
+      "text": "Mas nada na vida de Eduarda Fragoso funcionava como deveria."
+    },
+    {
+      "id": "cap-10-0026",
+      "type": "paragraph",
+      "text": "Eduarda sempre soube que nunca fora uma pessoa de sorte, daquelas que conseguem a melhor vaga no estacionamento, acham dinheiro no chão ou que conseguem comprar o último cinnamon roll quentinho da bakeburn que amava. Às vezes, parecia que ela havia sido escolhida a dedo pela lei de Murphy para atestar a sua veracidade.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Eduarda sempre soube que nunca fora uma pessoa de sorte, daquelas que conseguem a melhor vaga no estacionamento, acham dinheiro no chão ou que conseguem comprar o último "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "cinnamon roll"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " quentinho da "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "bakeburn"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que amava. Às vezes, parecia que ela havia sido escolhida a dedo pela lei de "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Murphy"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " para atestar a sua veracidade."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0027",
+      "type": "paragraph",
+      "text": "Tudo o que pudesse dar errado, daria.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Tudo o que pudesse dar errado, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "daria."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0028",
+      "type": "paragraph",
+      "text": "E como se o universo tivesse de fato ouvido Samantha Lambertini, naquela sala, em plena segunda-feira nublada, Eduarda se deparou com a postagem que fez seu sangue gelar:"
+    },
+    {
+      "id": "cap-10-0029",
+      "type": "paragraph",
+      "text": "@lovelikegirl: gente eu achei o perfil dela! ela é fotógrafa e trabalha com a lorena!!!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@lovelikegirl:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "gente eu achei o perfil dela! ela é fotógrafa e trabalha com a lorena!!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0030",
+      "type": "paragraph",
+      "text": "Abaixo um print de seu perfil no Instagram, com duas fotos suas."
+    },
+    {
+      "id": "cap-10-0031",
+      "type": "paragraph",
+      "text": "— Puta que…"
+    },
+    {
+      "id": "cap-10-0032",
+      "type": "paragraph",
+      "text": "— Pariu. - Samantha completou. — Quem é essa vagabunda… - Apertou os olhos para ler o user de quem havia postado. — Love like girl desgraçada eu vou te achar e raspar sua cabeça!",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Pariu. - Samantha completou. — Quem é essa vagabunda… - Apertou os olhos para ler o user de quem havia postado. — "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Love like girl"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " desgraçada eu vou te achar e raspar sua cabeça!"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0033",
+      "type": "paragraph",
+      "text": "— Meu deus Samantha, meu deus! Olha a porra do alcance dessa merda!"
+    },
+    {
+      "id": "cap-10-0034",
+      "type": "paragraph",
+      "text": "Clicou nos comentários da postagem."
+    },
+    {
+      "id": "cap-10-0035",
+      "type": "paragraph",
+      "text": "@mayalovesliam: pra que essa exposição? a garota nao tem nada a ver com os nojentos dos ferette",
+      "segments": [
+        {
+          "type": "text",
+          "text": "@"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "mayalovesliam:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pra que essa exposição? a garota nao tem nada a ver com os nojentos dos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ferette"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0036",
+      "type": "paragraph",
+      "text": "@fefazilando: ah claro vc acha mesmo que essa ai nao ta tirando uma casquinha da Lorena? trabalha com ela logo ela aparece como diretora de fotografia",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@fefazilando:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ah claro vc acha mesmo que essa ai nao ta tirando uma casquinha da Lorena?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "trabalha com ela logo ela aparece como diretora de fotografia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0037",
+      "type": "paragraph",
+      "text": "@mayalovesliam: vcs sao ridiculas! a lorena sempre foi discreta sempre ajudou varias ongs lgbtqiapn+ ao contrario do arrombado do irmão",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@mayalovesliam:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "vcs sao ridiculas! a lorena sempre foi discreta sempre ajudou varias ongs"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "lgbtqiapn+ ao contrario do arrombado do irmão"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0038",
+      "type": "paragraph",
+      "text": "@mayalovesliam: vcs dizem admirar ela mas tao ai dando engajamento pra essas contas de fofoca denunciem e nao engajem!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@mayalovesliam:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "vcs dizem admirar ela mas tao ai dando engajamento pra essas contas de"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "fofoca denunciem e nao engajem!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0039",
+      "type": "paragraph",
+      "text": "@lovelikegirl: mas olha essa ruiva é um sabor",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@lovelikegirl:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mas olha essa ruiva é um sabor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0040",
+      "type": "paragraph",
+      "text": "@fefalizando: ela eh uma aproveitadora junto com a lorena ferette por mim boicotava todos eles!!!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@fefalizando"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": ": ela eh uma aproveitadora junto com a lorena ferette por mim boicotava todos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "eles!!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0041",
+      "type": "paragraph",
+      "text": "@vivitalima: deixem a lorena e a garota fora disso elas nem devem saber o que aconteceu vcs gostam de dar palco pra desconhecido tbm ne",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@vivitalima:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "deixem a lorena e a garota fora disso elas nem devem saber o que aconteceu"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "vcs gostam de dar palco pra desconhecido tbm ne"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0042",
+      "type": "paragraph",
+      "text": "Chega, era demais pra ela."
+    },
+    {
+      "id": "cap-10-0043",
+      "type": "paragraph",
+      "text": "Eduarda abaixou a tela do notebook com agressividade, passou a mão nos cabelos nervosa."
+    },
+    {
+      "id": "cap-10-0044",
+      "type": "paragraph",
+      "text": "Onde caralhos ela havia se metido tudo por um beijo!",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Onde caralhos ela havia se metido tudo por um "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "beijo!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0045",
+      "type": "paragraph",
+      "text": "Ficaram em silêncio, Eduarda ainda encarava o notebook fechado estática, a cabeça a milhão uma enxurrada de pensamentos se atropelando."
+    },
+    {
+      "id": "cap-10-0046",
+      "type": "paragraph",
+      "text": "Depois de alguns minutos que mais pareceram horas Samantha disse:"
+    },
+    {
+      "id": "cap-10-0047",
+      "type": "paragraph",
+      "text": "— Olha, eu gostei dessa garota aí que te defendeu tá, a outra eu ainda vou arrastar a cara dela no asfalto até sair foguinho e eu dizer: Hot Wheels vai encarar?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Olha, eu gostei dessa garota aí que te defendeu tá, a outra eu ainda vou arrastar a cara dela no asfalto até sair foguinho e eu dizer: "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Hot Wheels vai encarar?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0048",
+      "type": "paragraph",
+      "text": "Eduarda se virou para a amiga ainda estática."
+    },
+    {
+      "id": "cap-10-0049",
+      "type": "paragraph",
+      "text": "— Samantha eles acharam a merda do meu perfil. O que eu vou fazer?"
+    },
+    {
+      "id": "cap-10-0050",
+      "type": "paragraph",
+      "text": "— Duda não tem o que fazer, vazou, não é como se…",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Duda "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "não tem"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " o que fazer, vazou, não é como se…"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0051",
+      "type": "paragraph",
+      "text": "— Sam eu posso perder meu emprego! - Eduarda interrompeu a amiga. — Minha vida pessoal ta sendo exposta! Meu deus! O que eu vou fazer!?"
+    },
+    {
+      "id": "cap-10-0052",
+      "type": "paragraph",
+      "text": "Se levantou num rompante assustando a amiga que deu um pulo. A ruiva colocou as mãos nos cabelos como se quisesse arrancá-los e estava realmente começando a preocupar Samantha."
+    },
+    {
+      "id": "cap-10-0053",
+      "type": "paragraph",
+      "text": "— Se eu perder meu emprego por isso vou ser queimada em qualquer outra revista! Minha carreira acabou! E vou ter que voltar a morar na casa do caralho terminar a faculdade de direito e trabalhar com meu pai! Meu deus!!",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Se eu perder meu emprego por "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "isso"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " vou ser queimada em qualquer outra revista! Minha carreira acabou! E vou ter que voltar a morar na casa do caralho terminar a faculdade de direito e trabalhar com meu pai! Meu deus!!"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0054",
+      "type": "paragraph",
+      "text": "— Duda se acalma, você não tá pensando direito respira…"
+    },
+    {
+      "id": "cap-10-0055",
+      "type": "paragraph",
+      "text": "— RESPIRAR!? COMO EU VOU RESPIRAR SE…"
+    },
+    {
+      "id": "cap-10-0056",
+      "type": "paragraph",
+      "text": "— CALMA!"
+    },
+    {
+      "id": "cap-10-0057",
+      "type": "paragraph",
+      "text": "— Eu já sei! Já sei! Eu vou vender tudo e vou pra Groenlândia viver com os pinguins! -Encarou a amiga com os olhos alucinados. — Tem pinguins na Groenlândia? Eu posso…",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Eu já sei! Já "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sei"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "! Eu vou vender tudo e vou pra Groenlândia viver com os pinguins! -Encarou a amiga com os olhos alucinados. — Tem pinguins na Groenlândia? Eu posso…"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0058",
+      "type": "paragraph",
+      "text": "— Eduarda !"
+    },
+    {
+      "id": "cap-10-0059",
+      "type": "paragraph",
+      "text": "Samantha segurou os dois braços da amiga virando-a de frente."
+    },
+    {
+      "id": "cap-10-0060",
+      "type": "paragraph",
+      "text": "— Agora respira."
+    },
+    {
+      "id": "cap-10-0061",
+      "type": "paragraph",
+      "text": "Ela respirou, uma, duas vezes, três vezes…"
+    },
+    {
+      "id": "cap-10-0062",
+      "type": "paragraph",
+      "text": "— Isso, assim devagar. De novo."
+    },
+    {
+      "id": "cap-10-0063",
+      "type": "paragraph",
+      "text": "Ela repetiu, contando até cinco e soltando devagar."
+    },
+    {
+      "id": "cap-10-0064",
+      "type": "paragraph",
+      "text": "— Você não vai pra Groenlândia, pelo amor de deus eu nem sei onde fica isso! Se acalma. Você precisa pensar em resolver isso!"
+    },
+    {
+      "id": "cap-10-0065",
+      "type": "paragraph",
+      "text": "— Como eu vou resolver isso?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Como"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " eu vou resolver isso?"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0066",
+      "type": "paragraph",
+      "text": "— Primeiro priva suas contas. Depois conversa com a Lorena."
+    },
+    {
+      "id": "cap-10-0067",
+      "type": "paragraph",
+      "text": "Conversar com a Lorena.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Conversar com a Lorena."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0068",
+      "type": "paragraph",
+      "text": "— E eu vou falar o que pra ela!? “Oi Lorena então sabe o beijo que a gente deu? O Brasil inteiro sabe disso, acharam meu perfil e tão me chamando de oportunista e interesseira, ah legal já tomou café”?"
+    },
+    {
+      "id": "cap-10-0069",
+      "type": "paragraph",
+      "text": "Samantha revirou os olhos."
+    },
+    {
+      "id": "cap-10-0070",
+      "type": "paragraph",
+      "text": "— Tá, não assim , mas se você ta assim imagina ela? Com a família que tem.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Tá, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "não assim ,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " mas se você ta assim imagina ela? Com a família que tem."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0071",
+      "type": "paragraph",
+      "text": "Eduarda ficou em silêncio por um momento pensando nas palavras da amiga."
+    },
+    {
+      "id": "cap-10-0072",
+      "type": "paragraph",
+      "text": "Samantha realmente tinha um ponto. Ela fora chamada de oportunista, aproveitadora, mas Lorena estava sendo chamada de coisa pior por atitudes que nem diziam respeito à ela.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Samantha realmente tinha um ponto. Ela fora chamada de oportunista, aproveitadora, mas Lorena estava sendo chamada de coisa pior por atitudes que nem diziam respeito à "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ela."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0073",
+      "type": "paragraph",
+      "text": "Isso Eduarda se sentiu incomodada, mesmo sem saber exatamente o motivo. Ela não era aquela pessoa que estavam falando nos comentários. Ela era doce, engraçada, inteligente. Ela não tinha nenhuma gota do sangue dos Ferettes.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Isso Eduarda se sentiu incomodada, mesmo sem saber exatamente o motivo. Ela não era aquela pessoa que estavam falando nos comentários. Ela era doce, engraçada, inteligente. Ela não tinha nenhuma gota do sangue dos "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ferettes"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0074",
+      "type": "paragraph",
+      "text": "Aos poucos foi se acalmando. As mãos ainda tremiam mas a mente estava mais calma, os pensamentos começando a se organizar aos poucos."
+    },
+    {
+      "id": "cap-10-0075",
+      "type": "paragraph",
+      "text": "Apanhou o celular do bolso que agora mostravam centenas de notificações de novos seguidores no Instagram. Acessou sua conta, e em configurações privou seu perfil."
+    },
+    {
+      "id": "cap-10-0076",
+      "type": "paragraph",
+      "text": "Em seguida voltou a conversa com Lorena Ferette, e digitou uma única mensagem:"
+    },
+    {
+      "id": "cap-10-0077",
+      "type": "paragraph",
+      "text": "Eduarda: Precisamos conversar.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eduarda:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Precisamos conversar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0078",
+      "type": "divider",
+      "text": "*",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "*"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0079",
+      "type": "paragraph",
+      "text": "Quando recebeu a mensagem de Eduarda, nada preparou Lorena para o que veio a seguir."
+    },
+    {
+      "id": "cap-10-0080",
+      "type": "paragraph",
+      "text": "Maggye depois de se certificar que ela estava bem, saiu de sua sala prometendo voltar em breve com um café e aquele cinammon roll que ela amava.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Maggye depois de se certificar que ela estava bem, saiu de sua sala prometendo voltar em breve com um café e aquele "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "cinammon roll"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que ela amava."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0081",
+      "type": "paragraph",
+      "text": "Lorena estava ansiosa, nervosa e impaciente. A qualquer momento Eduarda Fragoso apareceria em sua sala, e tinha medo do que a ruiva poderia dizer mas no fundo sabia que ela era sim culpada por quaisquer acusações que saíssem da boca da fotógrafa."
+    },
+    {
+      "id": "cap-10-0082",
+      "type": "paragraph",
+      "text": "Havia respondido a mensagem dizendo para que viesse até sua sala para que pudessem conversar e desde então estava rodando em círculos pela sua sala tal qual o pião da casa própria."
+    },
+    {
+      "id": "cap-10-0083",
+      "type": "paragraph",
+      "text": "Três batidas e a porta foi aberta."
+    },
+    {
+      "id": "cap-10-0084",
+      "type": "paragraph",
+      "text": "Eduarda Fragoso não esperou receber permissão para entrar, apenas deixou a porta de madeira bater em suas costas com um barulho suave e se encaminhou para a mesa de Lorena."
+    },
+    {
+      "id": "cap-10-0085",
+      "type": "paragraph",
+      "text": "Mantinha a cabeça baixa, e quando a ergueu para encarar Lorena , a mandíbula estava trincada. Trazia na mão uma revista enrolada que colocou em cima da mesa."
+    },
+    {
+      "id": "cap-10-0086",
+      "type": "paragraph",
+      "text": "Ela respirou fundo, prendendo os olhos em Lorena. Ficaram em silêncio por alguns segundos, Eduarda com a mandíbula trincada, Lorena com o coração acelerado, as mãos trêmulas. Tinha ciência de que seus olhos estavam inchados e provavelmente sua maquiagem borrada, mas não se importou."
+    },
+    {
+      "id": "cap-10-0087",
+      "type": "paragraph",
+      "text": "Nada mais ali importava."
+    },
+    {
+      "id": "cap-10-0088",
+      "type": "paragraph",
+      "text": "Eduarda pigarreou."
+    },
+    {
+      "id": "cap-10-0089",
+      "type": "paragraph",
+      "text": "— Primeiro de tudo, eu queria saber como você está… Digo… - Apontou para a revista que deixou na mesa, a foto das duas com a legenda em letras garrafais. — Com isso. Você está bem?"
+    },
+    {
+      "id": "cap-10-0090",
+      "type": "paragraph",
+      "text": "Lorena abriu e fechou a boca. Tentou falar mas sentiu de novo a garganta apertar e os olhos queimarem."
+    },
+    {
+      "id": "cap-10-0091",
+      "type": "paragraph",
+      "text": "De tudo, era isso que Eduarda queria saber? Se ela estava bem?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "De tudo, era "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "isso"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que Eduarda queria saber? Se "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ela"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " estava bem?"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0092",
+      "type": "paragraph",
+      "text": "As lágrimas voltaram, escorrendo dos olhos e descendo pelo queixo. Lorena soltou um riso choroso, passou as mãos pelos cabelos enquanto voltava a andar em círculos."
+    },
+    {
+      "id": "cap-10-0093",
+      "type": "paragraph",
+      "text": "— Se eu estou bem Eduarda?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Se "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "eu"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " estou bem Eduarda?"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0094",
+      "type": "paragraph",
+      "text": "A ruiva se aproximou fazendo o mesmo que Samantha fez com ela minutos atrás: A segurou pelos braços gentilmente para que parasse. Em seguida aproximou as mãos e secou as lágrimas que insistiam em cair."
+    },
+    {
+      "id": "cap-10-0095",
+      "type": "paragraph",
+      "text": "— Ei, calma. - Começou em voz baixa. — Lorena, vai ficar tudo bem. Sério. Essas pessoas são idiotas você não é nada disso que…"
+    },
+    {
+      "id": "cap-10-0096",
+      "type": "paragraph",
+      "text": "Lorena se desvencilhou de Eduarda contra a vontade. Não podia suportar que ela a tratasse bem quando sabia que ela havia sido exposta. Ela tinha visto o que as pessoas estavam falando dela. Chamando Eduarda de oportunista, de alpinista social, e várias outras coisas ruins. E tudo o que ela queria saber era se Lorena estava bem.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena se desvencilhou de Eduarda contra a vontade. Não podia suportar que ela a tratasse bem quando sabia que ela havia sido exposta. Ela tinha visto o que as pessoas estavam falando "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "dela."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Chamando Eduarda de oportunista, de alpinista social, e várias outras coisas ruins. E tudo o que ela queria saber era se Lorena estava bem."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0097",
+      "type": "paragraph",
+      "text": "Ela não merecia a compaixão de Eduarda."
+    },
+    {
+      "id": "cap-10-0098",
+      "type": "paragraph",
+      "text": "Novamente sentiu um ódio avassalador pelo pai e pelo irmão, e foi isso mais do que qualquer outra coisa, fez com que tomasse a decisão mais impulsiva que teve até então:"
+    },
+    {
+      "id": "cap-10-0099",
+      "type": "paragraph",
+      "text": "— Eu fiz isso."
+    },
+    {
+      "id": "cap-10-0100",
+      "type": "paragraph",
+      "text": "Eduarda a encarou, franzindo o cenho como se não tivesse entendido muito bem o que ela disse."
+    },
+    {
+      "id": "cap-10-0101",
+      "type": "paragraph",
+      "text": "— Como…?"
+    },
+    {
+      "id": "cap-10-0102",
+      "type": "paragraph",
+      "text": "— Eu causei isso Eduarda. - Soltou de uma vez secando as lágrimas. Caminhou até o sofá e se atirou suspirando. — Eu fiz a gente ser exposta. É minha culpa."
+    },
+    {
+      "id": "cap-10-0103",
+      "type": "paragraph",
+      "text": "A fotógrafa a encarava boquiaberta, estática. Lorena quase podia ver as engrenagens em sua cabeça funcionando tentando conectar o que Lorena havia dito."
+    },
+    {
+      "id": "cap-10-0104",
+      "type": "paragraph",
+      "text": "— Isso não faz sentido Lorena, sua família é complicada você não…"
+    },
+    {
+      "id": "cap-10-0105",
+      "type": "paragraph",
+      "text": "— Justamente por isso Eduarda. - Lorena respirou fundo. Ergueu os olhos encarando a mulher à sua frente, linda, imponente. E se forçou a contar a verdade.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Justamente por "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "isso"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Eduarda. - Lorena respirou fundo. Ergueu os olhos encarando a mulher à sua frente, linda, imponente. E se forçou a contar a verdade."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0106",
+      "type": "paragraph",
+      "text": "Não porque Lorena fosse nobre. Mas porque aquilo fugiu do controle. Porque Eduarda havia sido exposta de formas que ela não imaginou que seria."
+    },
+    {
+      "id": "cap-10-0107",
+      "type": "paragraph",
+      "text": "E porque ela precisava de ajuda."
+    },
+    {
+      "id": "cap-10-0108",
+      "type": "paragraph",
+      "text": "— Eu fui obrigada Eduarda. Eu literalmente assinei que não poderia falar sobre isso com ninguém, mas eu sou uma boca de sacola e to te contando isso."
+    },
+    {
+      "id": "cap-10-0109",
+      "type": "paragraph",
+      "text": "Eduarda caminhou até a janela de Lorena, e a abriu. Sem pedir permissão, sacou um cigarro do maço e acendeu. Deu um longo trago soltando a fumaça."
+    },
+    {
+      "id": "cap-10-0110",
+      "type": "paragraph",
+      "text": "Certo, Lorena merecia isso. Não reclamaria do cheiro que empestiaria sua sala, mas se controlou para não acender um incenso de paz interior."
+    },
+    {
+      "id": "cap-10-0111",
+      "type": "paragraph",
+      "text": "Se levantou e sentou em sua cadeira, próxima de Eduarda."
+    },
+    {
+      "id": "cap-10-0112",
+      "type": "paragraph",
+      "text": "— Certo, prossiga. Como exatamente você foi obrigada e o que eu tenho a ver com isso?"
+    },
+    {
+      "id": "cap-10-0113",
+      "type": "paragraph",
+      "text": "Lorena respirou fundo, encarando as mãos que tremiam."
+    },
+    {
+      "id": "cap-10-0114",
+      "type": "paragraph",
+      "text": "— Você viu o que o idiota do meu irmão fez. Meu pai me ameaçou, e eu fiz um contrato com ele."
+    },
+    {
+      "id": "cap-10-0115",
+      "type": "paragraph",
+      "text": "Eduarda tragou novamente, bateu as cinzas no batente da janela e soltou a fumaça lentamente."
+    },
+    {
+      "id": "cap-10-0116",
+      "type": "paragraph",
+      "text": "— Tá, que tipo de contrato?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Tá, que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tipo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " de contrato?"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0117",
+      "type": "paragraph",
+      "text": "— Se eu fizesse isso, ganharia uma parte da empresa. Assim eu posso… Fugir. Deixar tudo pra trás."
+    },
+    {
+      "id": "cap-10-0118",
+      "type": "paragraph",
+      "text": "— E se não fizer ?"
+    },
+    {
+      "id": "cap-10-0119",
+      "type": "paragraph",
+      "text": "Lorena soltou um riso amargo."
+    },
+    {
+      "id": "cap-10-0120",
+      "type": "paragraph",
+      "text": "— Ele me deserda, acaba com a minha carreira. Tira tudo de mim. - Encarou Eduarda que estava impassível. — Olha não era para ser exatamente você. Mas aconteceu ok? Eu não sabia que isso sairia do controle assim Eduarda.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Ele me deserda, acaba com a minha carreira. Tira tudo de mim. - Encarou Eduarda que estava impassível. — Olha não era para ser exatamente "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "você."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Mas aconteceu ok? Eu não sabia que isso sairia do controle assim Eduarda."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0121",
+      "type": "paragraph",
+      "text": "— Você me usou, você me usou enquanto eu estou por aí sendo exposta no twitter sendo chamada de… De… Aproveitadora! E você sabia disso o tempo todo Lorena?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Você me usou, você me usou enquanto eu estou por aí sendo exposta no "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "twitter"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " sendo chamada de… De… Aproveitadora! E você sabia disso o tempo "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "todo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Lorena?"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0122",
+      "type": "paragraph",
+      "text": "— Não haja como se você também não tivesse me usado Eduarda, você só queria me levar para a cama!"
+    },
+    {
+      "id": "cap-10-0123",
+      "type": "paragraph",
+      "text": "— Isso é muito mais normal do que a porra da exposição que você me fez passar Lorena!"
+    },
+    {
+      "id": "cap-10-0124",
+      "type": "paragraph",
+      "text": "Lorena respirou fundo."
+    },
+    {
+      "id": "cap-10-0125",
+      "type": "paragraph",
+      "text": "— Eduarda, por favor, eu preciso manter isso por trinta dias. Se tudo der certo se a mídia comprar isso acaba em vinte e três dias. Senão o prazo prorroga."
+    },
+    {
+      "id": "cap-10-0126",
+      "type": "paragraph",
+      "text": "A ruiva soltou um riso nasal. Apagou a bituca no batente da janela e acendeu outro."
+    },
+    {
+      "id": "cap-10-0127",
+      "type": "paragraph",
+      "text": "— E eu pergunto de novo Lorena: O que eu tenho a ver com isso?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— E eu pergunto de novo Lorena: O que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "eu"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " tenho a ver com isso?"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0128",
+      "type": "paragraph",
+      "text": "Lorena passou as mãos pelos cabelos nervosa."
+    },
+    {
+      "id": "cap-10-0129",
+      "type": "paragraph",
+      "text": "— Eduarda me ajuda. Por favor, finge que a gente tá junto. Me ajuda a sair desse inferno, por favor."
+    },
+    {
+      "id": "cap-10-0130",
+      "type": "paragraph",
+      "text": "Eduarda a encarou por alguns instantes antes de soltar uma risada desacreditada."
+    },
+    {
+      "id": "cap-10-0131",
+      "type": "paragraph",
+      "text": "— Isso só pode ser brincadeira."
+    },
+    {
+      "id": "cap-10-0132",
+      "type": "paragraph",
+      "text": "— Eu tô falando muito sério."
+    },
+    {
+      "id": "cap-10-0133",
+      "type": "paragraph",
+      "text": "— Você quer que eu o quê? Finja que sou sua namorada? Que a gente ande de mãos dadas por aí, façamos pique nique no Ibiraquera só para alguns paparazzi nos flagrarem!?"
+    },
+    {
+      "id": "cap-10-0134",
+      "type": "paragraph",
+      "text": "— Tá não precisa ter o pique nique mas…"
+    },
+    {
+      "id": "cap-10-0135",
+      "type": "paragraph",
+      "text": "— Você só pode estar maluca Lorena! Isso é absurdo, tudo isso é absurdo!",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Você só pode estar maluca Lorena! Isso é absurdo, tudo "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "isso"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " é absurdo!"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0136",
+      "type": "paragraph",
+      "text": "— O que você quer ? Me fala Eduarda, quanto você quer ?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— O que você quer ? Me fala Eduarda, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "quanto"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " você quer ?"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0137",
+      "type": "paragraph",
+      "text": "Eduarda a encarou ofendida."
+    },
+    {
+      "id": "cap-10-0138",
+      "type": "paragraph",
+      "text": "— Eu não preciso de dinheiro Lorena!"
+    },
+    {
+      "id": "cap-10-0139",
+      "type": "paragraph",
+      "text": "Assim que respondeu, uma ideia maligna começou a plantar na mente perturbada de Eduarda Fragoso como folhas trepadeiras."
+    },
+    {
+      "id": "cap-10-0140",
+      "type": "paragraph",
+      "text": "Lorena precisava da sua ajuda."
+    },
+    {
+      "id": "cap-10-0141",
+      "type": "paragraph",
+      "text": "Ela precisava de uma namorada para apresentar a família e ter paz."
+    },
+    {
+      "id": "cap-10-0142",
+      "type": "paragraph",
+      "text": "E se…"
+    },
+    {
+      "id": "cap-10-0143",
+      "type": "paragraph",
+      "text": "Respirou fundo, encarando Lorena."
+    },
+    {
+      "id": "cap-10-0144",
+      "type": "paragraph",
+      "text": "— Mas…"
+    },
+    {
+      "id": "cap-10-0145",
+      "type": "paragraph",
+      "text": "A morena se ajeitou na cadeira esperançosa."
+    },
+    {
+      "id": "cap-10-0146",
+      "type": "paragraph",
+      "text": "— Vamos supor que se, apenas se, eu topar com essa idéia absurda, tem algo que eu quero.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Vamos supor que se, apenas "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "se"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", eu topar com essa idéia absurda, tem algo que eu quero."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0147",
+      "type": "paragraph",
+      "text": "— Fala. O que você quiser Eduarda.- A morena respondeu quase implorando."
+    },
+    {
+      "id": "cap-10-0148",
+      "type": "paragraph",
+      "text": "— Você vai fingir que está apaixonada por mim em um final de semana com a minha família. E que somos um casal que se ama e quer ter vinte filhos."
+    },
+    {
+      "id": "cap-10-0149",
+      "type": "paragraph",
+      "text": "— Você quer que minta para a sua família!? - Lorena perguntou incrédula."
+    },
+    {
+      "id": "cap-10-0150",
+      "type": "paragraph",
+      "text": "— Você quer que eu minta pro Brasil inteiro! É o mínimo!"
+    },
+    {
+      "id": "cap-10-0151",
+      "type": "paragraph",
+      "text": "Lorena respirou fundo, massageando as têmporas."
+    },
+    {
+      "id": "cap-10-0152",
+      "type": "paragraph",
+      "text": "— Tá, tá certo. Eu topo Eduarda. Mas você não pode falar para ninguém sobre isso, ninguém pode saber senão o contrato com meu pai já era."
+    },
+    {
+      "id": "cap-10-0153",
+      "type": "paragraph",
+      "text": "Eduarda revirou os olhos."
+    },
+    {
+      "id": "cap-10-0154",
+      "type": "paragraph",
+      "text": "— Quer que eu assine um também? - Perguntou sarcástica."
+    },
+    {
+      "id": "cap-10-0155",
+      "type": "paragraph",
+      "text": "— Não. Não precisa. Eu confio em você."
+    },
+    {
+      "id": "cap-10-0156",
+      "type": "paragraph",
+      "text": "Eduarda riu incrédula."
+    },
+    {
+      "id": "cap-10-0157",
+      "type": "paragraph",
+      "text": "— Agora tá. Me pede com jeitinho."
+    },
+    {
+      "id": "cap-10-0158",
+      "type": "paragraph",
+      "text": "Lorena a encarou de cenho franzido."
+    },
+    {
+      "id": "cap-10-0159",
+      "type": "paragraph",
+      "text": "— Pedir o quê Eduarda?"
+    },
+    {
+      "id": "cap-10-0160",
+      "type": "paragraph",
+      "text": "Um sorriso diabólico despontou dos lábios da fotógrafa. Ela apagou o restante do cigarro, e se virou ficando de frente para Lorena."
+    },
+    {
+      "id": "cap-10-0161",
+      "type": "paragraph",
+      "text": "— Pedir pra namorar com você ué. Anda. Pede com jeitinho.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Pedir pra namorar com você ué. Anda. Pede com "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "jeitinho"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0162",
+      "type": "paragraph",
+      "text": "Lorena fechou os olhos, respirou fundo invocando todas as forças profanas e malignas da terra para não mandar Eduarda se foder."
+    },
+    {
+      "id": "cap-10-0163",
+      "type": "paragraph",
+      "text": "Se perguntou como elas saíram do lovers para o quase enemies em menos de trinta e seis horas.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Se perguntou como elas saíram do "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "lovers"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " para o quase "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "enemies"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " em menos de trinta e seis horas."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0164",
+      "type": "paragraph",
+      "text": "— Você só pode estar brincando comigo Eduarda."
+    },
+    {
+      "id": "cap-10-0165",
+      "type": "paragraph",
+      "text": "— Não tô não, anda. Me pede em namoro Lorena."
+    },
+    {
+      "id": "cap-10-0166",
+      "type": "paragraph",
+      "text": "— Eu não vou me humilhar Eduarda, esquece."
+    },
+    {
+      "id": "cap-10-0167",
+      "type": "paragraph",
+      "text": "A ruiva deu de ombros ainda sorrindo."
+    },
+    {
+      "id": "cap-10-0168",
+      "type": "paragraph",
+      "text": "— Tá beleza, então vou me mandar, desmentir tudo no twitter e você que lide com seu contrato, tchau tchau!",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Tá beleza, então vou me mandar, desmentir tudo no "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "twitter"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " e você que lide com seu contrato, tchau tchau!"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0169",
+      "type": "paragraph",
+      "text": "— Não! Espera!"
+    },
+    {
+      "id": "cap-10-0170",
+      "type": "paragraph",
+      "text": "Lorena se levantou, Eduarda era alguns centímetros mais baixa que ela o que fez com que ela se sentisse um pouco superior naquele momento."
+    },
+    {
+      "id": "cap-10-0171",
+      "type": "paragraph",
+      "text": "Soltou o ar de uma vez."
+    },
+    {
+      "id": "cap-10-0172",
+      "type": "paragraph",
+      "text": "— Eduarda…"
+    },
+    {
+      "id": "cap-10-0173",
+      "type": "paragraph",
+      "text": "— Lorena…"
+    },
+    {
+      "id": "cap-10-0174",
+      "type": "paragraph",
+      "text": "— Namora comigo?"
+    },
+    {
+      "id": "cap-10-0175",
+      "type": "paragraph",
+      "text": "Eduarda bufou."
+    },
+    {
+      "id": "cap-10-0176",
+      "type": "paragraph",
+      "text": "— Credo cadê o romantismo Lorena? - O sorriso maligno aumentou. — Eu tenho certeza que você consegue fazer melhor que isso, anda!"
+    },
+    {
+      "id": "cap-10-0177",
+      "type": "paragraph",
+      "text": "Lorena revirou os olhos."
+    },
+    {
+      "id": "cap-10-0178",
+      "type": "paragraph",
+      "text": "— Eduarda, dudinha, você por favor, pelo amor e beleza que tem dentro de você, e por ser incrível e maravilhosa aceita namorar comigo?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Eduarda, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "dudinha,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " você por favor, pelo amor e beleza que tem dentro de você, e por ser incrível e maravilhosa aceita namorar comigo?"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0179",
+      "type": "paragraph",
+      "text": "— É disso que eu to falando!"
+    },
+    {
+      "id": "cap-10-0180",
+      "type": "paragraph",
+      "text": "Estendeu a mão segurando o queixo de Lorena, que fechou os olhos com o toque. Mesmo com raiva e parcialmente humilhada era impossível não sentir o arrepio que subiu por sua barriga relembrando a última vez que Eduarda fez isso com ela."
+    },
+    {
+      "id": "cap-10-0181",
+      "type": "paragraph",
+      "text": "A ruiva se aproximou, as respirações misturadas. Se inclinou e deixou um selinho lento nos lábios dela."
+    },
+    {
+      "id": "cap-10-0182",
+      "type": "paragraph",
+      "text": "— Até mais namorada.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Até mais "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "namorada"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0183",
+      "type": "paragraph",
+      "text": "E dito isso, Eduarda Fragoso se retirou da sala deixando para trás o rastro de seu perfume misturado com o cheiro de cigarro e um coração completamente acelerado."
+    },
+    {
+      "id": "cap-10-0184",
+      "type": "paragraph",
+      "text": "E ali Lorena Ferette soube que seus problemas estavam apenas começando."
+    }
+  ],
+  "notes": {
+    "before": [],
+    "after": []
+  }
+}

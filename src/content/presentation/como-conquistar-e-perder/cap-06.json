@@ -1,0 +1,25 @@
+{
+  "chapterId": "cap-06",
+  "groups": [
+    {
+      "type": "document",
+      "start": "cap-06-0005",
+      "end": "cap-06-0023",
+      "kind": "contract",
+      "signatureIds": [
+        "cap-06-0019",
+        "cap-06-0020"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0064",
+      "end": "cap-06-0064"
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0078",
+      "end": "cap-06-0078"
+    }
+  ]
+}

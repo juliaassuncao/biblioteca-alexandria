@@ -1,0 +1,20 @@
+{
+  "chapterId": "cap-25",
+  "groups": [
+    {
+      "type": "excerpt",
+      "start": "cap-25-0014",
+      "end": "cap-25-0018"
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0162",
+      "end": "cap-25-0162"
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0208",
+      "end": "cap-25-0208"
+    }
+  ]
+}

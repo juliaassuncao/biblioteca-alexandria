@@ -1,3 +1,4 @@
+import { signatureParts } from '../../services/document-signatures';
 import type { ChapterBlock } from '../../types/fanfic';
 import { isSafeReaderImage, isSafeReaderLink } from '../../utils/reader-links';
 import ChatBlock from '../ChatBlock';
@@ -10,9 +11,10 @@ import type { ChapterBodyContext, ChapterBodyProps } from './props';
 import { inlineContent } from './inline';
 import styles from './styles.module.scss';
 
-function renderBlock(block: ChapterBlock, context: ChapterBodyContext) {
+function renderBlock(block: ChapterBlock, context: ChapterBodyContext, signature = false) {
   switch (block.type) {
     case 'paragraph':
+      if (signature) { const { name, rest } = signatureParts(block); return <p className={`${styles.paragraph} ${styles.signature}`}><span>{name}</span>{inlineContent(rest)}</p>; }
       if (context === 'narrative' && /^\s*(?:#{3,}|(?:\*\s*){3,}|(?:~\s*){3,})\s*$/.test(block.text)) return <SceneDivider />;
       return <p className={styles.paragraph} style={{ textAlign: block.alignment }}>{inlineContent(block)}</p>;
     case 'heading': {
@@ -35,6 +37,6 @@ function renderBlock(block: ChapterBlock, context: ChapterBodyContext) {
     default: { const exhaustive: never = block; return exhaustive; }
   }
 }
-export default function ChapterBody({ blocks, context = 'narrative' }: ChapterBodyProps) {
-  return <div className={styles.body} data-context={context}>{blocks.map(block => <div className={styles.block} key={block.id} data-source-id={block.id}>{renderBlock(block, context)}</div>)}</div>;
+export default function ChapterBody({ blocks, context = 'narrative', signatureIds = [] }: ChapterBodyProps) {
+  return <div className={styles.body} data-context={context}>{blocks.map(block => <div className={styles.block} key={block.id} data-source-id={block.id}>{renderBlock(block, context, signatureIds.includes(block.id))}</div>)}</div>;
 }

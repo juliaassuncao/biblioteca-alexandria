@@ -1,7 +1,10 @@
 @use '../../styles/tokens' as t;
-.card { min-width:0; }
-.link { color:inherit; text-decoration:none; display:flex; flex-direction:column; height:100%; }
+.card { min-width:0; position:relative; display:flex; flex-direction:column; }
+.link { color:inherit; text-decoration:none; display:flex; flex-direction:column;  }
 .art { position:relative; padding:12px 10px 38px; background:#eae4da; border-radius:10px; margin-bottom:13px; transition:transform .22s ease; }
+.link::after { content:""; position:absolute; inset:0; z-index:1; }
+.author, .details { position:relative; z-index:2; }
+.details { color:inherit; margin-left:auto; }
 .link:hover .art {transform:translateY(-4px);}
 .openIcon { position:absolute; right:10px; bottom:5px; width:29px;height:29px; display:grid; place-items:center; border-radius:50%; background:#f9f3e7; color:t.$wine; box-shadow:0 3px 8px #0002; }
 .row { display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:5px; }

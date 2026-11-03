@@ -15,6 +15,7 @@ export function validatePresentation(value: unknown, chapterId: string, blocks: 
     lastEnd = end;
     if (blocks.slice(start, end + 1).some(block => block.type === 'divider')) errors.push('Apresentação não pode absorver separadores de cena');
     if (group.type === 'document' && !DOCUMENT_KINDS.includes(group.kind)) errors.push('Tipo de documento inválido');
+    if (group.signatureIds !== undefined && (group.type !== 'document' || group.kind !== 'contract' || !Array.isArray(group.signatureIds) || !group.signatureIds.every((id: unknown) => typeof id === 'string' && blocks.slice(start, end + 1).some(block => block.id === id && block.type === 'paragraph')))) errors.push('Assinaturas exigem parágrafos do próprio contrato');
     if (group.type === 'notice' && !['notice', 'notification', 'alert'].includes(group.kind)) errors.push('Tipo de comunicado inválido');
     if (group.senderIds !== undefined && (group.type !== 'chat' || !Array.isArray(group.senderIds) || !group.senderIds.every((id: unknown) => typeof id === 'string' && blocks.slice(start, end + 1).some(block => block.id === id && (block.type === 'paragraph' || block.type === 'heading'))))) errors.push('Identificação de remetente inválida');
   }
@@ -43,7 +44,7 @@ function wrapGroup(group: PresentationGroup, blocks: ChapterBlock[]): ChapterBlo
   switch (group.type) {
     case 'chat': return { id, type: 'chat', chatId: id, entries: chatEntries(blocks, group.senderIds ?? []) };
     case 'email': return { id, type: 'email', body: blocks };
-    case 'document': return { id, type: 'document', kind: group.kind as DocumentKind, body: blocks };
+    case 'document': return { id, type: 'document', kind: group.kind as DocumentKind, body: blocks, ...(group.signatureIds ? { signatureIds: group.signatureIds } : {}) };
     case 'notice': return { id, type: 'notice', kind: group.kind as 'notice' | 'notification' | 'alert', body: blocks };
     case 'excerpt': return { id, type: 'excerpt', body: blocks };
   }

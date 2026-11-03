@@ -12,6 +12,8 @@
   min-height: 75vh;
   padding: 1rem max(1rem, env(safe-area-inset-right))
     max(3rem, env(safe-area-inset-bottom)) max(1rem, env(safe-area-inset-left));
+  // Faixa lateral reservada para o botão, sem sobrepor texto ou navegação.
+  padding-right: calc(4.25rem + env(safe-area-inset-right, 0px));
   overflow-wrap: anywhere;
   &[data-theme="sepia"] {
     --reader-background: #f1e4cd;
@@ -39,6 +41,23 @@
     background: var(--reader-accent);
     color: var(--reader-background);
   }
+}
+.backToTop {
+  position: fixed;
+  right: max(.75rem, env(safe-area-inset-right));
+  bottom: max(1rem, env(safe-area-inset-bottom));
+  z-index: 20;
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  border: 1px solid var(--reader-border);
+  border-radius: 50%;
+  background: var(--reader-surface);
+  color: var(--reader-accent);
+  box-shadow: 0 3px 12px #0002;
+  cursor: pointer;
+  &:hover { border-color: var(--reader-accent); }
 }
 .shell {
   max-width: 72rem;

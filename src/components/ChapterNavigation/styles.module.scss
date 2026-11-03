@@ -9,5 +9,5 @@
   small { display: block; font-size: .65rem; color: var(--reader-muted); margin-bottom: .5rem; }
   strong { font: 500 clamp(1.25rem, 2.5vw, 1.6rem)/1.2 'Cormorant Garamond', Georgia, serif; }
 }
-.index { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .5rem 1.5rem; border-top: 1px solid var(--reader-border); padding-top: .75rem; a, button { display: inline-flex; align-items: center; min-height: 44px; padding: .5rem 0; font-size: .75rem; color: var(--reader-accent); background: none; border: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; } }
+.index { display: flex; justify-content: center; border-top: 1px solid var(--reader-border); padding-top: .75rem; button { display: inline-flex; align-items: center; gap: .5rem; min-height: 44px; padding: .5rem .75rem; font: inherit; font-size: .75rem; color: var(--reader-accent); background: none; border: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; } }
 @media(max-width: 420px) { .navigation { gap: 1rem; } .navigation a { gap: .4rem; } .navigation svg { width: 14px; } }

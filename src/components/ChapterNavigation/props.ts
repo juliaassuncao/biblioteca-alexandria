@@ -5,4 +5,5 @@ export interface ChapterNavigationProps {
   previous?: Chapter;
   next?: Chapter;
   onIndex: () => void;
+  indexOpen?: boolean;
 }

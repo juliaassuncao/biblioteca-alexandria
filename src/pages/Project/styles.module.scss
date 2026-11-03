@@ -1,0 +1,2 @@
+@use '../../styles/tokens' as t;
+.page { max-width:800px; padding-block:3rem; h1 { font:500 clamp(2rem,5vw,3rem)/1.12 'Cormorant Garamond',Georgia,serif; } p { line-height:1.8; } >span { display:block; margin-top:2rem; } a { color:t.$wine; } }

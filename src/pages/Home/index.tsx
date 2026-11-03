@@ -1,3 +1,4 @@
+import AuthorLink from '../../components/AuthorLink';
 import {
   ArrowRight,
   BookOpenText,
@@ -37,7 +38,6 @@ export default function Home() {
               <br /> <em>guardar</em> no coração<span>.</span>
             </h1>
             <p>
-              Uma biblioteca feita de palavras, paixões e surtos compartilhados.
               Encontre sua próxima leitura, revisite uma favorita e descubra
               mundos criados pelas autoras do nosso fandom.
             </p>
@@ -56,7 +56,7 @@ export default function Home() {
               </div>
               <span className={styles.heroBookTitle}>{featuredWork.title}</span>
               <span className={styles.heroBookAuthor}>
-                por {featuredWork.author.displayName}
+                por <AuthorLink author={featuredWork.author} />
               </span>
               <Link
                 className={styles.featureLink}

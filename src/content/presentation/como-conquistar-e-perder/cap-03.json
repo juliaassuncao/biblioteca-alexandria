@@ -1,0 +1,11 @@
+{
+  "chapterId": "cap-03",
+  "groups": [
+    {
+      "type": "document",
+      "start": "cap-03-0001",
+      "end": "cap-03-0006",
+      "kind": "article"
+    }
+  ]
+}

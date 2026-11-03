@@ -22,7 +22,7 @@ test('Bones e Custode são projetos externos sem conteúdo duplicado',()=>{
     assert.ok(work);
     assert.equal(work.reading.mode,'external');
     assert.equal(work.chapters.length,0);
-    assert.equal(work.reading.externalUrl,null);
+    assert.equal(work.reading.externalUrl, id === 'bones' ? 'https://bones-project-six.vercel.app/' : 'https://custode-experience.vercel.app/');
   }
 });
 test('validador rejeita IDs duplicados',()=>{

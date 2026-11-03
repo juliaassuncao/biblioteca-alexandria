@@ -55,6 +55,7 @@ export function validateSpecialContent(
   body(block.body, `${where}, corpo`);
   if (block.type === 'document' && (typeof block.kind !== 'string' || !['document', 'letter', 'syllabus', 'report', 'article', 'form', 'contract', 'draft'].includes(block.kind))) errors.push(`${where}: tipo de documento inválido`);
   if (block.type === 'notice' && (typeof block.kind !== 'string' || !['notice', 'notification', 'alert'].includes(block.kind))) errors.push(`${where}: tipo de comunicado inválido`);
+  if (block.signatureIds !== undefined && (block.type !== 'document' || block.kind !== 'contract' || !Array.isArray(block.signatureIds) || !block.signatureIds.every(id => typeof id === 'string' && Array.isArray(block.body) && block.body.some((b: unknown) => object(b) && b.type === 'paragraph' && b.id === id)))) errors.push(`${where}: assinaturas inválidas`);
   if (block.type === 'excerpt') optionalText(block, 'attribution');
   if (block.type === 'email') {
     for (const key of ['from', 'to', 'subject', 'date']) optionalText(block, key, true);

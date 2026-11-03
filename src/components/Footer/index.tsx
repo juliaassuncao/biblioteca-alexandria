@@ -1,3 +1,4 @@
+import { Link } from 'react-router';
 import { BookOpenText, Heart } from 'lucide-react';
 import styles from './styles.module.scss';
 
@@ -8,7 +9,7 @@ export default function Footer() {
         <p>Uma casa para histórias que merecem continuar sendo lidas.</p>
       </div>
       <div className={styles.right}>
-        <p>Obras compartilhadas com autorização das autoras.<br/>Créditos e textos pertencem às suas criadoras.</p>
+        <p>Projeto de fãs independente, não oficial e sem fins lucrativos.<br/>Personagens e universos pertencem aos respectivos titulares;<br/>textos e contribuições criativas, às suas autoras.</p><Link className={styles.about} to="/o-projeto">Sobre o projeto e os créditos</Link>
         <small>Feita para as Loquinhas <Heart size={12} fill="currentColor" /></small>
       </div>
     </div>

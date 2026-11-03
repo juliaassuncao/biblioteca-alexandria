@@ -1,0 +1,100 @@
+{
+  "chapterId": "cap-05",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-05-0036",
+      "end": "cap-05-0036"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0082",
+      "end": "cap-05-0082"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0085",
+      "end": "cap-05-0085"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0089",
+      "end": "cap-05-0089"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0096",
+      "end": "cap-05-0096"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0098",
+      "end": "cap-05-0098"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0100",
+      "end": "cap-05-0100"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0102",
+      "end": "cap-05-0102"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0162",
+      "end": "cap-05-0162"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0163",
+      "end": "cap-05-0163"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0165",
+      "end": "cap-05-0165"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0166",
+      "end": "cap-05-0166"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0167",
+      "end": "cap-05-0167"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0168",
+      "end": "cap-05-0168"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0170",
+      "end": "cap-05-0170"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0178",
+      "end": "cap-05-0178"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0179",
+      "end": "cap-05-0179"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0182",
+      "end": "cap-05-0182"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0184",
+      "end": "cap-05-0184"
+    }
+  ]
+}

@@ -146,7 +146,7 @@ test(`PDF e EPUB reais: ${work.title}, obra completa e capítulo isolado`, { tim
   const epub = await generateEpub(book, assets);
   await saveOutput(work, 'obra.epub', epub);
   const zip = await inspectEpub(epub, book);
-  assert.equal(Object.keys(zip.files).filter(name => name.startsWith('EPUB/images/')).length, assets.length);
+  assert.equal(Object.keys(zip.files).filter(name => name.startsWith('EPUB/images/')).length, assets.filter(asset => asset.mediaType.startsWith('image/')).length);
   for (const asset of assets) assert.deepEqual(new Uint8Array(await zip.file(`EPUB/${asset.path}`).async('uint8array')), asset.bytes);
   const pdf = await generatePdf(book, assets, resolve('public/fonts/export'));
   await saveOutput(work, 'obra.pdf', pdf);
@@ -155,7 +155,7 @@ test(`PDF e EPUB reais: ${work.title}, obra completa e capítulo isolado`, { tim
   assert.equal(inspection.metadata.info.Author, work.author.displayName ?? work.author.ao3Name ?? undefined);
   assert.equal(inspection.outline.length, work.chapters.length);
   assert.ok(inspection.links >= work.chapters.length);
-  assert.ok(inspection.images >= assets.length);
+  assert.ok(inspection.images >= assets.filter(asset => asset.mediaType.startsWith('image/')).length);
   assertTextInOrder(inspection.pages.join(' '), expectedText(book));
   assert.equal(JSON.stringify(readChapterFiles()), original, 'JSONs intactos');
   const chapter = work.chapters[Math.min(8, work.chapters.length - 1)];

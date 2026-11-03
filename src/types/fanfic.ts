@@ -1,6 +1,6 @@
 // Modelo universal de fanfic. "mode" controla a experiência de leitura.
 export type WorkStatus = 'ongoing' | 'completed' | 'unknown';
-export type CoverTone = 'wine' | 'ink' | 'sage';
+export type CoverTone = 'wine' | 'ink' | 'sage' | 'copper';
 
 export type InlineSegment =
   | { type: 'text'; text: string }
@@ -56,7 +56,7 @@ export interface EmailBlockData {
 }
 
 export type DocumentKind = 'document' | 'letter' | 'syllabus' | 'report' | 'article' | 'form' | 'contract' | 'draft';
-export interface DocumentBlockData { id: string; type: 'document'; kind: DocumentKind; title?: string; body: ChapterBlock[]; }
+export interface DocumentBlockData { id: string; type: 'document'; kind: DocumentKind; title?: string; body: ChapterBlock[]; signatureIds?: string[]; }
 export interface NoticeBlockData { id: string; type: 'notice'; kind: 'notice' | 'notification' | 'alert'; title?: string; body: ChapterBlock[]; }
 export interface ExcerptBlockData { id: string; type: 'excerpt'; attribution?: string; body: ChapterBlock[]; }
 
@@ -121,11 +121,11 @@ export interface Fanfic {
   language: string;
   fandom: string;
   category: string;
-  classification: { rating: string; archiveWarning: string } | null;
+  classification: { rating: string; archiveWarning: string | null } | null;
   tags: string[];
   contentAdvisories: string[];
   stats: Stats;
-  cover: { variant: 'typographic'; tone: CoverTone; ornament: 'feather' | 'fingerprint' | 'clover' | 'paintbrush'; caption: string };
+  cover: { variant: 'typographic'; tone: CoverTone; ornament: 'feather' | 'fingerprint' | 'clover' | 'paintbrush' | 'contract'; caption: string };
   reading: { mode: 'internal' | 'external'; externalUrl: string | null };
   // Internas enviadas pelas autoras: habilitado por padrão; false desativa explicitamente.
   downloads?: { enabled: boolean };

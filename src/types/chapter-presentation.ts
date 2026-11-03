@@ -5,5 +5,6 @@ export interface PresentationGroup {
   end: string;
   kind?: DocumentKind | 'notice' | 'notification' | 'alert';
   senderIds?: string[];
+  signatureIds?: string[];
 }
 export interface ChapterPresentation { chapterId: string; groups: PresentationGroup[]; }

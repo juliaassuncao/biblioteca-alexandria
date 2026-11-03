@@ -31,5 +31,16 @@ export async function collectAssets(book: ExportBook, load: AssetLoader = fetchL
     }
     assets.push({ src, path: `images/image-${assets.length + 1}.${png ? 'png' : 'jpg'}`, mediaType: png ? 'image/png' : 'image/jpeg', bytes });
   }
+  let signatures = false;
+  visitNodes(book, node => { if (node.kind === 'text' && node.role === 'signature') signatures = true; });
+  if (signatures) {
+    const src = '/fonts/export/Allura-Regular.ttf';
+    const bytes = await load(src);
+    if (bytes.length < 100 || bytes[0] !== 0 || bytes[1] !== 1 || bytes[2] !== 0 || bytes[3] !== 0) throw new Error('Fonte de assinatura local inválida');
+    assets.push({ src, path:'fonts/Allura-Regular.ttf', mediaType:'font/ttf', bytes });
+    const license = await load('/fonts/export/OFL-Allura.txt');
+    if (!new TextDecoder().decode(license).includes('SIL OPEN FONT LICENSE')) throw new Error('Licença da fonte de assinatura ausente');
+    assets.push({ src:'/fonts/export/OFL-Allura.txt', path:'fonts/OFL-Allura.txt', mediaType:'text/plain', bytes:license });
+  }
   return assets;
 }

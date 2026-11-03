@@ -1,3 +1,4 @@
+import AuthorLink from '../../components/AuthorLink';
 import {
   ArrowLeft,
   ArrowUpRight,
@@ -8,7 +9,7 @@ import {
   ShieldAlert,
   UserRound,
 } from "lucide-react";
-import { useEffect } from "react";
+import { useEffect, type CSSProperties } from "react";
 import { Link, useLocation, useParams } from "react-router";
 import ChapterList from "../../components/ChapterList";
 import ChapterBody from "../../components/ChapterBody";
@@ -37,6 +38,7 @@ export default function WorkDetails() {
   const firstChapter = work.chapters.find(chapter => chapter.number === 1);
   const date = formatDate(work.stats.updatedAt);
   const words = formatNumber(work.stats.words);
+  const titleScale = Math.max(0.6, Math.sqrt(24 / Math.max(24, work.title.length)));
   return (
     <div className={`container ${styles.page}`}>
       <Link to="/" className={styles.back}>
@@ -50,14 +52,18 @@ export default function WorkDetails() {
           <span className="eyebrow">
             {external ? "EXPERIÊNCIA INDEPENDENTE" : "ACERVO ALEXANDRIA"}
           </span>
-          <h1>{work.title}</h1>
+          <h1
+            className={titleScale < 1 ? styles.longTitle : undefined}
+            style={{ '--title-scale': titleScale } as CSSProperties}
+          >{work.title}</h1>
           {work.author.displayName && (
             <p className={styles.author}>
               <UserRound size={15} /> por{" "}
-              <strong>{work.author.displayName}</strong>{" "}
+              <strong><AuthorLink author={work.author} /></strong>{" "}
               {work.author.ao3Name && <span>({work.author.ao3Name})</span>}
             </p>
           )}
+          <p className={styles.author}>{work.fandom} · {work.language === 'pt-BR' ? 'Português brasileiro' : work.language}</p>
           {work.status === "ongoing" && (
             <span className={styles.status}>● Em andamento</span>
           )}
@@ -94,7 +100,7 @@ export default function WorkDetails() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Abrir site da história <ExternalLink size={17} />
+                Acessar projeto <ExternalLink size={17} />
               </a>
             ) : (
               <div className={styles.pendingLink}>
@@ -124,9 +130,18 @@ export default function WorkDetails() {
               Ver publicação original no AO3 <ArrowUpRight size={15} />
             </a>
           )}
+          {!external && work.reading.externalUrl && (
+            <section className={styles.ownSite} aria-labelledby="own-site-heading">
+              <h2 id="own-site-heading">Conheça também o site da obra</h2>
+              <p>Esta história também possui uma experiência própria, criada especialmente para sua leitura.</p>
+              <a href={work.reading.externalUrl} target="_blank" rel="noopener noreferrer">
+                Visitar site da obra <ArrowUpRight size={15} aria-hidden="true" />
+              </a>
+            </section>
+          )}
         </div>
       </section>
-      {work.classification && (
+      {(work.classification || work.contentAdvisories.length > 0) && (
         <section
           className={styles.contentInfo}
           aria-labelledby="content-heading"
@@ -135,9 +150,9 @@ export default function WorkDetails() {
             <ShieldAlert size={18} /> Informações e avisos da obra
           </h2>
           <div className={styles.labels}>
-            <span>{work.classification.rating}</span>
+            {work.classification && <span>{work.classification.rating}</span>}
             <span>{work.category}</span>
-            <span>{work.classification.archiveWarning}</span>
+            {work.classification?.archiveWarning && <span>{work.classification.archiveWarning}</span>}
           </div>
           {work.contentAdvisories.length > 0 && (
             <p>

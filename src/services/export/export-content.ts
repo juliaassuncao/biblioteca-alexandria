@@ -1,6 +1,5 @@
 import type { ChapterBlock, Fanfic, FormattedText } from '../../types/fanfic.ts';
 import { assertChapterContent } from '../chapter-content.ts';
-import { DOCUMENT_LABELS } from '../../components/DocumentBlock/constants.ts';
 import type { ExportBook, ExportLoader, ExportNode, ExportRequest } from './export-types.ts';
 
 // Obras internas enviadas pelas autoras têm downloads por padrão; false revoga a disponibilidade.
@@ -8,6 +7,9 @@ export const canExport = (work: Fanfic) => work.reading.mode === 'internal'
   && work.editorial.submittedByAuthor === true && work.downloads?.enabled !== false;
 const paragraph = (id: string, text: string): ExportNode => ({ id, kind: 'text', role: 'paragraph', value: { text } });
 const formatted = (id: string, value: FormattedText): ExportNode => ({ id, kind: 'text', role: 'paragraph', value });
+const identification = (id: string, value: FormattedText): ExportNode => formatted(id, {
+  ...value, segments: [{ type: 'strong', children: value.segments ?? [{ type: 'text', text: value.text }] }],
+});
 
 export function transformBlocks(blocks: ChapterBlock[], narrative = false): ExportNode[] {
   return blocks.map((block): ExportNode => {
@@ -23,34 +25,35 @@ export function transformBlocks(blocks: ChapterBlock[], narrative = false): Expo
       case 'external-link': return { id: block.id, kind: 'link', href: block.href, label: block.label };
       case 'document': case 'notice': case 'excerpt': return {
         id: block.id, kind: 'section', role: block.type,
-        title: block.type === 'document' ? block.title ?? DOCUMENT_LABELS[block.kind] : block.type === 'notice' ? block.title ?? 'Comunicado' : undefined,
+        title: block.type === 'excerpt' ? undefined : block.title,
         children: [...transformBlocks(block.body), ...(block.type === 'excerpt' && block.attribution ? [paragraph(`${block.id}-attribution`, block.attribution)] : [])],
       };
-      case 'email': return { id: block.id, kind: 'section', role: 'email', title: 'E-mail', children: [
+      case 'email': return { id: block.id, kind: 'section', role: 'email', children: [
         ...([['De', block.from], ['Para', block.to], ['Assunto', block.subject], ['Data', block.date]] as const)
-          .flatMap(([label, value]) => value ? [paragraph(`${block.id}-${label}`, `${label}: ${value}`)] : []),
+          .flatMap(([label, value]) => value ? [identification(`${block.id}-${label}`, { text: `${label}: ${value}` })] : []),
         ...transformBlocks(block.body), ...transformBlocks(block.signature ?? []),
         ...(block.attachments ?? []).map((item, i): ExportNode => ({ id: `${block.id}-attachment-${i}`, kind: 'link', ...item })),
       ] };
       case 'chat': {
         const participants = block.participants ?? [];
+        const participantsById = new Map(participants.map(person => [person.id, person]));
         const children: ExportNode[] = participants.flatMap(person => [
-          ...(person.name ? [paragraph(`${block.id}-${person.id}-name`, person.name)] : []),
+          ...(person.name ? [identification(`${block.id}-${person.id}-name`, { text: person.name })] : []),
           ...(person.avatar ? [{ id: `${block.id}-${person.id}-avatar`, kind: 'image' as const, ...person.avatar }] : []),
         ]);
         if (block.entries) children.push(...block.entries.map((entry): ExportNode => {
-          if (entry.kind !== 'message') return { id: entry.id, kind: 'section', role: entry.kind, children: [formatted(`${entry.id}-text`, entry.content)] };
-          const person = participants.find(person => person.id === entry.participantId);
+          if (entry.kind !== 'message') return { id: entry.id, kind: 'section', role: entry.kind, children: [identification(`${entry.id}-text`, entry.content)] };
+          const person = entry.participantId ? participantsById.get(entry.participantId) : undefined;
           return { id: entry.id, kind: 'section', role: 'message', side: entry.side, children: [
-            ...(entry.sender ? transformBlocks([entry.sender]) : person?.name ? [paragraph(`${entry.id}-sender`, person.name)] : []),
-            ...transformBlocks(entry.body), ...(entry.time ? [paragraph(`${entry.id}-time`, entry.time)] : []),
+            ...(entry.sender ? [identification(entry.sender.id, entry.sender)] : person?.name ? [identification(`${entry.id}-sender`, { text: person.name })] : []),
+            ...transformBlocks(entry.body), ...(entry.time ? [identification(`${entry.id}-time`, { text: entry.time })] : []),
           ] };
         }));
         else children.push(...(block.messages ?? []).map((message): ExportNode => ({ id: message.id, kind: 'section', role: 'message', side: 'left', children: [
-          paragraph(`${message.id}-sender`, message.sender), formatted(`${message.id}-body`, message),
-          ...(message.time ? [paragraph(`${message.id}-time`, message.time)] : []),
+          identification(`${message.id}-sender`, { text: message.sender }), formatted(`${message.id}-body`, message),
+          ...(message.time ? [identification(`${message.id}-time`, { text: message.time })] : []),
         ] })));
-        return { id: block.id, kind: 'section', role: 'chat', title: block.title ?? 'Conversa', children };
+        return { id: block.id, kind: 'section', role: 'chat', title: block.title, children };
       }
       default: { const unsupported: never = block; throw new Error(`Bloco sem suporte de exportação: ${JSON.stringify(unsupported)}`); }
     }

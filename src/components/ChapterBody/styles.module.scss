@@ -3,7 +3,7 @@
   a { color: var(--reader-accent, #613941); text-underline-offset: .2em; }
 }
 .block { min-width: 0; }
-.paragraph { margin: 0 0 1.25em; white-space: pre-wrap; text-align: left; }
+.paragraph { margin: 0 0 .85em; white-space: pre-wrap; text-align: left; }
 .body[data-context='narrative'] > .block > .paragraph { text-align: justify; text-justify: inter-word; hyphens: auto; }
 .body[data-context='note'] { font-size: max(16px, calc(var(--reader-font-size, 20px) * .9)); }
 .body[data-context='message'] { font-family: 'DM Sans', system-ui, sans-serif; font-size: max(16px, calc(var(--reader-font-size, 20px) * .85)); line-height: 1.6; }
@@ -19,3 +19,9 @@ h3.heading { font-size: 1.2em; }
   &[data-alignment='left'] img { margin-inline: 0 auto; } &[data-alignment='right'] img { margin-inline: auto 0; }
   figcaption { color: var(--reader-muted, #645c56); font-size: .85em; margin-top: .6em; text-align: center; white-space: pre-wrap; }
 }
+
+.body > .block:last-child > .paragraph { margin-bottom: 0; }
+
+@font-face { font-family:'AlexandriaSignature'; src:url('/fonts/export/Allura-Regular.ttf') format('truetype'); font-display:swap; font-style:normal; font-weight:400; }
+.signature { margin-block:1.5em; white-space:pre-wrap; break-inside:avoid; }
+.signature > span { display:inline-block; min-width: min(100%, 12rem); max-width:100%; padding:0 .5rem .2rem; border-bottom:1px solid currentColor; font:400 1.8em/1.4 'AlexandriaSignature',cursive; }

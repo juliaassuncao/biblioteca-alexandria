@@ -11,7 +11,7 @@ export default function Header() {
       </Link>
       <nav className={styles.nav} aria-label="Navegação principal">
         <NavLink to="/" end className={({isActive})=>isActive?styles.active:undefined}>Acervo</NavLink>
-        <a href="#sobre">O projeto</a>
+        <NavLink to="/o-projeto">O projeto</NavLink>
       </nav>
       <span className={styles.eyebrow}><span className={styles.dot}></span> histórias que ficam</span>
       <Menu className={styles.mobileSymbol} size={20} aria-hidden="true" />
