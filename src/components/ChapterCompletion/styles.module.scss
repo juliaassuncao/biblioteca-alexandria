@@ -1,0 +1,7 @@
+.completion {
+  text-align: center; padding: 2rem 0 1rem;
+  button { min-height: 48px; max-width: 100%; display: inline-flex; align-items: center; justify-content: center; gap: .7rem; padding: .8rem 1.2rem; border: 1px solid var(--reader-border); border-radius: 3px; background: transparent; color: var(--reader-accent); cursor: pointer; font-size: .85rem; line-height: 1.5; }
+  button[aria-pressed='true'] { background: var(--reader-surface); border-color: var(--reader-accent); }
+  svg { flex-shrink: 0; }
+  p { color: var(--reader-muted); font-size: .75rem; line-height: 1.6; }
+}

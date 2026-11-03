@@ -1,0 +1,17 @@
+{
+  "chapterId": "cap-10",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-10-0065",
+      "end": "cap-10-0065",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-10-0090",
+      "end": "cap-10-0090",
+      "senderIds": []
+    }
+  ]
+}

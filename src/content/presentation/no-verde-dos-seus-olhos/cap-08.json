@@ -1,0 +1,95 @@
+{
+  "chapterId": "cap-08",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-08-0094",
+      "end": "cap-08-0094",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-08-0096",
+      "end": "cap-08-0096",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-08-0097",
+      "end": "cap-08-0097",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-08-0098",
+      "end": "cap-08-0098",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-08-0099",
+      "end": "cap-08-0099",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-08-0101",
+      "end": "cap-08-0101",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-08-0103",
+      "end": "cap-08-0103",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-08-0104",
+      "end": "cap-08-0104",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-08-0109",
+      "end": "cap-08-0109",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-08-0112",
+      "end": "cap-08-0112",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-08-0121",
+      "end": "cap-08-0121",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-08-0131",
+      "end": "cap-08-0131",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-08-0132",
+      "end": "cap-08-0132",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-08-0133",
+      "end": "cap-08-0133",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-08-0134",
+      "end": "cap-08-0134",
+      "senderIds": []
+    }
+  ]
+}

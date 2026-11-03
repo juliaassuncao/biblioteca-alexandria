@@ -1,0 +1,145 @@
+{
+  "chapterId": "cap-06",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-06-0003",
+      "end": "cap-06-0003",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0004",
+      "end": "cap-06-0004",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0013",
+      "end": "cap-06-0013",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0015",
+      "end": "cap-06-0015",
+      "senderIds": []
+    },
+    {
+      "type": "notice",
+      "kind": "notification",
+      "start": "cap-06-0017",
+      "end": "cap-06-0017"
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0019",
+      "end": "cap-06-0019",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0021",
+      "end": "cap-06-0021",
+      "senderIds": []
+    },
+    {
+      "type": "notice",
+      "kind": "notification",
+      "start": "cap-06-0023",
+      "end": "cap-06-0023"
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0024",
+      "end": "cap-06-0024",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0026",
+      "end": "cap-06-0026",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0028",
+      "end": "cap-06-0029",
+      "senderIds": [
+        "cap-06-0028"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0031",
+      "end": "cap-06-0031",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0032",
+      "end": "cap-06-0032",
+      "senderIds": []
+    },
+    {
+      "type": "notice",
+      "kind": "notification",
+      "start": "cap-06-0033",
+      "end": "cap-06-0033"
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0034",
+      "end": "cap-06-0034",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0036",
+      "end": "cap-06-0036",
+      "senderIds": []
+    },
+    {
+      "type": "notice",
+      "kind": "notification",
+      "start": "cap-06-0093",
+      "end": "cap-06-0093"
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0094",
+      "end": "cap-06-0094",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0096",
+      "end": "cap-06-0096",
+      "senderIds": []
+    },
+    {
+      "type": "notice",
+      "kind": "notification",
+      "start": "cap-06-0098",
+      "end": "cap-06-0098"
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0099",
+      "end": "cap-06-0099",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0100",
+      "end": "cap-06-0100",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0119",
+      "end": "cap-06-0119",
+      "senderIds": []
+    }
+  ]
+}

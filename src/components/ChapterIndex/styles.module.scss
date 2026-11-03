@@ -1,0 +1,27 @@
+@use '../../styles/tokens' as t;
+.index {
+  min-width: 0; font-size: .9rem; line-height: 1.6;
+  label { display: block; color: var(--reader-muted, #{t.$muted}); margin-bottom: .5rem; font-size: .75rem; }
+  input { width: 100%; min-width: 0; min-height: 44px; border: 1px solid var(--reader-border, #{t.$line}); border-radius: 3px; background: var(--reader-background, #{t.$paper}); color: var(--reader-text, #{t.$ink}); padding: .7rem .8rem; }
+  ol { margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--reader-border, #{t.$line}); }
+}
+.result { color: var(--reader-muted, #{t.$muted}); font-size: .7rem; margin-block: 1rem; }
+.toolbar { display: flex; align-items: end; justify-content: space-between; gap: 2rem; margin-bottom: 1.75rem; }
+.stats {
+  display: flex; gap: clamp(1rem, 3vw, 3rem); margin: 0; min-width: 0;
+  > div { display: flex; flex-direction: column-reverse; gap: .5rem; }
+  dt { font-size: .6rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: t.$muted; }
+  dd { margin: 0; color: t.$wine; font: 500 2.75rem/1 'Cormorant Garamond', Georgia, serif; }
+}
+.search { flex: 0 1 330px; min-width: 0; }
+@media(max-width: 760px) {
+  .toolbar { flex-wrap: wrap; gap: 1.5rem; }
+  .search { flex-basis: 100%; }
+}
+
+@container chapter-panel (max-width: 640px) {
+  .toolbar { flex-direction: column; align-items: stretch; gap: 1.5rem; }
+  .stats { gap: clamp(1rem, 4cqi, 2rem); }
+  .stats > div { flex: 1; min-width: 0; }
+  .search { flex: 0 1 auto; width: 100%; }
+}

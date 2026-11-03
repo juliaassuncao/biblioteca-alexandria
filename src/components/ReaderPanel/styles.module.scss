@@ -1,0 +1,45 @@
+@use '../../styles/tokens' as t;
+
+.panel {
+  background: var(--reader-background);
+  color: var(--reader-text);
+  border: 1px solid var(--reader-border);
+  border-radius: .6rem;
+  padding: clamp(1rem, 4vw, 2rem);
+  width: min(36rem, calc(100% - 2rem));
+  max-height: calc(100dvh - 2rem);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  margin: auto;
+  &::backdrop { background: #16121599; }
+  header { display: flex; justify-content: space-between; align-items: start; gap: .75rem; margin-bottom: 1.5rem; }
+  > header > button { flex-shrink: 0; white-space: nowrap; }
+  h2 { font: 500 clamp(1.6rem, 5vw, 2rem)/1.2 'Cormorant Garamond', Georgia, serif; margin: .25rem 0; overflow-wrap: anywhere; }
+  button { background: var(--reader-surface); color: var(--reader-accent); border: 1px solid var(--reader-border); padding: .6rem .75rem; min-height: 44px; border-radius: .3rem; cursor: pointer; }
+}
+
+.editorial {
+  --reader-background: #{t.$paper};
+  --reader-text: #{t.$ink};
+  --reader-muted: #{t.$muted};
+  --reader-accent: #{t.$wine};
+  --reader-border: #{t.$line};
+  --reader-surface: #{t.$cream};
+  --reader-focus: #{t.$wine};
+  width: min(52rem, calc(100% - 2rem));
+  overflow: hidden;
+  // O diálogo fechado mantém o display nativo (none).
+  &[open] { display: grid; grid-template-rows: auto minmax(0, 1fr); }
+  > header { padding-bottom: 1.25rem; border-bottom: 1px solid t.$line; }
+  > header > button { transition: background-color .2s, color .2s; }
+  > header > button:hover { background: t.$wine; color: t.$paper; }
+}
+
+.content {
+  container: chapter-panel / inline-size;
+  min-height: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-gutter: stable;
+  padding: .25rem .25rem .25rem 0;
+}

@@ -1,0 +1,138 @@
+{
+  "chapterId": "cap-14",
+  "groups": [
+    {
+      "type": "notice",
+      "start": "cap-14-0020",
+      "end": "cap-14-0024",
+      "kind": "notification"
+    },
+    {
+      "type": "chat",
+      "start": "cap-14-0033",
+      "end": "cap-14-0035",
+      "senderIds": [
+        "cap-14-0033"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-14-0063",
+      "end": "cap-14-0084",
+      "senderIds": [
+        "cap-14-0064",
+        "cap-14-0070",
+        "cap-14-0076"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-14-0088",
+      "end": "cap-14-0102",
+      "senderIds": [
+        "cap-14-0088",
+        "cap-14-0091"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-14-0105",
+      "end": "cap-14-0107",
+      "senderIds": [
+        "cap-14-0105"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-14-0110",
+      "end": "cap-14-0113",
+      "senderIds": [
+        "cap-14-0110"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-14-0122",
+      "end": "cap-14-0123",
+      "senderIds": [
+        "cap-14-0122"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-14-0125",
+      "end": "cap-14-0132",
+      "senderIds": [
+        "cap-14-0125"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-14-0134",
+      "end": "cap-14-0144",
+      "senderIds": [
+        "cap-14-0135",
+        "cap-14-0139",
+        "cap-14-0142"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-14-0149",
+      "end": "cap-14-0153",
+      "senderIds": [
+        "cap-14-0149",
+        "cap-14-0152"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-14-0155",
+      "end": "cap-14-0158",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-14-0160",
+      "end": "cap-14-0166",
+      "senderIds": [
+        "cap-14-0160",
+        "cap-14-0163"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-14-0168",
+      "end": "cap-14-0169",
+      "senderIds": [
+        "cap-14-0168"
+      ]
+    },
+    {
+      "type": "excerpt",
+      "start": "cap-14-0256",
+      "end": "cap-14-0256"
+    },
+    {
+      "type": "excerpt",
+      "start": "cap-14-0258",
+      "end": "cap-14-0258"
+    },
+    {
+      "type": "chat",
+      "start": "cap-14-0290",
+      "end": "cap-14-0293",
+      "senderIds": [
+        "cap-14-0290"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-14-0295",
+      "end": "cap-14-0300",
+      "senderIds": [
+        "cap-14-0296"
+      ]
+    }
+  ]
+}

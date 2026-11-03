@@ -1,0 +1,1347 @@
+{
+  "id": "cap-01",
+  "blocks": [
+    {
+      "id": "cap-01-0001",
+      "type": "heading",
+      "text": "NOVO CURSO:",
+      "level": 3,
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "NOVO CURSO:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0002",
+      "type": "heading",
+      "text": "ALTA LITERATURA PARA ESCRITORES E ARTISTAS",
+      "level": 3,
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "ALTA LITERATURA PARA ESCRITORES E ARTISTAS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0003",
+      "type": "heading",
+      "text": "4 semanas · Vagas limitadas",
+      "level": 3,
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "4 semanas · Vagas limitadas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0004",
+      "type": "paragraph",
+      "text": "Já domina os fundamentos da escrita criativa? Este curso livre desloca você para o território da literatura como prática de pensamento. Vamos estudar a anatomia da forma literária enquanto linguagem artística contemporânea e, também, prática de vida.",
+      "alignment": "center"
+    },
+    {
+      "id": "cap-01-0005",
+      "type": "heading",
+      "text": "PROGRAMA",
+      "level": 3,
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "PROGRAMA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0006",
+      "type": "heading",
+      "text": "SEMANA 1\nA Fenomenologia da Percepção",
+      "level": 3,
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "SEMANA 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "A Fenomenologia da Percepção"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0007",
+      "type": "paragraph",
+      "text": "Conceito de ostranenie (Viktor Shklovsky): a arte remove o automatismo da percepção cotidiana. Análise de“A Paixão Segundo G.H.”. Como Clarice Lispector desarticula a hierarquia sujeito-objeto através da sintaxe.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Conceito de "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ostranenie"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " (Viktor Shklovsky): a arte remove o automatismo da percepção cotidiana. Análise de“"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "A Paixão Segundo G.H."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "”. Como Clarice Lispector desarticula a hierarquia sujeito-objeto através da sintaxe."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0008",
+      "type": "paragraph",
+      "text": "Exercício: descrição de espaço doméstico com olhar desautomatizado. Abandone o adjetivo óbvio.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Exercício:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " descrição de espaço doméstico com olhar desautomatizado. Abandone o adjetivo óbvio."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0009",
+      "type": "heading",
+      "text": "SEMANA 2\nA Topologia do Desejo",
+      "level": 3,
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "SEMANA 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "A Topologia do Desejo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0010",
+      "type": "paragraph",
+      "text": "Psicanálise lacaniana aplicada à construção do personagem. O sujeito é movido por uma falta constituinte. Análise de “Dom Casmurro”. Machado de Assis usa o discurso indireto livre para criar ambiguidade estrutural. Nos \"olhos de cigana\", não descreve Capitu, mas a projeção do desejo de Bentinho.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Psicanálise lacaniana aplicada à construção do personagem. O sujeito é movido por uma falta constituinte. Análise de “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Dom Casmurro”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Machado de Assis usa o discurso indireto livre para criar ambiguidade estrutural. Nos \"olhos de cigana\", não descreve Capitu, mas a projeção do desejo de Bentinho."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0011",
+      "type": "paragraph",
+      "text": "Exercício: fragmento narrativo onde o protagonista compartilha uma perda. A natureza do objeto perdido nunca é revelada. O oculto e o subtexto funcionam como as forças motrizes do drama.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Exercício:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " fragmento narrativo onde o protagonista compartilha uma perda. A natureza do objeto perdido nunca é revelada. O oculto e o subtexto funcionam como as forças motrizes do drama."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0012",
+      "type": "heading",
+      "text": "SEMANA 3\nA Física da Prosa",
+      "level": 3,
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "SEMANA 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "A Física da Prosa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0013",
+      "type": "paragraph",
+      "text": "A estrutura gramatical mimetiza estados materiais e psíquicos. Análise da \"escrita árida\" de Graciliano Ramos em “Vidas Secas”. Contraste com o fluxo de consciência de Virginia Woolf em “Mrs. Dalloway”: orações subordinadas que capturam a simultaneidade do pensamento urbano.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "text",
+          "text": "A estrutura gramatical mimetiza estados materiais e psíquicos. Análise da \"escrita árida\" de Graciliano Ramos em “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vidas Secas”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Contraste com o fluxo de consciência de Virginia Woolf em “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Mrs. Dalloway”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ": orações subordinadas que capturam a simultaneidade do pensamento urbano."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0014",
+      "type": "paragraph",
+      "text": "Exercício: esculpir o texto. Remover gordura retórica até restar apenas estrutura óssea. A escolha de uma vírgula ou o corte de um parágrafo é uma decisão ética.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Exercício:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " esculpir o texto. Remover gordura retórica até restar apenas estrutura óssea. A escolha de uma vírgula ou o corte de um parágrafo é uma decisão ética."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0015",
+      "type": "heading",
+      "text": "SEMANA 4\nA Poética da Memória",
+      "level": 3,
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "SEMANA 4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "A Poética da Memória"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0016",
+      "type": "paragraph",
+      "text": "Literatura, história e responsabilidade da voz pública. Conceitos de \"banalidade do mal\" (Hannah Arendt) e \"escrita plana\" (Annie Ernaux). Análise de “O Acontecimento”. A recusa ao lirismo produz um efeito devastador.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Literatura, história e responsabilidade da voz pública. Conceitos de \"banalidade do mal\" (Hannah Arendt) e \"escrita plana\" (Annie Ernaux). Análise de “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "O Acontecimento”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". A recusa ao lirismo produz um efeito devastador."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0017",
+      "type": "paragraph",
+      "text": "Exercício: ensaio-ficção sobre problemática sociológica contemporânea (violência urbana, dinâmicas de poder de gênero, a biopolítica do veganismo etc.). Aplique o rigor técnico das semanas anteriores para transformar o dado social em objeto literário.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Exercício:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " ensaio-ficção sobre problemática sociológica contemporânea (violência urbana, dinâmicas de poder de gênero, a biopolítica do veganismo etc.). Aplique o rigor técnico das semanas anteriores para transformar o dado social em objeto literário."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0018",
+      "type": "heading",
+      "text": "AVALIAÇÃO",
+      "level": 3,
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "AVALIAÇÃO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0019",
+      "type": "paragraph",
+      "text": "Leitura cerrada de cada texto produzido. Toda palavra é questionada em sua necessidade e função. Critérios: capacidade de sustentar o estranhamento, manejo das lacunas psíquicas, precisão sintática e compromisso ético com o tema.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Leitura cerrada de cada texto produzido. Toda palavra é questionada em sua necessidade e função. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Critérios"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ": capacidade de sustentar o estranhamento, manejo das lacunas psíquicas, precisão sintática e compromisso ético com o tema."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0020",
+      "type": "heading",
+      "text": "PARA QUEM",
+      "level": 3,
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "PARA QUEM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0021",
+      "type": "paragraph",
+      "text": "Poetas, roteiristas, performers, autores publicados ou aspirantes, artistas visuais que trabalham com texto. Pessoas que produzem e querem expandir seu repertório formal.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Poetas, roteiristas, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "performers"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", autores publicados ou aspirantes, artistas visuais que trabalham com texto. Pessoas que produzem e querem expandir seu repertório formal."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0022",
+      "type": "heading",
+      "text": "A PROFESSORA",
+      "level": 3,
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "A PROFESSORA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0023",
+      "type": "paragraph",
+      "text": "Lorena Ferette (São Paulo, 13 de abril de 2000) é um expoente da literatura brasileira contemporânea. Estreou aos 21 anos com o romance “Cartografia de uma Cidade Estrangeira”. Em 2024, sua segunda publicação, “A Geometria dos Encontros Adjacentes”, foi vencedora do Prêmio Jabuti, consolidando-a como uma das vozes mais potentes de sua geração. É mestranda em Teoria Literária e Literatura Comparada pela FFLCH-USP, onde pesquisa as intersecções entre espaço e memória.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena Ferette (São Paulo, 13 de abril de 2000) é um expoente da literatura brasileira contemporânea. Estreou aos 21 anos com o romance “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Cartografia de uma Cidade"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Estrangeira"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "”. Em 2024, sua segunda publicação, “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "A Geometria dos Encontros Adjacentes"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "”, foi vencedora do Prêmio Jabuti, consolidando-a como uma das vozes mais potentes de sua geração. É mestranda em Teoria Literária e Literatura Comparada pela FFLCH-USP, onde pesquisa as intersecções entre espaço e memória."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0024",
+      "type": "heading",
+      "text": "INSCRIÇÕES ABERTAS",
+      "level": 3,
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "INSCRIÇÕES ABERTAS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0025",
+      "type": "paragraph",
+      "text": "Seguindo obedientemente as instruções do GPS, Eduarda estacionou seu T-Cross em uma ruazinha arborizada no Morumbi. Se o endereço informado no Instagram estava correto, o centro cultural que procurava devia funcionar logo ali em frente, num casarão de pavimento único e arquitetura modernista."
+    },
+    {
+      "id": "cap-01-0026",
+      "type": "paragraph",
+      "text": "Desceu do veículo sem pressa, protegida pela meia hora de antecedência que a separava do início da aula inaugural. Sentia que era um pouco patético chegar tão cedo, mas o suor gelado nas palmas das mãos denunciava sua justificativa: a ansiedade, sentada como Buda na boca de seu estômago, mascava suas entranhas com uma constância torturante."
+    },
+    {
+      "id": "cap-01-0027",
+      "type": "paragraph",
+      "text": "Eduarda percebeu que era escritora antes mesmo de ser. Teve a sorte e o azar de descobrir cedo que aquele era o propósito de sua vida. Cresceu numa família de leitores ávidos, cercada por prateleiras abarrotadas de livros em múltiplos idiomas. Antes mesmo de aprender a formar sílabas, se apaixonou pelo cheiro de páginas antigas e pela sensação de acariciar lombadas. Mal tinha sido alfabetizada quando começou a rascunhar as primeiras histórias. Seus pais, sempre amorosos, a incentivaram como se sua imaginação fértil fosse uma profecia. O destino estava selado."
+    },
+    {
+      "id": "cap-01-0028",
+      "type": "paragraph",
+      "text": "Na infância, venceu incontáveis competições de redação na escola britânica em que estudava, nos Jardins. Aos catorze, ganhou a medalha de prata em um concurso literário do Sesc. Aos dezessete, começou a cursar Jornalismo na PUC, depois de ser aprovada no vestibular em uma posição obscenamente alta. Era um prodígio. Uma força da natureza. Uma imensidão. Nada poderia impedi-la de alcançar o que pertencia a ela desde o início do universo."
+    },
+    {
+      "id": "cap-01-0029",
+      "type": "paragraph",
+      "text": "Exceto, é claro, o fim do mundo."
+    },
+    {
+      "id": "cap-01-0030",
+      "type": "paragraph",
+      "text": "Suspirou. O importante era que, apesar de tudo, estava ali, matriculada em um curso prático de escrita criativa. Depois de um pequeno hiato, com seu otimismo habitual reconstruído, pronta para começar de novo. E de novo. E de novo. Quantas vezes fosse necessário.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Suspirou. O importante era que, apesar de "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tudo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", estava ali, matriculada em um curso prático de escrita criativa. Depois de um pequeno hiato, com seu otimismo habitual reconstruído, pronta para começar de novo. E de novo. E de novo. Quantas vezes fosse necessário."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0031",
+      "type": "paragraph",
+      "text": "Eduarda deslizou os óculos escuros para o alto da cabeça e pendurou a Longchamp azul marinho no ombro. Se identificou para o segurança de prontidão diante dos portões altos e deu uma boa olhada na fachada do centro cultural antes de entrar. Como filha de arquiteta e detentora de um conhecimento ou outro sobre mercado imobiliário, não pôde deixar de ser seduzida pela imponência da construção. A casa foi projetada como um bloco monolítico; uma caixa suspensa branca apoiada em oito pilares de concreto bruto. Havia uma escada de metal em caracol, que levava os pedestres até o terraço de madeira maciça e, de lá, para as portas duplas de vidro temperado."
+    },
+    {
+      "id": "cap-01-0032",
+      "type": "paragraph",
+      "text": "A movimentação ainda era discreta, quase preguiçosa. Uns poucos funcionários andavam para lá e para cá, retornando do almoço. Apenas uma outra pessoa parecia tão deslocada quanto ela: um homem alto, de cabelos pretos oleosos. Tinha as mãos enfiadas nos bolsos do casaco e olhava para todos os lados com a excitação de um filhote de labrador, como se esperasse ansiosamente algo acontecer."
+    },
+    {
+      "id": "cap-01-0033",
+      "type": "paragraph",
+      "text": "— Oi, com licença. — abordou ela, manejando a desenvoltura extrovertida que ostentava desde pequena — Você também veio pra aula de escrita?"
+    },
+    {
+      "id": "cap-01-0034",
+      "type": "paragraph",
+      "text": "O rapaz abriu um sorriso enorme, capaz de rasgar os cantos dos lábios e ocupar seu rosto inteiro."
+    },
+    {
+      "id": "cap-01-0035",
+      "type": "paragraph",
+      "text": "— Como você sabe? Eu tenho cara de escritor?"
+    },
+    {
+      "id": "cap-01-0036",
+      "type": "paragraph",
+      "text": "Não. Ela só tinha checado a programação no site e sabia que aquele era o único curso acontecendo por ali nas tardes de quarta-feira."
+    },
+    {
+      "id": "cap-01-0037",
+      "type": "paragraph",
+      "text": "— Acho que sim. — mentiu, gentilmente — Eu queimei a largada e cheguei meio cedo. Sabe se a sala já tá aberta?"
+    },
+    {
+      "id": "cap-01-0038",
+      "type": "paragraph",
+      "text": "— Não fui checar. Tava meio perdido, meio away, esperando algum colega chegar pra ser minha dupla nessa missão. — confessou ele, estendendo a mão em seguida, numa formalidade cordial — Eu sou o Paulo. E você?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Não fui checar. Tava meio perdido, meio "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "away"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", esperando algum colega chegar pra ser minha dupla nessa missão. — confessou ele, estendendo a mão em seguida, numa formalidade cordial — Eu sou o Paulo. E você?"
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0039",
+      "type": "paragraph",
+      "text": "Eduarda informou o próprio nome e devolveu o cumprimento com mais firmeza que o necessário. Como boa mulher sociável, quando interagia com homens, passava frequentemente pela importunação de ter sua cortesia confundida com flerte. De vez em quando, lembrava que precisava deixar claro que não era vulnerável e, sobretudo, que não estava interessada."
+    },
+    {
+      "id": "cap-01-0040",
+      "type": "paragraph",
+      "text": "Felizmente, Paulo estava muito eufórico com a arte para sequer pensar em exercitar o machismo estrutural."
+    },
+    {
+      "id": "cap-01-0041",
+      "type": "paragraph",
+      "text": "— Sabe que ainda estou um pouco deslumbrado? Cara, não acredito que a Lorena Ferette vai ler os meus textos.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Sabe que ainda estou um pouco "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "deslumbrado"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "? Cara, não acredito que a Lorena Ferette vai ler os meus textos."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0042",
+      "type": "paragraph",
+      "text": "— Você é fã dela? — indagou Eduarda, ajeitando a gola da jaqueta de couro."
+    },
+    {
+      "id": "cap-01-0043",
+      "type": "paragraph",
+      "text": "— E você não? A mulher é, tranquilamente, uma das maiores autoras dos nossos tempos!"
+    },
+    {
+      "id": "cap-01-0044",
+      "type": "paragraph",
+      "text": "— Então, eu… confesso que nunca li nada dela."
+    },
+    {
+      "id": "cap-01-0045",
+      "type": "paragraph",
+      "text": "Paulo arregalou os olhos. Retorceu o rosto em uma expressão surpresa, embora não julgadora."
+    },
+    {
+      "id": "cap-01-0046",
+      "type": "paragraph",
+      "text": "— Não é que eu não queira. — prosseguiu ela, movida pela súbita necessidade de se justificar — Está na minha lista da Amazon, inclusive."
+    },
+    {
+      "id": "cap-01-0047",
+      "type": "paragraph",
+      "text": "— Que inveja de você, Eduarda! Eu daria tudo pra esquecer “A Geometria dos Encontros Adjacentes” e ler pela primeira vez de novo.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Que inveja de você, Eduarda! Eu daria tudo pra esquecer “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "A Geometria dos Encontros"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Adjacentes"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "” e ler pela primeira vez de novo."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0048",
+      "type": "paragraph",
+      "text": "— Todo mundo diz que é incrível mesmo. Quer dizer, ganhou prêmio e tudo. Eu só sou meio desligada da literatura contemporânea. Meu negócio é mais Hilda Hilst, Toni Morrison, Joan Didion, Isabel Allende, Silvina Ocampo… Me inscrevi aqui no curso pela ementa, mas não sei muito sobre a Lorena em si."
+    },
+    {
+      "id": "cap-01-0049",
+      "type": "paragraph",
+      "text": "— Bom.. saber, sabeeeer, ninguém sabe. Escritor até pode ser pessoa pública, mas raramente é celebridade, né? Ela é muito reservada. Só sei que é bem jovenzinha e herdeira.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Bom.. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "saber"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", sabeeeer, ninguém sabe. Escritor até pode ser pessoa pública, mas raramente é celebridade, né? Ela é muito reservada. Só sei que é bem jovenzinha e herdeira."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0050",
+      "type": "paragraph",
+      "text": "“Jovenzinha e herdeira”. Duas coisas que elas tinham em comum."
+    },
+    {
+      "id": "cap-01-0051",
+      "type": "paragraph",
+      "text": "— Apesar disso… — continuou Paulo — Sei lá. Se você levar em conta que toda obra é um pouco autobiográfica… tem algo na escrita dela que parece um abismo."
+    },
+    {
+      "id": "cap-01-0052",
+      "type": "paragraph",
+      "text": "— Um abismo?"
+    },
+    {
+      "id": "cap-01-0053",
+      "type": "paragraph",
+      "text": "— É. Veja bem… o abismo é assustador porque sabemos que é uma ponte para a morte, mas também pela imensidão, pelo desconhecido, e…"
+    },
+    {
+      "id": "cap-01-0054",
+      "type": "paragraph",
+      "text": "Paulo hesitou. De alguma forma, ela tinha um palpite forte sobre o que viria a seguir."
+    },
+    {
+      "id": "cap-01-0055",
+      "type": "paragraph",
+      "text": "— E também porque o abismo atrai. Apavora, mas é um convite."
+    },
+    {
+      "id": "cap-01-0056",
+      "type": "paragraph",
+      "text": "— A escrita da Lorena é obscura, melancólica e amoral. Ao mesmo tempo, tem um magnetismo. Por exemplo: ela criou o personagem mais abjeto do mundo, mas todo mundo que eu converso sobre o livro se reconhece nele. Se reconhece a ponto de sentir que está nu. Porque como pode a escrita dela enxergar a nossa humanidade dessa maneira? Que tipo de pessoa é capaz de organizar as palavras de forma universal? De falar de tristeza e ódio criando um espelho?"
+    },
+    {
+      "id": "cap-01-0057",
+      "type": "paragraph",
+      "text": "A resposta atravessou o cérebro de Eduarda como uma pontada."
+    },
+    {
+      "id": "cap-01-0058",
+      "type": "paragraph",
+      "text": "— Provavelmente a pessoa mais interessante de todas."
+    },
+    {
+      "id": "cap-01-0059",
+      "type": "paragraph",
+      "text": "Depois de averiguarem que a sala ainda estava trancada, Eduarda e Paulo trocaram informações amenas como quem compartilha figurinhas. Ela descobriu que seu novo colega gostava de escrever romances policiais, e que até já tinha publicado alguns de forma independente sob o peculiar nome “Paulinho Reitz”. Decidiu se abster de perguntar a razão do diminutivo. Guardou a curiosidade para a possível ocasião futura em que se tornassem amigos."
+    },
+    {
+      "id": "cap-01-0060",
+      "type": "paragraph",
+      "text": "— E você? — indagou ele — O que gosta de escrever?"
+    },
+    {
+      "id": "cap-01-0061",
+      "type": "paragraph",
+      "text": "Em geral, quando um escritor pergunta isso a outro, o que quer saber de verdade é: “O que você já publicou?”. Uns poemas no jornal da faculdade. Um conto em uma coletânea sobre lésbicas. Uma fanfic semi-pornográfica no Wattpad. Alguns releases que sequer assinou na época em que fez estágio numa assessoria de imprensa.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Em geral, quando um escritor pergunta isso a outro, o que quer saber de verdade é: “O que você já publicou?”. Uns poemas no jornal da faculdade. Um conto em uma coletânea sobre lésbicas. Uma fanfic semi-pornográfica no Wattpad. Alguns "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "releases"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que sequer assinou na época em que fez estágio numa assessoria de imprensa."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0062",
+      "type": "paragraph",
+      "text": "E depois disso, nada. Um grande monte de nada."
+    },
+    {
+      "id": "cap-01-0063",
+      "type": "paragraph",
+      "text": "A verdade é que já fazia cinco anos que não escrevia porcaria nenhuma. Havia centenas de documentos sem título em seu histórico do Word, cada um deles com um parágrafo inicial falido. Isso foi o mais longe que chegou.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "A verdade é que já fazia cinco anos que não escrevia porcaria nenhuma. Havia centenas de documentos sem título em seu histórico do Word, cada um deles com um parágrafo inicial falido. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Isso"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " foi o mais longe que chegou."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0064",
+      "type": "paragraph",
+      "text": "Foi isto que conseguiu com todo o seu grande potencial.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Foi "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "isto"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que conseguiu com todo o seu "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "grande"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " potencial."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0065",
+      "type": "paragraph",
+      "text": "— Paulo, eu vou aproveitar que ainda faltam uns minutos pra ir ao banheiro rapidinho."
+    },
+    {
+      "id": "cap-01-0066",
+      "type": "paragraph",
+      "text": "Sem esperar resposta, saiu quase correndo pelo piso de jatobá, os coturnos Doc Martens fazendo o barulho de um exército sobre a madeira refinada. Tinha certeza de que o papel que interpretava era patético. Não estava fugindo de Paulinho Reitz, mas de si mesma. Da sua própria resposta.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Sem esperar resposta, saiu quase correndo pelo piso de jatobá, os coturnos Doc Martens fazendo o barulho de um exército sobre a madeira refinada. Tinha certeza de que o papel que interpretava era patético. Não estava fugindo de "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Paulinho"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Reitz, mas de si mesma. Da sua própria resposta."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0067",
+      "type": "paragraph",
+      "text": "Esse era um de seus maiores medos quando decidiu se inscrever no curso. Ao longo da vida, toda sua identidade girou ao redor da ideia de que seria escritora um dia. Pior: que já era escritora. Pior ainda: que foi escritora desde o Big Bang."
+    },
+    {
+      "id": "cap-01-0068",
+      "type": "paragraph",
+      "text": "Se não fosse mais capaz de escrever, não sabia se seria capaz de viver. Porque se não fosse artista, não era nada. Antes da pessoa, antes da mulher, antes do espírito, havia a escrita. O que é que morava no vácuo da linguagem? Se não houvesse mais palavra, como é que haveria Eduarda?"
+    },
+    {
+      "id": "cap-01-0069",
+      "type": "paragraph",
+      "text": "— Não haveria. Não há. É simplesmente isso. — murmurou para si mesma, enquanto entrava no banheiro como um furacão e batia a porta."
+    },
+    {
+      "id": "cap-01-0070",
+      "type": "paragraph",
+      "text": "— O que é que “não há”? — perguntou uma voz feminina e rouca, constituída de cetim e fumaça."
+    },
+    {
+      "id": "cap-01-0071",
+      "type": "paragraph",
+      "text": "Olhando em retrospecto, Eduarda perceberia que sua surpresa com a configuração do cômodo foi estúpida. O centro cultural funcionava em uma casa. Era óbvio que os banheiros não seriam coletivos, com cabines, como a porra de um shopping center.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Olhando em retrospecto, Eduarda perceberia que sua surpresa com a configuração do cômodo foi estúpida. O centro cultural funcionava em uma casa. Era "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "óbvio"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que os banheiros não seriam coletivos, com cabines, como a "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "porra"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " de um shopping center."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0072",
+      "type": "paragraph",
+      "text": "Havia uma banheira com acabamentos de ouro envelhecido, assim como a torneira e a moldura ornamentada do espelho. O único vaso sanitário e o bidê eram revestidos em porcelana branca, no mesmo tom dos ladrilhos do piso. O papel de parede floral, em bege e verde claro, harmonizava perfeitamente com o tecido creme nas cúpulas das arandelas e na persiana romana que cobria a janela."
+    },
+    {
+      "id": "cap-01-0073",
+      "type": "paragraph",
+      "text": "E sentada sobre a pia, como uma peça decorativa esculpida a mão, estava a mulher mais bonita que Eduarda já tinha visto em seus vinte e sete anos de existência."
+    },
+    {
+      "id": "cap-01-0074",
+      "type": "paragraph",
+      "text": "— E aí? Fiquei curiosa. — insistiu a desconhecida, serena, falando como quem se espreguiça — Não é sempre que o monólogo interno de alguém escapa da cabeça e cai no mundo."
+    },
+    {
+      "id": "cap-01-0075",
+      "type": "paragraph",
+      "text": "Tudo na estranha parecia selvagem—os cabelos castanhos ondulados e displicentes; os olhos verde-floresta, inquisidores como quem caça; os lábios cheios coloridos por um batom coral suave, emoldurados por covinhas bem marcadas; os dedos compridos e finos segurando um cigarro artesanal de tabaco, bem enrolado com folhas de seda."
+    },
+    {
+      "id": "cap-01-0076",
+      "type": "paragraph",
+      "text": "Eduarda não sabia bem o porquê, mas sentiu-se nua subitamente. A sensação era a de ser flagrada com algo muito íntimo e secreto nas mãos. Seu rosto chegou a esquentar. Mas a verdade é que não tinha nada demais acontecendo. Estava apenas encostada na porta do banheiro, com uma provável cara de besta, como a completa idiota que era.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Eduarda não sabia bem o porquê, mas sentiu-se nua subitamente. A sensação era a de ser flagrada com algo muito íntimo e secreto nas mãos. Seu rosto chegou a esquentar. Mas a verdade é que não tinha nada demais acontecendo. Estava apenas encostada na porta do banheiro, com uma provável cara de besta, como a completa "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "idiota"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que era."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0077",
+      "type": "paragraph",
+      "text": "— Eu… — ensaiou, tentando acomodar as palavras na boca — Desculpa. Eu achei… eu não fazia ideia que estava ocupado."
+    },
+    {
+      "id": "cap-01-0078",
+      "type": "paragraph",
+      "text": "A outra permaneceu em silêncio e demorou o olhar em Eduarda. Os segundos se arrastaram até ficarem muito parecidos com a eternidade."
+    },
+    {
+      "id": "cap-01-0079",
+      "type": "paragraph",
+      "text": "Por fim, saltou da pia e caminhou até ela."
+    },
+    {
+      "id": "cap-01-0080",
+      "type": "paragraph",
+      "text": "— Imagina. — disse, se aproximando."
+    },
+    {
+      "id": "cap-01-0081",
+      "type": "paragraph",
+      "text": "A mulher de olhos verdes parou a uns poucos milímetros de Eduarda. A menos de um braço de distância, dava pra sentir que cheirava a sândalo, incenso, fumo e algum outro mistério mais perigoso."
+    },
+    {
+      "id": "cap-01-0082",
+      "type": "paragraph",
+      "text": "— Eu é que devia… ter trancado a porta."
+    },
+    {
+      "id": "cap-01-0083",
+      "type": "paragraph",
+      "text": "— Que bom que não trancou. — respondeu Eduarda, hipnotizada, percebendo o que disse a tempo de recalcular a rota — Porque… se não tivesse trancado, eu ia passar a vergonha de falar sozinha na frente de todo mundo logo no primeiro dia de aula. Pelo menos falei aqui dentro. Só pra… só pra você."
+    },
+    {
+      "id": "cap-01-0084",
+      "type": "paragraph",
+      "text": "A outra garota riu, contida, sem mostrar os dentes ou emitir qualquer som."
+    },
+    {
+      "id": "cap-01-0085",
+      "type": "paragraph",
+      "text": "— Não, não. Eu realmente devia ter me trancado aqui. Não fui sábia."
+    },
+    {
+      "id": "cap-01-0086",
+      "type": "paragraph",
+      "text": "— Por que não?"
+    },
+    {
+      "id": "cap-01-0087",
+      "type": "paragraph",
+      "text": "Se Eduarda não estava maluca, podia jurar que viu a mulher baixando o olhar para sua boca por uma fração de segundo. E em seguida, exibir o cigarro, já apagado.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Se Eduarda não estava maluca, podia "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "jurar"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que viu a mulher baixando o olhar para sua boca por uma fração de segundo. E em seguida, exibir o cigarro, já apagado."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0088",
+      "type": "paragraph",
+      "text": "— Porque estou fumando escondida."
+    },
+    {
+      "id": "cap-01-0089",
+      "type": "paragraph",
+      "text": "— Uma adulta fumando escondida é novidade pra mim. — observou a ruiva, finalmente reunindo forças para esboçar um sorriso que parecia seguro.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Uma adulta fumando escondida é novidade pra mim. — observou a ruiva, finalmente reunindo forças para esboçar um sorriso que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "parecia"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " seguro."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0090",
+      "type": "paragraph",
+      "text": "A resposta demorou para chegar. E depois, se atrasou um pouco mais."
+    },
+    {
+      "id": "cap-01-0091",
+      "type": "paragraph",
+      "text": "— Estou fumando escondida de mim mesma, eu acho. A vergonha é toda minha."
+    },
+    {
+      "id": "cap-01-0092",
+      "type": "paragraph",
+      "text": "— Eu sei como é. Também vim aqui pra isso. Pena que aonde quer que a gente vá, a gente vai junto."
+    },
+    {
+      "id": "cap-01-0093",
+      "type": "paragraph",
+      "text": "Os olhos verdes se iluminaram."
+    },
+    {
+      "id": "cap-01-0094",
+      "type": "paragraph",
+      "text": "— Isso me lembra um texto da Hilda Hilst…"
+    },
+    {
+      "id": "cap-01-0095",
+      "type": "paragraph",
+      "text": "— “Tu não te moves de ti”? — sugeriu Eduarda, rapidamente, como uma aluna aplicada — A Hilda é uma das minhas autoras preferidas. Eu escrevo… na verdade, eu quero escrever por causa dela. E também por causa de muitas outras escritoras. E também por causa de mim.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tu não te moves de ti"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "”? — sugeriu Eduarda, rapidamente, como uma aluna aplicada — A Hilda é uma das minhas autoras preferidas. Eu escrevo… na verdade, eu "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "quero escrever"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " por causa dela. E também por causa de muitas outras escritoras. E também por causa de mim."
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0096",
+      "type": "paragraph",
+      "text": "A mulher de cabelos castanhos a encarou, com a expressão desnorteada de quem percebe, em uma epifania, que a vida é minúscula e gigante ao mesmo tempo, e a morte não significa nada."
+    },
+    {
+      "id": "cap-01-0097",
+      "type": "paragraph",
+      "text": "— Eu… eu preciso ir. — informou, jogando o que sobrou de seu cigarro em uma ecobag, em que Eduarda sequer tinha reparado até então — Presumo que te vejo na aula de escrita daqui a pouco?"
+    },
+    {
+      "id": "cap-01-0098",
+      "type": "paragraph",
+      "text": "— Com certeza vê. — assegurou a ruiva, dando um passo para o lado na intenção de liberar o caminho até a saída."
+    },
+    {
+      "id": "cap-01-0099",
+      "type": "paragraph",
+      "text": "A desconhecida sorriu. Então, parecendo constrangida, em vez de seguir para a porta, retornou para a pia."
+    },
+    {
+      "id": "cap-01-0100",
+      "type": "paragraph",
+      "text": "E para o espanto de Eduarda, pegou um objeto que, ao que parecia, foi esquecido ali:"
+    },
+    {
+      "id": "cap-01-0101",
+      "type": "paragraph",
+      "text": "Uma aliança dourada e grossa, que ela também jogou no fundo da ecobag. No mesmo patamar de um cigarro meio tragado."
+    },
+    {
+      "id": "cap-01-0102",
+      "type": "paragraph",
+      "text": "Como se nada tivesse acontecido, caminhou até a porta, abriu a maçaneta e deu uma última olhada de soslaio, antes de dizer:"
+    },
+    {
+      "id": "cap-01-0103",
+      "type": "paragraph",
+      "text": "— Não se atrase muito. Eu dou falta."
+    }
+  ],
+  "notes": {
+    "before": [],
+    "after": []
+  }
+}

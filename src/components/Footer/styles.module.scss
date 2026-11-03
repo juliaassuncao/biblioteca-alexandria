@@ -1,0 +1,9 @@
+@use '../../styles/tokens' as t;
+.footer { background:#2e2929; color:#f3ebdc; margin-top:90px; padding:48px 0; }
+.inner { display:flex; justify-content:space-between; gap:30px; align-items:start; }
+.inner>div:first-child>svg { vertical-align:-4px; margin-right:10px; color:#d4b48a; }
+.inner strong { font:600 24px 'Cormorant Garamond',Georgia,serif; }
+.footer p { font-size:13px; color:#c5bcb3; line-height:1.7; margin:10px 0; }
+.right { text-align:right; }
+.right small { display:flex; gap:6px; justify-content:flex-end; align-items:center; color:#cba987; font-size:11px; }
+@media(max-width:620px){ .inner{flex-direction:column;} .right{text-align:left;} .right small{justify-content:start;} }

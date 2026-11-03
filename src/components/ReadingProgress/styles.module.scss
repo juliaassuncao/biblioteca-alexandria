@@ -1,0 +1,6 @@
+.progress {
+  appearance: none; position: fixed; inset: 0 0 auto; width: 100%; height: 3px; z-index: 30; border: 0; color: var(--reader-accent); background: var(--reader-border); pointer-events: none;
+  &::-webkit-progress-bar { background: var(--reader-border); }
+  &::-webkit-progress-value { background: var(--reader-accent); }
+  &::-moz-progress-bar { background: var(--reader-accent); }
+}

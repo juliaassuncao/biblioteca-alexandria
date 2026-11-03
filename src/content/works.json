@@ -1,0 +1,843 @@
+[
+  {
+    "id": "morte-a-linguagem",
+    "slug": "morte-a-linguagem",
+    "title": "Morte à Linguagem",
+    "author": {
+      "displayName": "Vique",
+      "ao3Name": "PerfectImmaculateBitch",
+      "authorLink": "https://x.com/thenicestevil"
+    },
+    "synopsis": "Eduarda Fragoso é uma aspirante a escritora que não escreve há cinco anos. Na tentativa de retomar a prática artística que dá sentido à sua vida, decide se inscrever no curso livre de Lorena Ferette, a jovem autora mais premiada da literatura brasileira contemporânea. Em 4 semanas, as duas vão aprender uma nova linguagem que nenhuma palavra seria capaz de encapsular.",
+    "status": "ongoing",
+    "language": "pt-BR",
+    "fandom": "Três Graças (TV)",
+    "category": "F/F",
+    "classification": {
+      "rating": "Mature",
+      "archiveWarning": "Creator Chose Not To Use Archive Warnings"
+    },
+    "tags": [
+      "Alternate Universe - Teachers",
+      "Teacher-Student Relationship",
+      "Writers",
+      "Flirting",
+      "Processing Grief",
+      "Literature",
+      "Slow Burn",
+      "Slice of Life",
+      "Stream of Consciousness"
+    ],
+    "contentAdvisories": [
+      "Questões de saúde mental",
+      "Luto",
+      "Alcoolismo (referências)",
+      "Homofobia familiar",
+      "Conteúdo sexual"
+    ],
+    "stats": {
+      "words": 95183,
+      "publishedChapters": 14,
+      "plannedChapters": 17,
+      "publishedAt": "2026-01-23",
+      "updatedAt": "2026-10-24"
+    },
+    "cover": {
+      "variant": "typographic",
+      "tone": "wine",
+      "caption": "Palavras, desejo e outras formas de existir.",
+      "ornament": "feather"
+    },
+    "reading": {
+      "mode": "internal",
+      "externalUrl": null
+    },
+    "downloads": { "enabled": true },
+    "links": {
+      "original": "https://archiveofourown.org/works/78179326"
+    },
+    "editorial": {
+      "submittedByAuthor": true,
+      "contentReady": false,
+      "sourceFile": "Morte à Linguagem.pdf",
+      "sourceUpdatedAt": "2026-10-24",
+      "coverOfficial": false
+    },
+    "chapters": [
+      {
+        "id": "cap-01",
+        "number": 1,
+        "title": "Prefácio",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-02",
+        "number": 2,
+        "title": "Semana 1, Aula 1 - A Fenomenologia da Percepção",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-03",
+        "number": 3,
+        "title": "Semana 1, Aula 2 - A Fenomenologia da Percepção",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-04",
+        "number": 4,
+        "title": "Semana 2, Aula 1 - A Topologia do Desejo",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-05",
+        "number": 5,
+        "title": "Semana 2, Aula 2 - A Topologia do Desejo",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-06",
+        "number": 6,
+        "title": "Semana 2 - Lançamento",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-07",
+        "number": 7,
+        "title": "Semana 3 - Unheimlich",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-08",
+        "number": 8,
+        "title": "Semana 3, Aula 1 - A Física da Prosa",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-09",
+        "number": 9,
+        "title": "Semana 3, Aula ½ - A Física da Prosa",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-10",
+        "number": 10,
+        "title": "Semana 3 - Ser/Estar",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-11",
+        "number": 11,
+        "title": "Semana 3 - O Banquete",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-12",
+        "number": 12,
+        "title": "Semana 3 - Marinho",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-13",
+        "number": 13,
+        "title": "Semana 3 - Úmido/Árido",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-14",
+        "number": 14,
+        "title": "Semana 3 - Doce-amargo",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [
+          "Homofobia familiar (trecho sinalizado pela autora)"
+        ],
+        "blocks": []
+      }
+    ]
+  },
+  {
+    "id": "bones",
+    "slug": "bones",
+    "title": "Bones",
+    "author": {
+      "displayName": null,
+      "ao3Name": null
+    },
+    "synopsis": "Este projeto possui uma experiência de leitura independente. Ao acessar a obra, você será direcionada ao site próprio.",
+    "status": "unknown",
+    "language": "pt-BR",
+    "fandom": "Três Graças (TV)",
+    "category": "F/F",
+    "classification": null,
+    "tags": [],
+    "contentAdvisories": [],
+    "stats": {
+      "words": null,
+      "publishedChapters": null,
+      "plannedChapters": null,
+      "publishedAt": null,
+      "updatedAt": null
+    },
+    "cover": {
+      "variant": "typographic",
+      "tone": "ink",
+      "caption": "Uma história. Um universo próprio.",
+      "ornament": "fingerprint"
+    },
+    "reading": {
+      "mode": "external",
+      "externalUrl": null
+    },
+    "links": {
+      "original": null
+    },
+    "editorial": {
+      "submittedByAuthor": true,
+      "contentReady": true,
+      "sourceFile": null,
+      "sourceUpdatedAt": null,
+      "coverOfficial": false
+    },
+    "chapters": []
+  },
+  {
+    "id": "custode",
+    "slug": "custode",
+    "title": "Custode",
+    "author": {
+      "displayName": null,
+      "ao3Name": null
+    },
+    "synopsis": "Este projeto possui uma experiência de leitura independente. Ao acessar a obra, você será direcionada ao site próprio.",
+    "status": "unknown",
+    "language": "pt-BR",
+    "fandom": "Três Graças (TV)",
+    "category": "F/F",
+    "classification": null,
+    "tags": [],
+    "contentAdvisories": [],
+    "stats": {
+      "words": null,
+      "publishedChapters": null,
+      "plannedChapters": null,
+      "publishedAt": null,
+      "updatedAt": null
+    },
+    "cover": {
+      "variant": "typographic",
+      "tone": "sage",
+      "caption": "Uma história. Um universo próprio.",
+      "ornament": "clover"
+    },
+    "reading": {
+      "mode": "external",
+      "externalUrl": null
+    },
+    "links": {
+      "original": null
+    },
+    "editorial": {
+      "submittedByAuthor": true,
+      "contentReady": true,
+      "sourceFile": null,
+      "sourceUpdatedAt": null,
+      "coverOfficial": false
+    },
+    "chapters": []
+  },
+  {
+    "id": "no-verde-dos-seus-olhos",
+    "slug": "no-verde-dos-seus-olhos",
+    "title": "No verde dos seus olhos",
+    "author": {
+      "displayName": "Nat",
+      "ao3Name": "perrysbian",
+      "authorLink": "https://x.com/mdvguillenx"
+    },
+    "ao3Authors": [
+      "AlanisCaratella",
+      "perrysbian"
+    ],
+    "synopsis": "Alanis Guillen, uma artista contemporânea, decide encerrar seu ciclo no Brasil oferecendo uma última oficina de arte antes de recomeçar em outro país. Para ela, serão apenas seis meses de despedida.\n\nDo outro lado, Gabriela Medvedovsky, uma tenista premiada que precisou interromper a carreira após uma gravidez inesperada, dedica seus dias à criação da pequena Sofia, uma menina de quatro anos que parece ter herdado não a disciplina das quadras, mas a inquietação das cores. Enquanto Gabriela tenta retomar o controle de sua vida, Sofia transforma cada parede da casa em sua primeira exposição particular.\n\nQuando uma amiga sugere a oficina de Alanis como solução para a energia artística da criança, o encontro entre essas duas mulheres revela muito mais do que uma simples aula de pintura.\n\nEm meio a tintas, recomeços e escolhas adiadas, ambas precisarão confrontar os caminhos que deixaram para trás e descobrir que, às vezes, o futuro começa justamente onde parecia haver apenas um ponto final. Uma história sensível sobre maternidade e segundas chances, onde redesenhar o destino será a maior lição.",
+    "status": "ongoing",
+    "language": "pt-BR",
+    "fandom": "Medveguillen",
+    "category": "F/F",
+    "classification": {
+      "rating": "Explicit",
+      "archiveWarning": "Creator Chose Not To Use Archive Warnings"
+    },
+    "relationships": [
+      "Alanis Guillen/Gabriela Medvedovsky",
+      "Lorena Ferette/Eduarda \"Juquinha\" Fragoso"
+    ],
+    "characters": [
+      "Alanis Guillen",
+      "Gabriela Medvedovsky",
+      "Giovanna Grigio",
+      "Daphne Bozaski",
+      "Letícia Vieira",
+      "Laura Dutra",
+      "Buby Pinheiro"
+    ],
+    "workNotes": [
+      {
+        "id": "work-note-01",
+        "type": "paragraph",
+        "text": "só para as medveguillens"
+      }
+    ],
+    "tags": [
+      "Gabi é mãe solteira",
+      "universo alternativo medveguillen",
+      "altíssimo teor de domestic vibes",
+      "elas são taradas uma pela outra",
+      "Found Family",
+      "Lesbian Sex"
+    ],
+    "contentAdvisories": [],
+    "stats": {
+      "words": 242334,
+      "publishedChapters": 32,
+      "plannedChapters": null,
+      "publishedAt": "2026-03-27",
+      "updatedAt": "2026-10-21"
+    },
+    "cover": {
+      "variant": "typographic",
+      "tone": "sage",
+      "ornament": "paintbrush",
+      "caption": ""
+    },
+    "reading": {
+      "mode": "internal",
+      "externalUrl": null
+    },
+    "downloads": {
+      "enabled": true
+    },
+    "links": {
+      "original": "https://archiveofourown.org/works/81930951"
+    },
+    "editorial": {
+      "submittedByAuthor": true,
+      "contentReady": false,
+      "sourceFile": "No verde dos seus olhos.pdf",
+      "sourceUpdatedAt": "2026-10-21",
+      "coverOfficial": false
+    },
+    "chapters": [
+      {
+        "id": "cap-01",
+        "number": 1,
+        "title": "prólogo",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-02",
+        "number": 2,
+        "title": "a primeira aula",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-03",
+        "number": 3,
+        "title": "a segunda aula",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-04",
+        "number": 4,
+        "title": "a terceira aula",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-05",
+        "number": 5,
+        "title": "um semi-date",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-06",
+        "number": 6,
+        "title": "a quarta aula",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-07",
+        "number": 7,
+        "title": "a aula experimental de tênis",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-08",
+        "number": 8,
+        "title": "o sentimento mútuo",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-09",
+        "number": 9,
+        "title": "sagrado profano",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-10",
+        "number": 10,
+        "title": "a quinta aula",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-11",
+        "number": 11,
+        "title": "saudade",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-12",
+        "number": 12,
+        "title": "a sexta aula",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-13",
+        "number": 13,
+        "title": "o chá para dormir melhor",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-14",
+        "number": 14,
+        "title": "uma partida de tênnin",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-15",
+        "number": 15,
+        "title": "uma mudança de planos",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-16",
+        "number": 16,
+        "title": "Alanis encontra um pincelzinho",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-17",
+        "number": 17,
+        "title": "a sétima aula",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-18",
+        "number": 18,
+        "title": "as coisas mais simples da vida nem são coisas",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-19",
+        "number": 19,
+        "title": "infinitamente",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-20",
+        "number": 20,
+        "title": "mamãe Lani",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-21",
+        "number": 21,
+        "title": "o que não é acreditável, não é crível... inacreditável",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-22",
+        "number": 22,
+        "title": "imagina estar no paraíso... e cair de lá.",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-23",
+        "number": 23,
+        "title": "a despedida.",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-24",
+        "number": 24,
+        "title": "não da pra ter tudo na vida, mas o coração não entende… caralho",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-25",
+        "number": 25,
+        "title": "something so heavenly, higher than ecstasy",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-26",
+        "number": 26,
+        "title": "If somewhere there is a heaven this is as close as I will get",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-27",
+        "number": 27,
+        "title": "she shares my dreams, I hope that someday I'll share her home",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-28",
+        "number": 28,
+        "title": "nem vale a pena viver se não for pra morrer do seu lado",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-29",
+        "number": 29,
+        "title": "o dia das mães",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-30",
+        "number": 30,
+        "title": "Living the dream???",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-31",
+        "number": 31,
+        "title": "o quadro de cinquenta mil reais, um tesão de 13 Jumas e Lula para o jantar",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-32",
+        "number": 32,
+        "title": "pleasure heaven - parte I",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,1926 @@
+{
+  "id": "cap-23",
+  "blocks": [
+    {
+      "id": "cap-23-0001",
+      "type": "paragraph",
+      "text": "“Qual é mesmo o nome dela?”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Qual é mesmo o nome dela?”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0002",
+      "type": "paragraph",
+      "text": "Era a única frase insistente na cabeça de Alanis enquanto ela preparava o café em sua cozinha numa manhã qualquer, há mais ou menos três meses antes de conhecer Gabriela."
+    },
+    {
+      "id": "cap-23-0003",
+      "type": "paragraph",
+      "text": "O cheiro da tinta fresca em suas telas espalhadas pela casa, pelo corredor e no próprio ateliê, se misturava ao cheiro do perfume caro da mulher que dormia em sua cama, impregnado nela mesma, até mesmo após o banho que havia tomado ao acordar. Um perfume doce demais, que Alanis particularmente franzia o nariz se respirasse o suficiente para senti-lo por muito tempo."
+    },
+    {
+      "id": "cap-23-0004",
+      "type": "paragraph",
+      "text": "A artista havia comparecido a um coquetel de inauguração de uma galeria com Giovanna na noite anterior e, mesmo sem nenhum interesse, lá estava ela, indo embora com uma mulher da qual não se lembrava o nome."
+    },
+    {
+      "id": "cap-23-0005",
+      "type": "paragraph",
+      "text": "Enquanto passava o café, tentava se lembrar se em algum momento havia ao menos perguntado o nome dela, somente para se despedir quando ela acordasse, mas não vinha nada à sua mente, talvez pelo excesso de champanhe durante o evento."
+    },
+    {
+      "id": "cap-23-0006",
+      "type": "paragraph",
+      "text": "Serviu o café em uma caneca e foi para o sofá, sentou ao lado de um blazer jogado de qualquer jeito e da bolsa pequena de marca."
+    },
+    {
+      "id": "cap-23-0007",
+      "type": "paragraph",
+      "text": "O notebook e o celular dela estavam na mesa de centro, logo ali na frente do sofá. Ela se esticou só para pegar o telefone e dentre as muitas mensagens e e-mails, uma lhe chamou a atenção."
+    },
+    {
+      "id": "cap-23-0008",
+      "type": "paragraph",
+      "text": "Laura Dutra:\nOlha isso.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Laura Dutra:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\nOlha isso."
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0009",
+      "type": "paragraph",
+      "text": "Laura, que morava em Portugal, estava em sua busca incessante de algo que atraísse Alanis a sair do Brasil. Notava que a amiga estava infeliz e queria ajudar. Logo abaixo da mensagem havia um link."
+    },
+    {
+      "id": "cap-23-0010",
+      "type": "paragraph",
+      "text": "“Temporary visiting tutor program - Royal College of Art. (London)”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Temporary visiting tutor program - Royal College of Art. (London)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "”"
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0011",
+      "type": "paragraph",
+      "text": "Alanis arqueou uma sobrancelha e abriu o edital. A renomada escola de artes buscava artistas experientes para um programa intensivo durante três meses, podendo ser renovado por mais tempo. O perfil que procuravam parecia chamá-la pelo nome. Experiência com ensino, produção autoral e histórico de êxito em exposições internacionais.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Alanis arqueou uma sobrancelha e abriu o edital. A renomada escola de artes buscava artistas experientes para um programa intensivo durante três meses, podendo ser renovado por mais tempo. O perfil que procuravam parecia chamá-la pelo nome. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Experiência com ensino,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "produção autoral e histórico de êxito em exposições internacionais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0012",
+      "type": "paragraph",
+      "text": "Ela voltou até a conversa com Laura para ler as outras mensagens."
+    },
+    {
+      "id": "cap-23-0013",
+      "type": "paragraph",
+      "text": "Laura Dutra:\nEssa vaga é sua!\nVocê nasceu para ela.\nPode ser a porta de entrada para sua vida aqui.\nEu, particularmente, acho que não tem mais nada aí para você.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Laura Dutra:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\nEssa vaga é sua!\nVocê nasceu para ela.\nPode ser a porta de entrada para sua vida aqui.\nEu, particularmente, acho que não tem mais nada aí para você."
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0014",
+      "type": "paragraph",
+      "text": "Alanis deixou os dedos pairando sobre a tela com a conversa aberta e a mente vagando por aí."
+    },
+    {
+      "id": "cap-23-0015",
+      "type": "paragraph",
+      "text": "Nos últimos meses, aquele era um pensamento que a atravessava várias vezes ao dia. A de ir embora dali. De recomeçar. De viver coisas novas porque já estava enjoada da solidão daquele ateliê, da vida vazia, de dormir com pessoas das quais não se lembrava do nome, mas era tudo tão automático, era a vida que ela levava há anos… Pintava suas telas, viajava, voltava para sua casa e recomeçava tudo outra vez."
+    },
+    {
+      "id": "cap-23-0016",
+      "type": "paragraph",
+      "text": "Amava suas oficinas e amava o Rio também. Mas já não amava viver exatamente os mesmos dias e o mesmo vazio. Pensou até que chegaria o dia em que não amaria mais pintar, que a inspiração já não estaria mais ali. E isso sempre lhe fazia sentir um frio na espinha."
+    },
+    {
+      "id": "cap-23-0017",
+      "type": "paragraph",
+      "text": "O som de passos suaves pelo corredor a fez olhar na direção da moça extremamente sensual, com os cabelos ondulados e cheios, caminhando em sua direção com os saltos nas mãos. Ela vinha mexendo no celular e Alanis sorriu educadamente para ela quando ela finalmente a olhou de volta."
+    },
+    {
+      "id": "cap-23-0018",
+      "type": "paragraph",
+      "text": "— Bom dia — Alanis disse educadamente, vendo-a sentar-se ali ao lado para colocar os saltos. — Você quer alguma coisa? Um café…"
+    },
+    {
+      "id": "cap-23-0019",
+      "type": "paragraph",
+      "text": "— Não… Estou bem. Já chamei um Uber. — Ela terminou de calçar os saltos e sorriu para Alanis. A moça era extremamente bonita, mas não lhe causava nenhuma sensação reparar naquilo. — Vou esperar lá embaixo."
+    },
+    {
+      "id": "cap-23-0020",
+      "type": "paragraph",
+      "text": "Ela se levantou e Alanis abaixou os olhos para o celular outra vez."
+    },
+    {
+      "id": "cap-23-0021",
+      "type": "paragraph",
+      "text": "— Você é tudo o que falam mesmo, Guillen… — ela disse com a voz suave e um sorriso bonito já de saída."
+    },
+    {
+      "id": "cap-23-0022",
+      "type": "paragraph",
+      "text": "— Ah, é? — Alanis ergueu o olhar novamente com curiosidade."
+    },
+    {
+      "id": "cap-23-0023",
+      "type": "paragraph",
+      "text": "— Acho que essa foi a melhor transa da minha vida. — A moça disse, olhando para ela como se estivesse revivendo cada detalhe da última noite. — Uma pena você não ter perguntado nem o meu nome. — Ela abriu um sorriso honesto e pegou o blazer e a bolsa. — Já eu… vou me lembrar do seu por muito tempo."
+    },
+    {
+      "id": "cap-23-0024",
+      "type": "paragraph",
+      "text": "Alanis riu e a moça se foi."
+    },
+    {
+      "id": "cap-23-0025",
+      "type": "paragraph",
+      "text": "Ela deixou a caneca com o café na mesinha de centro e abriu o notebook sobre as pernas. Separou o currículo, fazendo algumas adaptações para a vaga e acrescentando outros detalhes até achar que estava de acordo com sua posição atual. Atualizou o portfólio e anexou as melhores cartas de recomendação que já tinha, devidamente traduzidas para o inglês. Preencheu cada campo daquela aplicação como se fosse uma porta de escape necessária para aquele vazio que sentia, torcendo com todo o coração para que recebesse, meses depois, a confirmação daquela vaga."
+    },
+    {
+      "id": "cap-23-0026",
+      "type": "paragraph",
+      "text": "Suspirou longamente quando clicou em enviar e sorriu, já se imaginando lá. Já fazendo planos, naquele microssegundo em que se imaginou lendo a aprovação naquele processo.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Suspirou longamente quando clicou em "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "enviar"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " e sorriu, já se imaginando lá. Já fazendo planos, naquele microssegundo em que se imaginou lendo a aprovação naquele processo."
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0027",
+      "type": "paragraph",
+      "text": "Fechou o notebook e pensou que provavelmente, na semana seguinte, já teria esquecido que aquela possibilidade sequer existiu."
+    },
+    {
+      "id": "cap-23-0028",
+      "type": "divider",
+      "text": "***"
+    },
+    {
+      "id": "cap-23-0029",
+      "type": "paragraph",
+      "text": "E bem ali, meses depois, na tela bloqueada do seu celular, acima de uma foto de Sofia sorrindo com os olhinhos fechados e esticando as mãozinhas sujas de tinta, aparecia a notificação que tinha tudo para ser a melhor de sua vida."
+    },
+    {
+      "id": "cap-23-0030",
+      "type": "paragraph",
+      "text": "Royal College of Art (RCA)\nCongratulations, Ms Guillen! We are delighted to offer you…",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Royal College of Art (RCA)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Congratulations, Ms Guillen! We are delighted to offer you…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0031",
+      "type": "paragraph",
+      "text": "Alanis sequer pensou em abrir o e-mail. Não precisou, porque sabia que estava prestes a ver o seu mundo profissional colidir com a rotina familiar que havia enchido seus dias de significado pela primeira vez. Estava prestes a ter que decidir entre ir atrás de um passo que mudaria toda a sua carreira, que elevaria o seu nome, que traria o prestígio necessário para se estabelecer como a artista que ela sabia que era, ou continuar ali, sentindo a alegria mais genuína que já havia sentido, só por levar café da manhã na cama para sua enteada, porém estagnada como uma artista talentosa e nada além disso."
+    },
+    {
+      "id": "cap-23-0032",
+      "type": "paragraph",
+      "text": "Os olhos permaneceram na tela até que ela naturalmente se apagasse, incapaz até mesmo de piscar. A cama de Gabriela estava logo ali e ela caminhou apenas o suficiente para se sentar na beirada dela, como se, de repente, estivesse anestesiada de tudo. Ouvia a risada alegre de Sofia. A voz suave de Gabriela conversando com a filha e, mesmo com as paredes atrapalhando a ouvir o assunto, era o suficiente para preencher seu coração que batia acelerado. Se pegou pensando que mesmo com aquela oportunidade nas mãos, tudo o que queria era voltar para aquele quarto infantil e continuar o seu dia que tinha começado tão bem. Não queria deixar de viver isso, mesmo que por alguns meses. Não podia virar as costas para aquilo. Ela estava no céu. Era assim que se sentia quando estava naquele apartamento. Não queria sair dali, mas, mesmo sem abrir o e-mail, já tinha despencado. No fundo, ela sabia que estava de frente para uma oportunidade irrecusável que a assombraria pelo resto da vida.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Os olhos permaneceram na tela até que ela naturalmente se apagasse, incapaz até mesmo de piscar. A cama de Gabriela estava logo ali e ela caminhou apenas o suficiente para se sentar na beirada dela, como se, de repente, estivesse anestesiada de tudo. Ouvia a risada alegre de Sofia. A voz suave de Gabriela conversando com a filha e, mesmo com as paredes atrapalhando a ouvir o assunto, era o suficiente para preencher seu coração que batia acelerado. Se pegou pensando que mesmo com aquela oportunidade nas mãos, tudo o que queria era voltar para aquele quarto infantil e continuar o seu dia que tinha começado tão bem. Não queria deixar de viver isso, mesmo que por alguns meses. Não podia virar as costas para aquilo. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ela estava no céu"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Era assim que se sentia quando estava naquele apartamento. Não queria sair dali, mas, mesmo sem abrir o e-mail, já tinha despencado. No fundo, ela sabia que estava de frente para uma oportunidade irrecusável que a assombraria pelo resto da vida."
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0033",
+      "type": "paragraph",
+      "text": "Lembrou-se do dia da aplicação… queria tanto aquela aprovação, mas agora seu estômago revirava de nervoso só pela possibilidade de perder alguns meses com a família que de alguma forma, agora era sua. De passar meses à distância das duas pessoas que ela já amava tanto…"
+    },
+    {
+      "id": "cap-23-0034",
+      "type": "paragraph",
+      "text": "Alanis estava imóvel com o celular na mão e o olhar perdido quando Sofia entrou no quarto correndo e, logo atrás, Gabriela vinha caminhando devagar."
+    },
+    {
+      "id": "cap-23-0035",
+      "type": "paragraph",
+      "text": "— Vem, mamãe Lani, guardei kiwizinho pra você. — Sofia dizia ao se jogar entre as pernas de Alanis. — O cantinho da boca da criança estava suja de danoninho e o cheirinho que exalava dela a fez segurá-la com força contra si."
+    },
+    {
+      "id": "cap-23-0036",
+      "type": "paragraph",
+      "text": "Alanis deixou o celular de lado e sorriu para Gabriela com os olhos cheios d’água, abraçando Sofia com tanta força que a ergueu do chão. Sofia não reclamou; em vez disso, deu uma gargalhada que preencheu o quarto silencioso. Gabriela, no entanto, sabia que tinha acontecido algo, mas as três voltaram para o quarto da menina enquanto Sofia pulava e puxava Alanis pela mão."
+    },
+    {
+      "id": "cap-23-0037",
+      "type": "paragraph",
+      "text": "Seu estômago revirava toda vez que ela se lembrava do e-mail não aberto, que ainda estava lá, com a oportunidade promissora de mudar a sua vida… Que já havia mudado o suficiente para fazê-la não sentir nenhuma atração por aquela oportunidade mais. Sua vida era ali, entre a Urca e o Leme. Não queria saber de Londres, não mais."
+    },
+    {
+      "id": "cap-23-0038",
+      "type": "paragraph",
+      "text": "À época, imaginou que provavelmente abriria um vinho e ligaria imediatamente para Laura e Giovanna para contar a notícia… Provavelmente já estaria com o notebook aberto procurando apartamentos, resolvendo coisas da viagem… Afinal, era a oportunidade que qualquer artista sonhava: dar aula para os melhores artistas na melhor instituição de artes do mundo."
+    },
+    {
+      "id": "cap-23-0039",
+      "type": "paragraph",
+      "text": "Seu nome dividiria o espaço com os renomados professores com quem ela mesma havia estudado. Era um passo gigantesco. O único problema era que aquela Alanis já não existia mais. O que existia agora era uma Alanis apaixonada pela Gabriela. Uma Alanis louca por uma Sofia. Uma rotina de parceria construída com a delicadeza que ela jamais sonhou em fazer parte, que, mesmo sem morar definitivamente ali, já havia estabelecido aquela família como o seu lar.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Seu nome dividiria o espaço com os renomados professores com quem ela mesma havia estudado. Era um passo gigantesco. O único problema era que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "aquela"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Alanis já não existia mais. O que existia agora era uma Alanis apaixonada pela Gabriela. Uma Alanis louca por uma Sofia. Uma rotina de parceria construída com a delicadeza que ela jamais sonhou em fazer parte, que, mesmo sem morar definitivamente ali, já havia estabelecido aquela família como o seu lar."
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0040",
+      "type": "paragraph",
+      "text": "Aquele e-mail era o sonho da artista Alanis. Mas o pesadelo da Alanis apaixonada. Da Alanis mãe. E, Alanis decidiu ali, naquela manhã sem falar nada para ninguém, que não iria.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Aquele e-mail era o sonho da artista Alanis. Mas o pesadelo da Alanis apaixonada. Da Alanis mãe. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "E, Alanis decidiu ali, naquela manhã sem falar nada para ninguém, que não iria."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0041",
+      "type": "paragraph",
+      "text": "Mas ela não contava com uma Gabriela que já a conhecia tão bem a ponto de estar reparando nela silenciosamente durante aquele café na cama inteiro. Notou a demora para voltar do quarto, notou o olhar vazio que demorou a se reajustar quando ela e Sofia foram até lá buscá-la, notou que, por várias vezes, Alanis se perdia olhando para o nada, voltando a si com Sofia a chacoalhando pelos braços."
+    },
+    {
+      "id": "cap-23-0042",
+      "type": "paragraph",
+      "text": "Gabriela conhecia muito bem o que Alanis estava fazendo. Ela mesma era assim, se fechava enquanto sentia demais, enquanto se preocupava com Sofia em silêncio… Mas tentou se convencer de que estava vendo coisa onde não tinha, tentou ignorar no começo. Afinal, Alanis sempre mergulhava nos próprios pensamentos de vez em quando. Talvez estivesse tendo algum insight bem ali, diante dos olhos dela. Cansou de presenciar a artista olhando para algum quadro em silêncio por incontáveis minutos, até ela mesma se cansar e deixar o ateliê, mas aquele olhar perdido ali do quarto não se parecia em nada com o olhar encantado, apaixonado, em que os olhos verdes brilhavam… aquele olhar era nada além de tristeza. Pura, genuína. Alanis estava desaparecendo dentro de si enquanto Gabriela assistia Sofia oferecer kiwi na boca dela, e a artista sequer sorria, se afogando no que quer que fosse o que a consumia."
+    },
+    {
+      "id": "cap-23-0043",
+      "type": "paragraph",
+      "text": "— Filha! — Gabriela chamou, e as duas olharam. Era discrepante a diferença entre o olhar animado de Sofia e o embaçado de Alanis. — Sabe quem está morrendo de fome? Todos os seus bichinhos, olha como eles estão esperando por você."
+    },
+    {
+      "id": "cap-23-0044",
+      "type": "paragraph",
+      "text": "Sofia olhou para sua pequena coleção no cantinho do quarto e se levantou pulando, começando a catar todos eles."
+    },
+    {
+      "id": "cap-23-0045",
+      "type": "paragraph",
+      "text": "Gabriela puxou Alanis pela mão e tentou levantar a artista, que demorou um pouco para se erguer da cama baixa da criança, que Sofia já começava a preencher com os brinquedos, conversando sozinha com cada um deles."
+    },
+    {
+      "id": "cap-23-0046",
+      "type": "paragraph",
+      "text": "Gabi guiou Alanis até seu próprio quarto e trancou a porta, aproveitando que a criança estaria distraída por longos minutos. Alanis caminhava devagar até a cama dela, mas Gabriela a segurou pela cintura, abraçando-a por trás, bem forte. A diferença de altura era só um detalhe; Gabriela encostou o rosto contra as costas de Alanis e esperou. Ouvia o coração agitado, mas não conseguia dizer se era o de Alanis ou o seu próprio."
+    },
+    {
+      "id": "cap-23-0047",
+      "type": "paragraph",
+      "text": "Nenhuma das duas falou por algum tempo, mas Gabriela quebrou o silêncio."
+    },
+    {
+      "id": "cap-23-0048",
+      "type": "paragraph",
+      "text": "— Fala comigo, amor. — Ela disse com a voz suave, sem abrir os olhos. As mãos subindo e descendo pela barriga, fazendo um carinho lento. — O que aconteceu?"
+    },
+    {
+      "id": "cap-23-0049",
+      "type": "paragraph",
+      "text": "Alanis respirava fundo, como se tentasse regular a si mesma."
+    },
+    {
+      "id": "cap-23-0050",
+      "type": "paragraph",
+      "text": "— Nada importante, amor. — blefou."
+    },
+    {
+      "id": "cap-23-0051",
+      "type": "paragraph",
+      "text": "Gabriela esperou; não estava nada convencida. Ninguém ficaria daquele jeito por nada. A tenista a beijou nas costas, onde a blusa do pijama não cobria, perto da nuca. Desmontando as defesas daquela mulher que ela já conhecia assustadoramente tão bem.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Gabriela esperou; não estava nada convencida. Ninguém ficaria "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "daquele"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " jeito por nada. A tenista a beijou nas costas, onde a blusa do pijama não cobria, perto da nuca. Desmontando as defesas daquela mulher que ela já conhecia assustadoramente tão bem."
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0052",
+      "type": "paragraph",
+      "text": "— Guillen… — Gabriela sussurrou, abraçando-a mais forte, sentindo a pele quente por baixo da blusa e pressionando os corpos ainda mais. — Não mente pra mim, por favor."
+    },
+    {
+      "id": "cap-23-0053",
+      "type": "paragraph",
+      "text": "Alanis apertou os olhos fechados com força e engoliu em seco. Ela se soltou daquele abraço e puxou Gabriela com ela até a cama. Alanis se sentou e Gabriela se encaixou entre as pernas dela. Alanis ficou ali, olhando para aquela divindade a centímetros dela. Gabriela tinha aquele rosto calmo, um sorriso paciente e os olhos que pareciam extrair qualquer informação que quisesse dela. Ela sentiu que daria tudo naquele momento para ela. O que ela pedisse, ela teria. Ela respirou fundo enquanto Gabriela fazia carinho com os dedos no maxilar dela, nos cabelos castanhos, penteando-os para trás… esperando. Ela segurou o rosto de Alanis com as duas mãos, olhando-a nos olhos."
+    },
+    {
+      "id": "cap-23-0054",
+      "type": "paragraph",
+      "text": "— Eu te amo tanto, Alanis Guillen. — Gabriela disse baixinho. — Tanto que o que quer que seja que esteja te consumindo bem na minha frente, tá sendo o suficiente para doer em mim. Por que você não me conta, hein? — Gabriela disse encarando aqueles olhos verdes tão lindos, mesmo que pela primeira vez os visse tão perdidos dentro de si mesma. — Você recebeu alguma notícia ruim?"
+    },
+    {
+      "id": "cap-23-0055",
+      "type": "paragraph",
+      "text": "Alanis piscou algumas vezes, como se quisesse se livrar das lágrimas que embaçaram sua vista e a impedia de ver com clareza a única coisa que queria ver para sempre. Não se importava mais com os museus, com as obras de arte que sonhava em ver… tudo o que ela queria, a mais bonita de todas, estava bem ali entre suas pernas. Alanis desviou o olhar porque sua mente era uma confusão generalizada e aquela mulher, de alguma forma, a sufocava, olhando-a tão intensamente."
+    },
+    {
+      "id": "cap-23-0056",
+      "type": "paragraph",
+      "text": "Gabriela estreitou os olhos porque aquele pequeno gesto de desviar o olhar confirmou todas as suas suspeitas. Tinha mesmo alguma coisa atormentando aquela cabecinha tão genial. Gabriela sentiu um aperto estranho em seu peito. Um medo que ela não sabia de onde vinha, mas que causava um arrepio em sua coluna. Ela segurou o rosto de Alanis com um pouco mais de força, trazendo-a de volta, forçando a artista a olhar para cima."
+    },
+    {
+      "id": "cap-23-0057",
+      "type": "paragraph",
+      "text": "— Eu conheço você, amor. Me conta o que foi? — Gabriela implorava. — É alguma exposição? Você vai ter que viajar por alguns dias e já está assim? — Gabi riu com a possibilidade de Alanis estar exagerando. — Você está diferente desde que veio buscar o celular no quarto."
+    },
+    {
+      "id": "cap-23-0058",
+      "type": "paragraph",
+      "text": "Alanis negou com a cabeça. Gabriela se abaixou só para beijá-la na boca rapidamente, por puro hábito. Sentiu o gosto do kiwi na boca bonita e teve que se esforçar muito para se afastar outra vez. Gabi acariciou aquele rosto esculpido com o polegar, admirando cada detalhe enquanto esperava. Alanis respirou fundo outra vez."
+    },
+    {
+      "id": "cap-23-0059",
+      "type": "paragraph",
+      "text": "— Eu sou uma completa farsa, Gabriela. — Ela disse finalmente. — Falei que faria qualquer coisa pela minha carreira e…"
+    },
+    {
+      "id": "cap-23-0060",
+      "type": "paragraph",
+      "text": "— De onde você tirou isso? — Gabriela respondeu com a voz suave. — Você me salvou de todas as formas que alguém pode ser salva, Alanis. — Gabriela disse olhando-a nos olhos. — Você entende o quanto é importante pra mim? O quanto eu te amo de todo o meu coração? O quanto a Sofia te ama? — Gabi fazia um carinho no rosto de Alanis que jamais cessava. Alanis piscava lento, olhando-a nos olhos também. — Ela escolheu você para chamar de mãe… você entende o que isso significa? A pureza por trás dessa palavra na cabeça de uma criança que está fazendo cinco anos hoje? Você entende que nós vamos estar aqui para você… para qualquer coisa? Você entende que, de alguma forma, somos a sua família? O que quer que tenha te deixado assim, jamais seria o suficiente para nos atrapalhar. Como assim uma farsa? Você é a pessoa mais incrível que eu já conheci. Eu percebi que a mulher que eu amo está sofrendo sozinha e eu nunca quis tanto algo, como eu quero tirar isso de você agora, nesse momento. Eu preciso saber o que te deixou assim, pra juntas, chegarmos a uma solução. Me conta, amor, por favor! — Gabriela pediu mais uma vez e esperou pacientemente.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— De onde você tirou isso? — Gabriela respondeu com a voz suave. — "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Você me salvou de"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "todas as formas que alguém pode ser salva, Alanis"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". — Gabriela disse olhando-a nos olhos. — Você entende o quanto é importante pra mim? O quanto eu te amo de todo o meu coração? O quanto a Sofia te ama? — Gabi fazia um carinho no rosto de Alanis que jamais cessava. Alanis piscava lento, olhando-a nos olhos também. — Ela escolheu você para chamar de mãe… você entende o que isso significa? A pureza por trás dessa palavra na cabeça de uma criança que está fazendo cinco anos "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "hoje"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "? Você entende que nós vamos estar aqui para você… para "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "qualquer"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " coisa? Você entende que, de alguma forma, somos a sua família? O que quer que tenha te deixado assim, jamais seria o suficiente para nos atrapalhar. Como assim uma farsa? Você é a pessoa mais incrível que eu já conheci. Eu percebi que a mulher que eu amo está sofrendo sozinha e eu nunca quis tanto algo, como eu quero tirar isso de você agora, nesse momento. Eu preciso saber o que te deixou assim, pra juntas, chegarmos a uma solução. Me conta, amor, por favor! — Gabriela pediu mais uma vez e esperou pacientemente."
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0061",
+      "type": "paragraph",
+      "text": "Alanis suspirou tão profundamente que pareceu uma tentativa de esvaziar os pulmões de toda aquela angústia que vinha consumindo-a."
+    },
+    {
+      "id": "cap-23-0062",
+      "type": "paragraph",
+      "text": "— Recebi um e-mail que… Bom... — Ela buscava as palavras para explicar enquanto uma lágrima teimosa rolava pela bochecha tão linda, Gabi passou o dedo, contendo-a. — Da melhor faculdade de artes do mundo, eu apliquei para uma vaga lá como professora, meses antes de conhecer você. E… bem… hoje eu recebi um e-mail sobre ela, mas eu ainda não abri. Não consigo… Eu era a pessoa que faria qualquer coisa pela minha carreira, mas tudo o que eu quero agora é ficar com você."
+    },
+    {
+      "id": "cap-23-0063",
+      "type": "paragraph",
+      "text": "Gabriela sorriu ao ouvir a notícia. Não entendia porque Alanis não estava feliz também. Era apenas uma vaga temporária, um tempo doloroso, com muita saudade, mas que logo logo ela voltaria."
+    },
+    {
+      "id": "cap-23-0064",
+      "type": "paragraph",
+      "text": "— Meu amor… Essa é a chance da sua vida, você sonhou com ela, eu aposto. Por que não está feliz? Era para você estar radiante…"
+    },
+    {
+      "id": "cap-23-0065",
+      "type": "paragraph",
+      "text": "— E ficar três meses longe de vocês? Não quero. — Alanis começou a chorar e encostou o rosto contra o peito de Gabriela, que a envolveu pelo pescoço. A tenista estava sorrindo, feliz demais pela namorada, pela chance que ela teria de dar mais esse passo em sua carreira que já era brilhante."
+    },
+    {
+      "id": "cap-23-0066",
+      "type": "paragraph",
+      "text": "— Meu amor… três meses passam voando. — Gabriela comentou, fazendo carinho nos cabelos castanhos, beijando-a no topo da cabeça demoradamente."
+    },
+    {
+      "id": "cap-23-0067",
+      "type": "paragraph",
+      "text": "— Não passam, não. — Alanis disse entre o choro abafado. — A Sofia vai esquecer de mim. Você não vai me esperar."
+    },
+    {
+      "id": "cap-23-0068",
+      "type": "paragraph",
+      "text": "— Alanis! — Gabriela se afastou, forçando-a a olhar para ela. — Assim você me ofende."
+    },
+    {
+      "id": "cap-23-0069",
+      "type": "paragraph",
+      "text": "Alanis continuava chorando."
+    },
+    {
+      "id": "cap-23-0070",
+      "type": "paragraph",
+      "text": "— Me desculpa, amor… mas… eu não quero ir. Eu não vou. — Ela dizia entre o choro."
+    },
+    {
+      "id": "cap-23-0071",
+      "type": "paragraph",
+      "text": "— A Sofia jamais poderia esquecer você, amor. Ela te ama tanto. Nós duas amamos você, estaremos aqui do mesmo jeitinho, te esperando voltar. E aí podemos retomar de onde paramos, continuar construindo o nosso amor… vou morrer de saudade, sim, mas vou estar aqui, vamos conversar todos os dias."
+    },
+    {
+      "id": "cap-23-0072",
+      "type": "paragraph",
+      "text": "Alanis balançava a cabeça dizendo que não conforme Gabriela ia falando, fazendo a tenista rir. É claro que ela não deixaria Alanis ficar. É claro que ela, a pessoa que teve que abandonar sua carreira, faria de tudo para que Alanis não passasse pelo mesmo que ela."
+    },
+    {
+      "id": "cap-23-0073",
+      "type": "paragraph",
+      "text": "— Eu sei que tem pessoas que fariam de tudo por essa vaga, mas tudo o que eu penso é que eu não consigo deixar vocês, nem que seja por alguns meses."
+    },
+    {
+      "id": "cap-23-0074",
+      "type": "paragraph",
+      "text": "O peito de Gabriela apertou de um jeito doloroso ao ouvi-la. Alanis continuou, enquanto fungava de um jeito engraçado."
+    },
+    {
+      "id": "cap-23-0075",
+      "type": "paragraph",
+      "text": "— Eu não quero passar nem um dia sequer sem vocês. Eu não posso perder três meses das nossas vidas juntas."
+    },
+    {
+      "id": "cap-23-0076",
+      "type": "paragraph",
+      "text": "Alanis dizia de todo o seu coração, porque era verdade. Aquela felicidade não caberia em currículo nenhum, ou em galerias e cartas de recomendação. Aquela felicidade ela tinha encontrado no sorriso de Gabriela, ainda de pijama, secando suas lágrimas. Tinha encontrado onde uma menininha guardava kiwi para ela, onde havia um único nome pulsando bem forte em sua cabeça enquanto fazia amor, olhando-a nos olhos… Gabriela. Aquele nome, aquela mulher… trouxeram sentido para a sua vida. Não queria deixar isso nem que por um curto período de tempo.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Alanis dizia de todo o seu coração, porque era verdade. Aquela felicidade não caberia em currículo nenhum, ou em galerias e cartas de recomendação. Aquela felicidade ela tinha encontrado no sorriso de Gabriela, ainda de pijama, secando suas lágrimas. Tinha encontrado onde uma menininha guardava kiwi para ela, onde havia um único nome pulsando bem forte em sua cabeça enquanto fazia amor, olhando-a nos olhos… "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Gabriela"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Aquele nome, aquela mulher… trouxeram sentido para a sua vida. Não queria deixar isso nem que por um curto período de tempo."
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0077",
+      "type": "paragraph",
+      "text": "E se fosse, e quando voltasse estivesse tudo diferente? Ela não suportaria.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "E se fosse, e quando voltasse estivesse tudo diferente"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "? Ela não suportaria"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0078",
+      "type": "paragraph",
+      "text": "— Sabe qual é a única coisa em que eu consigo pensar com essa notícia? — Gabriela cortou aquele pensamento dela. Ela olhou para Gabi com curiosidade. — Meu deus como essa mulher… a minha mulher, é foda! Ela conseguiu. Ela é a melhor mesmo. Ela merece todo o reconhecimento do mundo. É a única coisa em que eu consigo pensar. É claro que vou morrer de saudade. É claro que vou sentir tudo isso que você está sentindo no seu coraçãozinho. — Gabriela aproximou o rosto do dela, encostando as testas, acariciando-a com a pontinha do nariz. — Vou sentir falta de você na minha cama, dos orgasmos, dos seus dedos… — Gabriela fechou os olhos e suspirou. — Eu nunca imaginei que alguém me completaria tanto, Alanis. Você é essa pessoa. Eu esperaria por você até mesmo por anos, mas não seja boba, são só alguns meses. O que eu preciso fazer pra você aceitar essa oportunidade que você mesma conquistou, hein?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Sabe qual é a única coisa em que eu consigo pensar com essa notícia? — Gabriela cortou aquele pensamento dela. Ela olhou para Gabi com curiosidade. — "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Meu deus como essa"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mulher… a minha mulher, é foda! Ela conseguiu. Ela é a melhor mesmo. Ela merece todo o"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "reconhecimento do mundo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". É a única coisa em que eu consigo pensar. É claro que vou morrer de saudade. É claro que vou sentir tudo isso que você está sentindo no seu coraçãozinho. — Gabriela aproximou o rosto do dela, encostando as testas, acariciando-a com a pontinha do nariz. — Vou sentir falta de você na minha cama, dos orgasmos, dos seus dedos… — Gabriela fechou os olhos e suspirou. — Eu nunca imaginei que alguém me completaria tanto, Alanis. Você é essa pessoa. Eu esperaria por você até mesmo por anos, mas não seja boba, são só alguns meses. O que eu preciso fazer pra você aceitar essa oportunidade que você mesma conquistou, hein?"
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0079",
+      "type": "paragraph",
+      "text": "Gabriela disse aquilo tudo com toda a verdade que tinha em seu coração. Como ela gostaria que seus pais tivessem feito com ela quando ela se viu grávida de um desconhecido antes de virarem as costas para ela, se lembrou de como ela chorou por vários meses por não ter ninguém para lhe dizer que ela não passaria sozinha por aquilo e que em breve sua vida voltaria ao normal. Gabriela queria tanto que alguém lhe tivesse segurado a mão, anos atrás, e falasse que estaria ali para ela, assim como ela estava fazendo com a mulher que amava. Qualquer coisa contrária àquele apoio soaria egoísta. Ela sentiria saudade, obviamente, mas sabia que logo sua mulher estaria de volta para retomarem bem de onde pararam. E ainda mais feliz e realizada, por priorizar sua carreira, como deveria ser. Aquela dualidade doía, mas ela jamais deixaria aquilo transparecer."
+    },
+    {
+      "id": "cap-23-0080",
+      "type": "paragraph",
+      "text": "Alanis estava chorando de soluçar, abraçada a ela como uma criancinha. Gabriela sorriu ao enxugar cuidadosamente as lágrimas que encharcavam o rosto da artista."
+    },
+    {
+      "id": "cap-23-0081",
+      "type": "paragraph",
+      "text": "— Não consigo parar de pensar que você conseguiu algo que muitas pessoas passam a vida inteira sonhando… — Gabriela disse com um sorriso lindo, que fazia o coração de Alanis tropeçar nas próprias batidas. — “Meu deus… ela conseguiu.” É a frase que tá ecoando agora na minha cabeça. — Ela beijou a boca de Alanis várias vezes, de ponta a ponta. — Você conseguiu algo com que eu sei que você sonhou muito, meu amor. Suas exposições, as noites viradas, suas aulas aos sábados… Esse e-mail que você recebeu não é um favor, você conquistou tudo isso.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Não consigo parar de pensar que você conseguiu algo que muitas pessoas passam a vida inteira sonhando… — Gabriela disse com um sorriso lindo, que fazia o coração de Alanis tropeçar nas próprias batidas. — "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Meu deus… ela conseguiu.”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " É a frase que tá ecoando agora na minha cabeça. — Ela beijou a boca de Alanis várias vezes, de ponta a ponta. — Você conseguiu algo com que eu sei que você sonhou muito, meu amor. Suas exposições, as noites viradas, suas aulas aos sábados… Esse e-mail que você recebeu não é um favor, você conquistou tudo isso."
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0082",
+      "type": "paragraph",
+      "text": "Alanis tentou reorganizar seu pensamento, apesar da distração que era Gabriela sendo a mulher mais carinhosa do mundo naquele momento, mais amorosa… falando tão perto, segurando-a com aquelas mãos quentes em seu rosto… tudo aquilo distraía Alanis a ponto dela se perder em seu próprio pensamento."
+    },
+    {
+      "id": "cap-23-0083",
+      "type": "paragraph",
+      "text": "— Eu não posso ir embora… não mais. Eu tenho vocês agora… tudo mudou, amor. — Alanis disse baixinho."
+    },
+    {
+      "id": "cap-23-0084",
+      "type": "paragraph",
+      "text": "— Tem e vai continuar tendo porque são só alguns meses, amor. — Gabriela a beijou no rosto. — Eu sou só sua, amor. Vamos estar aqui quando você voltar."
+    },
+    {
+      "id": "cap-23-0085",
+      "type": "paragraph",
+      "text": "— Eu vou morrer de saudade de vocês, Gabriela. Eu não tô brincando."
+    },
+    {
+      "id": "cap-23-0086",
+      "type": "paragraph",
+      "text": "Gabi se afastou só para puxar a mão de Alanis até seu rosto. Ela beijou bem por cima da aliança que elas usavam juntas e só então quebrou aquele contato visual magnético para descer os olhos até o polegar que agora desenhava um carinho sobre a prata, girando-a no dedo esguio."
+    },
+    {
+      "id": "cap-23-0087",
+      "type": "paragraph",
+      "text": "— Você acha mesmo que alguns meses seriam capazes de diminuir o que sentimos uma pela outra? O que você sente pela Sofia? — Gabriela esperou e Alanis balançou a cabeça dizendo que não, só então ela continuou. — Você sabe qual foi a decisão mais difícil da minha vida?"
+    },
+    {
+      "id": "cap-23-0088",
+      "type": "paragraph",
+      "text": "— Parar de disputar? — Alanis respondeu, hesitante."
+    },
+    {
+      "id": "cap-23-0089",
+      "type": "paragraph",
+      "text": "Gabi sorriu, mas o sorriso dessa vez não chegava aos olhos. Na verdade, sua expressão era de pesar. Ela negou com a cabeça e continuou:"
+    },
+    {
+      "id": "cap-23-0090",
+      "type": "paragraph",
+      "text": "— Continuar viva depois que a Sofia nasceu. Morrendo de medo de errar, com medo de não saber criá-la sozinha, tanto que desisti de sonhar com qualquer outra coisa. — A voz embargada entregava o tanto de cicatrizes que aquela mulher escondia perfeitamente. — Passei todos esses anos convencendo a mim mesma que uma boa mãe abre mão de tudo, até descobrir, junto com você, que a Sofia não precisa de uma mãe que desista dos próprios sonhos, ela precisa de uma mãe feliz. Uma mãe apaixonada pela vida, uma mãe que tem alguém para compartilhar a vida, os dias... — Alanis sentiu um arrepio percorrer o corpo e olhou para baixo, mas Gabriela segurou-a novamente pelo maxilar, fazendo-a olhar em seus olhos. — Você sabe o que a Sofia vai aprender se você ignorar esse e-mail… essa oportunidade?"
+    },
+    {
+      "id": "cap-23-0091",
+      "type": "paragraph",
+      "text": "Alanis negou com a cabeça, concentrando-se em não chorar. Gabi continuou:"
+    },
+    {
+      "id": "cap-23-0092",
+      "type": "paragraph",
+      "text": "— Que, quando a vida nos recompensa com o maior sonho da nossa carreira, a gente tem que dizer não por amor. E eu não sei você, mas eu não quero que a nossa filha desista fácil assim dos sonhos dela. Você tem certeza de que quer ensinar isso a ela? — Gabriela sabia que estava sendo baixa, mas não havia outra alternativa."
+    },
+    {
+      "id": "cap-23-0093",
+      "type": "paragraph",
+      "text": "Alanis refletiu enquanto aquelas palavras pesavam entre as duas."
+    },
+    {
+      "id": "cap-23-0094",
+      "type": "paragraph",
+      "text": "— Eu sempre pensei que ela era muito diferente de mim. Eu ficava olhando para ela como alguém olharia para um e.t, eu estou sendo muito sincera com você, amor, bem aqui, no meu quarto, onde ninguém pode nos ouvir… eu cheguei a pensar: “meu deus, essa menina é mesmo a minha filha?” Mas por algum acaso do destino a criança que eu gerei, que nasceu de mim, que é a minha cara, ela é idêntica a você. E… de alguma forma, eu amo que seja assim. E não escolheria que fosse de outra forma. As coisas são como tem que ser."
+    },
+    {
+      "id": "cap-23-0095",
+      "type": "paragraph",
+      "text": "Alanis finalmente sorriu, mesmo com o rosto novamente molhado e o nariz vermelhinho."
+    },
+    {
+      "id": "cap-23-0096",
+      "type": "paragraph",
+      "text": "— Gab…"
+    },
+    {
+      "id": "cap-23-0097",
+      "type": "paragraph",
+      "text": "— Eu não sei mais o que falar pra te convencer. — Gabriela deu uma risada nervosa. — A gente faz chamada de vídeo todos os dias, você vai conseguir contar o seu dia para Sofia e conversar com ela pelo tempo que quiser. Ela vai amar suas novas histórias. Três meses passam rapidinho, amor. — Gabriela falava quase sem respirar. — Você vai voltar tão mais feliz consigo mesma, você vai ver, amor."
+    },
+    {
+      "id": "cap-23-0098",
+      "type": "paragraph",
+      "text": "— Amor… — Alanis a interrompeu, rindo da namorada quase sufocando no próprio monólogo. Gabriela respirou, buscando pelo ar que parecia ter sumido dos pulmões durante seu monólogo. — Você tem razão. Sobre tudo."
+    },
+    {
+      "id": "cap-23-0099",
+      "type": "paragraph",
+      "text": "— Você vai aceitar? — Gabriela perguntou, eufórica."
+    },
+    {
+      "id": "cap-23-0100",
+      "type": "paragraph",
+      "text": "— Eu vou. — Alanis disse com o coração partido."
+    },
+    {
+      "id": "cap-23-0101",
+      "type": "paragraph",
+      "text": "Gabriela sorriu e a abraçou forte, tentando não pensar no quanto já sentia saudade daquele abraço antes mesmo da partida."
+    },
+    {
+      "id": "cap-23-0102",
+      "type": "divider",
+      "text": "***"
+    },
+    {
+      "id": "cap-23-0103",
+      "type": "paragraph",
+      "text": "Uma coisa é se preparar para uma viagem que você quer muito fazer. Outra, muito diferente, é para passar três meses longe da mulher que você ama e da filha dela, que você já ama como sua.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Uma coisa é se preparar para uma viagem que você quer muito fazer. Outra, muito diferente,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "é para passar três meses longe da mulher que você ama e da filha dela, que você já ama"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "como sua."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0104",
+      "type": "paragraph",
+      "text": "Alanis pensava nisso enquanto o prazo concedido pela RCA chegava ao fim. Era final de fevereiro quando Alanis encarava a mala aberta em cima da cama, esperando ser preenchida com as roupas que ela levaria. Esperando por todas as coisas da lista de Gabriela, para que ela não deixasse nada importante para trás. A viagem era naquela noite e a mala ainda mostrava o fundo, completamente vazia. Os documentos estavam todos ok. O tubo com todos os desenhos que não poderia deixar para trás, também. Estava quase tudo certo, menos a plena certeza de que queria ir. Alanis nunca se imaginou naquela posição, mas ali estava ela, apoiada em sua cômoda, com uma xícara de café fumegando aquele aroma delicioso enquanto seu olhar abominava aquela mala em sua cama. A pilha de roupas ao lado, a bolsa com remédios que Gabriela havia preparado, os pacotinhos de erva mate que Gabriela havia colocado ali para ela… Tudo a lembrava do que ela estava deixando para trás… Até mesmo a pastinha com os desenhos de Sofia.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Alanis pensava nisso enquanto o prazo concedido pela "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "RCA"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " chegava ao fim. Era final de fevereiro quando Alanis encarava a mala aberta em cima da cama, esperando ser preenchida com as roupas que ela levaria. Esperando por todas as coisas da lista de Gabriela, para que ela não deixasse nada importante para trás. A viagem era naquela noite e a mala ainda mostrava o fundo, completamente vazia. Os documentos estavam todos ok. O tubo com todos os desenhos que não poderia deixar para trás, também. Estava quase tudo certo, menos a plena certeza de que queria ir. Alanis nunca se imaginou naquela posição, mas ali estava ela, apoiada em sua cômoda, com uma xícara de café fumegando aquele aroma delicioso enquanto seu olhar abominava aquela mala em sua cama. A pilha de roupas ao lado, a bolsa com remédios que Gabriela havia preparado, os pacotinhos de erva mate que Gabriela havia colocado ali para ela… Tudo a lembrava do que ela estava deixando para trás… Até mesmo a pastinha com os desenhos de Sofia."
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0105",
+      "type": "paragraph",
+      "text": "Era perto das onze da manhã quando Gabriela chegou para a missão de ajudá-la a terminar a mala, achou que já encontraria a namorada arrumando as coisas, e não parada, encarando a mala vazia."
+    },
+    {
+      "id": "cap-23-0106",
+      "type": "paragraph",
+      "text": "Gabriela sorriu porque aquela cena a lembrou do dia em que escolheram o apartamento que ela havia alugado. A faculdade enviou uma lista de locais próximos para facilitar a locomoção e Alanis colocava defeito em praticamente todos os que Gabriela sugeria. Passaram dias em frente ao notebook com mapas abertos, pesquisando se era perto de supermercados, de padarias, das linhas de metrô, lavanderias… Alanis sempre achava um defeito, mas que no fim, fazia Gabriela rir."
+    },
+    {
+      "id": "cap-23-0107",
+      "type": "paragraph",
+      "text": "Até que encontraram um apartamento com janelas enormes, bem iluminado, piso de madeira e dois quartos, pelo preço de um. Próximo da faculdade (quinze minutos a pé) e totalmente mobiliado. Ficaram vendo as fotos do lugar e Gabriela conseguiu ver, pela primeira vez, os olhos verdes de Alanis brilharem quando ela brincou com a possibilidade delas transarem na cama espaçosa do quarto bonito."
+    },
+    {
+      "id": "cap-23-0108",
+      "type": "paragraph",
+      "text": "Gabriela estava sempre com ela. Lembrando-a de contratar um plano internacional para o celular, organizando a documentação de imigração, ajudando-a com o seguro. Tinha feito uma listinha no celular de tudo o que precisavam resolver e a lista estava quase completa, o que era bom porque estava quase tudo resolvido, mas péssimo, porque a hora da despedida estava cada vez mais perto. Até mesmo o e-mail que formalizava a pausa na oficina aos sábados, foi Gabriela quem ajudou."
+    },
+    {
+      "id": "cap-23-0109",
+      "type": "paragraph",
+      "text": "A tenista chegou animada depois de três aulas naquela manhã. Os músculos pegavam fogo e o corpo estava quente, com o sangue que corria agitado pelas veias. O rosto tinha aquele rubor da exposição ao sol e os cabelos estavam soltos, balançando, levemente molhados de suor. Estava só de top branco e legging azul; os tênis tinham ficado pela sala, porque ela já estava descalça."
+    },
+    {
+      "id": "cap-23-0110",
+      "type": "paragraph",
+      "text": "Alanis percebeu sua presença antes mesmo de vê-la. O perfume muito específico inebriava o pensamento e, a partir daquele momento, tudo o que ela conseguia pensar era em Gabriela."
+    },
+    {
+      "id": "cap-23-0111",
+      "type": "paragraph",
+      "text": "— Ignorou totalmente o nosso combinado, né? — Gabriela a abraçou, imprensando-a contra a cômoda, ignorando totalmente a xícara de café entre elas, que Alanis equilibrava até deixá-la rapidamente sobre o móvel, tendo as duas mãos livres para segurá-la na cintura nua."
+    },
+    {
+      "id": "cap-23-0112",
+      "type": "paragraph",
+      "text": "— Você sabe que eu funciono melhor com você, amor. — Alanis disse toda manhosa. — Estava te esperando."
+    },
+    {
+      "id": "cap-23-0113",
+      "type": "paragraph",
+      "text": "Alanis a beijou nos lábios e deu aquele sorriso que deixava Gabriela fraca."
+    },
+    {
+      "id": "cap-23-0114",
+      "type": "paragraph",
+      "text": "— Você e a Sofia, quem é que me dá mais trabalho, hein? — Gabriela murmurou, com os lábios colados aos dela."
+    },
+    {
+      "id": "cap-23-0115",
+      "type": "paragraph",
+      "text": "— E ainda assim, você seria incapaz de viver sem nós duas. — Alanis deslizou a ponta dos dedos pela cintura, pela borda da calça de Gabriela."
+    },
+    {
+      "id": "cap-23-0116",
+      "type": "paragraph",
+      "text": "— Seria uma vida infeliz. — Gabi franziu o nariz ao imaginar."
+    },
+    {
+      "id": "cap-23-0117",
+      "type": "paragraph",
+      "text": "Alanis desceu o rosto até o pescoço dela e deu vários beijos, fazendo Gabriela se encolher levemente."
+    },
+    {
+      "id": "cap-23-0118",
+      "type": "paragraph",
+      "text": "— E a mala, hein? — Gabriela olhou para trás, para o elefante no quarto."
+    },
+    {
+      "id": "cap-23-0119",
+      "type": "paragraph",
+      "text": "Alanis, no entanto, apenas resmungou, sentindo o gosto salgado da pele fina no pescoço arrepiado de Gabriela."
+    },
+    {
+      "id": "cap-23-0120",
+      "type": "paragraph",
+      "text": "— Eu preciso gravar o seu gosto… o seu cheiro. — Alanis dizia entre os beijos."
+    },
+    {
+      "id": "cap-23-0121",
+      "type": "paragraph",
+      "text": "— Você disse isso ontem… e antes de ontem. — Gabriela parou de falar e apertou os olhos bem fechados quando Alanis deslizava a língua por toda a extensão do seu pescoço, deixando escapar um gemido rouco. — Ah... e semana passada também."
+    },
+    {
+      "id": "cap-23-0122",
+      "type": "paragraph",
+      "text": "— Mas hoje é o último dia. — Alanis disse baixinho, apertando-a contra si."
+    },
+    {
+      "id": "cap-23-0123",
+      "type": "paragraph",
+      "text": "— Não me lembra disso. — Gabriela choramingou. — Que depois vou ter que esperar três meses até sentir a sua mão gostosa me apertando, que vou dormir todos os dias pensando na saudade de te beijar."
+    },
+    {
+      "id": "cap-23-0124",
+      "type": "paragraph",
+      "text": "— Me beija, Gabriela. — Alanis disse no ouvido da tenista. — Eu tô aqui agora. Morrendo de tesão por você."
+    },
+    {
+      "id": "cap-23-0125",
+      "type": "paragraph",
+      "text": "Gabriela mordeu o lábio para segurar outro gemido e fechou os olhos, encaixando os lábios molhados nos macios de Alanis, que não perdeu tempo para iniciar um beijo faminto. As línguas se entrelaçaram e os rostos tombaram para lados opostos, aprofundando-o. Alanis desceu as mãos até a bunda dela e apertou com as duas mãos, fazendo-a gemer alto e começar a se esfregar contra o corpo da artista, apoiado na cômoda. Gabriela desfez o abraço só para empurrar as alças do vestido de Alanis pelos ombros, fazendo com que a peça caísse facilmente pelo corpo bonito, que era quase tudo o que vestia, deixando-a apenas de calcinha. Ela deslizou as mãos pelo corpo da namorada, ficando cada vez mais excitada só com aquele toque na pele suave, com a sensação dos seios pequenos e enrijecidos contra seu próprio corpo, até abaixar a última peça restante. Só então Gabriela deslizou as mãos por entre os cabelos castanhos, beijando-a com mais vontade até Alanis gemer o nome da namorada, empurrando-a até a cama. Erguendo o top com facilidade e retirando-o completamente antes de empurrá-la por cima da pilha de roupas dobradas."
+    },
+    {
+      "id": "cap-23-0126",
+      "type": "paragraph",
+      "text": "— Amor… suas roupas. — Gabriela disse enquanto ria."
+    },
+    {
+      "id": "cap-23-0127",
+      "type": "paragraph",
+      "text": "Alanis saiu puxando tudo o que não era importante da cama, a mala, as roupas, as pastas com documentos… Em poucos segundos, tudo o que havia na cama era Gabriela respirando ofegante, encarando-a com aquele sorriso divino. Alanis a observou apoiada nos cotovelos, com os seios arrepiados esperando por ela e se abaixou, só para puxar a calça justa pelas pernas bonitas."
+    },
+    {
+      "id": "cap-23-0128",
+      "type": "paragraph",
+      "text": "— Eu quero gravar cada detalhe de você na minha mente. — Alanis dizia ao despí-la completamente, puxando a calcinha junto com a calça."
+    },
+    {
+      "id": "cap-23-0129",
+      "type": "paragraph",
+      "text": "— Você já tem. Aqueles quadros no seu ateliê são prova disso. — Gabriela disse com um sorriso lascivo, referindo-se aos dois quadros em que Alanis havia pintado Gabriela chegando ao orgasmo; não mostrava os rostos, mas as cores dos cabelos, os corpos parecidos com os delas… Os quadros eram completamente eróticos e ainda assim, lindíssimos."
+    },
+    {
+      "id": "cap-23-0130",
+      "type": "paragraph",
+      "text": "Alanis riu com a lembrança dos quadros e mordeu o lábio inferior, contendo um gemido baixo que ficou preso na garganta."
+    },
+    {
+      "id": "cap-23-0131",
+      "type": "paragraph",
+      "text": "Gabriela ergueu o quadril para ajudá-la, respirando fundo enquanto era devorada por aqueles olhos tão lindos, nos quais ela era completamente apaixonada. A ruiva se espalhou completamente na cama da artista, que a segurou pelas coxas enquanto subia beijando devagar cada centímetro das pernas torneadas, depois das coxas, alternando entre uma e outra. Observando cada reação que provocava em Gabriela, cada suspiro, cada arrepio… decorando tudo. Olhando para o sexo já tão molhado que implorava por ela."
+    },
+    {
+      "id": "cap-23-0132",
+      "type": "paragraph",
+      "text": "— Você vai se tocar pensando em mim, Gab? — Alanis disse olhando-a nos olhos."
+    },
+    {
+      "id": "cap-23-0133",
+      "type": "paragraph",
+      "text": "— Provavelmente, amor. Quase todos os dias. — Gabriela disse sem hesitar e Alanis sorriu. — Você vai se tocar pensando em mim?"
+    },
+    {
+      "id": "cap-23-0134",
+      "type": "paragraph",
+      "text": "— Todos os dias, amor. — Alanis disse olhando-a fixamente antes de deslizar a língua bem devagar pelo sexo encharcado."
+    },
+    {
+      "id": "cap-23-0135",
+      "type": "paragraph",
+      "text": "Gabriela jogou a cabeça para trás e gemeu alto e longamente."
+    },
+    {
+      "id": "cap-23-0136",
+      "type": "paragraph",
+      "text": "— Enquanto eu estiver longe eu quero que você se lembre que essa buceta é minha. — Alanis dizia com a boca colada no sexo que pulsava com aquela proximidade. ."
+    },
+    {
+      "id": "cap-23-0137",
+      "type": "paragraph",
+      "text": "— Toda sua, amor. — Gabriela abriu os olhos pesados de tesão para olhá-la nos olhos verdes."
+    },
+    {
+      "id": "cap-23-0138",
+      "type": "paragraph",
+      "text": "— Eu vou sentir saudade todos os dias do seu gosto, Gabriela. — Alanis dizia entre as lambidas lentas no clitoris, assistindo a namorada desfalecer um pouco mais a cada uma delas. — Geme bem gostoso, amor… porque eu quero lembrar de você assim na minha língua. E me olha nos olhos… eu quero ver tudo o que eu faço com você. — Ela ordenou."
+    },
+    {
+      "id": "cap-23-0139",
+      "type": "paragraph",
+      "text": "Gabriela obedeceu. Não porque Alanis pediu, mas porque a sensação da língua quente de Alanis deslizando devagar era gostosa demais para ficar calada. Ela gemeu toda manhosa a cada uma delas, chamando pelo nome de Alanis só porque sabia que isso a deixava louca. As duas ficaram se olhando nos olhos por longos minutos até que ela se afastou só o suficiente para assistir os dedos retomando o que sua língua fazia, masturbando-a dolorosamente devagar até que seus dedos estivessem molhados o suficiente. Alanis empurrou dois deles para dentro do sexo apertado e gemeu baixinho sentindo as contrações fortes contra seus dedos. Ela subiu beijando-a pela barriga definida, chupou os peitos que subiam e desciam acompanhando os movimentos do vai e vem lento dos dedos e do próprio corpo de Gabriela, que se empurrava querendo mais."
+    },
+    {
+      "id": "cap-23-0140",
+      "type": "paragraph",
+      "text": "— Me fode mais rápido, Alanis. — Gabriela implorava, repetidamente."
+    },
+    {
+      "id": "cap-23-0141",
+      "type": "paragraph",
+      "text": "Alanis intensificou o ritmo, socando mais rápido, indo mais fundo, tirando e colocando os dedos completamente."
+    },
+    {
+      "id": "cap-23-0142",
+      "type": "paragraph",
+      "text": "— Assim, Gabriela? — Alanis dizia baixinho sem parar de sugar o mamilo enrijecido."
+    },
+    {
+      "id": "cap-23-0143",
+      "type": "paragraph",
+      "text": "— Isso, amor… Não para, por favor. — Gabriela arqueava o corpo para trás com os olhos bem fechados, com os dedos entrelaçados aos cabelos de Alanis, pressionando-a contra si, gemendo bem alto."
+    },
+    {
+      "id": "cap-23-0144",
+      "type": "paragraph",
+      "text": "Alanis fechou os olhos só para desfrutar de todas aquelas sensações. A de estar com aquele gosto em sua boca. A de meter os dedos em Gabriela. A de chupar aqueles peitos tão lindos e fartos, que balançavam com aquele vai e vem gostoso. Alanis apertou os olhos e a fodeu bem mais forte, fazendo-a gritar de tanto prazer, chamando-a desesperadamente pelo nome em busca de alívio."
+    },
+    {
+      "id": "cap-23-0145",
+      "type": "paragraph",
+      "text": "Alanis retirou devagar os dedos de dentro dela e se deitou ao lado dela. Gabriela abriu os olhos e imediatamente tomou impulso para se levantar, se ajoelhando bem sobre o rosto da artista, que a esperava com a língua bem molhada para fora e um sorriso canalha."
+    },
+    {
+      "id": "cap-23-0146",
+      "type": "paragraph",
+      "text": "— Você quer que eu sente na sua cara, amor? — Gabriela provocou enquanto se posicionava, Alanis a segurou pela bunda, trazendo-a para a posição ideal e afirmando com a cabeça antes de deslizar a língua novamente pela buceta toda melada com aquele gosto no qual ela era uma completa viciada."
+    },
+    {
+      "id": "cap-23-0147",
+      "type": "paragraph",
+      "text": "Gabriela se apoiou com uma das mãos na coxa de Alanis e apertou ali, esfregando os dedos na parte interna dela enquanto tentava manter os olhos abertos e fixos nos de Alanis, rebolando contra a língua que a devorava, sentindo um nó gostoso se formando em seu ventre quanto mais gemia e quanto mais Alanis mantinha o ritmo dos movimentos circulares com a língua."
+    },
+    {
+      "id": "cap-23-0148",
+      "type": "paragraph",
+      "text": "Alanis a segurava com tanta força pela bunda que as unhas curtas quase perfuraram a carne macia, mas não chegou a fazer. Quando estava prestes a isso, ela deslizava as unhas pela cintura, subindo até as costas, descendo, arranhando e, às vezes, apertando os peitos dela com força o suficiente para fazê-la gritar por tantos estímulos."
+    },
+    {
+      "id": "cap-23-0149",
+      "type": "paragraph",
+      "text": "— Amor… eu vou gozar rapidinho se você continuar me chupando assim tão gostoso. — Gabriela choramingou enquanto rebolava, agora com menos força pelo orgasmo iminente, sentindo seus membros enfraquecerem gradativamente dando lugar a um tremor lento que subia devagar desde a ponta dos dedos dos pés, passando pelas pernas, depois pelas coxas que pressionavam querendo se fechar e Alanis tratava de mantê-las bem abertas enquanto sentia na ponta de sua língua o gosto e o prazer da mulher de sua vida, se desfazendo devagar para ela. Gabriela fechou os olhos quando já não aguentava mais e se deixou levar pelo tsunami de sensações que era transar com Alanis."
+    },
+    {
+      "id": "cap-23-0150",
+      "type": "paragraph",
+      "text": "— Caralho, Alanis. — Gabriela gemeu as palavras enquanto seu corpo começava a tremer e ela se jogou toda para a frente, com as duas mãos no colchão acima da cabeça de Alanis, as mãos se fecharam contra o edredom macio que forrava a cama e ela o apertou com toda a força que tinha, enquanto Alanis extraia faminta, cada gota daquele prazer que era só delas duas, também gemendo. — Porra! — Gabriela xingou… porque aquilo tudo sempre era demais para aguentar, tentando controlar a respiração ofegante e o coração que batia freneticamente acelerado enquanto gozava na boca de Alanis."
+    },
+    {
+      "id": "cap-23-0151",
+      "type": "paragraph",
+      "text": "Ela arfava de tesão enquanto tentava controlar as ondas de prazer que convulsionava o corpo até conseguir puxar de volta uma das pernas quando já não aguentava mais aquela língua quente em seu sexo completamente sensível e caiu deitada ao lado de Alanis, que encarava o teto com aquele sorriso de satisfação após longos minutos de prazer puramente carnal. Gabriela respirava bem fundo de olhos fechados para recuperar o mais rápido possível ao menos a destreza das mãos ou a força das pernas que ainda tremiam."
+    },
+    {
+      "id": "cap-23-0152",
+      "type": "paragraph",
+      "text": "Alanis, no entanto, estava completamente viciada em decorar cada detalhe daquele momento. Cada cheiro, cada sensação, o gosto ela com certeza já tinha decorado, tanto que se fechasse os olhos por alguns segundos, podia senti-lo em sua língua e automaticamente ela enchia d'água. Viciada em decorar a voz dela enquanto gozava, enquanto estava desesperada por mais, desesperada por ela… Alanis só tinha um único pensamento naquele momento: a de satisfazer Gabriela. A de se entregar inteiramente a ela.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Alanis, no entanto, estava completamente viciada em decorar cada detalhe daquele momento. Cada cheiro, cada sensação, o gosto ela com certeza já tinha decorado, tanto que se fechasse os olhos por alguns segundos, podia senti-lo em sua língua e automaticamente ela enchia d'água. Viciada em decorar a voz dela enquanto gozava, enquanto estava desesperada por mais, desesperada por ela… Alanis só tinha um único pensamento naquele momento: a de satisfazer "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Gabriela"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". A de se entregar inteiramente a ela."
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0153",
+      "type": "paragraph",
+      "text": "Aquele nome que trouxe novamente sentido para os seus dias. Que lhe apresentou tanto, em tão pouco tempo. O nome pelo qual seu pensamento girava em torno dele nas 24 horas de cada dia. Que transparecia em seus quadros pois ela era a razão de toda a sua inspiração, a pessoa que ela escolheria todos os dias, se pudesse… a pessoa que a tinha completamente. Por quem ela perigosamente abriria mão de tudo. Alanis foi da pessoa que não se importava em saber o nome da pessoa que estava em sua cama para querer tatuar aquele nome, querer gritá-lo aos quatro cantos do mundo. Queria que todos soubessem que ela era apaixonada pela Gabriela."
+    },
+    {
+      "id": "cap-23-0154",
+      "type": "paragraph",
+      "text": "Alanis estava tão imersa em seus próprios pensamentos que sequer notou Gabriela se virar para ela, ou a mão que desceu acariciando a pele macia… mas os dedos suaves dela deslizando pelo sexo completamente molhado da artista a fizeram fechar os olhos que antes encaravam o teto e gemer bem gostoso."
+    },
+    {
+      "id": "cap-23-0155",
+      "type": "paragraph",
+      "text": "— Às vezes é difícil te resgatar desse transe que você entra sozinha, né? — Gabriela sussurrou no ouvido de Alanis após trilhar beijos demorados no maxilar dela. — Mas é tão gostoso saber do que os meus dedos são capazes… — A tenista provocava entre mordidas no lóbulo da orelha dela, passando uma coxa por cima da de Alanis e prendendo-a para que não se mexesse tanto enquanto os dedos deslizavam facilmente. — Você tá sempre tão pronta pra mim, amor. Abre esses olhos lindos, vai… — Gabriela pediu e esperou até que os olhos pesados se abrissem minimamente, ela ergueu os dedos molhados até seus próprios lábios e chupou bem devagar um, depois o outro. Gemendo baixinho ao sentir aquele gosto delicioso da mulher que ela amava, ficando mais uma vez completamente excitada só por vê-la se desfazer por assistir àquela cena, gemendo baixinho o nome dela. — Você quer que eu te coma, não é, Alanis? Diz pra sua mulher o que você quer…",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Às vezes é difícil te resgatar desse transe que você entra sozinha, né? — Gabriela sussurrou no ouvido de Alanis após trilhar beijos demorados no maxilar dela. — Mas é tão gostoso saber do que os meus dedos são capazes… — A tenista provocava entre mordidas no lóbulo da orelha dela, passando uma coxa por cima da de Alanis e prendendo-a para que não se mexesse tanto enquanto os dedos deslizavam facilmente. — Você tá sempre tão pronta pra mim, amor. Abre esses olhos lindos, vai… — Gabriela pediu e esperou até que os olhos pesados se abrissem minimamente, ela ergueu os dedos molhados até seus próprios lábios e chupou bem devagar um, depois o outro. Gemendo baixinho ao sentir aquele gosto delicioso da mulher que ela amava, ficando mais uma vez completamente excitada só por vê-la se desfazer por assistir àquela cena, gemendo baixinho o nome "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "dela"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". — Você quer que eu te coma, não é, Alanis? Diz pra sua mulher o que você quer…"
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0156",
+      "type": "paragraph",
+      "text": "Alanis quase não conseguia falar, suspirando e gemendo baixinho, sentindo a boca seca ao assistir àqueles dedos tão bonitos deslizarem para dentro daquela boca na qual ela era apaixonada, com os lábios brilhando à sua própria excitação agora."
+    },
+    {
+      "id": "cap-23-0157",
+      "type": "paragraph",
+      "text": "Gabriela os desceu, agora ainda mais molhados, com um sorriso de satisfação por saber exatamente o efeito que causava na namorada, retomando de onde havia parado, subindo e descendo por toda a extensão da buceta molhada de Alanis."
+    },
+    {
+      "id": "cap-23-0158",
+      "type": "paragraph",
+      "text": "— Fala comigo, amor… — Gabriela pediu, sussurrando enquanto olhava naqueles olhos verdes, completamente dilatados. Ela ameaçou empurrar dois dedos, mas não o fez, apenas brincando com as possibilidades. — Implora pra ser fodida por mim, Guillen. Talvez eu goze de novo só por ouvir você gemer bem gostoso nos meus dedos, enquanto eu meto eles bem fundo, do jeito que eu sei que você fica louca… ."
+    },
+    {
+      "id": "cap-23-0159",
+      "type": "paragraph",
+      "text": "Alanis arqueou o corpo para frente, tomando impulso para se libertar da coxa de Gabriela que a prendia, e do braço que ela estava deitada em cima, impossibilitando-a de se mover completamente. Alanis fechou os olhos bem apertados e gemeu alto, sentindo seu sexo se contrair para o vazio ao ouvi-la. Gabriela a beijou rapidamente nos lábios e se abaixou para lamber os peitos pequenos e enrijecidos da artista, que se forçou contra aquela língua quente que sugava um dos mamilos."
+    },
+    {
+      "id": "cap-23-0160",
+      "type": "paragraph",
+      "text": "— Me fode, Gabriela, por favor. O que eu preciso fazer pra você me comer? — Alanis disse com a voz rouca de tesão enquanto tentava movimentar o quadril contra aqueles dedos deliciosos que a masturbavam, sentindo que gozaria só com aquela provocação. Gemeu baixinho sentindo o sexo outra vez molhado de Gabriela roçando em sua coxa. Quente, apertado, tão gostoso. Apenas a lembrança era suficiente para deixá-la louca outra vez."
+    },
+    {
+      "id": "cap-23-0161",
+      "type": "paragraph",
+      "text": "— Implora, vai… eu gosto tanto quando você chama pelo meu nome, Alanis. — Gabriela sentia o clitóris pulsando desesperado na ponta dos seus dedos, sentia a buceta molhar mais a cada provocação e sentia o reflexo disso tudo em seu próprio corpo, que se acendia outra vez como se não tivesse literalmente acabado de ter um orgasmo, enquanto ela rebolava na coxa de Alanis."
+    },
+    {
+      "id": "cap-23-0162",
+      "type": "paragraph",
+      "text": "— Gab, por favor… — Alanis não hesitou em obedecê-la. Com a voz rouca e manhosa, começou a implorar pelos dedos de Gabriela. — Você mete em mim tão gostoso, amor. Me come, por favor, Gabriela… — Ela implorava, porque era verdade."
+    },
+    {
+      "id": "cap-23-0163",
+      "type": "paragraph",
+      "text": "Gabriela primeiro gemeu, sentindo o quão molhada ficava por ouvir aquele pedido, mas em seguida deslizou os dedos para dentro da buceta que implorava por ela de todas as formas mais deliciosas. As duas gemeram juntas com aquela invasão dos dois dedos de Gabriela, que não demorou para começar um vai e vem rápido, do jeito que Alanis gostava. Bruto. Com os dedos saindo quase completamente para depois entrarem de uma vez só, bem fundo, bem forte. Alanis jogava a cabeça pra trás, gemendo alto, gritando e ainda assim, era um som suave, como uma música delicada, tentando cada vez se mover mais, mas Gabriela tinha o poder de controlar todos aqueles impulsos. Gabi não parava a sucção lenta no mamilo já durinho. Alternava entre um e outro deslizando a língua quente pelo colo, beijando-a no pescoço para provocá-la enquanto ela se desfazia bem na sua frente."
+    },
+    {
+      "id": "cap-23-0164",
+      "type": "paragraph",
+      "text": "— Minha vontade é de meter em você de quatro, mas tá tão gostoso assim, não está? — Gabriela sussurrou com a boca colada na pele dela."
+    },
+    {
+      "id": "cap-23-0165",
+      "type": "paragraph",
+      "text": "— Muito, amor. — Alanis disse entre os gemidos altos, completamente imersa nas sensações dos dedos de Gabriela que a fodiam tão bem. — Eu te amo tanto, Gab. Só você faz assim, tão gostoso. — A artista dizia com aquela voz rouca que atingia Gabriela diretamente em seu clitóris que pulsava contra a coxa quente e já tão molhada outra vez."
+    },
+    {
+      "id": "cap-23-0166",
+      "type": "paragraph",
+      "text": "Gabriela se segurou ao máximo mesmo que sua vontade fosse de fechar os olhos e se entregar outra vez aquela onda de prazer, mas não poderia ser tão egoísta… ela se concentrou no vai e vem tão ritmado que estava fazendo, ao ponto dele ser o suficiente para empurrar Alanis para um orgasmo que se formavam a cada estocada."
+    },
+    {
+      "id": "cap-23-0167",
+      "type": "paragraph",
+      "text": "— Gab… puta que pariu, eu vou gozar. — Alanis deslizou a mão livre pelas costas nuas de Gabriela, apertando-a, arranhando, puxando-a contra si, tudo ao mesmo tempo enquanto tentava rebolar para apressar o alívio que buscava."
+    },
+    {
+      "id": "cap-23-0168",
+      "type": "paragraph",
+      "text": "Gabriela sorriu porque sentia nas coxas trêmulas, nos membros amolecidos e na buceta apertada o quanto aquilo era verdade. No gemido mais longo e manhoso, no tremor no ventre agitado… Em si própria, sentia aquilo tudo também. Ela aumentou só o suficiente para fazer o corpo de Alanis reagir e explodir em um orgasmo que a fez tremer com força debaixo dela, o sexo se apertou várias vezes contra os dedos ainda lá dentro e ela fechou os olhos com força, quando sentiu seu próprio corpo explodir igualmente. As duas gemiam alto enquanto tentavam controlar os impulsos violentos dos corpos que chegaram ao ápice juntos. Gabriela, primeiro aproveitou de cada segundo daquele prazer avassalador antes de puxar os dedos devagar do sexo apertado para finalmente deitar ao lado de Alanis… as duas estavam completamente suadas, respirando como se tivessem acabado de cruzar a linha de chegada de uma maratona."
+    },
+    {
+      "id": "cap-23-0169",
+      "type": "paragraph",
+      "text": "Gabriela sorriu quando abriu os olhos e encontrou Alanis olhando para ela com os olhos semicerrados."
+    },
+    {
+      "id": "cap-23-0170",
+      "type": "paragraph",
+      "text": "— O que foi, amor? — A tenista perguntou depois de se inclinar para beijá-la nos lábios entreabertos."
+    },
+    {
+      "id": "cap-23-0171",
+      "type": "paragraph",
+      "text": "— Eu não quero perder nenhum segundo… — Alanis respondeu sem hesitar, com os olhos já enchendo d’água."
+    },
+    {
+      "id": "cap-23-0172",
+      "type": "paragraph",
+      "text": "Mas Gabriela tinha que ser forte o suficiente para controlar aquela vontade de se agarrar a ela e não deixá-la partir."
+    },
+    {
+      "id": "cap-23-0173",
+      "type": "paragraph",
+      "text": "— Quando você voltar, eu prometo te comer bem gostoso com o strap. — Ela comentou e conseguiu ver o exato momento em que a tristeza deu lugar a um brilho diferente nos olhos de Alanis, que automaticamente sorriu, mesmo que no processo rolasse uma lágrima."
+    },
+    {
+      "id": "cap-23-0174",
+      "type": "paragraph",
+      "text": "— Vou me lembrar disso pelos próximos três meses…",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vou me lembrar disso pelos próximos três meses…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0175",
+      "type": "divider",
+      "text": "***"
+    },
+    {
+      "id": "cap-23-0176",
+      "type": "paragraph",
+      "text": "Depois das horas serem cruéis com o casal apaixonado, Gabriela praticamente obrigou Alanis a se levantar porque tinha uma mala jogada pelo chão a ser feita. As duas tomaram banho até rápido demais, pra quem parou por diversas vezes para se beijar debaixo da queda d’água. Gabriela teve que sair correndo do banho porque sua vontade era a de pegar, ela mesma, aqueles dedos da namorada e senti-los dentro dela outra vez. Se secou ali do lado de fora do box enquanto Alanis terminava o banho, com os olhos fixos em cada detalhe do corpo de Gabriela, que não poderia negar que se sentia a mulher mais linda do mundo quando Alanis a olhava daquela forma."
+    },
+    {
+      "id": "cap-23-0177",
+      "type": "paragraph",
+      "text": "— Eu fico doente quando penso na possibilidade de você olhar para outra, desse jeito… como você me olha, mesmo através desse box embaçado, puta que pariu, Alanis. — Gabriela disse baixinho, enrolando-se na toalha com os cabelos na altura dos ombros, pingando devagar pequenas gotas que caíam pelo colo bonito."
+    },
+    {
+      "id": "cap-23-0178",
+      "type": "paragraph",
+      "text": "— Essa possibilidade nem existe. — Alanis respondeu tranquilamente enquanto deixava a água quente cair sobre os ombros, enxaguando a espuma do corpo que ainda doía dos eventos recentes. — Se eu estiver de olhos fechados, eu tô vendo você… Se eu estiver olhando por muito tempo para o nada, eu estou imaginando você… nós. Eu não poderia me importar menos com todas as outras pessoas desse mundo, as que não são uma Gabriela em específico, a que joga tênis perfeitamente, a mãe da Sofia. O amor da minha vida. — Alanis dizia pausadamente, olhando-a através do vidro que embaçava, e ela passava a mão para melhorar a visão, sorrindo, porque assistia Gabriela se desmontar um pouco mais a cada palavra, a ponto de ter que se apoiar na bancada da pia, logo atrás dela."
+    },
+    {
+      "id": "cap-23-0179",
+      "type": "paragraph",
+      "text": "— Ai, caralho, Alanis... Assim você vai ter que me comer de novo, e a gente tá ficando sem tempo. — Gabriela xingou por entre os dentes e saiu apressada do banheiro, deixando Alanis rindo sozinha no banho.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ai, caralho, Alanis"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "... Assim você vai ter que me comer de novo, e a gente tá ficando sem tempo. — Gabriela xingou por entre os dentes e saiu apressada do banheiro, deixando Alanis rindo sozinha no banho."
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0180",
+      "type": "paragraph",
+      "text": "Gabriela revirou os olhos porque mal se reconhecia perto daquela mulher, que com um olhar lhe deixava pronta outra vez. Que a tornava insaciável, logo ela, que passou anos tranquilamente em celibato. De repente, sentiu vontade de chorar, porque estava perto de enfrentar longos dias longe daquela mulher que a fez se sentir viva outra vez, por ter incentivado essa viagem… Mas respirou fundo e olhou para as roupas jogadas ao redor da cama desfeita. Tudo lembrava os momentos que viveram naquele quarto e de repente, chorar parecia a melhor opção mesmo, até pelos olhos que ardiam, ao segurar as lágrimas. Gabriela pegou a mala do chão e a deixou aberta sobre a cama. Se abaixou devagar para pegar as roupas que cheiravam tão gostoso… que parecia errado simplesmente pegá-las e não levá-las ao rosto. Gabriela até secou o rosto em uma das blusas de Alanis, porque não queria que a namorada a visse assim."
+    },
+    {
+      "id": "cap-23-0181",
+      "type": "paragraph",
+      "text": "Ela ouviu o chuveiro sendo desligado e foi o tempo que ela teve para se recompor. Quando Alanis saiu, ainda com o corpo um pouco úmido e nua, apenas com uma toalha enrolada nos cabelos, Gabriela estava sorrindo e dobrando as roupas na mala."
+    },
+    {
+      "id": "cap-23-0182",
+      "type": "paragraph",
+      "text": "— Se veste, por favor. — Gabriela disse com a voz trêmula, sem conseguir olhar por mais do que alguns segundos na direção daquela mulher que parecia muito mais uma deusa do que uma pessoa comum. — A gente precisa ir buscar a Sofia, depois voltamos para cá até a hora de te levar pro aeroporto."
+    },
+    {
+      "id": "cap-23-0183",
+      "type": "paragraph",
+      "text": "Alanis estava rindo até Gabriela citar o aeroporto e ela mudar de expressão rapidamente. Sabia que não aguentaria a despedida. Sabia que seria a coisa mais difícil de fazer e temia não conseguir entrar naquele avião."
+    },
+    {
+      "id": "cap-23-0184",
+      "type": "paragraph",
+      "text": "— Vocês vão comigo? É tão tarde… — Alanis caminhou até Gabriela, até abraçá-la por trás enquanto ela fazia a mala com calma. — E a hora da Sofia dormir?"
+    },
+    {
+      "id": "cap-23-0185",
+      "type": "paragraph",
+      "text": "— Ela vai ficar bem, amor. A despedida é necessária pra ela entender certas coisas, vai ser melhor assim. — Gabriela dizia, mas no fundo, sabia que não tinha para onde correr, todas as três iriam sofrer."
+    },
+    {
+      "id": "cap-23-0186",
+      "type": "paragraph",
+      "text": "Alanis concordou, mesmo a contragosto, e se vestiu. Aos poucos, o que prolongaram por muito tempo estava quase finalizado. Gabriela checava em sua lista as coisas que Alanis precisava levar enquanto ela estava sentada na poltrona no canto do quarto. Aquela mesma poltrona onde Gabriela se lembra de quase ter tido o maior gay panic de sua vida com aquelas mãos tão firmes limpando sua pele… devagar… sua roupa… de tinta guache."
+    },
+    {
+      "id": "cap-23-0187",
+      "type": "paragraph",
+      "text": "Gabriela andou devagar até ela e se sentou bem sobre as coxas de Alanis, de frente para ela, com os joelhos apoiados no pouco espaço que sobrava da poltrona e, na mesma hora, a artista a envolveu pela cintura e ela a segurou pelo rosto, forçando-a a olhar nos seus olhos. Os narizes estavam se tocando e as respirações se misturando. As duas não falaram nada por um longo período, ficaram apenas respirando uma à outra, sentindo aquela proximidade que no dia seguinte já teria virado saudade… Até que Gabriela fechou a distância mínima entre os lábios que se encaixavam perfeitamente, como se fossem magnéticos. Como se aquelas bocas existissem apenas para aquele encaixe. As línguas já sabiam o caminho de cor, tanto que rapidamente o quarto silencioso deu lugar aos sons dos estalos molhados, dos gemidos baixos, de corpos que se esfregavam devagar e das mãos inquietas, que apertavam a pele, puxavam as roupas… Não era um beijo apaixonado. Era um beijo visceral que revelava o mais profundo das duas… Aquilo que elas não conseguiam dizer, aquilo que elas tinham medo de expor. Mas também era um beijo que dizia com todas as palavras em caixa alta: EU SOU SUA E VOCÊ É MINHA.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Gabriela andou devagar até ela e se sentou bem sobre as coxas de Alanis, de frente para ela, com os joelhos apoiados no pouco espaço que sobrava da poltrona e, na mesma hora, a artista a envolveu pela cintura e ela a segurou pelo rosto, forçando-a a olhar nos seus olhos. Os narizes estavam se tocando e as respirações se misturando. As duas não falaram nada por um longo período, ficaram apenas respirando uma à outra, sentindo aquela proximidade que no dia seguinte já teria virado saudade… Até que Gabriela fechou a distância mínima entre os lábios que se encaixavam perfeitamente, como se fossem magnéticos. Como se aquelas bocas existissem apenas para aquele encaixe. As línguas já sabiam o caminho de cor, tanto que rapidamente o quarto silencioso deu lugar aos sons dos estalos molhados, dos gemidos baixos, de corpos que se esfregavam devagar e das mãos inquietas, que apertavam a pele, puxavam as roupas… Não era um beijo apaixonado. Era um beijo visceral que revelava o mais profundo das duas… Aquilo que elas não conseguiam dizer, aquilo que elas tinham medo de expor. Mas também era um beijo que dizia com todas as palavras em caixa alta: "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "EU"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "SOU SUA E VOCÊ É MINHA."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0188",
+      "type": "divider",
+      "text": "***",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "***"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0189",
+      "type": "paragraph",
+      "text": "Alanis sorriu quando ouviu Sofia subir correndo as escadas de sua casa. Mas, mesmo que não a ouvisse correr, saberia que ela havia chegado pelo coro incessante de:"
+    },
+    {
+      "id": "cap-23-0190",
+      "type": "paragraph",
+      "text": "— Mamãe Laaaaani, eu cheguei da escola. — Ela anunciava ainda nos primeiros degraus."
+    },
+    {
+      "id": "cap-23-0191",
+      "type": "paragraph",
+      "text": "Alanis estava sentada no sofá enquanto terminava de colocar as últimas coisas na mala de mão e na bolsa. Fotos de Sofia, fotos das três, algumas só de Gabriela… queria todas as que pudesse para encher aquele apartamento em Londres com lembranças delas."
+    },
+    {
+      "id": "cap-23-0192",
+      "type": "paragraph",
+      "text": "Sofia apareceu segurando uma pequena lancheira que combinava com sua mochila de rodinhas e naquele ano ela havia escolhido uma mochila lilás do Ursinho Pooh, que parecia ser a nova obsessão da criança. Ela jogou a lancheira na mesa de centro logo ali em frente e se jogou em Alanis, sem se importar com nada que a artista tinha na mão, que eram alguns adaptadores e fios, que ela prontamente largou para envolver sua enteada naquele abraço mais gostoso do mundo."
+    },
+    {
+      "id": "cap-23-0193",
+      "type": "paragraph",
+      "text": "Sofia estava com o uniforme branco todo riscado de canetinha e também havia rabiscos coloridos pelos braços e pernas. Alanis riu quando Gabriela surgiu emburrada carregando a mochila no braço."
+    },
+    {
+      "id": "cap-23-0194",
+      "type": "paragraph",
+      "text": "— Não sei por que ela está feliz assim se está de castigo. — Gabriela resmungou enquanto deixava as coisas da menina no outro sofá. — Por essa mania feia de se riscar."
+    },
+    {
+      "id": "cap-23-0195",
+      "type": "paragraph",
+      "text": "Alanis fechou os olhos para receber os incontáveis beijinhos de Sofia no rosto e as duas ficaram um bom tempo assim, enquanto Gabriela assistia com os olhos semicerrados e o coração despedaçado."
+    },
+    {
+      "id": "cap-23-0196",
+      "type": "paragraph",
+      "text": "— Pro banho agora, Sofia Medvedovsky. — Gabriela disse com o tom mais firme, puxando a menina pelo braço. — Vai se esfregar sozinha até sair todos esses rabiscos.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Pro banho "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "agora"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", Sofia Medvedovsky. — Gabriela disse com o tom mais firme, puxando a menina pelo braço. — Vai se esfregar sozinha até sair todos esses rabiscos."
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0197",
+      "type": "paragraph",
+      "text": "Alanis fez um biquinho quando Sofia a soltou e Sofia imediatamente começou a chorar, sendo levada à força para o banho."
+    },
+    {
+      "id": "cap-23-0198",
+      "type": "paragraph",
+      "text": "— Me ajuda, mamãe Lani. — Ela gritava entre o choro a caminho do banheiro. — Socorro!"
+    },
+    {
+      "id": "cap-23-0199",
+      "type": "paragraph",
+      "text": "Alanis sabia que não poderia se meter, mas seu peito doía querendo ir até lá. Restava tão pouco tempo com ela, que não se aguentou. Alanis jogou o que faltava dentro da bolsa e foi até a porta do banheiro."
+    },
+    {
+      "id": "cap-23-0200",
+      "type": "paragraph",
+      "text": "Gabriela conversava com Sofia dizendo que era errado riscar a blusa do colégio, que era uma coisa muito feia. Sofia chorava dramaticamente como se aquelas palavras doessem em sua pequena alma."
+    },
+    {
+      "id": "cap-23-0201",
+      "type": "paragraph",
+      "text": "— Oi, meu amor. — Alanis chamou da porta e Sofia soluçou, controlando a vontade de chorar mais alto."
+    },
+    {
+      "id": "cap-23-0202",
+      "type": "paragraph",
+      "text": "— Manda ela parar de brigar comigo. — Sofia dizia entre o choro exagerado."
+    },
+    {
+      "id": "cap-23-0203",
+      "type": "paragraph",
+      "text": "— Ela tá falando que você não pode riscar a sua roupa, a gente já conversou sobre isso várias vezes. — Alanis dizia por cima do choro e ignorou Gabriela, que revirou os olhos,, porque a menina claramente estava fazendo manha para Alanis."
+    },
+    {
+      "id": "cap-23-0204",
+      "type": "paragraph",
+      "text": "Gabriela pensou também no quanto aquelas duas almas gêmeas ficariam longe uma da outra e se levantou."
+    },
+    {
+      "id": "cap-23-0205",
+      "type": "paragraph",
+      "text": "— Você assume aqui, amor? Eu vou preparar algo pra gente comer."
+    },
+    {
+      "id": "cap-23-0206",
+      "type": "paragraph",
+      "text": "Sofia na mesma hora começou a dar pulinhos de alegria, mesmo que o rostinho estivesse molhado pelas lágrimas reais. Alanis riu e foi até lá. Gabi e Alanis deram um beijinho antes de Gabriela sair do banheiro e antes mesmo de passar da porta, o choro deu lugar às gargalhadas, fazendo-a sorrir sem olhar para trás, porque se olhasse, choraria até mais do que a criança."
+    },
+    {
+      "id": "cap-23-0207",
+      "type": "paragraph",
+      "text": "O finalzinho da tarde ia embora com aquele gostinho amargo da despedida que tanto adiaram."
+    },
+    {
+      "id": "cap-23-0208",
+      "type": "paragraph",
+      "text": "Sofia parecia incapaz de compreender o significado de três meses quando Gabriela e Alanis tentaram explicar sobre a viagem, enquanto Alanis se arrumava para ir até o aeroporto."
+    },
+    {
+      "id": "cap-23-0209",
+      "type": "paragraph",
+      "text": "— Mas você vai dormir quantas vezes lá? — Sofia perguntou, se lembrando da viagem de Gabriela, quando ela ficou sozinha com Alanis por dois dias."
+    },
+    {
+      "id": "cap-23-0210",
+      "type": "paragraph",
+      "text": "De repente, noventa e poucos pareceu muito tempo para a pequena cabecinha da enteada, então ela respondeu:"
+    },
+    {
+      "id": "cap-23-0211",
+      "type": "paragraph",
+      "text": "— Algumas… muitas."
+    },
+    {
+      "id": "cap-23-0212",
+      "type": "paragraph",
+      "text": "Sofia fez uma careta, enrugando o narizinho, e Alanis riu."
+    },
+    {
+      "id": "cap-23-0213",
+      "type": "paragraph",
+      "text": "— Cinco? — Ela disse, por saber exatamente que cinco eram os dedinhos da mão dela."
+    },
+    {
+      "id": "cap-23-0214",
+      "type": "paragraph",
+      "text": "— Um pouquinho mais do que cinco, minha princesa. — Alanis disse e se abaixou para dar um beijinho no topo da cabecinha cheirosa e a criança ficou pensativa por um tempo, enquanto estava deitada de bruços no tapete, fazendo um coração com o giz vermelho em uma folha em branco."
+    },
+    {
+      "id": "cap-23-0215",
+      "type": "paragraph",
+      "text": "Quando estava tudo pronto, Alanis olhou em volta de sua casa e suspirou. Nunca imaginou que o dia que tinha tudo para ir embora em definitivo dali, a deixaria com o coração tão despedaçado… indo, mas ansiosa pela volta. Gabriela vinha pelo corredor apagando todas as luzes e vendo se estava tudo desligado e fora da tomada."
+    },
+    {
+      "id": "cap-23-0216",
+      "type": "paragraph",
+      "text": "— Pode deixar que vou vir aqui às vezes, ver se está tudo bem. — Ela avisou, abraçando a namorada por trás. — Acalma esse coração, por favor, vai ficar tudo bem."
+    },
+    {
+      "id": "cap-23-0217",
+      "type": "paragraph",
+      "text": "— Isso é errado… Meu lugar é aqui. — Alanis disse entristecida, passando a mão em uma de suas plantinhas na sala. — Com vocês."
+    },
+    {
+      "id": "cap-23-0218",
+      "type": "paragraph",
+      "text": "— Vai passar rapidinho, você vai ver. E, quando você voltar, quem sabe, não podemos até estudar aquela possibilidade, de morarmos juntas. — Gabriela disse e a beijou na nuca."
+    },
+    {
+      "id": "cap-23-0219",
+      "type": "paragraph",
+      "text": "— Não brinca com isso, Gab. — Alanis disse ao pegar a bolsa e a mala de mão. Gabriela puxava a mala de rodinhas até a escada e Sofia estava saltitando entre elas com o desenho para Alanis na mãozinha."
+    },
+    {
+      "id": "cap-23-0220",
+      "type": "paragraph",
+      "text": "— Eu jamais brincaria com isso. É uma coisa que não consigo tirar da cabeça… a de ter a nossa vida juntas, futuramente."
+    },
+    {
+      "id": "cap-23-0221",
+      "type": "paragraph",
+      "text": "Alanis largou as bolsas novamente com um bico enorme."
+    },
+    {
+      "id": "cap-23-0222",
+      "type": "paragraph",
+      "text": "— Eu não vou mais, está decidido. Eu quero isso tudo agora. — Ela cruzou os braços e Gabriela riu porque ela e Sofia tinham os mesmos trejeitos."
+    },
+    {
+      "id": "cap-23-0223",
+      "type": "paragraph",
+      "text": "Gabriela deixou a mala por um momento e foi até Alanis, descruzando os braços dela enquanto a abraçava pela cintura."
+    },
+    {
+      "id": "cap-23-0224",
+      "type": "paragraph",
+      "text": "— Se você ficar, vamos ter que esperar algum tempo de qualquer forma. Por que você não vai lá e mostra pra todo mundo o quão maravilhosa e inteligente você é? O nome Alanis Guillen vai morar entre os melhores do mundo e eu fico com um tesão enorme só de pensar nisso. — Gabriela sussurrou só para ela. — E depois você volta só pra mim, pra gente planejar o nosso futuro."
+    },
+    {
+      "id": "cap-23-0225",
+      "type": "paragraph",
+      "text": "Alanis respirou bem fundo de olhos fechados e concordou. Elas foram para o carro e quando Alanis ajudou Sofia a subir, a menina esticou o desenho que estava em sua mãozinha."
+    },
+    {
+      "id": "cap-23-0226",
+      "type": "paragraph",
+      "text": "— Aqui, mamãe. — Ela disse ao entregar o papel desenhado com um coração. — Pra você não esquecer da gente."
+    },
+    {
+      "id": "cap-23-0227",
+      "type": "paragraph",
+      "text": "A menina disse com aquele sorriso que fazia Alanis desmanchar. Os olhos automaticamente se encheram de lágrimas que escorreram sem aviso nenhum, ela só conseguiu agradecer baixinho e beijá-la mais uma vez, antes de fechar a porta e se sentar no banco do carona, enquanto Gabriela fechava o porta-malas."
+    },
+    {
+      "id": "cap-23-0228",
+      "type": "paragraph",
+      "text": "— Respira, por favor. — Gabriela sussurrou ao se sentar ali ao lado e passar o cinto de segurança, para depois pegar na mão gelada e beijar carinhosamente. — Não faça dessa oportunidade uma coisa ruim, porque não é. — Gabriela disse antes de deixar a mão dela em sua coxa e dar partida no carro."
+    },
+    {
+      "id": "cap-23-0229",
+      "type": "paragraph",
+      "text": "Alanis queria respirar. Queria gritar. Queria chorar. Queria sair daquele carro correndo, voltar para sua casa… Mas não conseguia fazer nada, ficou olhando Sofia pelo retrovisor, toda arrumadinha para se despedir dela, de vestidinho e cabelinho penteado, com cheirinho de neném, batendo palminhas enquanto acompanhava a música infantil que tocava no rádio. Olhou para Gabriela que dirigia prestando atenção na estrada e ainda dava conta de cantar com Sofia, de beijar a mão dela de tempos em tempos, de olhar sorrindo tão majestosamente para o lado, lembrando-a do que ela estava deixando para trás… Alanis suspirou demoradamente enquanto sentia as lágrimas rolarem involuntariamente por todo o trajeto da Urca até o Galeão."
+    },
+    {
+      "id": "cap-23-0230",
+      "type": "paragraph",
+      "text": "Quanto mais o carro se aproximava da área de embarque internacional, mais Alanis sentia uma dor física tomar conta de todo o seu corpo. Gabriela estacionou o mais próximo possível e depois de pegarem as malas e bolsas, foram caminhando de mãos dadas até entrarem no aeroporto. Sofia brincava de empurrar a mala, porque tudo para ela era diversão. Mas as duas adultas caminhavam em silêncio, porque já era impossível esconder a voz embargada."
+    },
+    {
+      "id": "cap-23-0231",
+      "type": "paragraph",
+      "text": "Alanis carregava o tubo rígido em suas costas com alguns desenhos e rascunhos. Alguns quadros já haviam sido despachados ao longo da semana junto com seus materiais preferidos de pintura e tudo estava encaminhado para aquela viagem acontecer… isso a aterrorizava."
+    },
+    {
+      "id": "cap-23-0232",
+      "type": "paragraph",
+      "text": "Gabriela repassava tudo o que ela precisava levar e Alanis ia confirmando com a cabeça que havia se lembrado de colocar na mala, porque assim se distraía com alguma coisa."
+    },
+    {
+      "id": "cap-23-0233",
+      "type": "paragraph",
+      "text": "— Mamãe Lani? — Sofia perguntou, sentada no colo da artista, com Gabriela em pé perto delas."
+    },
+    {
+      "id": "cap-23-0234",
+      "type": "paragraph",
+      "text": "Alanis a segurou forte e a beijou no rostinho."
+    },
+    {
+      "id": "cap-23-0235",
+      "type": "paragraph",
+      "text": "— Eu vou com você, né? — Ela perguntou animada."
+    },
+    {
+      "id": "cap-23-0236",
+      "type": "paragraph",
+      "text": "— Já está tudo certo pro check-in, amor. — Gabriela disse de repente, com a pasta de documentos de Alanis na mão."
+    },
+    {
+      "id": "cap-23-0237",
+      "type": "paragraph",
+      "text": "A pergunta ficou pairando no ar, sem resposta, mas Sofia pareceu não se importar, porque desceu correndo, distraída com um cachorrinho que viajaria com um casal."
+    },
+    {
+      "id": "cap-23-0238",
+      "type": "paragraph",
+      "text": "Alanis se levantou e pegou a pasta da mão de Gabriela, que foi atrás de Sofia antes que ela se perdesse no meio das pessoas. Alanis foi até o local do check-in ainda sem grandes filas e esperou a vez. Poucos minutos depois, ela voltou até Gabriela e Sofia. Com as bagagens despachadas e aquela sensação terrível de que a partir de certo ponto, seria apenas ela outra vez."
+    },
+    {
+      "id": "cap-23-0239",
+      "type": "paragraph",
+      "text": "— Posso te ligar todos os dias? — Alanis perguntou baixinho enquanto caminhavam até a entrada do embarque internacional."
+    },
+    {
+      "id": "cap-23-0240",
+      "type": "paragraph",
+      "text": "— Se você não fizer isso, você estará em sérios problemas, Guillen. — Gabriela brincou."
+    },
+    {
+      "id": "cap-23-0241",
+      "type": "paragraph",
+      "text": "Alanis esboçou um sorriso que não chegou a se formar. Segurava na mãozinha de Sofia enquanto a menininha olhava com curiosidade todo o entorno, vendo os aviões imponentes pelas janelas grandes de vidro e apontando encantada."
+    },
+    {
+      "id": "cap-23-0242",
+      "type": "paragraph",
+      "text": "Quando chegaram ao limite onde só passageiros poderiam entrar, Alanis se abaixou para abraçar Sofia, que não entendeu muito bem por que Alanis estava chorando, mas, de alguma forma, olhou para cima, para Gabriela, que falhava em ser a pessoa mais forte do mundo naquele momento, deixando-se levar pela tristeza que consumia seu coração ao ver aquela cena."
+    },
+    {
+      "id": "cap-23-0243",
+      "type": "paragraph",
+      "text": "— Meu amorzinho, por favor, não esquece o quanto eu te amo. — Alanis dizia enquanto Sofia a abraçava forte de volta, beijando-a no rosto e ria jogando a cabecinha para trás, por provar das lágrimas salgadas."
+    },
+    {
+      "id": "cap-23-0244",
+      "type": "paragraph",
+      "text": "— Eu te amo muuuuuito, mamãe. — Sofia disse entre as gargalhadas."
+    },
+    {
+      "id": "cap-23-0245",
+      "type": "paragraph",
+      "text": "Alanis sequer tinha forças para se levantar outra vez, com seu estômago doendo pelo esforço que fazia para controlar a vontade de chorar."
+    },
+    {
+      "id": "cap-23-0246",
+      "type": "paragraph",
+      "text": "Sofia se agarrou às pernas dela quando ela se levantou com Gabriela, segurando-a pelas mãos, puxando-a para um abraço."
+    },
+    {
+      "id": "cap-23-0247",
+      "type": "paragraph",
+      "text": "— Você tinha que fazer isso ser difícil, né? — Gabriela disse enquanto sentia o rosto cada vez mais molhado. — Não era pra ser assim, são só alguns finais de semana… — blefou, porque era tempo suficiente para morrer de saudade e ela sabia disso."
+    },
+    {
+      "id": "cap-23-0248",
+      "type": "paragraph",
+      "text": "Alanis beijou-a nos lábios várias vezes, dizendo que a amava entre cada um deles, olhando-a nos olhos."
+    },
+    {
+      "id": "cap-23-0249",
+      "type": "paragraph",
+      "text": "As pessoas passavam por elas e não disfarçavam a tristeza que sentiam com aquela cena. Gabriela até viu uma senhora limpar os olhos marejados, enquanto Alanis se despedia de Sofia."
+    },
+    {
+      "id": "cap-23-0250",
+      "type": "paragraph",
+      "text": "O alto-falante já anunciava o embarque do voo de Alanis, mas ela parecia não ouvir nada, nem ver mais ninguém além de Gabriela em sua frente."
+    },
+    {
+      "id": "cap-23-0251",
+      "type": "paragraph",
+      "text": "— Amor… você precisa ir. — Gabriela disse com a voz baixa, secando as lágrimas do rosto completamente molhado de Alanis."
+    },
+    {
+      "id": "cap-23-0252",
+      "type": "paragraph",
+      "text": "Quando ela deu um passo para trás daquele abraço, foi como se arrancasse um pedaço do seu próprio corpo."
+    },
+    {
+      "id": "cap-23-0253",
+      "type": "paragraph",
+      "text": "— Eu não vou conseguir fazer isso, Gab. — Alanis disse entre as lágrimas, secando ela mesma o rosto."
+    },
+    {
+      "id": "cap-23-0254",
+      "type": "paragraph",
+      "text": "Sofia segurou na mão de Alanis e começou a puxá-la na direção das pessoas que já passavam apressadas por elas."
+    },
+    {
+      "id": "cap-23-0255",
+      "type": "paragraph",
+      "text": "— Vamos, mamãe Lani."
+    },
+    {
+      "id": "cap-23-0256",
+      "type": "paragraph",
+      "text": "Alanis ajeitou a bolsa com a mão livre e entregou a mão de Sofia para Gabriela com o coração em pedaços, pensou que jamais conseguiria colá-los de volta depois daquele dia. Sofia ficou sem entender quando Alanis acenou um tchauzinho modesto para as duas."
+    },
+    {
+      "id": "cap-23-0257",
+      "type": "paragraph",
+      "text": "— Boa viagem, meu amor. Vou ficar esperando todas as suas mensagens, quando decolar, quando pousar, tudo. — Gabriela dizia ao puxar Sofia para o colo enquanto a menina se debatia para descer."
+    },
+    {
+      "id": "cap-23-0258",
+      "type": "paragraph",
+      "text": "— Me soltaaaaaa, eu quero ir com ela. — Sofia gritava por cima da voz de Gabriela. — Mamãe Lani, eu quero ir com você. Não me deixa! — Sofia começou a chorar quando percebeu que Alanis dava passos lentos se afastando delas."
+    },
+    {
+      "id": "cap-23-0259",
+      "type": "paragraph",
+      "text": "— Sofia, ela precisa ir agora. Ela não vai demorar para voltar, eu prometo. — Gabriela dizia tentando controlar a menina que se escorregava para baixo, forçando-se para descer enquanto gritava pela mãe, chorando alto e fazendo todas as pessoas olharem com lágrimas nos olhos."
+    },
+    {
+      "id": "cap-23-0260",
+      "type": "paragraph",
+      "text": "Alanis não conseguia olhar mais, ela acenou para Gabi e sussurrou que as amava, antes de entrar no ponto sem volta."
+    },
+    {
+      "id": "cap-23-0261",
+      "type": "paragraph",
+      "text": "Gabriela rapidamente deu meia volta, com Sofia se debatendo em seu colo como jamais viu sua filha fazer. Ouvindo um choro de dor que jamais ouviu sua filha emitir. De todos os choros que ela já havia escutado, aquele foi o que mais doeu bem no fundo da sua alma."
+    },
+    {
+      "id": "cap-23-0262",
+      "type": "paragraph",
+      "text": "Alanis demorou até parar de escutar Sofia gritar por ela, mas sabia que ela não tinha parado e sim, que Gabriela já estava indo embora e ela sentia vontade de vomitar de nervoso, com o pensamento de que aquela sensação perduraria pelos noventa dias que ficariam a um oceano de distância."
+    },
+    {
+      "id": "cap-23-0263",
+      "type": "paragraph",
+      "text": "— Uau… Alanis Guillen.... Chorando pela despedida de uma criança que a chama de mãe… quem diria. — Uma voz que Alanis já tinha escutado, mas de que não se lembrava muito bem, chamou sua atenção, ainda na fila para embarcarem.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Uau… "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Alanis Guillen"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ".... Chorando pela despedida de uma criança que a chama de mãe… quem diria. — Uma voz que Alanis já tinha escutado, mas de que não se lembrava muito bem, chamou sua atenção, ainda na fila para embarcarem."
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0264",
+      "type": "paragraph",
+      "text": "Ela se virou enquanto tentava enxugar as lágrimas insistentes para dar de cara com…"
+    },
+    {
+      "id": "cap-23-0265",
+      "type": "paragraph",
+      "text": "— Letícia Vieira. — A moça se apresentou e esticou a mão para cumprimentá-la educadamente. Ela sussurrou em seguida: — A gente já transou, há uns meses atrás, mas você nem perguntou o meu nome, lembra? — Alanis engoliu em seco, reconhecendo a moça que estava em seu apartamento na manhã em que fez a aplicação para aquela vaga em Londres. — Acho que estamos indo para o mesmo lugar. — Ela piscou com um sorriso sacana, abaixando a mão e buscando a mão de Alanis, apertando-a sozinha, porque a artista continuava sem reação. — Três meses, né?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Letícia Vieira."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " — A moça se apresentou e esticou a mão para cumprimentá-la educadamente. Ela sussurrou em seguida: — A gente já transou, há uns meses atrás, mas você nem perguntou o meu nome, lembra? — Alanis engoliu em seco, reconhecendo a moça que estava em seu apartamento na manhã em que fez a aplicação para aquela vaga em Londres. — Acho que estamos indo para o mesmo lugar. — Ela piscou com um sorriso sacana, abaixando a mão e buscando a mão de Alanis, apertando-a sozinha, porque a artista continuava sem reação. — Três meses, né?"
+        }
+      ]
+    },
+    {
+      "id": "cap-23-0266",
+      "type": "paragraph",
+      "text": "A moça brincou antes de soltar a mão de Alanis porque a vez da artista embarcar havia chegado."
+    }
+  ],
+  "notes": {
+    "before": [],
+    "after": []
+  }
+}

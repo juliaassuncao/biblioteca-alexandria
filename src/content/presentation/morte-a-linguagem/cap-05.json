@@ -1,0 +1,120 @@
+{
+  "chapterId": "cap-05",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-05-0041",
+      "end": "cap-05-0044",
+      "senderIds": [
+        "cap-05-0041"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0079",
+      "end": "cap-05-0082",
+      "senderIds": [
+        "cap-05-0079"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0090",
+      "end": "cap-05-0094",
+      "senderIds": [
+        "cap-05-0092"
+      ]
+    },
+    {
+      "type": "email",
+      "start": "cap-05-0104",
+      "end": "cap-05-0112"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0130",
+      "end": "cap-05-0156",
+      "senderIds": [
+        "cap-05-0132",
+        "cap-05-0139",
+        "cap-05-0149"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0158",
+      "end": "cap-05-0165",
+      "senderIds": [
+        "cap-05-0158",
+        "cap-05-0161"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0167",
+      "end": "cap-05-0196",
+      "senderIds": [
+        "cap-05-0170",
+        "cap-05-0177",
+        "cap-05-0180",
+        "cap-05-0183",
+        "cap-05-0186",
+        "cap-05-0191"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0199",
+      "end": "cap-05-0200",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0275",
+      "end": "cap-05-0278",
+      "senderIds": [
+        "cap-05-0275"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0353",
+      "end": "cap-05-0391",
+      "senderIds": [
+        "cap-05-0354",
+        "cap-05-0359",
+        "cap-05-0366",
+        "cap-05-0370",
+        "cap-05-0378",
+        "cap-05-0383",
+        "cap-05-0388"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0393",
+      "end": "cap-05-0394",
+      "senderIds": [
+        "cap-05-0393"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0405",
+      "end": "cap-05-0408",
+      "senderIds": [
+        "cap-05-0405"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0425",
+      "end": "cap-05-0441",
+      "senderIds": [
+        "cap-05-0425",
+        "cap-05-0431",
+        "cap-05-0437"
+      ]
+    }
+  ]
+}

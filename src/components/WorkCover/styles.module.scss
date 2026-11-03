@@ -1,0 +1,17 @@
+@use '../../styles/tokens' as t;
+.cover { container-type:inline-size; position:relative; aspect-ratio:3/4; width:100%; display:flex; flex-direction:column; align-items:center; overflow:hidden; padding:0; text-align:center; isolation:isolate; border-radius:4px 9px 9px 4px; box-shadow:inset 5px 0 9px #0002, 3px 6px 12px #0002; }
+.cover::before { content:''; position:absolute; inset:6%; border:1px solid currentColor; opacity:.27; z-index:-1; }
+.cover::after { content:''; position:absolute; height:180%; width:56%; transform:rotate(28deg); background:linear-gradient(to right,transparent,#ffffff14,transparent); z-index:-1; pointer-events:none; }
+.wine { background:radial-gradient(circle at 72% 15%,#77545b,transparent 35%),linear-gradient(145deg,#633744,#2f202b 88%); color:#f4e3d5; }
+.ink { background:radial-gradient(circle at 75% 22%,#665d65,transparent 40%),linear-gradient(145deg,#3c3646,#1f2430 90%); color:#eee2d4; }
+.sage { background:radial-gradient(circle at 75% 20%,#b7bca7,transparent 44%),linear-gradient(145deg,#7e9182,#455d56 90%); color:#fff6e5; }
+.lineTop, .bottom { flex:none; width:82%; font-size:min(3cqw,8px); line-height:1.4; letter-spacing:.65cqw; opacity:.75; font-weight:600; }
+.lineTop { margin-top:10cqw; }
+.bottom { margin-bottom:10cqw; }
+.composition { flex:1; min-height:0; width:86%; display:flex; flex-direction:column; align-items:center; justify-content:center; }
+.ornament { display:flex; margin:0 0 5cqw; opacity:.67; }
+.ornament svg { width:min(19cqw,46px); height:min(19cqw,46px); }
+.title { font:500 min(14cqw,37px)/.95 'Cormorant Garamond',Georgia,serif; max-width:100%; text-transform:uppercase; text-wrap:balance; }
+.stroke { flex:none; width:12cqw; max-width:27px; height:1px; background:currentColor; margin:5cqw 0; opacity:.7; }
+.caption { font:italic min(4.7cqw,11px)/1.4 'Cormorant Garamond',Georgia,serif; max-width:65cqw; opacity:.83; }
+.featured { max-width:235px; width:100%; box-shadow:inset 6px 0 12px #0003,13px 24px 42px #0005; transform:rotate(-5deg); }

@@ -1,0 +1,3683 @@
+{
+  "id": "cap-02",
+  "blocks": [
+    {
+      "id": "cap-02-0001",
+      "type": "heading",
+      "text": "EMENTA",
+      "level": 3,
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "EMENTA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0002",
+      "type": "heading",
+      "text": "CURSO “ALTA LITERATURA PARA ESCRITORES E ARTISTAS”",
+      "level": 3,
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "CURSO “ALTA LITERATURA PARA ESCRITORES E ARTISTAS”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0003",
+      "type": "paragraph",
+      "text": "Semana 1: A Fenomenologia da Percepção",
+      "alignment": "center"
+    },
+    {
+      "id": "cap-02-0004",
+      "type": "paragraph",
+      "text": "Nesta primeira unidade, exploramos a base teórica do formalismo russo, especificamente o conceito de Ostranenie (estranhamento) proposto por Viktor Chklovsky, que postula que a função da arte é remover o automatismo da percepção cotidiana. O escritor deve atuar como um antropólogo do seu próprio entorno, despojando-se da utilidade dos objetos para enxergar sua \"estranheza bruta\". Aprofundaremos na análise de “A Paixão Segundo G.H.”, de Clarice Lispector, focando especificamente na análise da \"comunhão\" com a barata. No trecho \"O que eu via era a vida me olhando\", observamos como Clarice desarticula a hierarquia entre sujeito e objeto: a barata deixa de ser um inseto doméstico para se tornar uma entidade metafísica que desestabiliza a identidade da narradora. O exercício central será a descrição de um espaço doméstico através de um olhar \"desautomatizado\".",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Nesta primeira unidade, exploramos a base teórica do formalismo russo, especificamente o conceito de "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ostranenie"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " (estranhamento) proposto por Viktor Chklovsky, que postula que a função da arte é remover o automatismo da percepção cotidiana. O escritor deve atuar como um antropólogo do seu próprio entorno, despojando-se da utilidade dos objetos para enxergar sua \"estranheza bruta\". Aprofundaremos na análise de “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "A Paixão Segundo G.H."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "”, de Clarice Lispector, focando especificamente na análise da \"comunhão\" com a barata. No trecho \""
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "O"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "que eu via era a vida me olhando"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\", observamos como Clarice desarticula a hierarquia entre sujeito e objeto: a barata deixa de ser um inseto doméstico para se tornar uma entidade metafísica que desestabiliza a identidade da narradora. O exercício central será a descrição de um espaço doméstico através de um olhar \"desautomatizado\"."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0005",
+      "type": "divider",
+      "text": "#####",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "#####"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0006",
+      "type": "paragraph",
+      "text": "Eduarda cogitou o atraso e também a fuga, mas acabou cedendo à obediência. Afinal, passou uns dois anos entretendo a ideia de se matricular em um curso de escrita. Seria ridículo desistir do plano só porque flertou com uma mulher."
+    },
+    {
+      "id": "cap-02-0007",
+      "type": "paragraph",
+      "text": "Ainda que a mulher fosse sua professora."
+    },
+    {
+      "id": "cap-02-0008",
+      "type": "paragraph",
+      "text": "Ela era sua professora?"
+    },
+    {
+      "id": "cap-02-0009",
+      "type": "paragraph",
+      "text": "“Eu dou falta”. Eu dou falta a você? Eu posso dar falta, porque isto é uma hierarquia e eu tenho o poder nesta relação?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Eu dou falta”. Eu dou falta "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "a"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " você? Eu posso dar falta, porque isto é uma hierarquia e eu tenho o poder nesta relação?"
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0010",
+      "type": "paragraph",
+      "text": "“Eu dou falta”. Eu dou falta de você? Eu dou falta porque sinto falta? Aquilo era um flerte? Que bobagem. Claro que era.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Eu dou falta”. Eu dou falta "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "de"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " você? Eu dou falta porque "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sinto"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " falta? Aquilo era um flerte? Que bobagem. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Claro"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que era."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0011",
+      "type": "paragraph",
+      "text": "Mas as duas coisas não eram mutuamente excludentes. Podia ser um flerte e um flerte de Lorena Ferette, sua professora.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Mas as duas coisas não eram mutuamente excludentes. Podia ser um flerte "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "e"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " um flerte de Lorena Ferette, sua professora."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0012",
+      "type": "paragraph",
+      "text": "Ela era Lorena Ferette, sua professora?"
+    },
+    {
+      "id": "cap-02-0013",
+      "type": "paragraph",
+      "text": "Que bobagem. Claro que era.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Que bobagem. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Claro"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que era."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0014",
+      "type": "paragraph",
+      "text": "Ela era sua professora.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Ela "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "era"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " sua professora."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0015",
+      "type": "paragraph",
+      "text": "E sua professora, aparentemente, era casada."
+    },
+    {
+      "id": "cap-02-0016",
+      "type": "paragraph",
+      "text": "Ela era casada?"
+    },
+    {
+      "id": "cap-02-0017",
+      "type": "paragraph",
+      "text": "Não dava para ter certeza. Por que uma pessoa comprometida enfiaria a aliança no fundo da bolsa?"
+    },
+    {
+      "id": "cap-02-0018",
+      "type": "paragraph",
+      "text": "Mas somente uma pessoa comprometida teria uma aliança, para começo de conversa.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Mas somente uma pessoa comprometida "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "teria"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " uma aliança, para começo de conversa."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0019",
+      "type": "paragraph",
+      "text": "— Que inferno. — murmurou para si mesma."
+    },
+    {
+      "id": "cap-02-0020",
+      "type": "paragraph",
+      "text": "— O que é um inferno? — perguntou Paulo, puxando as duas alças da mochila que carregava nas costas, como uma criança voltando da escola."
+    },
+    {
+      "id": "cap-02-0021",
+      "type": "paragraph",
+      "text": "— Nada. Eu penso alto, falo sozinha. — desconversou Eduarda — Vamos entrar? Já vai começar a aula."
+    },
+    {
+      "id": "cap-02-0022",
+      "type": "paragraph",
+      "text": "— Falar sozinho é coisa de escritor. Coisa de gente criativa. — pontuou ele, tomando a dianteira e empurrando a porta da sala."
+    },
+    {
+      "id": "cap-02-0023",
+      "type": "paragraph",
+      "text": "O cômodo era menor do que Eduarda esperava, julgando pela planta da casa. Devia ter uns vinte ou vinte e cinco metros quadrados, se muito. A ambientação era um exercício de geometria e transparência. Por um lado, as paredes pintadas de cinza-gelo, apenas a um ou dois tons de distância de um branco hospitalar, imprimiam uma impessoalidade quase opressora. Por outro, todas as formas e linhas pareciam organizadas em uma simetria minuciosamente calculada, como um lembrete de que a matemática também é uma linguagem, e que há nela um discurso que exige fluência para ser compreendido."
+    },
+    {
+      "id": "cap-02-0024",
+      "type": "paragraph",
+      "text": "Havia uma estante colossal de jacarandá, repleta de títulos dos autores que serviam às aulas que aconteciam ali: Walter Benjamin, e Umberto Eco, e Joseph Campbell, e Roland Barthes, e muitos, muitos outros. Nichos de madeira escura comportavam samambaias que caíam em cascata e vasos de cerâmica. Cadeiras coloridas em tons pastéis estavam dispostas em “U”, viradas para a tela de um projetor."
+    },
+    {
+      "id": "cap-02-0025",
+      "type": "paragraph",
+      "text": "Os alunos escolhiam os lugares cautelosamente, com o receio das primeiras vezes. Eram quinze pessoas. Alguns aparentavam uns dezoito anos, ainda com rostos arredondados e infantis. Outros ostentavam cabelos grisalhos e manchas senis. Não era difícil entender a composição da turma. Quem mais faria um curso livre às quartas e sextas-feiras, às duas horas da tarde? Universitários e aposentados, naturalmente. Fora isso, havia duas outras garotas na casa dos quase-trinta que, assim como Eduarda, eram notoriamente ricas. E um Paulinho, é claro."
+    },
+    {
+      "id": "cap-02-0026",
+      "type": "paragraph",
+      "text": "Paulo, a propósito, ocupou o assento mais central possível. Estaria bem de frente para a professora."
+    },
+    {
+      "id": "cap-02-0027",
+      "type": "paragraph",
+      "text": "— Senta aqui. — convidou ele, dando duas batidinhas na cadeira ao lado."
+    },
+    {
+      "id": "cap-02-0028",
+      "type": "paragraph",
+      "text": "Eduarda hesitou. Pensou bem na situação. Não sabia qual tinha sido a última vez em que fez amizade com um homem heterossexual. Ou com uma pessoa heterossexual, em geral."
+    },
+    {
+      "id": "cap-02-0029",
+      "type": "paragraph",
+      "text": "Ou com uma pessoa, em geral."
+    },
+    {
+      "id": "cap-02-0030",
+      "type": "paragraph",
+      "text": "Nos últimos cinco anos, foi reclusa como um monge. Seus relacionamentos nesse período se limitaram ao advogado que cuidava de seu patrimônio, aos garçons de botecos que frequentava regularmente e às mulheres com quem dormia. Seus amigos viraram meros contatos no WhatsApp que, esporadicamente, apareciam para compartilhar novidades das próprias vidas e perguntar como ela andava."
+    },
+    {
+      "id": "cap-02-0031",
+      "type": "paragraph",
+      "text": "Ela andava na mesma. E também andava sozinha. Porque não sabia mais andar de outra maneira."
+    },
+    {
+      "id": "cap-02-0032",
+      "type": "paragraph",
+      "text": "— Tá bom. Obrigada. — disse, enquanto desabava na cadeira que Paulo indicava alegremente."
+    },
+    {
+      "id": "cap-02-0033",
+      "type": "paragraph",
+      "text": "Eduarda olhou em volta e esfregou as mãos no tecido da calça jeans, sem saber muito bem o que fazer com o próprio corpo. Em geral, as pessoas ao seu redor aparentavam estar ansiosas, ou tranquilas, ou animadas, ou curiosas, ou apáticas. Ninguém, no entanto, parecia como ela. Deslocada e suspensa no ar, assistindo a tudo como um fantasma. Uma entidade sem rosto que não deveria estar ali. Era assim que se sentia o tempo todo. À beira de uma fuga ou à beira de um desmaio— que é, à sua maneira, também uma forma de fugir."
+    },
+    {
+      "id": "cap-02-0034",
+      "type": "paragraph",
+      "text": "Antes que pudesse escapar para seu carro, bater em retirada e desistir da ideia estúpida de voltar a escrever, a porta rangeu acompanhada por passos no chão de madeira maciça. O perfume de sândalo, que conheceu apenas alguns minutos antes no encontro do banheiro, impregnou seus pensamentos e retesou seus músculos. O cheiro dela era areia movediça, e ficou impossível se mexer. O único destino viável era afundar, afundar, afundar, e então desaparecer.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Antes que pudesse escapar para seu carro, bater em retirada e desistir da ideia estúpida de voltar a escrever, a porta rangeu acompanhada por passos no chão de madeira maciça. O perfume de sândalo, que conheceu apenas alguns minutos antes no encontro do banheiro, impregnou seus pensamentos e retesou seus músculos. O cheiro "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "dela"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " era areia movediça, e ficou impossível se mexer. O único destino viável era afundar, afundar, afundar, e então desaparecer."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0035",
+      "type": "paragraph",
+      "text": "Aparentemente, Eduarda não foi a única afetada pela chegada de Lorena Ferette. Ao perceber a entrada dela, todas as cabeças se viraram, algumas mais e outras menos, para espiar a autora prodígio."
+    },
+    {
+      "id": "cap-02-0036",
+      "type": "paragraph",
+      "text": "Escritores só são importantes uns para os outros. Há, entre os artistas, uma admiração antropofágica. Existe a vontade civilizada de aplaudir e parabenizar, é claro, mas também a de fundir, devorar, morder, abocanhar as palavras do outro até que o idioma exclusivo dele seja também o seu. Seria simplista definir como inveja. É mais como um desejo voraz e inominável de olhar um ídolo e ver nele um espelho. E aí, torcer para que ele te veja e perceba que há, também, um reflexo em você."
+    },
+    {
+      "id": "cap-02-0037",
+      "type": "paragraph",
+      "text": "Todos os alunos do centro cultural ansiavam enxergar um pouco de si em Lorena. Para os que aspiravam a escrita e o sucesso, ela era a personificação do sonho. E quem não quer que seu sonho olhe de volta para você?"
+    },
+    {
+      "id": "cap-02-0038",
+      "type": "paragraph",
+      "text": "Eduarda, particularmente, queria muito."
+    },
+    {
+      "id": "cap-02-0039",
+      "type": "paragraph",
+      "text": "Por um lado, estava mortificada. Porque agora sabia que a garota do banheiro era definitivamente sua professora e definitivamente uma escritora famosa que definitivamente carregava uma porcaria de aliança numa porcaria de ecobag.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Por um lado, estava mortificada. Porque agora sabia que a garota do banheiro era "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "definitivamente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " sua professora e "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "definitivamente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " uma escritora famosa que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "definitivamente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " carregava uma porcaria de aliança numa porcaria de ecobag."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0040",
+      "type": "paragraph",
+      "text": "O objetivo de se matricular naquela droga de curso era um só: se reconectar com a atividade mais importante de sua vida e, por extensão, consigo mesma. Dar em cima da professora potencialmente casada logo no primeiro dia era uma distração que não a ajudaria em nada.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "O objetivo de se matricular naquela droga de curso era um só: se reconectar com a atividade mais importante de sua vida e, por extensão, consigo mesma. Dar em cima da professora potencialmente "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "casada"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " logo no primeiro dia era uma distração que não a ajudaria em nada."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0041",
+      "type": "paragraph",
+      "text": "Por outra perspectiva, queria desesperadamente que Lorena flertasse com ela de novo para ter certeza que foi um flerte da primeira vez, para começo de conversa. Como é que ia passar as quatro semanas de curso reclamando daquele problemão se o problema em questão nem existisse de fato?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Por outra perspectiva, queria desesperadamente que Lorena flertasse com ela "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "de novo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " para ter certeza que foi um flerte da primeira vez, para começo de conversa. Como é que ia passar as quatro semanas de curso reclamando daquele problemão se o problema em questão nem existisse de fato?"
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0042",
+      "type": "paragraph",
+      "text": "E queria tanto que o problema em questão existisse de fato.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "E queria "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tanto"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que o problema em questão existisse de fato."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0043",
+      "type": "paragraph",
+      "text": "— Ser maluca dá um puta trabalho. — sussurrou."
+    },
+    {
+      "id": "cap-02-0044",
+      "type": "paragraph",
+      "text": "— Você realmente fala sozinha. — observou Paulo."
+    },
+    {
+      "id": "cap-02-0045",
+      "type": "paragraph",
+      "text": "— Eu te avisei."
+    },
+    {
+      "id": "cap-02-0046",
+      "type": "paragraph",
+      "text": "Lorena era um bom estereótipo do mestrando médio da Faculdade de Filosofia, Letras e Ciências Humanas da USP. Se movia com uma tranquilidade etérea, quase flutuante. Naquela tarde, estava com uma calça pantalona preta, confortável, e um par de Vans encardidos, embora os cadarços estivessem limpos como se fossem novos. Usava uma camisa branca de linho, com dois botões fechados e três abertos."
+    },
+    {
+      "id": "cap-02-0047",
+      "type": "paragraph",
+      "text": "Eduarda gostaria de não ter percebido que ela estava sem sutiã, mas aparentemente, seu cérebro não era muito melhor do que o de um homem hétero.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Eduarda gostaria de "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "não"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " ter percebido que ela estava sem sutiã, mas aparentemente, seu cérebro não era muito melhor do que o de um homem hétero."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0048",
+      "type": "paragraph",
+      "text": "Com uma segurança aterradora, Lorena tomou seu lugar à frente da turma. Tinha um olhar desafiador e felino, como um animal que brinca com sua presa e a lambe inteira antes de consumi-la."
+    },
+    {
+      "id": "cap-02-0049",
+      "type": "paragraph",
+      "text": "— Boa tarde, pessoal. — saudou a voz rouca e arrastada, mas projetada com a técnica que os anos de licenciatura em Letras ensinaram a ela — Como vocês já devem imaginar, eu sou Lorena Ferette e serei a facilitadora do curso “Alta Literatura para Escritores e Artistas”. Sejam bem-vindas, bem-vindes e bem-vindos.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Boa tarde, pessoal. — saudou a voz rouca e arrastada, mas projetada com a técnica que os anos de licenciatura em Letras ensinaram a ela — Como vocês já devem imaginar, eu sou Lorena Ferette e serei a facilitadora do curso "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Alta Literatura para Escritores e Artistas"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "”. Sejam bem-vindas, bem-vindes e bem-vindos."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0050",
+      "type": "paragraph",
+      "text": "— Eu já te conheço! — exclamou uma senhorinha, sentada duas cadeiras à direita de Paulinho — Vi sua foto na orelha do “A Geometria dos Encontros Adjacentes”. E olha, que livro lindo. Eu me emocionei muito. Parabéns!",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Eu já te conheço! — exclamou uma senhorinha, sentada duas cadeiras à direita de Paulinho — Vi sua foto na orelha do “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "A Geometria dos Encontros Adjacentes”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". E olha, que livro lindo. Eu me emocionei muito. Parabéns!"
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0051",
+      "type": "paragraph",
+      "text": "Um burburinho de elogios se espalhou pelo semicírculo. Pelo menos umas dez vozes do grupo enalteceram a obra-prima de Lorena simultaneamente. A autora sorriu abertamente para a situação com uma ligeira pitada de constrangimento, e Eduarda sorriu abertamente para ela com uma ligeira pitada de fascínio."
+    },
+    {
+      "id": "cap-02-0052",
+      "type": "paragraph",
+      "text": "— Obrigada, gente. Obrigada. Fico muito feliz que a história do “Geometria” tenha ressoado com vocês. Eu… escrevi esse livro para ser meu estômago e digerir um momento muito difícil da minha vida. Foi um projeto ambicioso, que exigiu muito estudo e preparação. Inclusive, o escopo do curso que vocês estão começando hoje nasceu justamente deste processo…",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Obrigada, gente. Obrigada. Fico muito feliz que a história do “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Geometria"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "” tenha ressoado com vocês. Eu… escrevi esse livro para ser meu estômago e digerir um momento muito difícil da minha vida. Foi um projeto ambicioso, que exigiu muito estudo e preparação. Inclusive, o escopo do curso que vocês estão começando hoje nasceu justamente deste processo…"
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0053",
+      "type": "paragraph",
+      "text": "Enquanto Lorena iniciava uma digressão sobre a ementa e os objetivos das aulas, Eduarda se ocupou de outra coisa mais urgente: sua curiosidade."
+    },
+    {
+      "id": "cap-02-0054",
+      "type": "paragraph",
+      "text": "— Paulinho Reitz. — chamou ela, num tom provocativo, ainda incrédula com o nome fantasia de seu talvez-quem-sabe-numa-dessa novo amigo — Que momento difícil da vida da Lorena é esse?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Paulinho"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Reitz. — chamou ela, num tom provocativo, ainda incrédula com o nome fantasia de seu talvez-quem-sabe-numa-dessa novo amigo — Que momento difícil da vida da Lorena é esse?"
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0055",
+      "type": "paragraph",
+      "text": "— Não sei não. — respondeu Paulo, cochichando sem olhar para sua interlocutora, como um garotinho com medo de ser flagrado conversando na aula de português."
+    },
+    {
+      "id": "cap-02-0056",
+      "type": "paragraph",
+      "text": "— Pô, como não sabe? Sobre o que é o livro?"
+    },
+    {
+      "id": "cap-02-0057",
+      "type": "paragraph",
+      "text": "— O narrador é um cara apaixonado pela melhor amiga. Só que essa amiga dele é uma crente que está evidentemente perdida na heterossexualidade compulsória. Eles acabam se casando, mas o filho da puta sabe que a menina não ama ele de verdade. Aí, passa a vida fazendo de tudo pra que ela não perceba que gosta de mulher, e pior: que é apaixonada por uma outra amiga deles. Prefere que a esposa seja infeliz, e ser infeliz junto, só pra não perder a ilusão de que venceu.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— O narrador é um cara apaixonado pela melhor amiga. Só que essa amiga dele é uma crente que está evidentemente perdida na heterossexualidade compulsória. Eles acabam se casando, mas o filho da puta sabe que a menina não ama ele de verdade. Aí, passa a vida fazendo de tudo pra que ela não perceba que gosta de mulher, e pior: que é apaixonada por uma "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "outra"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " amiga deles. Prefere que a esposa seja infeliz, e ser infeliz junto, só pra não perder a ilusão de que venceu."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0058",
+      "type": "paragraph",
+      "text": "Eduarda lembrou de Lorena no banheiro, buscando a aliança dourada largada na pia e jogando no fundo da bolsa."
+    },
+    {
+      "id": "cap-02-0059",
+      "type": "paragraph",
+      "text": "Ela era casada? Que bobagem. Claro que era.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Ela era casada? Que bobagem. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Claro"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que era."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0060",
+      "type": "paragraph",
+      "text": "Só uma mulher comprometida teria uma aliança e um livro com essa premissa referenciando um “momento muito difícil” de sua vida.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Só uma mulher comprometida teria uma aliança "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "e"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " um livro com essa premissa referenciando um “momento muito difícil” de sua vida."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0061",
+      "type": "paragraph",
+      "text": "Restava descobrir quem era a professora nessa história: a esposa iludida ou o marido ilusionista."
+    },
+    {
+      "id": "cap-02-0062",
+      "type": "divider",
+      "text": "#####",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "#####"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0063",
+      "type": "paragraph",
+      "text": "Eduarda foi arrebatada pela paixão que iluminava os olhos de Lorena à medida em que a aula avançava. Se Ferette era realmente casada, ainda era impossível saber; mas sua volúpia superlativa e monogâmica pelas palavras… este compromisso, sim, era inegável."
+    },
+    {
+      "id": "cap-02-0064",
+      "type": "paragraph",
+      "text": "O afeto pela escrita aparecia, amplo e corpulento, sentado sobre cada frase que sintetizava os objetivos do curso. Passaram brevemente pelos assuntos que seriam trabalhados nos encontros e pela bibliografia que ornamentava tudo."
+    },
+    {
+      "id": "cap-02-0065",
+      "type": "paragraph",
+      "text": "— Toda essa proposta nasceu do desejo de deslocar o escritor da posição de narrador para a de pensador. E esse desejo começou como uma autocrítica. Eu comigo mesma, em relação ao meu próprio trabalho. — compartilhou Lorena, em tom de confidência — Não quero, e nem acho que me cabe, ensinar técnica no sentido instrumental. O que eu quero é outra coisa."
+    },
+    {
+      "id": "cap-02-0066",
+      "type": "paragraph",
+      "text": "Eduarda não pôde deixar de reparar, em uma espécie de epifania, que ela sempre falava com quem queria outra coisa. Algo ininteligível, inexistente no léxico, alheio a qualquer codificação. Lorena parecia um fluxo de consciência de Clarice Lispector personificado, se movimentando em ondas e guardando um segredo em suas entrelinhas. Sentia que mesmo que despisse sua mente e decorasse suas ideias em braille, jamais encontraria o signo e o significado daquilo que a professora tanto queria dizer."
+    },
+    {
+      "id": "cap-02-0067",
+      "type": "paragraph",
+      "text": "Com slides sóbrios e minimalistas, seguiram a conversa sobre o ponto central daquele primeiro dia. Letras garrafais na primeira tela propuseram uma pergunta provocativa: “O que acontece com a linguagem quando você para de reconhecer o mundo?”."
+    },
+    {
+      "id": "cap-02-0068",
+      "type": "paragraph",
+      "text": "A questão, Eduarda supunha, a atropelou mais do que deveria. Não sabia em que ponto sua existência se confundiu com a rotina. Nada mais a surpreendia. Portanto, nada mais a encantava. Talvez fosse por isso que já não era mais capaz de escrever uma única linha. Não havia nada novo saltando a seus olhos, se apresentando para ela como um estranho na noite. Tudo que ela conhecia já foi dito. Então, não havia mais nada a dizer."
+    },
+    {
+      "id": "cap-02-0069",
+      "type": "paragraph",
+      "text": "Prosseguiram para o conceito de “ostranenie”—que, era importante pontuar, Lorena articulou com a pronúncia russa, e isso teve sobre Eduarda o mesmo efeito de uma patifaria pornográfica sussurrada ao pé do ouvido—ou, em bom português, “estranhamento”. Falaram sobre Viktor Chklovsky, que cunhou o termo em um ensaio de 1917, e as convulsões sociais que contextualizam a Rússia naquele período.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Prosseguiram para o conceito de "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“ostranenie”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "—que, era importante pontuar, Lorena articulou com a pronúncia russa, e isso teve sobre Eduarda o mesmo efeito de uma patifaria pornográfica sussurrada ao pé do ouvido—ou, em bom português, “estranhamento”. Falaram sobre Viktor Chklovsky, que cunhou o termo em um ensaio de 1917, e as convulsões sociais que contextualizam a Rússia naquele período."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0070",
+      "type": "paragraph",
+      "text": "— Existe uma urgência política no questionamento que o Chklovsky faz, e que é o mesmo que propus a vocês no começo da apresentação. — disse Lorena, andando de um lado para o outro, segurando o controle do projetor entre os dedos, com a memória muscular de fumante — E a resposta que ele encontra é que nosso cérebro opera por economia perceptiva. A consciência cria atalhos. Cadeira vira “cadeira”; “árvore” vira “árvore”; o rosto da pessoa que você ama, que antes era o sinônimo de um sentimento, agora é apenas o nome dela. O perigo disso é que nosso olhar se torna automatizado, e um ser humano que opera no automatismo não habita sua própria vista."
+    },
+    {
+      "id": "cap-02-0071",
+      "type": "paragraph",
+      "text": "— Porra. Só faltou o pastor falar meu nome no culto. — sussurrou Eduarda, arrancando de Paulinho um daqueles risos que escapam em uma lufada de ar pelo nariz."
+    },
+    {
+      "id": "cap-02-0072",
+      "type": "paragraph",
+      "text": "— A arte, pro Chklovsky, existe pra quebrar esse mecanismo. — continuou Lorena — Vejam: não pra embelezar. Não pra consolar. Para dificultar. O procedimento artístico desafia a percepção, torna o objeto denso e devolve a ele o que o hábito roubou. A palavra poética força o leitor a parar diante dela como algo desconhecido. Isso é o ostranenie. É um procedimento formal. Uma operação intencional que o texto executa sobre o leitor.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— A arte, pro Chklovsky, existe pra quebrar esse mecanismo. — continuou Lorena — Vejam: não pra embelezar. Não pra consolar. Para "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "dificultar"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". O procedimento artístico desafia a percepção, torna o objeto denso e devolve a ele o que o hábito roubou. A palavra poética força o leitor a parar diante dela como algo desconhecido. Isso é o "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ostranenie"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". É um procedimento formal. Uma operação intencional que o texto executa sobre o leitor."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0073",
+      "type": "paragraph",
+      "text": "Lorena usou o controle para avançar o slide com o polegar. Eduarda aproveitou a oportunidade para encarar as mãos dela. Nenhum anel. Nenhuma aliança. A porra da aliança provavelmente continuava jogada no fundo da bolsa. Pensou que o tal Viktor Chklovsky ficaria orgulhoso. Veja só todo o sentido absurdo e insano que estava atribuindo a um objeto idiota."
+    },
+    {
+      "id": "cap-02-0074",
+      "type": "paragraph",
+      "text": "Sentiu-se até um pouco como…"
+    },
+    {
+      "id": "cap-02-0075",
+      "type": "paragraph",
+      "text": "— Clarice Lispector e a barata. — avançou Lorena — Não sabemos se Clarice leu Chklovsky, mas ela chegou a esse mesmo território por uma outra via, radicalmente oposta: a fenomenologia, a mística e uma sensibilidade com as palavras que eu, pessoalmente, considero que não é deste planeta. E isso é engraçado, porque o próprio Chklovsky, como formalista, rejeitaria esse caminho. Me diverte muito como podemos chegar ao mesmo lugar por estradas tão diferentes."
+    },
+    {
+      "id": "cap-02-0076",
+      "type": "paragraph",
+      "text": "A professora distribuiu algumas folhas impressas com duas páginas de “A Paixão Segundo G.H.”. A protagonista da obra é uma escultora não-praticante de classe média, moradora de uma cobertura no Rio de Janeiro. Pragmática, organizada e funcional. Um dia, entra no quartinho da empregada que foi embora. Descobre o cômodo vazio. Exceto por uma barata. E inicia ali uma longa digressão, em que o inseto se confunde com a vida até que G.H. projete sua própria condição nele.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "A professora distribuiu algumas folhas impressas com duas páginas de "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“A Paixão Segundo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "G.H.”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". A protagonista da obra é uma escultora não-praticante de classe média, moradora de uma cobertura no Rio de Janeiro. Pragmática, organizada e funcional. Um dia, entra no quartinho da empregada que foi embora. Descobre o cômodo vazio. Exceto por uma barata. E inicia ali uma longa digressão, em que o inseto se confunde com a vida até que G.H. projete sua própria condição nele."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0077",
+      "type": "paragraph",
+      "text": "Fizeram uma leitura coletiva, como no ensino médio. Eduarda se absteve de participar. Nunca se voluntariava para esse tipo de coisa—não por timidez, porque isso nunca teve, mas sim por aquela constante sensação de assistir a vida de fora, como uma espectadora à parte, que a assombrava nos últimos anos."
+    },
+    {
+      "id": "cap-02-0078",
+      "type": "paragraph",
+      "text": "— Nesses últimos vinte e tantos minutos, eu gostaria de conhecer vocês mais a fundo. — informou Lorena, desligando o projetor — Então, minha proposta é que cada uma e cada um se apresente brevemente. Mas não só isso: vamos retirar o automatismo. Além de um pouquinho do contexto de vocês, eu gostaria que trouxessem um questionamento que a aula de hoje despertou. Não precisa ser algo que eu tenha a resposta, ou que vocês tenham, ou sequer que a resposta exista. Pode ser sobre linguagem, escrita, palavra, teoria. Qualquer coisa. Desde que aprofunde o dito e o não-dito."
+    },
+    {
+      "id": "cap-02-0079",
+      "type": "paragraph",
+      "text": "De modo geral, Eduarda achou seus colegas simpáticos. Havia gente com todo tipo de vida. Uma artista plástica de setenta e dois anos que perdeu o marido recentemente e pretendia elaborar o luto através da produção literária. Um garoto encabulado de dezessete que acabou de sair de uma longa depressão e, agora, procurava seu propósito. Uma patricinha da Vila Nova Conceição recém-formada em Psicologia que estava apenas matando tempo enquanto se preparava para um ano sabático no Canadá."
+    },
+    {
+      "id": "cap-02-0080",
+      "type": "paragraph",
+      "text": "— Meu nome é Paulo, mas publico meus romances policiais de maneira independente com o nome Paulinho Reitz. Tenho trinta e nove anos. Tenho uma namorada maravilhosa e batalhadora que me inspira muito. Eu sou… era… sou, ainda sou, servidor público. Quero me dedicar à escrita e viver disso."
+    },
+    {
+      "id": "cap-02-0081",
+      "type": "paragraph",
+      "text": "Os questionamentos sobre a aula também eram diversos. “O estranhamento não é natural do processo criativo?”. “A barata é um símbolo de quê, afinal?. “Como eu sei que meu olhar está desautomatizado ou não?”. “Ostranenie (com a pronúncia equivocada e consideravelmente menos charmosa que a da professora) não é só uma questão de perspectiva?”.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Os questionamentos sobre a aula também eram diversos. “O estranhamento não é natural do processo criativo?”. “A barata é um símbolo de quê, afinal?. “Como eu sei que meu olhar está desautomatizado ou não?”. “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ostranenie"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " (com a pronúncia equivocada e consideravelmente menos charmosa que a da professora) não é só uma questão de perspectiva?”."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0082",
+      "type": "paragraph",
+      "text": "Ferette respondeu algumas perguntas diretamente, com paciência e didática. A outras, como uma esfinge, devolveu uma provocação enigmática. Houve também as que receberam silêncio e um meio sorriso."
+    },
+    {
+      "id": "cap-02-0083",
+      "type": "paragraph",
+      "text": "— Muito bem. E agora… — Lorena encarou Eduarda por um segundo excessivamente comprido — Você. Eu quero saber de você. Me conta."
+    },
+    {
+      "id": "cap-02-0084",
+      "type": "paragraph",
+      "text": "Historicamente, Eduarda não era do tipo que ficava nervosa com a tensão sexual. Gostava de flertar e sabia que era boa nisso. Não à toa, tinha uma facilidade imensa em converter qualquer match do Tinder ou elogio bobo no Instagram em casos sem rótulo que duravam bons meses. Mas algo naquela mulher específica comprimia seu estômago e levava as batidas de seu coração até o ouvido. Precisou pigarrear e umedecer os lábios com a língua antes de falar.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Historicamente, Eduarda não era do tipo que ficava nervosa com a tensão sexual. Gostava de flertar e sabia que era boa nisso. Não à toa, tinha uma facilidade imensa em converter qualquer "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "match"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " do Tinder ou elogio bobo no Instagram em casos sem rótulo que duravam bons meses. Mas algo naquela mulher específica comprimia seu estômago e levava as batidas de seu coração até o ouvido. Precisou pigarrear e umedecer os lábios com a língua antes de falar."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0085",
+      "type": "paragraph",
+      "text": "— Meu nome é Eduarda Fragoso. Tenho vinte e sete anos e sonho em ser escritora há quase isso, a vida toda. Sou jornalista, mas só de formação. Nunca exerci. Tipo a G.H., que é uma escultora que não esculpe. Também sou uma escritora que não escreve. É o que eu busco aqui. Mudar isso. Ser o que eu já sou e também o que eu gostaria de ser."
+    },
+    {
+      "id": "cap-02-0086",
+      "type": "paragraph",
+      "text": "Lorena a estudava de uma forma que esquentou suas bochechas. Seu olhar intrigado escorregava dos cabelos ruivos para o rosto, e do rosto para as mãos, e das mãos para os coturnos, e dos coturnos de volta para o rosto, e do rosto para um lugar através dele, revirando-a do avesso até que não sobrasse mais nada a ser exposto. Toda sua essência ali, derramada no chão, escorrendo pelo piso de madeira cara."
+    },
+    {
+      "id": "cap-02-0087",
+      "type": "paragraph",
+      "text": "— E o meu questionamento… — engatou Eduarda — o meu questionamento é: o que é que você quer?"
+    },
+    {
+      "id": "cap-02-0088",
+      "type": "paragraph",
+      "text": "A indagação evidentemente pegou Lorena de guarda baixa. Por um instante, quem estava ali não era uma mentora, ou mestranda, ou autora premiada. Em seu lugar, surgiu uma garota desconcertada."
+    },
+    {
+      "id": "cap-02-0089",
+      "type": "paragraph",
+      "text": "— Como assim?"
+    },
+    {
+      "id": "cap-02-0090",
+      "type": "paragraph",
+      "text": "— Você disse, no início da aula, que não quer ensinar técnica. Que quer outra coisa. Pensei até que fosse uma referência à própria Clarice, em “Perto do Coração Selvagem”, quando ela diz que “Liberdade é pouco. O que desejo ainda não tem nome”. E eu poderia aceitar o que eu pensei. Ou poderia aceitar que você não quis contar pra gente. Mas isso seria o automatismo. Então, o que eu queria é saber o que é que você quer.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Você disse, no início da aula, que não quer ensinar técnica. Que quer outra coisa. Pensei até que fosse uma referência à própria Clarice, em “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Perto do Coração Selvagem"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "”, quando ela diz que “Liberdade é pouco. O que desejo ainda não tem nome”. E eu poderia aceitar o que eu pensei. Ou poderia aceitar que você não quis contar pra gente. Mas isso seria o automatismo. Então, o que eu queria é saber o que é que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "você"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " quer."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0091",
+      "type": "paragraph",
+      "text": "Lorena demorou para responder. Eduarda pensou, inclusive, que não responderia. Se fosse isso, até que estava bom. O importante era que a professora, naquele momento, olhava para ela como se não houvesse outra pessoa na sala. Até mesmo como se não houvesse outra pessoa no mundo."
+    },
+    {
+      "id": "cap-02-0092",
+      "type": "paragraph",
+      "text": "Mas ela respondeu."
+    },
+    {
+      "id": "cap-02-0093",
+      "type": "paragraph",
+      "text": "— Até poderia ser uma referência a esse trecho da Clarice, Eduarda Fragoso, porque eu realmente me sinto assim, como se não tivesse nome pro meu desejo. Mas isso é como Pessoa Física. Como Pessoa Jurídica… o que eu quero aqui é que cada escolha de linguagem deixe de ser intuitiva e passe a ser consciente e argumentável. Eu quero que você saiba exatamente o que está dizendo, e tenha certeza que é isso mesmo que quer comunicar.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Até poderia ser uma referência a esse trecho da Clarice, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eduarda Fragoso"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", porque eu realmente me sinto assim, como se não tivesse nome pro meu desejo. Mas isso é como Pessoa Física. Como Pessoa Jurídica… o que eu quero aqui é que cada escolha de linguagem deixe de ser intuitiva e passe a ser consciente e argumentável. Eu quero que você saiba exatamente o que está dizendo, e tenha "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "certeza"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que é isso mesmo que quer comunicar."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0094",
+      "type": "paragraph",
+      "text": "Eduarda pensou que o que desejava naquele momento específico tinha nome e sobrenome. Lamentou por não poder embrulhar a reflexão no papel de presente do flerte e soltá-la em voz alta. Em vez disso, soltou outra coisa:"
+    },
+    {
+      "id": "cap-02-0095",
+      "type": "paragraph",
+      "text": "— Bom… em geral, eu tento dizer exatamente o que eu quero."
+    },
+    {
+      "id": "cap-02-0096",
+      "type": "paragraph",
+      "text": "— E não tentamos todos? Em quatro semanas, se o curso cumprir seus objetivos, eu espero que você consiga. Pelo menos um pouco mais, um pouco melhor e um pouco mais alto.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— E não tentamos todos? Em quatro semanas, se o curso cumprir seus objetivos, eu espero que você "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "consiga"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Pelo menos um pouco mais, um pouco melhor e um pouco "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mais alto"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0097",
+      "type": "paragraph",
+      "text": "Dado o andar da carruagem, se Eduarda conseguisse dizer qualquer coisa naquelas quatro semanas que não fosse um gemido, para ela, já estava excelente.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Dado o andar da carruagem, se Eduarda conseguisse dizer "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "qualquer"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " coisa naquelas quatro semanas que não fosse um "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "gemido"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", para ela, já estava excelente."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0098",
+      "type": "divider",
+      "text": "#####",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "#####"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0099",
+      "type": "paragraph",
+      "text": "Lorena Ferette precisou de uns bons dez minutos olhando para o nada antes de dar partida em seu simpático Fiat 500 branco. Sua primeira tarde no centro cultural foi intensa demais.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena Ferette precisou de uns bons dez minutos olhando para o nada antes de dar partida em seu simpático Fiat 500 branco. Sua primeira tarde no centro cultural foi "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "intensa"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " demais."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0100",
+      "type": "paragraph",
+      "text": "Durante a licenciatura em Letras, estagiou em algumas escolas públicas e, numa experiência detestável, em um colégio particular na Mooca. Depois, no primeiro ano de mestrado, também passou por um semestre no Programa de Estágio Docente. Mas aquela era a primeira vez em que se arriscava num curso livre, com uma turma tão diversificada e um planejamento criado totalmente por ela, com base em seus interesses."
+    },
+    {
+      "id": "cap-02-0101",
+      "type": "paragraph",
+      "text": "Sua natureza sempre foi introvertida. Gostava de ensinar e, por isso, desafiava o aspecto ensimesmado de sua personalidade. Acontece que o personagem seguro, sábio e sociável era difícil de interpretar. Um dia em sala drenava sua energia como se tivesse corrido a São Silvestre sem nenhum preparo físico."
+    },
+    {
+      "id": "cap-02-0102",
+      "type": "paragraph",
+      "text": "Apesar do cansaço e do esforço para soar comunicativa, avaliou que se saiu bem. Os alunos pareciam entusiasmados e muito engajados. Antes de dispensá-los, compartilhou com eles o primeiro exercício. Para sexta-feira, dali a dois dias, precisariam produzir um texto descrevendo algum espaço doméstico com um olhar desautomatizado. Estava ansiosa para ler e ouvir o que sairia dessa proposta. Seria, também, uma avaliação para si mesma como professora. Queria ter certeza que suas atividades eram efetivas e pertinentes."
+    },
+    {
+      "id": "cap-02-0103",
+      "type": "paragraph",
+      "text": "Lorena suspirou. Cresceu em um ambiente que cobrava a excelência e não oferecia muito espaço para falhas. Mesmo com anos de terapia, ainda replicava as exigências excessivas da família—sobretudo do pai, Santiago— em tudo o que se propunha a fazer. Com isso, nunca soube o que queria de fato, porque a única coisa que queria, no fim do dia, era ser boa.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena suspirou. Cresceu em um ambiente que cobrava a excelência e não oferecia muito espaço para falhas. Mesmo com anos de terapia, ainda replicava as exigências excessivas da família—sobretudo do pai, Santiago— em tudo o que se propunha a fazer. Com isso, nunca soube o que queria de fato, porque a única coisa que queria, no fim do dia, era ser "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "boa"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0104",
+      "type": "paragraph",
+      "text": "A reflexão a guiou até a outra razão pela qual precisava de um tempo em silêncio antes de seguir para seu apartamento, em Santa Cecília.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "A reflexão a guiou até "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "a outra"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " razão pela qual precisava de um tempo em silêncio antes de seguir para seu apartamento, em Santa Cecília."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0105",
+      "type": "paragraph",
+      "text": "Depois de tudo o que aconteceu nos últimos meses, tinha prometido a si mesma que passaria o ano de 2026 em celibato absoluto. Precisava se desintoxicar por completo, em todos os amplos sentidos, antes que outro interesse romântico cruzasse seu caminho.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Depois de tudo o que aconteceu nos últimos meses, tinha prometido a si mesma que passaria o ano de 2026 em celibato absoluto. Precisava se desintoxicar por completo, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "em todos os"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "amplos sentidos,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " antes que outro interesse romântico cruzasse seu caminho."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0106",
+      "type": "paragraph",
+      "text": "E ali estavam. Era março. O terceiro mês do tal ano celibatário. E ela já fantasiando se enrolar no corpo de uma garota como uma cobra. Ainda por cima com uma aluna. Que maravilha.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "E ali estavam. Era "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "março"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". O "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "terceiro"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " mês do tal ano celibatário. E ela já fantasiando se enrolar no corpo de uma garota como uma cobra. Ainda por cima com uma "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "aluna"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Que maravilha."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0107",
+      "type": "paragraph",
+      "text": "O primeiro bimestre de reclusão sexual foi fácil. Afinal, tinha muita caraminhola na cabeça para sequer pensar em relacionamentos. Quando perguntavam seu endereço, ainda teimava em dizer o CEP antigo, referente a casa enorme e ambiciosa que dividiu com a esposa— ex-esposa, logo mais— por três anos. Sua agente e a editora perturbavam semanalmente com cobranças sobre o livro novo, que, a propósito, tinha apenas dezoito páginas escritas, todas horríveis. A pós-graduação retornou das férias a todo vapor, e as leituras acadêmicas atrasadas de seu caótico 2025 a perseguiam como espíritos obsessores. Tudo estava uma bagunça. Não teria tempo para caçar uma menina pela cidade nem se de fato quisesse.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "O primeiro bimestre de reclusão sexual foi fácil. Afinal, tinha muita caraminhola na cabeça para sequer pensar em relacionamentos. Quando perguntavam seu endereço, ainda teimava em dizer o CEP antigo, referente a casa enorme e ambiciosa que dividiu com a esposa— "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ex"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "-esposa, logo mais— por três anos. Sua agente "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "e"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " a editora perturbavam semanalmente com cobranças sobre o livro novo, que, a propósito, tinha apenas dezoito páginas escritas, todas "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "horríveis"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". A pós-graduação retornou das férias a todo vapor, e as leituras acadêmicas atrasadas de seu caótico 2025 a perseguiam como espíritos obsessores. Tudo estava uma bagunça. Não teria tempo para caçar uma menina pela cidade nem se de fato quisesse."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0108",
+      "type": "paragraph",
+      "text": "Mas a montanha, como é de seu feitio, veio até Maomé."
+    },
+    {
+      "id": "cap-02-0109",
+      "type": "paragraph",
+      "text": "Mesmo que escrevesse mil romances sobre o assunto, Lorena jamais seria capaz de explicar o que foi que a atingiu quando Eduarda entrou no banheiro como um vendaval de verão. Não era sobre beleza, embora a desgraçada fosse um escândalo de tão linda. Foi algo que precedia seus corpos, seus espíritos, o universo e—ela desconfiava—até mesmo Deus.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Mesmo que escrevesse mil romances sobre o assunto, Lorena jamais seria capaz de explicar o que foi que a atingiu quando Eduarda entrou no banheiro como um vendaval de verão. Não era sobre beleza, embora a desgraçada fosse um "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "escândalo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " de tão linda. Foi algo que precedia seus corpos, seus espíritos, o universo e—ela desconfiava—até mesmo Deus."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0110",
+      "type": "paragraph",
+      "text": "Precisou flertar com ela no banheiro. Assim como precisou fazer o mesmo em plena sala de aula. Assim como precisava conhecê-la melhor. Assim como precisava saber mais. Assim como precisava saber tudo.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Precisou"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " flertar com ela no banheiro. Assim como precisou fazer o mesmo em plena sala de aula. Assim como precisava conhecê-la melhor. Assim como precisava saber mais. Assim como precisava saber tudo."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0111",
+      "type": "paragraph",
+      "text": "Queria inventar o mundo em seis dias e aproveitar com ela o sétimo. Queria comer o fruto do conhecimento do bem e do mal para, em seguida, dividir com ela. Queria discutir com uma divindade e ser expulsa do Paraíso de mãos dadas com ela. Queria povoar um planeta novo e dar início a tudo que existe com ela. Tudo com ela."
+    },
+    {
+      "id": "cap-02-0112",
+      "type": "paragraph",
+      "text": "Tudo com uma mulher que viu duas vezes. Tecnicamente, uma vez dividida em duas. Passiva patética. Na verdade, relativa patética. Power bottom patética, quem sabe? Ah, que seja.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Tudo com uma mulher que viu duas vezes. Tecnicamente, uma vez dividida em duas. Passiva patética. Na verdade, relativa patética. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Power bottom"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " patética, quem sabe? Ah, que seja."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0113",
+      "type": "paragraph",
+      "text": "Talvez o problema fosse justamente o celibato. O tesão acumulado subindo à cabeça, ascendendo aos céus e provocando algum tipo de surto psicossexual."
+    },
+    {
+      "id": "cap-02-0114",
+      "type": "paragraph",
+      "text": "Lorena sacudiu a cabeça de um lado para o outro, na tentativa de dissipar aquela maluquice. Nada disso importava. Não ia mais flertar com Eduarda, ou sair com Eduarda, ou beijar Eduarda, ou transar com Eduarda. Porque Eduarda era uma aluna, primeiramente. Mas também porque Eduarda era uma pessoa, e ela prometeu que não flertaria, sairia, beijaria ou transaria com qualquer pessoa até dar um jeito na própria vida.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena sacudiu a cabeça de um lado para o outro, na tentativa de dissipar aquela maluquice. Nada disso importava. Não ia mais flertar com Eduarda, ou sair com Eduarda, ou beijar Eduarda, ou transar com Eduarda. Porque Eduarda era uma aluna, primeiramente. Mas também porque Eduarda era uma pessoa, e ela prometeu que não flertaria, sairia, beijaria ou transaria com "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "qualquer"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " pessoa até dar um jeito na própria vida."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0115",
+      "type": "paragraph",
+      "text": "Pronto, estava aí o que queria: dar um jeito na própria vida. Melhor ainda: ser muito boa em dar um jeito na própria vida.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Pronto, estava aí o que queria: dar um jeito na própria vida. Melhor ainda: "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ser muito bo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "a em dar um jeito na própria vida."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0116",
+      "type": "paragraph",
+      "text": "Com isso em mente, finalmente deu partida no carro."
+    },
+    {
+      "id": "cap-02-0117",
+      "type": "divider",
+      "text": "#####",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "#####"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0118",
+      "type": "paragraph",
+      "text": "Por sorte, na quinta-feira, Lorena amanheceu com um problema bem maior do que sua atração desproporcional e desenfreada por uma certa jornalista ruiva."
+    },
+    {
+      "id": "cap-02-0119",
+      "type": "paragraph",
+      "text": "E pelo maior azar do mundo, na quinta-feira, Lorena amanheceu com um problema bem maior do que sua atração desproporcional e desenfreada por uma certa jornalista ruiva."
+    },
+    {
+      "id": "cap-02-0120",
+      "type": "paragraph",
+      "text": "Estacionou na rua do Tabelionato de Notas às oito e dezenove, exatos quarenta e um minutos antes do horário agendado. Nem sua advogada tinha chegado ainda."
+    },
+    {
+      "id": "cap-02-0121",
+      "type": "paragraph",
+      "text": "Não é que estivesse ansiosa—pelo contrário. Detestava a ideia de que seu casamento tivesse fracassado em tão pouco tempo, mas àquela altura, sentia-se totalmente apática diante da realidade. Só não queria que a assinatura de seu divórcio parecesse algo banal. Chegar cedo oferecia pelo menos alguma sensação de solenidade. Seria pior se apenas entrasse, cumprimentasse sua ex com um meneio de cabeça, rubricasse a papelada e partisse para tomar um brunch na Fabrique da Vila Leopoldina, como se aquilo tudo fosse trivial.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Não é que estivesse ansiosa—pelo contrário. Detestava a ideia de que seu casamento tivesse fracassado em tão pouco tempo, mas àquela altura, sentia-se totalmente apática diante da realidade. Só não queria que a assinatura de seu divórcio parecesse algo banal. Chegar cedo oferecia pelo menos alguma sensação de solenidade. Seria pior se apenas entrasse, cumprimentasse sua ex com um meneio de cabeça, rubricasse a papelada e partisse para tomar um "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "brunch"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " na Fabrique da Vila Leopoldina, como se aquilo tudo fosse trivial."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0122",
+      "type": "paragraph",
+      "text": "Maggye foi sua melhor amiga na época da escola, para não dizer sua única amiga. Faziam tudo juntas e se amavam profundamente mesmo antes de se apaixonarem. Quando os sentimentos de ambas começaram a mudar, no segundo ano do ensino médio, Lorena se afastou por um tempo. Ficou apavorada ao perceber o que estava acontecendo. Não queria, de forma alguma, que uma paixonite idiota arruinasse sua amizade com alguém que considerava sua verdadeira família.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Maggye foi sua melhor amiga na época da escola, para não dizer sua "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "única"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " amiga. Faziam tudo juntas e se amavam profundamente mesmo antes de se apaixonarem. Quando os sentimentos de ambas começaram a mudar, no segundo ano do ensino médio, Lorena se afastou por um tempo. Ficou apavorada ao perceber o que estava acontecendo. Não queria, de forma alguma, que uma paixonite idiota arruinasse sua amizade com alguém que considerava sua verdadeira família."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0123",
+      "type": "paragraph",
+      "text": "Agora, cerca de dez anos depois, sua profecia adolescente estava se cumprindo. Viveram uma história de amor arrebatadora. Maggye virou sua verdadeira família oficialmente. Dividiram um teto, sonhos e alianças de ouro. No meio disso tudo, também se destruíram. Dentro de alguns minutos, seus destinos se desatariam para sempre. Sua amizade estava arruinada porque seu casamento estava arruinado. E elas, por extensão, eram só ruínas também. Escombros da história da maior parte de suas vidas até ali.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Agora, cerca de dez anos depois, sua profecia adolescente estava se cumprindo. Viveram uma história de amor arrebatadora. Maggye virou sua verdadeira família "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "oficialmente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Dividiram um teto, sonhos e alianças de ouro. No meio disso tudo, também se destruíram. Dentro de alguns minutos, seus destinos se desatariam para sempre. Sua amizade estava arruinada porque seu casamento estava arruinado. E elas, por extensão, eram só ruínas também. Escombros da história da maior parte de suas vidas até ali."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0124",
+      "type": "paragraph",
+      "text": "Divorciada aos vinte e cinco anos. Bom, quase vinte e seis. Mais uma grande conquista na biografia da renomada escritora Lorena Ferette."
+    },
+    {
+      "id": "cap-02-0125",
+      "type": "paragraph",
+      "text": "Por um instante, pensou no que seu pai diria, se falasse com ela. No quanto julgaria seu fracasso como esposa. Não. Se recusou a ir por esse caminho. Santiago Ferette que fosse à merda. Para começo de conversa, ela e Maggye jamais teriam apressado as coisas e ido morar juntas aos dezoito anos se ele não fosse um cretino homofóbico.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Por um instante, pensou no que seu pai diria, se falasse com ela. No quanto julgaria seu fracasso como esposa. Não. Se recusou a ir por esse caminho. Santiago Ferette que fosse à merda. Para começo de conversa, ela e Maggye "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "jamais"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " teriam apressado as coisas e ido morar juntas aos dezoito anos se ele não fosse um cretino homofóbico."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0126",
+      "type": "paragraph",
+      "text": "Lorena acendeu um cigarro e assistiu o tempo passar em tragadas. Que se foda."
+    },
+    {
+      "id": "cap-02-0127",
+      "type": "paragraph",
+      "text": "Sua advogada, Viviane Fonseca, chegou às oito e quarenta. O advogado da outra parte, um cretino qualquer, às oito e cinquenta e dois.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Sua advogada, Viviane Fonseca, chegou às oito e quarenta. O advogado da "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "outra parte"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", um cretino qualquer, às oito e cinquenta e dois."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0128",
+      "type": "paragraph",
+      "text": "E Maggye, como se aquilo tudo fosse trivial, chegou às nove em ponto. Saltou de um Honda Civic preto depois de dar um beijo rápido nos lábios do motorista—que, infelizmente, Lorena conhecia muito bem."
+    },
+    {
+      "id": "cap-02-0129",
+      "type": "paragraph",
+      "text": "— Pelo amor de Deus, não vai dizer nada. — suplicou Viviane, que já era especialista em prever as reações de sua cliente — Já tá acabando. Você está a uma assinatura de nunca mais precisar olhar pra ela."
+    },
+    {
+      "id": "cap-02-0130",
+      "type": "paragraph",
+      "text": "— Ela não me respeita, Viviane. Não tem um pingo de consideração por mim! São treze anos de amizade, quase nove de relacionamento…"
+    },
+    {
+      "id": "cap-02-0131",
+      "type": "paragraph",
+      "text": "— Não importa mais. Deixa pra lá."
+    },
+    {
+      "id": "cap-02-0132",
+      "type": "paragraph",
+      "text": "Viviane tinha razão. Não importava mais."
+    },
+    {
+      "id": "cap-02-0133",
+      "type": "paragraph",
+      "text": "Mesmo assim, Lorena seguiu a linha do tempo em sua cabeça."
+    },
+    {
+      "id": "cap-02-0134",
+      "type": "paragraph",
+      "text": "Treze anos de amizade."
+    },
+    {
+      "id": "cap-02-0135",
+      "type": "paragraph",
+      "text": "Quase nove anos de relacionamento."
+    },
+    {
+      "id": "cap-02-0136",
+      "type": "paragraph",
+      "text": "Uns seis ou sete anos morando juntas? Por aí."
+    },
+    {
+      "id": "cap-02-0137",
+      "type": "paragraph",
+      "text": "Três anos de casamento."
+    },
+    {
+      "id": "cap-02-0138",
+      "type": "paragraph",
+      "text": "Um ano desde o dia em que decidiram terminar."
+    },
+    {
+      "id": "cap-02-0139",
+      "type": "paragraph",
+      "text": "Dez meses desde o dia em que decidiram tentar de novo."
+    },
+    {
+      "id": "cap-02-0140",
+      "type": "paragraph",
+      "text": "Sete meses desde o dia em que Maggye disse que não a amava mais e foi embora de vez."
+    },
+    {
+      "id": "cap-02-0141",
+      "type": "paragraph",
+      "text": "Quatro meses desde o dia em que Maggye informou que realmente queria se divorciar."
+    },
+    {
+      "id": "cap-02-0142",
+      "type": "paragraph",
+      "text": "Três meses desde o dia em que Lorena prometeu que não se envolveria com mais ninguém."
+    },
+    {
+      "id": "cap-02-0143",
+      "type": "paragraph",
+      "text": "Umas dezenove horas desde o momento em que concluiu que precisava aceitar o que aconteceu e finalmente tirou a aliança no banheiro do centro cultural.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Umas dezenove horas desde o momento em que concluiu que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "precisava"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " aceitar o que aconteceu e "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "finalmente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " tirou a aliança no banheiro do centro cultural."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0144",
+      "type": "paragraph",
+      "text": "Entraram no cartório. Maggye a cumprimentou com um meneio de cabeça. Como se tudo aquilo fosse trivial. Possivelmente sairia dali para tomar um brunch com o maldito Júnior na Fabrique da Vila Leopoldina. Se bem que ela sempre preferiu a unidade de Higienópolis. Mais provável ir para lá.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Entraram no cartório. Maggye a cumprimentou com um meneio de cabeça. Como se tudo aquilo fosse trivial. Possivelmente sairia dali para tomar um "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "brunch"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " com o maldito Júnior na Fabrique da Vila Leopoldina. Se bem que ela sempre preferiu a unidade de Higienópolis. Mais provável ir para lá."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0145",
+      "type": "paragraph",
+      "text": "O processo todo foi impessoal e asséptico como uma cirurgia. Os advogados leram a escritura. A casa seria vendida e o valor dividido meio a meio, assim como todo o mobiliário assinado por designers famosos. Maggye cedeu sua parte do Fiat 500 para Lorena. Uma não se chamaria mais Damatta Ferette. Outra não se chamaria mais Ferette Damatta. Concordaram sem se encarar e assinaram os documentos."
+    },
+    {
+      "id": "cap-02-0146",
+      "type": "paragraph",
+      "text": "Em questão de vinte minutos, não eram mais nada uma da outra."
+    },
+    {
+      "id": "cap-02-0147",
+      "type": "paragraph",
+      "text": "Como se tudo aquilo fosse trivial."
+    },
+    {
+      "id": "cap-02-0148",
+      "type": "paragraph",
+      "text": "Mas não era. Não podia ser. Lorena não queria que fosse."
+    },
+    {
+      "id": "cap-02-0149",
+      "type": "paragraph",
+      "text": "Por isso, quando chegaram à calçada, ela teve que abrir a boca.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Por isso, quando chegaram à calçada, ela "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "teve"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que abrir a boca."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0150",
+      "type": "paragraph",
+      "text": "— Parabéns, Maggye! Agora você pode finalmente se casar com seu amante."
+    },
+    {
+      "id": "cap-02-0151",
+      "type": "paragraph",
+      "text": "— Lorena…"
+    },
+    {
+      "id": "cap-02-0152",
+      "type": "paragraph",
+      "text": "— Aliás, por que vocês não aproveitam e casam agora? Ele tá logo ali, o cartório logo aqui…"
+    },
+    {
+      "id": "cap-02-0153",
+      "type": "paragraph",
+      "text": "— O Júnior não foi meu amante. Você sabe disso.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— O Júnior não foi meu amante. Você "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sabe"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " disso."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0154",
+      "type": "paragraph",
+      "text": "— Na verdade, eu não sei não. A amizade de vocês sempre foi estranha e eu te disse mil vezes que me incomodava."
+    },
+    {
+      "id": "cap-02-0155",
+      "type": "paragraph",
+      "text": "— Lorena, eu passei meses tendo essa discussão com você. Me separei e pedi o divórcio justamente porque não quero que a gente brigue nunca mais.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Lorena, eu passei "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "meses"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " tendo essa discussão com você. Me separei e pedi o divórcio justamente porque não quero que a gente brigue nunca mais."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0156",
+      "type": "paragraph",
+      "text": "— Pois eu quero ter esta última briga, Maggye. Quando foi que vocês decidiram assumir que estão juntos?"
+    },
+    {
+      "id": "cap-02-0157",
+      "type": "paragraph",
+      "text": "— Eu não te devo satisfação nenhuma."
+    },
+    {
+      "id": "cap-02-0158",
+      "type": "paragraph",
+      "text": "— Vocês já estavam nessa em maio do ano passado? Quando a gente tava tentando voltar?"
+    },
+    {
+      "id": "cap-02-0159",
+      "type": "paragraph",
+      "text": "— Claro que não! Lore, pelo amor de Deus. Eu nunca te traí."
+    },
+    {
+      "id": "cap-02-0160",
+      "type": "paragraph",
+      "text": "— Não me chama assim. Você não tem mais esse direito."
+    },
+    {
+      "id": "cap-02-0161",
+      "type": "paragraph",
+      "text": "— Você também não tem mais o direito de ser grossa comigo no meio da rua, mas talvez seja a força do hábito, né?"
+    },
+    {
+      "id": "cap-02-0162",
+      "type": "paragraph",
+      "text": "A resposta doeu em Lorena como uma bofetada. Talvez fosse isso mesmo que ela queria. Sentir dor. Sentir alguma coisa. Qualquer coisa."
+    },
+    {
+      "id": "cap-02-0163",
+      "type": "paragraph",
+      "text": "— Olha, não vou ser hipócrita. — prosseguiu Maggye, com um afeto que fez com que Lorena sentisse que seu coração era minúsculo — Eu sei que parece que eu estava com o Júnior o tempo todo. Eu sei que já olhava pra ele diferente quando ainda estava com você. E sei que isso não foi justo. Mas tem pouco tempo que estamos juntos de fato, te juro. Além do mais… você sabe que não foi isso que acabou com nosso casamento.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Olha, não vou ser hipócrita. — prosseguiu Maggye, com um afeto que fez com que Lorena sentisse que seu coração era minúsculo — Eu "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sei"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que parece que eu estava com o Júnior o tempo todo. Eu "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sei"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que já olhava pra ele diferente quando ainda estava com você. E "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sei"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que isso não foi justo. Mas tem pouco tempo que estamos juntos de fato, te juro. Além do mais… você sabe que não foi isso que acabou com nosso casamento."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0164",
+      "type": "paragraph",
+      "text": "Lorena sabia."
+    },
+    {
+      "id": "cap-02-0165",
+      "type": "paragraph",
+      "text": "Porque foi ela mesma que destruiu o relacionamento, muito antes do fim oficial."
+    },
+    {
+      "id": "cap-02-0166",
+      "type": "paragraph",
+      "text": "— Me desculpa, Maggye. — disse a escritora, já com a voz embargada. Não ia chorar. Não podia chorar — Eu me sinto tão culpada.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Me desculpa, Maggye. — disse a escritora, já com a voz embargada. Não ia chorar. Não "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "podia"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " chorar — Eu me sinto tão culpada."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0167",
+      "type": "paragraph",
+      "text": "— Eu imagino, Lorena. Mas não precisa de culpa. O importante é que agora você está livre de tudo que te lembrava do seu passado, inclusive eu. Livre pra se responsabilizar. Livre pra superar. Livre pra recomeçar. Livre pra ser quem você já é, mas não consegue ser, por conta de toda a tristeza que tem aí dentro."
+    },
+    {
+      "id": "cap-02-0168",
+      "type": "paragraph",
+      "text": "Não ia chorar. Não podia chorar."
+    },
+    {
+      "id": "cap-02-0169",
+      "type": "paragraph",
+      "text": "Não ia chorar. Não podia chorar."
+    },
+    {
+      "id": "cap-02-0170",
+      "type": "paragraph",
+      "text": "Se repetisse isso como um mantra até entrar em seu carro, o cérebro entenderia."
+    },
+    {
+      "id": "cap-02-0171",
+      "type": "paragraph",
+      "text": "“Liberdade é pouco”, diria Clarice Lispector."
+    },
+    {
+      "id": "cap-02-0172",
+      "type": "paragraph",
+      "text": "Liberdade é muito, diria Lorena Ferette."
+    },
+    {
+      "id": "cap-02-0173",
+      "type": "paragraph",
+      "text": "Maggye tinha razão. Talvez pela primeira vez em sua vida, estava livre para ser livre.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Maggye tinha razão. Talvez pela primeira vez em sua vida, estava livre para "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ser"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " livre."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0174",
+      "type": "paragraph",
+      "text": "O problema é que ser livre é muita coisa. Lorena só conhecia o pouco. O que faria com isso tudo?"
+    },
+    {
+      "id": "cap-02-0175",
+      "type": "divider",
+      "text": "#####",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "#####"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0176",
+      "type": "paragraph",
+      "text": "Na quinta-feira à noite, a ansiedade se alojou no tórax de Eduarda como uma bola."
+    },
+    {
+      "id": "cap-02-0177",
+      "type": "paragraph",
+      "text": "Conhecia a si mesma bem o suficiente para saber que seria difícil voltar a escrever depois de tantos anos. Só não sabia que seria impossível.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Conhecia a si mesma bem o suficiente para saber que seria difícil voltar a escrever depois de tantos anos. Só não sabia que seria "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "impossível"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0178",
+      "type": "paragraph",
+      "text": "Deitada em sua cama, pela milésima vez, leu o enunciado do exercício que Lorena enviou à turma por e-mail no dia anterior:"
+    },
+    {
+      "id": "cap-02-0179",
+      "type": "paragraph",
+      "text": "“EXERCÍCIO 1:",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "EXERCÍCIO 1:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0180",
+      "type": "heading",
+      "text": "Descreva um espaço doméstico com um olhar desautomatizado.",
+      "level": 3,
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Descreva um espaço doméstico com um olhar desautomatizado."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0181",
+      "type": "paragraph",
+      "text": "A proposta aqui é usarmos a linguagem—que é, provavelmente, o sistema mais automatizado que existe na contemporaneidade, sobretudo em tempos de Inteligência Artificial—para tentar registrar uma experiência anterior a ela.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "A proposta aqui é usarmos a linguagem—que é, provavelmente, o sistema mais automatizado"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "que existe na contemporaneidade, sobretudo em tempos de Inteligência Artificial—para"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tentar registrar uma experiência anterior a ela."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0182",
+      "type": "paragraph",
+      "text": "SUGESTÃO - COMO FAZER?",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "SUGESTÃO - COMO FAZER?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0183",
+      "type": "paragraph",
+      "text": "Vá até o ambiente escolhido. Sente, deite ou fique em pé. A seu critério.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vá até o ambiente escolhido. Sente, deite ou fique em pé. A seu critério."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0184",
+      "type": "paragraph",
+      "text": "Não escreva nada. Num primeiro momento, apenas olhe. E quando o nome de um objeto surgir na sua cabeça, observe que esse nome é um encerramento. “Pia” é uma pia. “Cadeira” é uma cadeira. Sem questionamento.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Não escreva nada. Num primeiro momento, apenas olhe. E quando o nome de um objeto"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "surgir na sua cabeça, observe que esse nome é um encerramento. “Pia” é uma pia."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Cadeira” é uma cadeira. Sem questionamento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0185",
+      "type": "paragraph",
+      "text": "O nome é um convite para encerrarmos a reflexão sobre algo e seguirmos em frente. Hoje, não vamos seguir. Vamos ficar.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "O nome é um convite para encerrarmos a reflexão sobre algo e seguirmos em frente. Hoje,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "não vamos seguir. Vamos ficar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0186",
+      "type": "paragraph",
+      "text": "Fique com o objeto até ele parecer novidade. Pergunte, com curiosidade genuína e quase infantil, o que é aquilo. Forçamos a desorientação perceptiva.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Fique com o objeto até ele parecer novidade. Pergunte, com curiosidade genuína e quase"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "infantil, o que é aquilo. Forçamos a desorientação perceptiva."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0187",
+      "type": "paragraph",
+      "text": "Quando o objeto perder o nome, perde a função. Só então, escreva.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Quando o objeto perder o nome, perde a função. Só então, escreva."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0188",
+      "type": "paragraph",
+      "text": "Escreva o que você viu, não o que você sabe.”",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Escreva o que você viu, não o que você sabe.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0189",
+      "type": "paragraph",
+      "text": "— Maluquice do caralho. Que ódio. Que enunciado é esse? — murmurou Eduarda, indignada."
+    },
+    {
+      "id": "cap-02-0190",
+      "type": "paragraph",
+      "text": "Para ser justa, sabia que sua revolta não era com o exercício. Ou, no mínimo, não somente com o exercício.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Para ser justa, sabia que sua revolta não era com o exercício. Ou, no mínimo, não "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "somente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " com o exercício."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0191",
+      "type": "paragraph",
+      "text": "Houve um tempo em que enxergava tudo exatamente da maneira que a atividade pedia. Questionava o que via com coragem e insistência. Articulava palavras e frases como se fossem flexíveis, sem nem precisar usar a força para aplicá-las em uma forma que ninguém pensou antes. Foi assim que angariou tantos elogios de adultos e amigos: “Você escreve bem”. “Devia ser escritora”. “Por que não faz jornalismo?”. “Publica um romance!”."
+    },
+    {
+      "id": "cap-02-0192",
+      "type": "paragraph",
+      "text": "Isso tudo foi em outra vida. Uma vida passada, longínqua, que pode até ter acontecido em outra dimensão ou planeta."
+    },
+    {
+      "id": "cap-02-0193",
+      "type": "paragraph",
+      "text": "As letras não a obedeciam mais. As mãos estavam enferrujadas. O cérebro só servia para processar vídeos verticais de receitas com proteína magra e queijo parmesão."
+    },
+    {
+      "id": "cap-02-0194",
+      "type": "paragraph",
+      "text": "Eduarda bufou. Releu o enunciado pela milésima primeira vez."
+    },
+    {
+      "id": "cap-02-0195",
+      "type": "paragraph",
+      "text": "E então, apenas para variar um pouco, demorou o olhar na remetente do e-mail. “Lorena Ferette <lorenaa.ferette@gmail.com>”.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "E então, apenas para variar um pouco, demorou o olhar na remetente do e-mail. “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ferette <"
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "href": "mailto:lorenaa.ferette@gmail.com",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "lorenaa.ferette@gmail.com"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": ">”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0196",
+      "type": "paragraph",
+      "text": "Uma dificuldade secundária no processo do exercício era a seguinte: para resolvê-lo, era preciso pensar na aula. E para pensar na aula, era preciso pensar na professora."
+    },
+    {
+      "id": "cap-02-0197",
+      "type": "paragraph",
+      "text": "E para pensar na professora, com o perdão da franqueza, era preciso trocar a calcinha."
+    },
+    {
+      "id": "cap-02-0198",
+      "type": "paragraph",
+      "text": "Modéstia à parte, Eduarda já tinha saído com mais mulheres estonteantes do que era possível contar. Mas nenhuma delas era, e nenhuma delas jamais seria, como Lorena."
+    },
+    {
+      "id": "cap-02-0199",
+      "type": "paragraph",
+      "text": "Era difícil explicar, mas parecia que tinha descoberto uma parte nova dentro de si quando a viu pela primeira vez. Um canto profundo e secreto, que agora estava escancarado e explicava todos os segredos do universo. De onde viemos e para onde vamos. O sentido da existência. O que acontece após a morte e antes da vida. Algo nela sabia tudo. Algo nela sempre soube tudo. Agora, era capaz de entender."
+    },
+    {
+      "id": "cap-02-0200",
+      "type": "paragraph",
+      "text": "— Sempre soube tudo, menos escrever, aparentemente. — grunhiu Eduarda."
+    },
+    {
+      "id": "cap-02-0201",
+      "type": "paragraph",
+      "text": "Para se distrair, ajeitou o notebook no colo e mudou a aba do navegador. Na barra de endereço, digitou o único nome que seus pensamentos pareciam saber de cor desde o dia anterior: “Lorena Ferette”."
+    },
+    {
+      "id": "cap-02-0202",
+      "type": "paragraph",
+      "text": "O Google retornou um mosaico de fotos. Lorena alguns anos mais jovem, com os cabelos selvagens e maquiagem escura destacando os olhos verdes, segurando seu primeiro livro, “Cartografia de uma Cidade Estrangeira”. Lorena usando um vestido vermelho justo e rabo de cavalo, com um sorriso capaz de fazer o sol nascer às nove da noite, exibindo seu Prêmio Jabuti. Lorena de blazer cinza, com um óculos de grau escorregando pelo nariz, séria e compenetrada, numa mesa redonda de um evento qualquer.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "O Google retornou um mosaico de fotos. Lorena alguns anos mais jovem, com os cabelos selvagens e maquiagem escura destacando os olhos verdes, segurando seu primeiro livro, “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Cartografia de uma Cidade Estrangeira"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "”. Lorena usando um vestido vermelho justo e rabo de cavalo, com um sorriso capaz de fazer o sol nascer às nove da noite, exibindo seu Prêmio Jabuti. Lorena de blazer cinza, com um óculos de grau escorregando pelo nariz, séria e compenetrada, numa mesa redonda de um evento qualquer."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0203",
+      "type": "paragraph",
+      "text": "Eduarda sentiu um frio imenso na barriga, como se caísse do topo de um arranha-céu. Passou mais tempo do que deveria encarando as imagens antes de continuar descendo a barra de rolagem."
+    },
+    {
+      "id": "cap-02-0204",
+      "type": "paragraph",
+      "text": "Na prévia da Wikipédia, nada de novo. Lorena Ferette é uma autora brasileira, blá-blá-blá. Vencedora do Prêmio Jabuti de Romance Literário. Prêmio Oceanos. Prêmio São Paulo de Literatura."
+    },
+    {
+      "id": "cap-02-0205",
+      "type": "paragraph",
+      "text": "— Por que eu tenho tanto tesão em mulher talentosa e competente, meu Deus?"
+    },
+    {
+      "id": "cap-02-0206",
+      "type": "paragraph",
+      "text": "Mais abaixo na página, chegou à seção “As pessoas também perguntam”:",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Mais abaixo na página, chegou à seção “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "As pessoas também perguntam"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "”:"
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0207",
+      "type": "paragraph",
+      "text": "“Quem é Lorena Ferette?”",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Quem é Lorena Ferette?”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0208",
+      "type": "paragraph",
+      "text": "“Como se escreve Lorena Ferrete?”",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Como se escreve Lorena Ferrete?”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0209",
+      "type": "paragraph",
+      "text": "“Lorena Ferette é parente de Santiago Ferette?”",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Lorena Ferette é parente de Santiago Ferette?”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0210",
+      "type": "paragraph",
+      "text": "“Lorena Ferette é lésbica?”",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Lorena Ferette é lésbica?”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0211",
+      "type": "paragraph",
+      "text": "“Qual o melhor livro de Lorena Ferette?”",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Qual o melhor livro de Lorena Ferette?”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0212",
+      "type": "paragraph",
+      "text": "Eduarda clicou logo na pergunta que mais a interessava:"
+    },
+    {
+      "id": "cap-02-0213",
+      "type": "paragraph",
+      "text": "“Lorena Ferette é lésbica?",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Lorena Ferette é lésbica?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0214",
+      "type": "paragraph",
+      "text": "Lorena Ferette é assumidamente lésbica e uma militante vocal pelos direitos da comunidade LGBTQIAPN+. A autora de ‘A Geometria dos Encontros Adjacentes’ está em um relacionamento de longa data com a influenciadora Maggye Damatta, filha dos galerist…”",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena Ferette é assumidamente lésbica e uma militante vocal pelos direitos da comunidade"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "LGBTQIAPN+. A autora de ‘A Geometria dos Encontros Adjacentes’ está em um"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "relacionamento de longa data com a influenciadora Maggye Damatta, filha dos galerist…”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0215",
+      "type": "paragraph",
+      "text": "Eduarda sentiu-se murchar, mas não entendeu o motivo. Aquilo não era uma surpresa. Havia a aliança. Havia a sinopse do tal livro premiado, que Paulinho gentilmente narrou para ela. Todas as evidências estavam à mostra o tempo todo, em destaque na vitrine."
+    },
+    {
+      "id": "cap-02-0216",
+      "type": "paragraph",
+      "text": "Mesmo assim, murchou. Típico. Às vezes, só se reconhece que havia esperança quando ela morre."
+    },
+    {
+      "id": "cap-02-0217",
+      "type": "paragraph",
+      "text": "A jornalista alcançou o celular na mesa de cabeceira e abriu o Instagram. Copiando a grafia da pesquisa em seu computador, digitou “Maggye Damatta”."
+    },
+    {
+      "id": "cap-02-0218",
+      "type": "paragraph",
+      "text": "Nada fora do esperado para uma blogueira. Milhões de seguidores e milhares de fotos. A má notícia é que a esposa de Lorena era absurdamente linda. Não à toa, frequentava eventos do mundo da moda e fazia publicidade para grandes marcas. Havia dezenas de fotos com amigas esguias de olhos claros, restaurantes com estrelas Michelin e viagens para o exterior.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Nada fora do esperado para uma "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "blogueira"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Milhões de seguidores e milhares de fotos. A má notícia é que a esposa de Lorena era absurdamente linda. Não à toa, frequentava eventos do mundo da moda e fazia publicidade para grandes marcas. Havia dezenas de fotos com amigas esguias de olhos claros, restaurantes com estrelas Michelin e viagens para o exterior."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0219",
+      "type": "paragraph",
+      "text": "No entanto, nenhum registro da mulher com quem compartilhava alianças."
+    },
+    {
+      "id": "cap-02-0220",
+      "type": "paragraph",
+      "text": "— Que absurdo. Se a Lorena fosse minha namorada, eu teria um Instagram só pra ela. Um acervo no Twitter. Ia colocar um outdoor na Rodovia dos Bandeirantes.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Que absurdo. Se a Lorena fosse minha namorada, eu teria um Instagram "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "só"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " pra ela. Um acervo no Twitter. Ia colocar um outdoor na Rodovia dos Bandeirantes."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0221",
+      "type": "paragraph",
+      "text": "Eduarda retornou para a barra de busca. Desta vez, digitou o nome de sua professora."
+    },
+    {
+      "id": "cap-02-0222",
+      "type": "paragraph",
+      "text": "Lorena Ferette tinha apenas um perfil profissional com pouco mais de vinte mil seguidores. Seria impossível saber qualquer coisa íntima por ali. Eram posts divulgando palestras que ela daria e eventos em que estaria. Carrosséis de indicações de obras de outras autoras brasileiras. Prints de notícias sobre os livros dela sendo traduzidos para outros idiomas e distribuídos em outros países."
+    },
+    {
+      "id": "cap-02-0223",
+      "type": "paragraph",
+      "text": "No entanto, nenhum registro da mulher com quem compartilhava alianças."
+    },
+    {
+      "id": "cap-02-0224",
+      "type": "paragraph",
+      "text": "A ruiva voltou para o computador. Desta vez, digitou “lorena ferette maggye damatta casamento”.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "A ruiva voltou para o computador. Desta vez, digitou “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "lorena ferette maggye damatta"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "casamento"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "”."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0225",
+      "type": "paragraph",
+      "text": "Poucas notícias foram publicadas sobre o casal nos últimos anos. Fazia algum sentido. Apesar da popularidade de seu trabalho, Lorena aparentava ser discreta. Por outro lado, Maggye vivia do compartilhamento da própria vida. Se houvesse uma cerimônia oficial, haveria alguma informação em algum lugar, certo?"
+    },
+    {
+      "id": "cap-02-0226",
+      "type": "paragraph",
+      "text": "Certo?"
+    },
+    {
+      "id": "cap-02-0227",
+      "type": "paragraph",
+      "text": "— Você está se iludindo, Eduarda. Esquece essa mulher. — alertou a si mesma."
+    },
+    {
+      "id": "cap-02-0228",
+      "type": "paragraph",
+      "text": "Estava prestes a fechar sua página e focar no maldito exercício quando a notícia de um modesto blog de fofocas chamou sua atenção. Sua curiosidade tomou as rédeas de seus dedos e clicou no link rapidamente:"
+    },
+    {
+      "id": "cap-02-0229",
+      "type": "heading",
+      "text": "“EXCLUSIVO: Influenciadora Maggye Damatta se envolve em acidente inusitado em\nbairro nobre de SP; saiba detalhes!",
+      "level": 3,
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "“"
+            }
+          ]
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "EXCLUSIVO: Influenciadora Maggye Damatta se envolve em acidente inusitado em"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "bairro nobre de SP; saiba detalhes!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0230",
+      "type": "heading",
+      "text": "Por Redação | 13 de dezembro de 2024",
+      "level": 3,
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Por Redação | 13 de dezembro de 2024"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0231",
+      "type": "paragraph",
+      "text": "O clima de tranquilidade do último domingo no Alto de Pinheiros, um dos endereços mais cobiçados da capital paulista, foi interrompido por uma personalidade da internet. A coluna apurou com exclusividade que a influenciadora Maggye Damatta protagonizou um episódio, no mínimo, curioso na porta de sua residência. Maggye estava ao volante de seu Fiat 500 elétrico quando, por razões que nem a física explica, acabou colidindo contra um caminhão de bebidas que estava totalmente parado na via.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "O clima de tranquilidade do último domingo no"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Alto de Pinheiros"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": ", um dos endereços mais"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "cobiçados da capital paulista, foi interrompido por uma personalidade da internet. A coluna"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "apurou com exclusividade que a influenciadora"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Maggye Damatta"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "protagonizou um episódio,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "no mínimo, curioso na porta de sua residência. Maggye estava ao volante de seu"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Fiat 500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "elétrico"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "quando, por razões que nem a física explica, acabou colidindo contra um caminhão"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "de bebidas que estava"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "totalmente parado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "na via."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0232",
+      "type": "paragraph",
+      "text": "No banco do passageiro estava a companheira da influencer, a escritora Lorena Ferette. O susto foi grande para quem passava pelo local. Fontes próximas afirmam que o momento foi de pura tensão entre o casal logo após a batida.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "No banco do passageiro estava a companheira da influencer, a escritora"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena Ferette"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": ". O"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "susto foi grande para quem passava pelo local. Fontes próximas afirmam que o momento foi"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "de pura tensão entre o casal logo após a batida."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0233",
+      "type": "paragraph",
+      "text": "Quanto ao estado de saúde das envolvidas, as notícias são de alívio, mas com ressalvas. Enquanto Maggye Damatta saiu completamente ilesa do veículo, Lorena Ferette não teve a mesma sorte e acabou sofrendo escoriações leves pelo corpo. A herdeira do clã Ferette passa bem e já está em repouso.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Quanto ao estado de saúde das envolvidas, as notícias são de alívio, mas com ressalvas."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Enquanto Maggye Damatta saiu completamente ilesa do veículo, Lorena Ferette não teve a"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mesma sorte e acabou sofrendo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "escoriações leves"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pelo corpo. A herdeira do clã Ferette passa"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "bem e já está em repouso."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0234",
+      "type": "paragraph",
+      "text": "Nossa equipe tentou contato direto com Maggye para entender como ela conseguiu atingir um veículo daquele porte estacionado em uma rua residencial tão calma, mas Damatta se recusou terminantemente a dar entrevistas, mantendo silêncio absoluto sobre a gafe no trânsito.",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Nossa equipe tentou contato direto com Maggye para entender como ela conseguiu atingir"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "um veículo daquele porte estacionado em uma rua residencial tão calma, mas Damatta"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "se"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "recusou terminantemente a dar entrevistas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": ", mantendo silêncio absoluto sobre a gafe no"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "trânsito."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0235",
+      "type": "paragraph",
+      "text": "Apesar do \"climão\", a coluna apurou que a influenciadora não quis deixar o problema render. Maggye agiu rápido e pagou todos os danos causados ao caminhão, que, segundo testemunhas, foram mínimos e bastante discretos. Já o Fiat 500, símbolo de estilo da influencer, deve passar um bom tempo na oficina para apagar as lembranças desse domingo atípico.”",
+      "alignment": "center",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Apesar do \"climão\", a coluna apurou que a influenciadora não quis deixar o problema"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "render. Maggye agiu rápido e"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "pagou todos os danos causados ao caminhão"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": ", que, segundo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "testemunhas, foram mínimos e bastante discretos. Já o Fiat 500, símbolo de estilo da"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "influencer, deve passar um bom tempo na oficina para apagar as lembranças desse domingo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "atípico.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0236",
+      "type": "paragraph",
+      "text": "Eduarda finalizou a leitura completamente revoltada. Como era possível que essa tal de Maggye não publicasse fotografias com aquele monumento de mulher e, como se não bastasse, a machucasse num acidente imbecil? Era um acinte. Um descaramento. Um desperdício. Um absurdo."
+    },
+    {
+      "id": "cap-02-0237",
+      "type": "paragraph",
+      "text": "E então, pela primeira vez em cinco anos, finalmente teve um lampejo—fraco e pálido, é bem verdade, mas ainda um lampejo—de algo que realmente queria escrever.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "E então, pela primeira vez em cinco anos, finalmente teve um lampejo—fraco e pálido, é bem verdade, mas ainda um lampejo—de algo que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "realmente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " queria escrever."
+        }
+      ]
+    }
+  ],
+  "notes": {
+    "before": [],
+    "after": []
+  }
+}

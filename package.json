@@ -1,0 +1,37 @@
+{
+  "name": "biblioteca-de-alexandria-loquinha",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc -b --pretty",
+    "check:catalog": "node --experimental-strip-types scripts/validate-catalog.mjs",
+    "test": "node --experimental-strip-types --test scripts/*.test.mjs"
+  },
+  "dependencies": {
+    "@react-pdf/renderer": "^4.9.0",
+    "buffer": "^6.0.3",
+    "jszip": "^3.10.2",
+    "lucide-react": "^1.61.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router": "^7.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "@xmldom/xmldom": "^0.9.12",
+    "pdfjs-dist": "^4.10.38",
+    "sass": "^1.93.0",
+    "typescript": "^5.9.0",
+    "vite": "^8.3.5"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}

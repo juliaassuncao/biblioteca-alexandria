@@ -1,0 +1,23 @@
+{
+  "chapterId": "cap-23",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-23-0008",
+      "end": "cap-23-0008",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-23-0013",
+      "end": "cap-23-0013",
+      "senderIds": []
+    },
+    {
+      "type": "notice",
+      "start": "cap-23-0030",
+      "end": "cap-23-0030",
+      "kind": "notification"
+    }
+  ]
+}

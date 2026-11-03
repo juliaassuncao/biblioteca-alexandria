@@ -1,0 +1,105 @@
+.settings {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  // align-items: start;
+  gap: 1.25rem 1.5rem;
+  font-size: 0.8rem;
+  fieldset {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    min-width: 0;
+  }
+  legend {
+    padding: 0;
+    margin-bottom: 0.5rem;
+    font:
+      600 0.65rem/1.5 "DM Sans",
+      system-ui,
+      sans-serif;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--reader-muted);
+  }
+  button {
+    color: var(--reader-accent);
+    background: transparent;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    min-width: 44px;
+    min-height: 44px;
+    padding: 0.5rem;
+    cursor: pointer;
+    font-size: 0.75rem;
+  }
+  button[aria-pressed="true"] {
+    background: var(--reader-background);
+    border-color: var(--reader-accent);
+  }
+  button:hover:not(:disabled) {
+    background: var(--reader-background);
+  }
+  button:disabled {
+    opacity: 0.35;
+    cursor: default;
+  }
+}
+.options,
+.stepper {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+}
+.options button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.3rem;
+}
+.stepper output {
+  min-width: 3.5rem;
+  text-align: center;
+  color: var(--reader-text);
+  font-variant-numeric: tabular-nums;
+  small {
+    display: block;
+    font-size: 0.6rem;
+    color: var(--reader-muted);
+  }
+}
+.stepper output[aria-label="Tamanho atual da fonte"] small {
+  display: inline;
+}
+.settings .reset {
+  min-height: 32px;
+  padding: 0.25rem;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  font-size: 0.65rem;
+}
+.settings .serif {
+  font:
+    400 1.2rem Georgia,
+    serif;
+}
+@media (max-width: 600px) {
+  .settings {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem 0.75rem;
+  }
+  .settings fieldset:first-child,
+  .settings fieldset:last-child {
+    grid-column: 1 / -1;
+  }
+  .options {
+    flex-wrap: wrap;
+  }
+  .stepper {
+    gap: 0;
+  }
+  .stepper output {
+    min-width: 2.5rem;
+  }
+}

@@ -1,0 +1,14 @@
+@use '../../styles/tokens' as t;
+.card { min-width:0; }
+.link { color:inherit; text-decoration:none; display:flex; flex-direction:column; height:100%; }
+.art { position:relative; padding:12px 10px 38px; background:#eae4da; border-radius:10px; margin-bottom:13px; transition:transform .22s ease; }
+.link:hover .art {transform:translateY(-4px);}
+.openIcon { position:absolute; right:10px; bottom:5px; width:29px;height:29px; display:grid; place-items:center; border-radius:50%; background:#f9f3e7; color:t.$wine; box-shadow:0 3px 8px #0002; }
+.row { display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:5px; }
+.category { font-size:9px; letter-spacing:1.4px; font-weight:800; color:t.$rust; }
+.status { font-size:10px; color:t.$muted; }
+.title { font:600 26px/1.15 'Cormorant Garamond', Georgia, serif; margin:9px 0 4px; }
+.author { color:t.$muted; font-size:12px; margin:0 0 14px; }
+.bottom { margin-top:auto; display:flex; align-items:center; border-top:1px solid t.$line; padding-top:11px; font-size:12px; gap:7px; color:t.$muted; }
+.arrow { margin-left:auto; color:t.$rust; }
+@media(max-width:650px){ .title{font-size:22px;} .art{padding:8px 8px 38px;} }

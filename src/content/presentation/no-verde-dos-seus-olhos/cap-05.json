@@ -1,0 +1,107 @@
+{
+  "chapterId": "cap-05",
+  "groups": [
+    {
+      "type": "notice",
+      "kind": "notification",
+      "start": "cap-05-0023",
+      "end": "cap-05-0023"
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0025",
+      "end": "cap-05-0025",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0027",
+      "end": "cap-05-0027",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0028",
+      "end": "cap-05-0028",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0030",
+      "end": "cap-05-0030",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0031",
+      "end": "cap-05-0031",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0032",
+      "end": "cap-05-0032",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0034",
+      "end": "cap-05-0034",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0035",
+      "end": "cap-05-0035",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0036",
+      "end": "cap-05-0036",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0214",
+      "end": "cap-05-0214",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0216",
+      "end": "cap-05-0216",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0217",
+      "end": "cap-05-0217",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0218",
+      "end": "cap-05-0218",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0219",
+      "end": "cap-05-0219",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0221",
+      "end": "cap-05-0221",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-05-0222",
+      "end": "cap-05-0222",
+      "senderIds": []
+    }
+  ]
+}

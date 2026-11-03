@@ -1,0 +1,12 @@
+.warning {
+  margin-block: 1.5rem;
+  padding: 1rem 1.25rem;
+  background: var(--reader-surface);
+  border: 1px solid var(--reader-border);
+  border-left: 3px solid var(--reader-accent);
+  font-size: .875rem;
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+  h2 { font: 600 .875rem/1.5 'DM Sans', system-ui, sans-serif; margin: 0 0 .5rem; }
+  ul { padding-left: 1.25rem; margin: 0; }
+}

@@ -1,0 +1,1873 @@
+{
+  "source": {
+    "file": "Morte à Linguagem.pdf",
+    "sha256": "325ad639cd2b686ce6570cfa4b1359e991d8613b7a14616ff97881875dfa834e",
+    "pages": 284
+  },
+  "chapterCount": 14,
+  "chapters": [
+    {
+      "id": "cap-01",
+      "number": 1,
+      "title": "Prefácio",
+      "startPage": 3,
+      "endPage": 10,
+      "bodyBlocks": 103,
+      "notesBefore": 0,
+      "notesAfter": 0,
+      "images": 0,
+      "sceneDividers": 0,
+      "links": [],
+      "nonWhitespaceCharacters": 13503,
+      "sourceGlyphSha256": "3ed5138d316ac177697c3ccecb9e6ff6cfcbedf3328d48bbe43578fcf4f5b6b9",
+      "importedGlyphSha256": "3ed5138d316ac177697c3ccecb9e6ff6cfcbedf3328d48bbe43578fcf4f5b6b9",
+      "independentGlyphSha256": "3ed5138d316ac177697c3ccecb9e6ff6cfcbedf3328d48bbe43578fcf4f5b6b9",
+      "structuredTextSha256": "9cebce2ffc79bc9bd8398490936166d5449f17b5397e3050a25dd488c4557875",
+      "fileSha256": "b27298b3df850bae43c62c7db83bf3e552d7346332814104f898aa137b8d964b",
+      "italicCharacters": 448,
+      "boldCharacters": 225,
+      "editorialMarkersExcluded": [
+        {
+          "page": 3,
+          "kind": "chapter-title"
+        }
+      ]
+    },
+    {
+      "id": "cap-02",
+      "number": 2,
+      "title": "Semana 1, Aula 1 - A Fenomenologia da Percepção",
+      "startPage": 11,
+      "endPage": 28,
+      "bodyBlocks": 237,
+      "notesBefore": 0,
+      "notesAfter": 0,
+      "images": 0,
+      "sceneDividers": 5,
+      "links": [
+        "mailto:lorenaa.ferette@gmail.com"
+      ],
+      "nonWhitespaceCharacters": 35993,
+      "sourceGlyphSha256": "666e2fd3e5b9002eafdacbf2443a352e1e966dc0a5df7e780fc12cf4983e0919",
+      "importedGlyphSha256": "666e2fd3e5b9002eafdacbf2443a352e1e966dc0a5df7e780fc12cf4983e0919",
+      "independentGlyphSha256": "666e2fd3e5b9002eafdacbf2443a352e1e966dc0a5df7e780fc12cf4983e0919",
+      "structuredTextSha256": "32a490a2517d68ba83a18696f735a18a0c0436b5d48b8f85039b2df766ab6625",
+      "fileSha256": "1940834fca6f006f51bef91823876e2bed5f9573ebeb983bec4d97dbde4903f1",
+      "italicCharacters": 3474,
+      "boldCharacters": 426,
+      "editorialMarkersExcluded": [
+        {
+          "page": 11,
+          "kind": "chapter-title"
+        }
+      ]
+    },
+    {
+      "id": "cap-03",
+      "number": 3,
+      "title": "Semana 1, Aula 2 - A Fenomenologia da Percepção",
+      "startPage": 29,
+      "endPage": 49,
+      "bodyBlocks": 335,
+      "notesBefore": 1,
+      "notesAfter": 2,
+      "images": 0,
+      "sceneDividers": 5,
+      "links": [],
+      "nonWhitespaceCharacters": 35302,
+      "sourceGlyphSha256": "2b92d378258fd67fa2ffb5061ec211a69feaf7c2005a6af155e148782ae6d77c",
+      "importedGlyphSha256": "2b92d378258fd67fa2ffb5061ec211a69feaf7c2005a6af155e148782ae6d77c",
+      "independentGlyphSha256": "2b92d378258fd67fa2ffb5061ec211a69feaf7c2005a6af155e148782ae6d77c",
+      "structuredTextSha256": "d6842e54727a8aab14cf2b4973b7c2de7354282335a1e5c1cb9add334e1d8a24",
+      "fileSha256": "af8d780f5eede7f873a8231b221962966dc11fdd92eb2bc3fd26bdc66816251a",
+      "italicCharacters": 2761,
+      "boldCharacters": 205,
+      "editorialMarkersExcluded": [
+        {
+          "page": 29,
+          "kind": "chapter-title"
+        },
+        {
+          "page": 29,
+          "kind": "Chapter Notes"
+        },
+        {
+          "page": 29,
+          "kind": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 49,
+          "kind": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-04",
+      "number": 4,
+      "title": "Semana 2, Aula 1 - A Topologia do Desejo",
+      "startPage": 50,
+      "endPage": 70,
+      "bodyBlocks": 283,
+      "notesBefore": 0,
+      "notesAfter": 1,
+      "images": 0,
+      "sceneDividers": 7,
+      "links": [],
+      "nonWhitespaceCharacters": 38119,
+      "sourceGlyphSha256": "149608c4b15fec74fb38606d174efc1296128ab0600d6fd25452dc393e1efb12",
+      "importedGlyphSha256": "149608c4b15fec74fb38606d174efc1296128ab0600d6fd25452dc393e1efb12",
+      "independentGlyphSha256": "149608c4b15fec74fb38606d174efc1296128ab0600d6fd25452dc393e1efb12",
+      "structuredTextSha256": "7e1be8b0cba63fad07c1c059ddccb4dc98196babbf49780be9c0efb0eed293ea",
+      "fileSha256": "84e856e33aafe33014b1111e3ad9b64a85b8dbe53813363aad15bec955115b01",
+      "italicCharacters": 2005,
+      "boldCharacters": 85,
+      "editorialMarkersExcluded": [
+        {
+          "page": 50,
+          "kind": "chapter-title"
+        },
+        {
+          "page": 50,
+          "kind": "Chapter Notes"
+        },
+        {
+          "page": 50,
+          "kind": "See the end of the chapter for notes"
+        },
+        {
+          "page": 69,
+          "kind": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-05",
+      "number": 5,
+      "title": "Semana 2, Aula 2 - A Topologia do Desejo",
+      "startPage": 71,
+      "endPage": 99,
+      "bodyBlocks": 467,
+      "notesBefore": 3,
+      "notesAfter": 5,
+      "images": 2,
+      "sceneDividers": 7,
+      "links": [],
+      "nonWhitespaceCharacters": 42789,
+      "sourceGlyphSha256": "3fb5b93aa41adf1070af6e3bfef72fabe164bff96475419f5f8944c10fed2ccd",
+      "importedGlyphSha256": "3fb5b93aa41adf1070af6e3bfef72fabe164bff96475419f5f8944c10fed2ccd",
+      "independentGlyphSha256": "3fb5b93aa41adf1070af6e3bfef72fabe164bff96475419f5f8944c10fed2ccd",
+      "structuredTextSha256": "7f9a7de69fdb913aeb2bae8b1e7589eef8f8c6a842a2ee31b7ac61abb097110c",
+      "fileSha256": "5ac3b42caba2639d57d7bae0c56f71ce53ce5004420c6b991876dbfb9fbbac59",
+      "italicCharacters": 6990,
+      "boldCharacters": 769,
+      "editorialMarkersExcluded": [
+        {
+          "page": 71,
+          "kind": "chapter-title"
+        },
+        {
+          "page": 71,
+          "kind": "Chapter Notes"
+        },
+        {
+          "page": 71,
+          "kind": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 99,
+          "kind": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-06",
+      "number": 6,
+      "title": "Semana 2 - Lançamento",
+      "startPage": 100,
+      "endPage": 119,
+      "bodyBlocks": 260,
+      "notesBefore": 3,
+      "notesAfter": 3,
+      "images": 0,
+      "sceneDividers": 4,
+      "links": [],
+      "nonWhitespaceCharacters": 37355,
+      "sourceGlyphSha256": "94568b3ba5f15c1663ef2b15bae754c4cb2c605efb6ba7d0dae27594af88d783",
+      "importedGlyphSha256": "94568b3ba5f15c1663ef2b15bae754c4cb2c605efb6ba7d0dae27594af88d783",
+      "independentGlyphSha256": "94568b3ba5f15c1663ef2b15bae754c4cb2c605efb6ba7d0dae27594af88d783",
+      "structuredTextSha256": "1c3d44b31c887d39396aa4c262c6dc0fe94a2a02c83c90d04f93ab449947d53f",
+      "fileSha256": "404a5f235e5f4f76f39169b7e6e566cbc25e97b9649ef375ef4448726beb38ba",
+      "italicCharacters": 4288,
+      "boldCharacters": 202,
+      "editorialMarkersExcluded": [
+        {
+          "page": 100,
+          "kind": "chapter-title"
+        },
+        {
+          "page": 100,
+          "kind": "Chapter Notes"
+        },
+        {
+          "page": 100,
+          "kind": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 118,
+          "kind": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-07",
+      "number": 7,
+      "title": "Semana 3 - Unheimlich",
+      "startPage": 120,
+      "endPage": 137,
+      "bodyBlocks": 303,
+      "notesBefore": 1,
+      "notesAfter": 1,
+      "images": 0,
+      "sceneDividers": 5,
+      "links": [],
+      "nonWhitespaceCharacters": 21630,
+      "sourceGlyphSha256": "13bfadc8d1df65accc2dbfa81d83853ada8cd53524f17189ec263e89d4b244dd",
+      "importedGlyphSha256": "13bfadc8d1df65accc2dbfa81d83853ada8cd53524f17189ec263e89d4b244dd",
+      "independentGlyphSha256": "13bfadc8d1df65accc2dbfa81d83853ada8cd53524f17189ec263e89d4b244dd",
+      "structuredTextSha256": "19f997bb5fc7e5652142559d59a8d296b88cdf41b27641f3c60f52fc96a8f5e4",
+      "fileSha256": "e2881fb447c1ebab8aa3546bc3dbd90ce98af2146db4f231537c93e0f4267e49",
+      "italicCharacters": 3050,
+      "boldCharacters": 267,
+      "editorialMarkersExcluded": [
+        {
+          "page": 120,
+          "kind": "chapter-title"
+        },
+        {
+          "page": 120,
+          "kind": "Chapter Notes"
+        },
+        {
+          "page": 120,
+          "kind": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 137,
+          "kind": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-08",
+      "number": 8,
+      "title": "Semana 3, Aula 1 - A Física da Prosa",
+      "startPage": 138,
+      "endPage": 151,
+      "bodyBlocks": 205,
+      "notesBefore": 1,
+      "notesAfter": 0,
+      "images": 0,
+      "sceneDividers": 4,
+      "links": [],
+      "nonWhitespaceCharacters": 25475,
+      "sourceGlyphSha256": "7c3b942f56bc99565b3151e91bd7651f8f0486e7fabeffc24f32fc5fa32139d6",
+      "importedGlyphSha256": "7c3b942f56bc99565b3151e91bd7651f8f0486e7fabeffc24f32fc5fa32139d6",
+      "independentGlyphSha256": "7c3b942f56bc99565b3151e91bd7651f8f0486e7fabeffc24f32fc5fa32139d6",
+      "structuredTextSha256": "e4f76698c7f06986b97b1f00c03d5eee030d23f546d4c93dd757bc3addf66fae",
+      "fileSha256": "cd5435f205eecb5d3aa3cfc2aa4ac27e852ff34a1f4042bf9a1773b3c0c12619",
+      "italicCharacters": 2495,
+      "boldCharacters": 64,
+      "editorialMarkersExcluded": [
+        {
+          "page": 138,
+          "kind": "chapter-title"
+        },
+        {
+          "page": 138,
+          "kind": "Chapter Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-09",
+      "number": 9,
+      "title": "Semana 3, Aula ½ - A Física da Prosa",
+      "startPage": 152,
+      "endPage": 162,
+      "bodyBlocks": 162,
+      "notesBefore": 0,
+      "notesAfter": 0,
+      "images": 1,
+      "sceneDividers": 1,
+      "links": [],
+      "nonWhitespaceCharacters": 19964,
+      "sourceGlyphSha256": "fd2df5b872e4886806db05cb52760d414839af3d18bca90e5d24d08335032db0",
+      "importedGlyphSha256": "fd2df5b872e4886806db05cb52760d414839af3d18bca90e5d24d08335032db0",
+      "independentGlyphSha256": "fd2df5b872e4886806db05cb52760d414839af3d18bca90e5d24d08335032db0",
+      "structuredTextSha256": "5ff866a70e882e376a85741b6a35385b8fda94f9ad619ba9f0785838f70b5625",
+      "fileSha256": "d458b137d56fd5f657ce567a584ec2d1d5b95858b7b24aa02580f5caa6b1cdcc",
+      "italicCharacters": 895,
+      "boldCharacters": 185,
+      "editorialMarkersExcluded": [
+        {
+          "page": 152,
+          "kind": "chapter-title"
+        }
+      ]
+    },
+    {
+      "id": "cap-10",
+      "number": 10,
+      "title": "Semana 3 - Ser/Estar",
+      "startPage": 163,
+      "endPage": 178,
+      "bodyBlocks": 228,
+      "notesBefore": 0,
+      "notesAfter": 1,
+      "images": 0,
+      "sceneDividers": 2,
+      "links": [],
+      "nonWhitespaceCharacters": 28533,
+      "sourceGlyphSha256": "145d7edff51b95abad984a27f4621e1f45ef870d593b68ad15e304f732634b13",
+      "importedGlyphSha256": "145d7edff51b95abad984a27f4621e1f45ef870d593b68ad15e304f732634b13",
+      "independentGlyphSha256": "145d7edff51b95abad984a27f4621e1f45ef870d593b68ad15e304f732634b13",
+      "structuredTextSha256": "0dcfc51c1c5a238875cb39381b186c4cb40df2eb9bfe9a3c025803d06d7515c3",
+      "fileSha256": "965cc1616f8c089fd8515bfc70ac4bd3e8b1984a9ac84fb11312221fdf4466b5",
+      "italicCharacters": 2265,
+      "boldCharacters": 10,
+      "editorialMarkersExcluded": [
+        {
+          "page": 163,
+          "kind": "chapter-title"
+        },
+        {
+          "page": 163,
+          "kind": "Chapter Notes"
+        },
+        {
+          "page": 163,
+          "kind": "See the end of the chapter for notes"
+        },
+        {
+          "page": 178,
+          "kind": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-11",
+      "number": 11,
+      "title": "Semana 3 - O Banquete",
+      "startPage": 179,
+      "endPage": 201,
+      "bodyBlocks": 358,
+      "notesBefore": 2,
+      "notesAfter": 5,
+      "images": 0,
+      "sceneDividers": 5,
+      "links": [],
+      "nonWhitespaceCharacters": 40178,
+      "sourceGlyphSha256": "e8a4ae813f67677ded0a9635f38d0611d36483025d66b7c9621bdf0ce94ed85c",
+      "importedGlyphSha256": "e8a4ae813f67677ded0a9635f38d0611d36483025d66b7c9621bdf0ce94ed85c",
+      "independentGlyphSha256": "e8a4ae813f67677ded0a9635f38d0611d36483025d66b7c9621bdf0ce94ed85c",
+      "structuredTextSha256": "81e77e49db9dd8602f300a4474f944d1ddbf933c1dfeabe32fb5ab435d4ff733",
+      "fileSha256": "68010ea11d240c5fe02359823b492b6029cccd9b4295d3e079bc1eccf297396b",
+      "italicCharacters": 579,
+      "boldCharacters": 25,
+      "editorialMarkersExcluded": [
+        {
+          "page": 179,
+          "kind": "chapter-title"
+        },
+        {
+          "page": 179,
+          "kind": "Chapter Notes"
+        },
+        {
+          "page": 179,
+          "kind": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 201,
+          "kind": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-12",
+      "number": 12,
+      "title": "Semana 3 - Marinho",
+      "startPage": 202,
+      "endPage": 214,
+      "bodyBlocks": 179,
+      "notesBefore": 12,
+      "notesAfter": 1,
+      "images": 0,
+      "sceneDividers": 2,
+      "links": [],
+      "nonWhitespaceCharacters": 22054,
+      "sourceGlyphSha256": "bfa68005ee9e22176da4dc989ff5363f99ed21cfb7dda3e60061e7d215cb588d",
+      "importedGlyphSha256": "bfa68005ee9e22176da4dc989ff5363f99ed21cfb7dda3e60061e7d215cb588d",
+      "independentGlyphSha256": "bfa68005ee9e22176da4dc989ff5363f99ed21cfb7dda3e60061e7d215cb588d",
+      "structuredTextSha256": "2678604ef09be798225f08befd3e83eb41a760d5d1d155bd384242fb6351a755",
+      "fileSha256": "adf1cc8841616ec2e262c7245082b06bd8b03783aee5679cce70042897008958",
+      "italicCharacters": 210,
+      "boldCharacters": 10,
+      "editorialMarkersExcluded": [
+        {
+          "page": 202,
+          "kind": "chapter-title"
+        },
+        {
+          "page": 202,
+          "kind": "Chapter Notes"
+        },
+        {
+          "page": 203,
+          "kind": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 214,
+          "kind": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-13",
+      "number": 13,
+      "title": "Semana 3 - Úmido/Árido",
+      "startPage": 215,
+      "endPage": 232,
+      "bodyBlocks": 208,
+      "notesBefore": 6,
+      "notesAfter": 3,
+      "images": 0,
+      "sceneDividers": 6,
+      "links": [
+        "https://drive.google.com/file/d/12ds3K1wtghEqxrXUpjqTQ2NYQHeF8-7w/view?usp=sharing",
+        "https://drive.google.com/file/d/1rvxujYX2akDqSu-6gP6iI4FcvhyWlFZQ/view?usp=sharing"
+      ],
+      "nonWhitespaceCharacters": 36761,
+      "sourceGlyphSha256": "144892a2ddbd49e6cf00f7f93fa33d6e23ded81328324ff2d882054853d278a2",
+      "importedGlyphSha256": "144892a2ddbd49e6cf00f7f93fa33d6e23ded81328324ff2d882054853d278a2",
+      "independentGlyphSha256": "144892a2ddbd49e6cf00f7f93fa33d6e23ded81328324ff2d882054853d278a2",
+      "structuredTextSha256": "391422e11d758c118c494425f47be0a827664c503f7b1cea474701e8f68af217",
+      "fileSha256": "87249ae2bd1250e7ede043cc7d6ce8b7d92ed20f4e03a2d7aacb2a804e69f36d",
+      "italicCharacters": 2294,
+      "boldCharacters": 40,
+      "editorialMarkersExcluded": [
+        {
+          "page": 215,
+          "kind": "chapter-title"
+        },
+        {
+          "page": 215,
+          "kind": "Chapter Notes"
+        },
+        {
+          "page": 215,
+          "kind": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 232,
+          "kind": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-14",
+      "number": 14,
+      "title": "Semana 3 - Doce-amargo",
+      "startPage": 233,
+      "endPage": 283,
+      "bodyBlocks": 764,
+      "notesBefore": 6,
+      "notesAfter": 1,
+      "images": 0,
+      "sceneDividers": 6,
+      "links": [],
+      "nonWhitespaceCharacters": 86889,
+      "sourceGlyphSha256": "e50d23e9b602cb34d8fdb698c42c9e87db120cc664a02c713cff5a43a760b8f5",
+      "importedGlyphSha256": "e50d23e9b602cb34d8fdb698c42c9e87db120cc664a02c713cff5a43a760b8f5",
+      "independentGlyphSha256": "e50d23e9b602cb34d8fdb698c42c9e87db120cc664a02c713cff5a43a760b8f5",
+      "structuredTextSha256": "838c2a2ef3ffde8bc97def786adeee57fd78ac412facb3338295245d0f37baa2",
+      "fileSha256": "0a9b789b5e2b5c8372ebc58fc781d997a7a335a640b4b4b7afde411d989227ee",
+      "italicCharacters": 4426,
+      "boldCharacters": 325,
+      "editorialMarkersExcluded": [
+        {
+          "page": 233,
+          "kind": "chapter-title"
+        },
+        {
+          "page": 233,
+          "kind": "Chapter Notes"
+        },
+        {
+          "page": 233,
+          "kind": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 283,
+          "kind": "Chapter End Notes"
+        }
+      ]
+    }
+  ],
+  "noteFlagCorrections": [
+    {
+      "chapter": 4,
+      "field": "hasBefore",
+      "previous": true,
+      "actual": false
+    },
+    {
+      "chapter": 10,
+      "field": "hasBefore",
+      "previous": true,
+      "actual": false
+    }
+  ],
+  "pageBoundaries": [
+    {
+      "nextPage": 4,
+      "joined": true,
+      "reviewedOverride": true
+    },
+    {
+      "nextPage": 5,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 6,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 7,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 8,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 9,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 10,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 12,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 13,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 14,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 15,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 16,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 17,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 18,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 19,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 20,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 21,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 22,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 23,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 24,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 25,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 26,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 27,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 28,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 30,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 31,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 32,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 33,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 34,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 35,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 36,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 37,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 38,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 39,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 40,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 41,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 42,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 43,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 44,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 45,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 46,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 47,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 48,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 49,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 51,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 52,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 53,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 54,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 55,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 56,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 57,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 58,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 59,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 60,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 61,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 62,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 63,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 64,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 65,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 66,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 67,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 68,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 69,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 72,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 73,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 74,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 75,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 76,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 77,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 78,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 79,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 80,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 81,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 82,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 83,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 84,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 85,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 86,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 87,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 88,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 89,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 90,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 91,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 92,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 93,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 94,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 95,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 96,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 98,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 99,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 101,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 102,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 103,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 104,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 105,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 106,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 107,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 108,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 109,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 110,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 111,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 112,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 113,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 114,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 115,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 116,
+      "joined": true,
+      "reviewedOverride": true
+    },
+    {
+      "nextPage": 117,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 118,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 119,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 121,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 122,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 123,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 124,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 125,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 126,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 127,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 128,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 129,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 130,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 131,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 132,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 133,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 134,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 135,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 136,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 139,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 140,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 141,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 142,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 143,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 144,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 145,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 146,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 147,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 148,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 149,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 150,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 151,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 153,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 154,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 155,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 156,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 157,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 158,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 159,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 160,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 161,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 162,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 164,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 165,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 166,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 167,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 168,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 169,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 170,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 171,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 172,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 173,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 174,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 175,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 176,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 177,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 178,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 180,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 181,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 182,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 183,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 184,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 185,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 186,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 187,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 188,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 189,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 190,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 191,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 192,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 193,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 194,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 195,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 196,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 197,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 198,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 199,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 200,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 201,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 203,
+      "joined": true,
+      "reviewedOverride": true
+    },
+    {
+      "nextPage": 204,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 205,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 206,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 207,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 208,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 209,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 210,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 211,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 212,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 213,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 214,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 216,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 217,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 218,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 219,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 220,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 221,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 222,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 223,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 224,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 225,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 226,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 227,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 228,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 229,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 230,
+      "joined": true,
+      "reviewedOverride": true
+    },
+    {
+      "nextPage": 231,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 232,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 234,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 235,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 236,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 237,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 238,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 239,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 240,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 241,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 242,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 243,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 244,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 245,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 246,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 247,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 248,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 249,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 250,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 251,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 252,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 253,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 254,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 255,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 256,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 257,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 258,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 259,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 260,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 261,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 262,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 263,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 264,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 265,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 266,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 267,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 268,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 269,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 270,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 271,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 272,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 273,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 274,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 275,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 276,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 277,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 278,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 279,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 280,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 281,
+      "joined": false,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 282,
+      "joined": true,
+      "reviewedOverride": false
+    },
+    {
+      "nextPage": 283,
+      "joined": false,
+      "reviewedOverride": false
+    }
+  ],
+  "limitations": [
+    "PDF sem tags de parágrafo: reconstituição por posição, espaçamento e revisão das junções entre páginas.",
+    "Espaços e quebras de linha do PDF são refluídos; glifos, pontuação e ordem são comparados integralmente.",
+    "A conferência automatizada não substitui a revisão editorial humana da disposição dos parágrafos."
+  ],
+  "images": [
+    {
+      "path": "public/images/chapters/morte-a-linguagem/cap-05-01.png",
+      "sha256": "60212b3cf176cbf84db92217d9ddbd595ced20fd3c043186d365aaf8c6699a61"
+    },
+    {
+      "path": "public/images/chapters/morte-a-linguagem/cap-05-02.png",
+      "sha256": "d4703c7b211af091a077a7dfe653c13f1b6855da9cd59ad0ee32db85d29137ea"
+    },
+    {
+      "path": "public/images/chapters/morte-a-linguagem/cap-09-01.png",
+      "sha256": "963331a7ce6d95a68ae93b8e2e7031776b9c77921dfab6a4e41479d0f0c2f00b"
+    }
+  ],
+  "totalNonWhitespaceCharacters": 484545
+}

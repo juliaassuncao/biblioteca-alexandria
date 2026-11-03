@@ -1,0 +1,30 @@
+@use '../../styles/tokens' as t;
+.row {
+  display: flex; align-items: center; gap: clamp(.8rem, 3vw, 2rem); min-height: 80px; padding: 1.3rem .5rem; border-bottom: 1px solid var(--reader-border, #{t.$line}); color: var(--reader-text, #{t.$ink}); text-decoration: none; transition: background .2s, padding .2s; overflow-wrap: anywhere;
+  &:is(a):hover, &[aria-current='page'] { background: var(--reader-surface, #f0e9df); padding-inline: 1rem; }
+  &:focus-visible { outline: 3px solid var(--reader-focus, #8e5d3c); outline-offset: -3px; background: var(--reader-surface, #f0e9df); }
+  &:is(a):hover .arrow { transform: translateX(4px); }
+}
+.number { flex: 0 0 2.2ch; white-space: nowrap; font: 400 clamp(2rem, 4vw, 3.2rem)/1 'Cormorant Garamond', Georgia, serif; color: var(--reader-accent, #{t.$wine}); opacity: .7; }
+.main { flex: 1; min-width: 0; strong { display: block; font: 500 clamp(1.25rem, 2.7vw, 1.8rem)/1.2 'Cormorant Garamond', Georgia, serif; } }
+.details { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem 1rem; margin-top: .6rem; font: 400 .7rem/1.6 'DM Sans', system-ui, sans-serif; color: var(--reader-muted, #77706b); }
+.read { display: inline-flex; align-items: center; gap: .3rem; color: var(--reader-accent, #{t.$wine}); }
+.warning { display: block; font: 400 .7rem/1.6 'DM Sans', system-ui, sans-serif; margin-top: .5rem; color: var(--reader-accent, #{t.$wine}); }
+.arrow { flex-shrink: 0; color: var(--reader-accent, #{t.$wine}); transition: transform .2s; }
+.unavailable { opacity: .7; }
+@media(max-width: 420px) { .row { gap: .6rem; padding-block: 1rem; } .arrow { width: 16px; } }
+.editorial {
+  display: grid; grid-template-columns: clamp(3.75rem, 8vw, 6rem) minmax(0, 1fr) auto;
+  gap: clamp(1rem, 3vw, 2.5rem); padding: 1.65rem .75rem;
+  transition: background-color .2s;
+  .number { font-size: clamp(2.5rem, 4.5vw, 3.75rem); color: t.$rust; opacity: 1; }
+  .main strong { font-size: clamp(1.5rem, 3vw, 2rem); transition: color .2s; }
+  .details { margin-top: .5rem; }
+  .arrow { color: t.$wine; opacity: .65; transition: transform .2s, opacity .2s; }
+  &:is(a):hover, &:focus-visible { padding-inline: .75rem; background: t.$cream; }
+  &:is(a):hover .main strong, &:focus-visible .main strong { color: t.$wine; }
+  &:is(a):hover .arrow, &:focus-visible .arrow { transform: translateX(4px); opacity: 1; }
+}
+@media(max-width: 420px) {
+  .editorial { grid-template-columns: 3.75rem minmax(0, 1fr) 16px; gap: .75rem; padding-block: 1.25rem; }
+}

@@ -1,0 +1,11 @@
+{
+  "chapterId": "cap-01",
+  "groups": [
+    {
+      "type": "document",
+      "start": "cap-01-0001",
+      "end": "cap-01-0024",
+      "kind": "syllabus"
+    }
+  ]
+}

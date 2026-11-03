@@ -1,0 +1,33 @@
+{
+  "chapterId": "cap-06",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-06-0024",
+      "end": "cap-06-0028",
+      "senderIds": [
+        "cap-06-0024"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0030",
+      "end": "cap-06-0033",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-06-0043",
+      "end": "cap-06-0050",
+      "senderIds": [
+        "cap-06-0043"
+      ]
+    },
+    {
+      "type": "document",
+      "start": "cap-06-0218",
+      "end": "cap-06-0232",
+      "kind": "article"
+    }
+  ]
+}

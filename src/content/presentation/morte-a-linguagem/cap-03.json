@@ -1,0 +1,39 @@
+{
+  "chapterId": "cap-03",
+  "groups": [
+    {
+      "type": "document",
+      "start": "cap-03-0171",
+      "end": "cap-03-0182",
+      "kind": "draft"
+    },
+    {
+      "type": "chat",
+      "start": "cap-03-0218",
+      "end": "cap-03-0225",
+      "senderIds": [
+        "cap-03-0218",
+        "cap-03-0220",
+        "cap-03-0222",
+        "cap-03-0224"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-03-0228",
+      "end": "cap-03-0230",
+      "senderIds": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-03-0232",
+      "end": "cap-03-0239",
+      "senderIds": [
+        "cap-03-0232",
+        "cap-03-0234",
+        "cap-03-0236",
+        "cap-03-0238"
+      ]
+    }
+  ]
+}

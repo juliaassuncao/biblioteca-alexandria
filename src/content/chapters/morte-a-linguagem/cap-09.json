@@ -1,0 +1,1705 @@
+{
+  "id": "cap-09",
+  "blocks": [
+    {
+      "id": "cap-09-0001",
+      "type": "paragraph",
+      "text": "Lorena estava acostumada a viver o mundo em sua própria cabeça."
+    },
+    {
+      "id": "cap-09-0002",
+      "type": "paragraph",
+      "text": "Em outros tempos, quando ainda se reunia com escritores em bares após eventos e feiras literárias, teve a sorte de propor este assunto a uma e outra pessoa. Foi assim que descobriu que esta maneira teórica de experimentar a existência poderia ser, talvez, um dos muitos sintomas de seu ofício."
+    },
+    {
+      "id": "cap-09-0003",
+      "type": "paragraph",
+      "text": "Desde muito nova, sentia-se como uma viajante enviada de outro espaço-tempo; seus pés bem firmados em duas dimensões diferentes, as pernas abertas em espacate na fronteira entre uma e outra. Vivenciava tudo com uma visão analítica e lírica na mesma medida, traduzindo todos os fatos em palavras à medida que se desenrolavam. Era muito sensível à separação entre presente e passado — tudo já era memória no segundo em que acontecia. Havia um narrador onisciente enraizado em suas sinapses, organizando a interpretação dos dias como um editor de filmes."
+    },
+    {
+      "id": "cap-09-0004",
+      "type": "paragraph",
+      "text": "Talvez tudo aquilo se devesse ao fato de que foi uma criança muito solitária, abraçada aos livros como um bote salva-vidas."
+    },
+    {
+      "id": "cap-09-0005",
+      "type": "paragraph",
+      "text": "Ou talvez tenha se tornado uma criança muito solitária justamente por isso: a bênção e a maldição das lentes pelas quais enxergava todas as coisas."
+    },
+    {
+      "id": "cap-09-0006",
+      "type": "paragraph",
+      "text": "Quando ingressou na universidade, algo agigantou ainda mais sua ponte entre o conceitual e o tátil. Graças a sua criação perfeccionista, foi uma aluna dedicada à bibliografia do curso desde a semana de recepção aos calouros. Ao longo dos anos, transitou, ávida, por quase tudo que as recomendações dos professores poderiam oferecer — Saussure, Aristóteles, Barthes, Bakhtin, Todorov, Jakobson, Northrop Frye. Varou madrugadas no escritório dos pais de Maggye, acompanhada pela garrafa térmica de café e uma romântica luminária de mesa, debruçada sobre Homero, Sófocles, Graciliano Ramos, Jorge Amado, Camões, Clarice, Cecília, Carolina Maria de Jesus."
+    },
+    {
+      "id": "cap-09-0007",
+      "type": "paragraph",
+      "text": "A teoria era o pilar de sustentação que faltava na intrincada arquitetura do pensamento de Lorena. Tornou-se capaz de interpretar a prática da vida não apenas a partir de seu próprio vocabulário, mas sim, com os pressupostos complexos de pensadores históricos como fundamento. A modesta bagagem que acumulou na academia era uma viagem à parte. Compôs uma galáxia inteira em sua mente, tão mais interessante em comparação ao tímido relevo da realidade."
+    },
+    {
+      "id": "cap-09-0008",
+      "type": "paragraph",
+      "text": "Curiosamente, o tecido de conjecturas que a fazia enxergar o horizonte como um livro e traduzir suas próprias emoções em verbetes e significados não a fazia sentir-se maior, melhor ou mais inteligente. Pelo contrário — ensimesmar-se apenas mostrava o quão pequena era. E o mais incrível: havia uma liberdade muito particular nisso."
+    },
+    {
+      "id": "cap-09-0009",
+      "type": "paragraph",
+      "text": "Por isso, nunca fez esforço algum para mudar. Sempre estaria, de certa maneira, à margem do tecido que compõe o aqui e agora. Estava satisfeita com o karma de ser, eternamente, submissa à língua e à racionalização — ainda que houvesse, ela sabia bem, tantas dores atreladas.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Por isso, nunca fez esforço algum para mudar. Sempre estaria, de certa maneira, à margem do tecido que compõe o aqui e agora. Estava satisfeita com o "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "karma"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " de ser, eternamente, submissa à língua e à racionalização — ainda que houvesse, ela sabia bem, tantas dores atreladas."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0010",
+      "type": "paragraph",
+      "text": "Este era um dos muitos motivos pelos quais o flerte com Eduarda a seduzia de uma forma singular. Tudo era profundamente intelectual, cidadão do mundo das ideias de Platão em sua máxima potência. O que habita as palavras é conciso, esférico, perfeito, imaculado. O imaginário é eterno."
+    },
+    {
+      "id": "cap-09-0011",
+      "type": "paragraph",
+      "text": "Enquanto na vida real, as coisas apenas se parecem, no inteligível, as coisas são. Seu romance com Eduarda era, até ali, a verdade absoluta, porque somente o que mora na semântica é fidedigno.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Enquanto na vida real, as coisas apenas se parecem, no inteligível, as coisas "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "são"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Seu "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "romance"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " com Eduarda era, até ali, a verdade absoluta, porque somente o que mora na semântica é fidedigno."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0012",
+      "type": "paragraph",
+      "text": "Foi, então, seguindo um modus operandi, que Lorena esticou e esticou e esticou e esticou o cordão da percepção de tempo quando entendeu que Eduarda iria beijá-la.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Foi, então, seguindo um "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "modus operandi"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", que Lorena esticou e esticou e esticou e esticou o cordão da percepção de tempo quando entendeu que Eduarda iria beijá-la."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0013",
+      "type": "paragraph",
+      "text": "Um, dois, três segundos transformados em algo perpétuo. Um livro inteiro, calhamaço de páginas, escrito para sempre na lembrança de um instante."
+    },
+    {
+      "id": "cap-09-0014",
+      "type": "paragraph",
+      "text": "Os lábios se encontraram — macios e úmidos, como em todas as hipóteses, sonhos, delírios — e esta foi a gênese de um acontecimento atípico."
+    },
+    {
+      "id": "cap-09-0015",
+      "type": "paragraph",
+      "text": "Aquele foi um dos raros estopins que calou o texto ininterrupto na consciência de Lorena."
+    },
+    {
+      "id": "cap-09-0016",
+      "type": "paragraph",
+      "text": "Morreu ali a função poética, a polissemia, a metáfora, a metonímia, a conotação, o significante, o significado."
+    },
+    {
+      "id": "cap-09-0017",
+      "type": "paragraph",
+      "text": "Nada mais era literário. Apenas literal."
+    },
+    {
+      "id": "cap-09-0018",
+      "type": "paragraph",
+      "text": "Lorena viu-se reduzida apenas às sensações, sentimentos, sensibilidades."
+    },
+    {
+      "id": "cap-09-0019",
+      "type": "paragraph",
+      "text": "Tudo era físico, físico, físico. Absurdamente físico.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Tudo era físico, físico, físico. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Absurdamente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " físico."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0020",
+      "type": "paragraph",
+      "text": "Seu corpo, hospitaleiro e acolhedor, afastou os joelhos para acomodá-la melhor no vão entre as coxas. Continuava sentada na pia, agora segura pelas mãos de Eduarda, uma graciosa em seu rosto e outra firme em sua cintura. Em retribuição, envolveu os quadris dela com as panturrilhas — um abraço às avessas."
+    },
+    {
+      "id": "cap-09-0021",
+      "type": "paragraph",
+      "text": "Estavam tão próximas quanto as leis da física permitiam. Ainda assim, desafiavam a ciência, pressionando-se cada vez mais uma contra a outra, ambicionando a simbiose. Suas línguas avançaram, recuaram, pressionaram. Exploratórias, encontraram dentes, céu da boca e uma a outra. Se conheceram como nunca antes e se reconheceram pela primeira vez."
+    },
+    {
+      "id": "cap-09-0022",
+      "type": "paragraph",
+      "text": "Conforme alternava a inclinação da cabeça para a esquerda ou direita, encontrando novos ângulos e aprofundando mais o beijo, Lorena percebia-se presente, primitiva. Todas as urgências que podia detectar em si mesma eram mundanas e lascivas. Eduarda se inclinou sobre ela, e foi necessário agarrar os cabelos ruivos com a mão direita como se estivesse em queda livre. Para isso, largou o cigarro, que tornou-se repentinamente desimportante."
+    },
+    {
+      "id": "cap-09-0023",
+      "type": "paragraph",
+      "text": "Talvez pela dor prazerosa em seu escalpo, talvez por todo o resto em toda parte, Eduarda gemeu contra os lábios de Lorena — dentro da boca, garganta abaixo. O som reverberou por seu íntimo e lavou seu estômago em um frio invernal, num contraste com o mormaço que incendiava todo o restante da pele."
+    },
+    {
+      "id": "cap-09-0024",
+      "type": "paragraph",
+      "text": "Lorena foi tomada por um impulso instintivo, e não teve outra alternativa que não obedecer. Começou a mover seu quadril em ondas, perseguindo uma fricção rítmica no abdômen de sua aluna. Segurou a blusa de Eduarda com firmeza, para garantir mais estabilidade ao movimento e passou, ela mesma, a gemer baixo e abafado. Tudo era uma tentativa — pífia e falha — de atenuar em algum nível a fome eufórica que atravessava seus sentidos; um curto-circuito interminável."
+    },
+    {
+      "id": "cap-09-0025",
+      "type": "paragraph",
+      "text": "Se afastaram por um milésimo de segundo para respirar, e a renovação proporcionada pelo oxigênio foi o suficiente para que Lorena entendesse que gostaria de recuperar o controle da situação, roubado pelo fator surpresa. Yin Yang, em pólos opostos, brigavam dentro dela. Queria ser consumida por Eduarda, mas também desejava devorá-la. Precisava lamber, engolir, tragar. Era uma sede vampírica, diabólica."
+    },
+    {
+      "id": "cap-09-0026",
+      "type": "paragraph",
+      "text": "Podia atestar, com toda certeza, que nunca sentiu nada assim antes."
+    },
+    {
+      "id": "cap-09-0027",
+      "type": "paragraph",
+      "text": "Com muito custo, desfez o beijo para mordiscar o queixo de Eduarda, e seguir deslizando os lábios pela mandíbula, escorregando pelo pescoço. Afastou os fios ruivos para ter um acesso maior, melhor, mais profundo."
+    },
+    {
+      "id": "cap-09-0028",
+      "type": "paragraph",
+      "text": "E este, infelizmente, foi o momento em que desviou os olhos verdes na direção de sua ecobag, jogada no canto da pia. Lorena avistou o visor do celular piscando, persistente, através do tecido de algodão."
+    },
+    {
+      "id": "cap-09-0029",
+      "type": "paragraph",
+      "text": "A vida real a atingiu como um trem, ainda mais avassalador do que o desejo."
+    },
+    {
+      "id": "cap-09-0030",
+      "type": "paragraph",
+      "text": "Lorena se afastou de supetão, trôpega e embriagada de algo invisível, mas palpável. Felizmente, Eduarda parecia tão atordoada quanto ela. Quebraram bússolas em conjunto e perderam o Norte de mãos dadas."
+    },
+    {
+      "id": "cap-09-0031",
+      "type": "paragraph",
+      "text": "— Eu… meu celular… — balbuciou, seu cérebro perdendo a capacidade de criar associações semânticas."
+    },
+    {
+      "id": "cap-09-0032",
+      "type": "paragraph",
+      "text": "Eduarda assentiu e deu um passo para trás. Ainda estava visivelmente atônita."
+    },
+    {
+      "id": "cap-09-0033",
+      "type": "paragraph",
+      "text": "Não escapou à Lorena que também estava linda.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Não escapou à Lorena que também estava "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "linda"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0034",
+      "type": "paragraph",
+      "text": "Enquanto se inclinava para alcançar a bolsa e o telefone e as obrigações e a realidade, manteve os olhos pregados nos cabelos acobreados, excepcionalmente nômades, espalhados por todas as direções. Observou as bochechas coradas, a respiração que começava a se recompor."
+    },
+    {
+      "id": "cap-09-0035",
+      "type": "paragraph",
+      "text": "Contemplou todas as reações que sua boca podia provocar, mesmo quando não havia verbo — apenas ação — na ponta da língua."
+    },
+    {
+      "id": "cap-09-0036",
+      "type": "paragraph",
+      "text": "Espiou o relógio no alto da tela do celular, e as horas vieram de braços dados com a culpa. Estava mais de vinte minutos atrasada. Para ajudar, uma chamada brilhava repetidamente na tela."
+    },
+    {
+      "id": "cap-09-0037",
+      "type": "paragraph",
+      "text": "— A Samira tá me ligando sem parar. — informou, como se Eduarda tivesse perguntado."
+    },
+    {
+      "id": "cap-09-0038",
+      "type": "paragraph",
+      "text": "Antes que a ruiva pudesse esboçar qualquer reação, levou o iPhone ao ouvido."
+    },
+    {
+      "id": "cap-09-0039",
+      "type": "paragraph",
+      "text": "— Lorena? — a diretora do centro cultural soou sobressaltada, com uma preocupação que parecia sincera — Tá tudo bem? Os alunos avisaram que você não chegou. O pessoal da secretaria tentou te ligar…",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " — a diretora do centro cultural soou sobressaltada, com uma preocupação que parecia sincera — "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tá tudo bem? Os alunos avisaram que você não chegou. O pessoal da"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "secretaria tentou te ligar…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0040",
+      "type": "paragraph",
+      "text": "— Mil perdões, Samira. Eu… tive um… contratempo… relacionado ao meu divórcio…",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Mil perdões, Samira. Eu… tive um… "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "contratempo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "… relacionado ao meu divórcio…"
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0041",
+      "type": "paragraph",
+      "text": "Mordeu os lábios com força o bastante para experimentar uma dor punitiva. Esperava que uma penitência qualquer pudesse aliviar o desconforto que nasceu de sua breve irresponsabilidade."
+    },
+    {
+      "id": "cap-09-0042",
+      "type": "paragraph",
+      "text": "Sua justificativa era parcialmente verdadeira. Não estaria beijando Eduarda no banheiro se não fosse divorciada de uma mulher que teria um filho com outra pessoa."
+    },
+    {
+      "id": "cap-09-0043",
+      "type": "paragraph",
+      "text": "Para ser justa, era, definitivamente, um contratempo.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Para ser justa, era, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "definitivamente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", um contratempo."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0044",
+      "type": "paragraph",
+      "text": "— Você tá bem? Acha que vai conseguir dar aula?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Você tá bem? Acha que vai conseguir dar aula?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0045",
+      "type": "paragraph",
+      "text": "Toda aquela situação alterou a densidade da consciência de Lorena, que passou a pesar como chumbo. O restante de seu organismo foi contaminado pela heresia da imperfeição. Odiava desagradar os outros. Esta foi a herança deixada por sua criação familiar. Era uma grande carrasca de si mesma.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Toda aquela situação alterou a densidade da consciência de Lorena, que passou a pesar como chumbo. O restante de seu organismo foi contaminado pela heresia da imperfeição. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Odiava"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " desagradar os outros. Esta foi a herança deixada por sua criação familiar. Era uma grande carrasca de si mesma."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0046",
+      "type": "paragraph",
+      "text": "No campo da racionalidade, queria acreditar que tudo ficaria bem. Quer dizer, Samira não parecia particularmente irritada. Até então, tinha cumprido de maneira exemplar todos os compromissos que firmou no centro cultural. Era só um curso livre e não precisava se martirizar por isso. Estas coisas acontecem com as pessoas o tempo todo.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "No campo da racionalidade, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "queria"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " acreditar que tudo ficaria bem. Quer dizer, Samira não parecia particularmente irritada. Até então, tinha cumprido de maneira exemplar todos os compromissos que firmou no centro cultural. Era só um curso livre e não precisava se martirizar por isso. Estas coisas acontecem com as pessoas o tempo todo."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0047",
+      "type": "paragraph",
+      "text": "“Estas coisas”, o atraso; não “estas coisas”, os motivos que levaram ao atraso em questão.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Estas coisas"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "”, o atraso; não “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "estas coisas"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "”, os "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "motivos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que levaram ao atraso em questão."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0048",
+      "type": "paragraph",
+      "text": "O problema, como é de seu feitio, residia num canto incompreensível da mente de Lorena. Não havia nada no entendimento e na filosofia que pudesse subverter uma ideia enraizada no espírito. Todos os seus erros estavam sempre atrelados a um constrangimento terrível, que comprimia seu peito com um nó de escoteiro. Os equívocos a deixavam nua, exposta, mortificada, minúscula.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "O problema, como é de seu feitio, residia num canto incompreensível da mente de Lorena. Não havia nada no entendimento e na filosofia que pudesse subverter uma ideia enraizada no espírito. Todos os seus erros estavam sempre atrelados a um constrangimento terrível, que comprimia seu peito com um nó de escoteiro. Os equívocos a deixavam nua, exposta, mortificada, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "minúscula"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0049",
+      "type": "paragraph",
+      "text": "— Claro, vou conseguir dar aula sim. Na verdade, já estou aqui. Chego na sala em no máximo cinco minutos — disse, enquanto ajeitava a bolsa no ombro e fitava o próprio reflexo no espelho."
+    },
+    {
+      "id": "cap-09-0050",
+      "type": "paragraph",
+      "text": "Viu-se à beira de uma gargalhada histérica. Era evidente que tinha acabado de dar e receber um dos melhores beijos de sua vida. Ajeitou a própria roupa rapidamente e correu os dedos pelos cabelos, como se gestos tão simples fossem capazes de desfazer o que Eduarda deixou estampado em seu rosto.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Viu-se à beira de uma gargalhada histérica. Era "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "evidente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que tinha acabado de dar e receber um dos melhores beijos de sua vida. Ajeitou a própria roupa rapidamente e correu os dedos pelos cabelos, como se gestos tão simples fossem capazes de desfazer o que Eduarda deixou estampado em seu rosto."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0051",
+      "type": "paragraph",
+      "text": "Girou os calcanhares para encarar sua aluna, que continuava ali, encostada na parede com um olhar hesitante. Parecia não saber bem o que fazer com a expectativa bifurcada que também atravessava Lorena."
+    },
+    {
+      "id": "cap-09-0052",
+      "type": "paragraph",
+      "text": "Nenhuma delas sabia como agir; que personagem deveria incorporar."
+    },
+    {
+      "id": "cap-09-0053",
+      "type": "paragraph",
+      "text": "— Tudo bem, Lorena. Obrigada. Se quiser conversar depois…",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tudo bem, Lorena. Obrigada. Se quiser conversar depois…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0054",
+      "type": "paragraph",
+      "text": "Engoliu em seco quando percebeu Eduarda caminhando lentamente em sua direção, eliminando a curta distância entre elas."
+    },
+    {
+      "id": "cap-09-0055",
+      "type": "paragraph",
+      "text": "— Podemos, podemos sim. — respondeu, com a voz já distante, capturada pela atenção dos enormes olhos castanhos que brilhavam, íntimos, só para ela — Mais uma vez… mil desculpas pelo transtorno."
+    },
+    {
+      "id": "cap-09-0056",
+      "type": "paragraph",
+      "text": "— Não precisa agradecer, querida. Nós nos falamos depois.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Não precisa agradecer, querida. Nós nos falamos depois."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0057",
+      "type": "paragraph",
+      "text": "Lorena balbuciou alguma coisa, qualquer coisa — nenhum vocábulo poderia ser tão relevante quanto o impetuoso aqui e agora — e encerrou a ligação. À esta altura, Eduarda já tinha invadido totalmente sua órbita, como um corpo celeste em rota de colisão com o seu."
+    },
+    {
+      "id": "cap-09-0058",
+      "type": "paragraph",
+      "text": "Sem sobreaviso, a ruiva agarrou seu rosto com as duas mãos e a beijou. Desta vez, foi apenas um toque de lábios prolongado, mas com vigor o suficiente para informar algo a Lorena: Eduarda não queria que aquela fosse a primeira e a última vez. Não queria que fossem uma casualidade qualquer, como uma coincidência que parece mística, mas logo desfalece sob as evidências de um cético."
+    },
+    {
+      "id": "cap-09-0059",
+      "type": "paragraph",
+      "text": "Entre tantos anseios, receios, inseguranças, Lorena partilhava daquela vontade. A ideia de que não pudesse explorar mais aquelas sensações que, em uma oferta excepcional da vida, lhe eram estendidas de maneira tão descomedida, inflou um desespero instantâneo dentro dela. Era um pânico quase tão intenso quanto a sensação enrijecida de que não seria sábio se envolver com uma mulher semanas depois de se divorciar, quando ainda havia tanto para curar, aprimorar e consertar."
+    },
+    {
+      "id": "cap-09-0060",
+      "type": "paragraph",
+      "text": "Para revelar ao menos uma fração do que sentia, Lorena agarrou Eduarda pela cintura, impedindo que ela se afastasse, e tomou de assalto o controle do beijo. Ousou aprofundá-lo, conduzindo o ritmo numa lentidão libertina, quase indecente. Se moveu pelo cômodo com a aluna em seus braços rumo à porta, ainda que não tivesse tempo hábil para encostá-la contra a superfície, como queria. Em parte, a peregrinação era apenas pelo prazer de ser a responsável por alterar suas posições e experimentar novos ângulos para o encaixe perfeito recém-descoberto. Eduarda, maleável e bamba, não ofereceu resistência alguma. Era uma bailarina à disposição daquela coreografia tão ensaiada nos sonhos de ambas nos últimos tempos."
+    },
+    {
+      "id": "cap-09-0061",
+      "type": "paragraph",
+      "text": "Ao separarem os rostos, algo nelas havia mudado. Tinham trocado estilhaços de si, fragmentos íntimos que passariam a carregar pendurados ao pescoço, feito patuás."
+    },
+    {
+      "id": "cap-09-0062",
+      "type": "paragraph",
+      "text": "— Eu preciso… — começou Lorena."
+    },
+    {
+      "id": "cap-09-0063",
+      "type": "paragraph",
+      "text": "— Eu sei. Vai logo."
+    },
+    {
+      "id": "cap-09-0064",
+      "type": "paragraph",
+      "text": "— Você…"
+    },
+    {
+      "id": "cap-09-0065",
+      "type": "paragraph",
+      "text": "— Daqui a pouco. Acho melhor…"
+    },
+    {
+      "id": "cap-09-0066",
+      "type": "paragraph",
+      "text": "— É. Pode ser uma boa ideia. Porque alguém pode…"
+    },
+    {
+      "id": "cap-09-0067",
+      "type": "paragraph",
+      "text": "— Isso."
+    },
+    {
+      "id": "cap-09-0068",
+      "type": "paragraph",
+      "text": "— Te vejo daqui a pouco então?"
+    },
+    {
+      "id": "cap-09-0069",
+      "type": "paragraph",
+      "text": "— Sempre."
+    },
+    {
+      "id": "cap-09-0070",
+      "type": "divider",
+      "text": "#####",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "#####"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0071",
+      "type": "paragraph",
+      "text": "Eduarda nunca foi amante — ao menos, não que soubesse — mas se flagrou pensando que era possível compreender o apelo. Enquanto esperava cinco minutos contados no relógio para entrar na sala de aula, degustou a clandestinidade e descobriu que o sabor era vertiginoso."
+    },
+    {
+      "id": "cap-09-0072",
+      "type": "paragraph",
+      "text": "Sempre que um funcionário ou visitante passava por ela no corredor do centro cultural, sentia uma euforia adolescente. Pertencia a ela, e somente a ela, a informação de que tinha perdido o fôlego em meio ao beijo de Lorena Ferette."
+    },
+    {
+      "id": "cap-09-0073",
+      "type": "paragraph",
+      "text": "A memória era projetada repetidamente em sua cabeça; um filme de frame único gravado em plano sequência. Sorria para o nada enquanto sua mente tentava pintar um quadro de um momento que ela não viu — estava ocupada, submersa. Voyeur de uma cena imaginária, criava uma realidade em que poderia assistir de longe enquanto ela e Lorena, Lorena e ela, se dissolviam até fundir.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "A memória era projetada repetidamente em sua cabeça; um filme de "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "frame"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " único gravado em plano sequência. Sorria para o nada enquanto sua mente tentava pintar um quadro de um momento que ela não viu — estava ocupada, submersa. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Voyeur"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " de uma cena imaginária, criava uma realidade em que poderia assistir de longe enquanto ela e Lorena, Lorena e ela, se dissolviam até fundir."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0074",
+      "type": "paragraph",
+      "text": "Seu devaneio foi perturbado pela notificação de uma nova mensagem na tela de seu celular."
+    },
+    {
+      "id": "cap-09-0075",
+      "type": "paragraph",
+      "text": "Paulinho Reitzdhusudhas curso de escrita",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Paulinho Reitzdhusudhas curso de escrita"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0076",
+      "type": "paragraph",
+      "text": "Duda",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Duda"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0077",
+      "type": "paragraph",
+      "text": "Foi embora?",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Foi embora?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0078",
+      "type": "paragraph",
+      "text": "Nãoo",
+      "alignment": "right",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Nãoo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0079",
+      "type": "paragraph",
+      "text": "Deixei minha bolsa na cadeira",
+      "alignment": "right",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Deixei minha bolsa na cadeira"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0080",
+      "type": "paragraph",
+      "text": "Já to voltando",
+      "alignment": "right",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Já to voltando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0081",
+      "type": "paragraph",
+      "text": "Paulinho Reitzdhusudhas curso de escrita",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Paulinho Reitzdhusudhas curso de escrita"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0082",
+      "type": "paragraph",
+      "text": "Sua namorada chegou",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Sua namorada chegou"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0083",
+      "type": "paragraph",
+      "text": "Tá esquisita",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tá esquisita"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0084",
+      "type": "paragraph",
+      "text": "Como assim?",
+      "alignment": "right",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Como assim?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0085",
+      "type": "paragraph",
+      "text": "Paulinho Reitzdhusudhas curso de escrita",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Paulinho Reitzdhusudhas curso de escrita"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0086",
+      "type": "paragraph",
+      "text": "Meio desligada",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Meio desligada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0087",
+      "type": "paragraph",
+      "text": "Mas também alegrinha",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Mas também alegrinha"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0088",
+      "type": "paragraph",
+      "text": "Efusiva",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Efusiva"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0089",
+      "type": "paragraph",
+      "text": "Deve ter a ver com o atraso dela",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Deve ter a ver com o atraso dela"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0090",
+      "type": "paragraph",
+      "text": "Qual é o seu palpite enquanto esposa?",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Qual é o seu palpite enquanto esposa?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0091",
+      "type": "paragraph",
+      "text": "Você é muito fofoqueiro",
+      "alignment": "right",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Você é muito fofoqueiro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0092",
+      "type": "paragraph",
+      "text": "Paulinho Reitzdhusudhas curso de escrita",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Paulinho Reitzdhusudhas curso de escrita"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0093",
+      "type": "paragraph",
+      "text": "Eu sou escritor",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu sou escritor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0094",
+      "type": "paragraph",
+      "text": "Gosto de conhecer novas histórias",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Gosto de conhecer novas histórias"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0095",
+      "type": "paragraph",
+      "text": "Vou ficar devendo",
+      "alignment": "right",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vou ficar devendo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0096",
+      "type": "paragraph",
+      "text": "Tô indo",
+      "alignment": "right",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tô indo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0097",
+      "type": "paragraph",
+      "text": "Paulinho Reitzdhusudhas curso de escrita",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Paulinho Reitzdhusudhas curso de escrita"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0098",
+      "type": "image",
+      "src": "/images/chapters/morte-a-linguagem/cap-09-01.png",
+      "alt": "e como sempre as portas fechadas para as lésbicas",
+      "alignment": "left"
+    },
+    {
+      "id": "cap-09-0099",
+      "type": "paragraph",
+      "text": "Eduarda sacudiu a cabeça negativamente, como se o pseudo amigo pudesse vê-la através das paredes que os separavam, e iniciou sua breve caminhada."
+    },
+    {
+      "id": "cap-09-0100",
+      "type": "paragraph",
+      "text": "Não existia um motivo concreto para que ela e Lorena chegassem separadas à aula. Afinal, a percepção sobre o que aconteceu pertencia somente a quem carregava todos os fatos no bolso. Os outros até poderiam ter suas teorias, conspirações, conjecturas, mas não havia nada material que pudessem colocar sobre a mesa para oficializar a aposta. Ainda assim, pareceu apropriado abraçar a prudência."
+    },
+    {
+      "id": "cap-09-0101",
+      "type": "paragraph",
+      "text": "Esta é a armadilha da consciência: basta que ela nasça para sua sombra se tornar onipresente."
+    },
+    {
+      "id": "cap-09-0102",
+      "type": "paragraph",
+      "text": "Quando Eduarda entrou na sala, tão discreta quanto possível, temeu que todas as suas lembranças estivessem tatuadas em sua testa. Algumas cabeças se viraram rapidamente para espiar quem chegava, mas ninguém manteve o foco nela por mais do que um segundo."
+    },
+    {
+      "id": "cap-09-0103",
+      "type": "paragraph",
+      "text": "Exceto, é claro, por Lorena."
+    },
+    {
+      "id": "cap-09-0104",
+      "type": "paragraph",
+      "text": "Por trás dos óculos de grau, a professora acompanhou atentamente cada passo de Eduarda até sua cadeira habitual — sem derrapar no raciocínio da explicação que compartilhava nem uma única vez."
+    },
+    {
+      "id": "cap-09-0105",
+      "type": "paragraph",
+      "text": "— A premissa básica do nosso encontro de hoje é a desarticulação da frase como, somente, uma espécie de veículo semântico. — discorreu Lorena, a voz um pouco mais áspera que o normal, arranhada pelo cigarro e por alguma outra sede inominável, acompanhando Eduarda atentamente com as íris brilhantes, intensas — Eu vou trazer alguns trechos bem breves de um livro chamado “Fenomenologia da Percepção”, do Maurice Merleau-Ponty, pra discutirmos a tese de que a palavra não é uma consequência do pensamento.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— A premissa básica do nosso encontro de hoje é a desarticulação da frase como, somente, uma espécie de veículo semântico. — discorreu Lorena, a voz um pouco mais áspera que o normal, arranhada pelo cigarro e por alguma outra sede inominável, acompanhando Eduarda atentamente com as íris brilhantes, intensas — Eu vou trazer alguns trechos bem breves de um livro chamado “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Fenomenologia da Percepção”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", do Maurice Merleau-Ponty, pra discutirmos a tese de que a palavra não é uma consequência do pensamento."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0106",
+      "type": "paragraph",
+      "text": "Eduarda não se intimidou com os olhos de sua musa pregados nela e retribuiu com o mesmo fervor. Seu coração, contudo, se sobressaltou. Apesar da traição fisiológica, concedeu sua empatia à crise taquicárdica. Era impossível permanecer estável diante de um flerte tão secreto e tão escancarado, como água e óleo, tão distintos, brigando visivelmente numa taça de cristal."
+    },
+    {
+      "id": "cap-09-0107",
+      "type": "paragraph",
+      "text": "— A palavra é o pensamento. — prosseguiu Lorena, seu olhar escoltando, com atenção inegociável, a ruiva que resgatava a bolsa, até então pendurada nas costas da cadeira, e tomava seu lugar com as pernas cruzadas — Não existe um pensamento disforme que depois veste uma frase, ou se fantasia dela. A ideia só pode se realizar sob a carne da linguagem.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— A palavra "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "é"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " o pensamento. — prosseguiu Lorena, seu olhar escoltando, com atenção inegociável, a ruiva que resgatava a bolsa, até então pendurada nas costas da cadeira, e tomava seu lugar com as pernas cruzadas — Não existe um pensamento disforme que depois veste uma frase, ou se fantasia dela. A ideia só pode se realizar sob a carne da linguagem."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0108",
+      "type": "paragraph",
+      "text": "E então, astuta e diabólica, Lorena abriu um sorriso travesso para ela, exibindo as covinhas. A interação durou tempo o suficiente para ser intrigante, mas não suspeita. Antes que Eduarda pudesse cogitar uma resposta, fosse em Libras ou Código Morse, a professora já gesticulava na direção de outros estudantes, dividindo sua dedicação com o restante do grupo."
+    },
+    {
+      "id": "cap-09-0109",
+      "type": "paragraph",
+      "text": "— Vocês perderam o decoro mesmo — sussurrou Paulinho, simulando decepção."
+    },
+    {
+      "id": "cap-09-0110",
+      "type": "paragraph",
+      "text": "— Você disse que era policial, mas não imaginei que fosse patrulheiro da moral e dos bons costumes. — desconversou Eduarda, levando o colega a rir discretamente, soltando ar pelo nariz — O que eu perdi?"
+    },
+    {
+      "id": "cap-09-0111",
+      "type": "paragraph",
+      "text": "— Ah, ela só se desculpou e perguntou se o pessoal topa ficar até mais tarde hoje. Todo mundo concordou."
+    },
+    {
+      "id": "cap-09-0112",
+      "type": "paragraph",
+      "text": "— Tudo bem. Eu também concordaria se tivesse votado."
+    },
+    {
+      "id": "cap-09-0113",
+      "type": "paragraph",
+      "text": "— Que surpresa."
+    },
+    {
+      "id": "cap-09-0114",
+      "type": "paragraph",
+      "text": "A aula seguiu com uma postura profissional irretocável de Lorena, que não voltou a demorar sua concentração em Eduarda uma única vez — muito embora um aluno mais atento pudesse perceber que havia algo diferente na professora."
+    },
+    {
+      "id": "cap-09-0115",
+      "type": "paragraph",
+      "text": "Eduarda, inegavelmente atenta, percebeu."
+    },
+    {
+      "id": "cap-09-0116",
+      "type": "paragraph",
+      "text": "Lorena sempre lecionava com muita paixão, mas havia um entusiasmo diferente nos contornos de cada manifestação."
+    },
+    {
+      "id": "cap-09-0117",
+      "type": "paragraph",
+      "text": "Quando divagou sobre os motivos que a levaram a escolher os textos que analisariam naquela tarde — “Vidas Secas”, a escrita como pedra, e “Mrs Dalloway”, o fluxo de consciência como água — a modulação tinha uma chama alta, estável, ruidosa, impossível de ignorar.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Quando divagou sobre os motivos que a levaram a escolher os textos que analisariam naquela tarde — "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Vidas Secas"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "”, a escrita como pedra, e "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Mrs Dalloway”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", o fluxo de consciência como água — a modulação tinha uma chama alta, estável, ruidosa, impossível de ignorar."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0118",
+      "type": "paragraph",
+      "text": "Ao falar sobre a parataxe no texto de Graciliano Ramos, e também ao ouvir os comentários de quem levantava as mãos, ela ria, leve e graciosa, com um desembaraço até então desconhecido."
+    },
+    {
+      "id": "cap-09-0119",
+      "type": "paragraph",
+      "text": "E Eduarda sabia que algo estava diferente em si mesma também, porque captava todos esses detalhes com um encanto novo — reluzente e juvenil."
+    },
+    {
+      "id": "cap-09-0120",
+      "type": "paragraph",
+      "text": "Lorena dispensou a turma meia hora mais tarde, conforme o prometido. A sinfonia costumeira de móveis sendo arrastados e burburinhos dispersos tomou conta do espaço."
+    },
+    {
+      "id": "cap-09-0121",
+      "type": "paragraph",
+      "text": "— Eduarda. — chamou a professora, séria e solene, enquanto desligava o projetor — Você pode ficar um minutinho?"
+    },
+    {
+      "id": "cap-09-0122",
+      "type": "paragraph",
+      "text": "Ao ouvir seu próprio nome, tão grave e cerimonioso, sentiu um arrepio na espinha acompanhado pelo frio na barriga, agora promovido a um conhecido de longa data. Assentiu, muda, com todas as respostas possíveis atravessadas na garganta."
+    },
+    {
+      "id": "cap-09-0123",
+      "type": "paragraph",
+      "text": "A excitação tomou tamanho espaço de seu âmago que se tornou um desconforto. Ela se remexeu na cadeira, como se fosse possível acomodar melhor o júbilo alinhando a postura."
+    },
+    {
+      "id": "cap-09-0124",
+      "type": "paragraph",
+      "text": "Quando o cômodo já estava vazio e Lorena, com a pressa de um monge, fechou a porta vagarosamente, Eduarda mal conseguia conter o sorriso que teimava em escapar, rasgando os cantos da boca."
+    },
+    {
+      "id": "cap-09-0125",
+      "type": "paragraph",
+      "text": "Aguardou, paciente e mansa, enquanto a professora puxava uma cadeira e sentava ao lado dela. A proximidade era tamanha que as pernas se tocavam. Eduarda ergueu o rosto para estudar a expressão de Lorena, que parecia excepcionalmente neutra, ainda que os olhos verdes — desafiadores e à caça — a traíssem desavergonhadamente."
+    },
+    {
+      "id": "cap-09-0126",
+      "type": "paragraph",
+      "text": "Decidiu tomar as rédeas da situação. Esticou a mão para tocar o rosto dela."
+    },
+    {
+      "id": "cap-09-0127",
+      "type": "paragraph",
+      "text": "E se surpreendeu quando Lorena se esquivou."
+    },
+    {
+      "id": "cap-09-0128",
+      "type": "paragraph",
+      "text": "— Agora não, meu bem. — disse, com uma voz suave e inusual, que ela parecia ter tirado de uma gaveta antiga exclusivamente para aquela ocasião — Agora eu sou sua professora."
+    },
+    {
+      "id": "cap-09-0129",
+      "type": "paragraph",
+      "text": "Eduarda piscou algumas vezes, confusa."
+    },
+    {
+      "id": "cap-09-0130",
+      "type": "paragraph",
+      "text": "— Como assim?"
+    },
+    {
+      "id": "cap-09-0131",
+      "type": "paragraph",
+      "text": "— Você me disse ontem que gostaria de falar sobre escrita e processo criativo."
+    },
+    {
+      "id": "cap-09-0132",
+      "type": "paragraph",
+      "text": "— Sim, isso foi ontem. Hoje eu já tenho outros interesses."
+    },
+    {
+      "id": "cap-09-0133",
+      "type": "paragraph",
+      "text": "— Eduarda."
+    },
+    {
+      "id": "cap-09-0134",
+      "type": "paragraph",
+      "text": "— Lorena."
+    },
+    {
+      "id": "cap-09-0135",
+      "type": "paragraph",
+      "text": "— Você está aqui para escrever. — lembrou Lorena, com uma firmeza que em nada sugeria que gemeram uma para a outra poucas horas antes — E é muito importante pra mim que nada te atrapalhe.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Você está aqui para escrever. — lembrou Lorena, com uma firmeza que em nada sugeria que gemeram uma para a outra poucas horas antes — E é muito importante pra mim que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "nada"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " te atrapalhe."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0136",
+      "type": "paragraph",
+      "text": "— Não tem nada me atrapalhando.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Não tem "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "nada"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " me atrapalhando."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0137",
+      "type": "paragraph",
+      "text": "— Então por que você não está escrevendo?"
+    },
+    {
+      "id": "cap-09-0138",
+      "type": "paragraph",
+      "text": "— E quem disse que eu não estou, professora?"
+    },
+    {
+      "id": "cap-09-0139",
+      "type": "paragraph",
+      "text": "— Eu não recebi o seu exercício, mesmo com a extensão de prazo. — argumentou Lorena — E o objetivo das atividades é a prática. Não existe escritor sem práxis.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Eu não recebi o seu exercício, mesmo com a extensão de prazo. — argumentou Lorena — E o objetivo das atividades é a prática. Não existe escritor sem "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "práxis"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0140",
+      "type": "paragraph",
+      "text": "— Eu… — hesitou Eduarda, finalmente saindo da frequência magnética da atração e aceitando que aquela conversa deveria ser, infelizmente, pedagógica — Eu tentei muito, mas não consegui… sei lá. O texto não veio.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Eu… — hesitou Eduarda, finalmente saindo da frequência magnética da atração e aceitando que aquela conversa deveria ser, infelizmente, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pedagógica"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " — Eu tentei muito, mas não consegui… sei lá. O texto não veio."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0141",
+      "type": "paragraph",
+      "text": "— Qual foi a sua dificuldade com o exercício?"
+    },
+    {
+      "id": "cap-09-0142",
+      "type": "paragraph",
+      "text": "— O problema não é o exercício. O problema é a falta."
+    },
+    {
+      "id": "cap-09-0143",
+      "type": "paragraph",
+      "text": "— Lacan também acha."
+    },
+    {
+      "id": "cap-09-0144",
+      "type": "paragraph",
+      "text": "Eduarda riu, apesar de um desconforto muito particular que despontava em seu peito. Era bem verdade que ela pediu por aquela conversa em um momento de frustração com sua escrita, mas a realidade é que tinha medo do lugar para onde aquele assunto poderia levá-la.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Eduarda riu, apesar de um desconforto muito particular que despontava em seu peito. Era bem verdade que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ela"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " pediu por aquela conversa em um momento de frustração com sua escrita, mas a realidade é que tinha medo do lugar para onde aquele assunto poderia levá-la."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0145",
+      "type": "paragraph",
+      "text": "— Eu… — ensaiou, fazendo malabarismos com seu incômodo — Não acredito em escrita terapêutica."
+    },
+    {
+      "id": "cap-09-0146",
+      "type": "paragraph",
+      "text": "Lorena franziu o cenho."
+    },
+    {
+      "id": "cap-09-0147",
+      "type": "paragraph",
+      "text": "— O objetivo do exercício não era esse."
+    },
+    {
+      "id": "cap-09-0148",
+      "type": "paragraph",
+      "text": "— Eu sei. O que eu quero dizer é que… eu não escrevo há cinco anos porque… bom, por vários motivos. Mas um deles é que eu não acredito em escrita terapêutica. Não acho que o papel seja um espaço para eu expurgar minhas dores, entende?"
+    },
+    {
+      "id": "cap-09-0149",
+      "type": "paragraph",
+      "text": "— Entendo."
+    },
+    {
+      "id": "cap-09-0150",
+      "type": "paragraph",
+      "text": "— Mas… eu acho que… é só isso que eu tenho pra dizer. As minhas dores. Porque… elas ocupam toda a minha vida. Eu… meus pais morreram. E eu ainda não quero… não posso… falar sobre isso. Não com você. E nem com ninguém, na verdade. Exceto pela minha terapeuta. Que nem sequer é lacaniana."
+    },
+    {
+      "id": "cap-09-0151",
+      "type": "paragraph",
+      "text": "Esperou uma risada que não veio. Lorena estava ocupada olhando para ela com uma ternura aterradora."
+    },
+    {
+      "id": "cap-09-0152",
+      "type": "paragraph",
+      "text": "— E eu… — prosseguiu Eduarda — Sei lá, quando o enunciado pediu para escrever um personagem circundando sua própria falta…"
+    },
+    {
+      "id": "cap-09-0153",
+      "type": "paragraph",
+      "text": "— Você olhou pra sua. — completou Lorena, como se dotada por toda a sabedoria do mundo."
+    },
+    {
+      "id": "cap-09-0154",
+      "type": "paragraph",
+      "text": "— Quando eu perdi meus pais, eu… eu morri um pouco também, mas… acho que também nasci pro mundo real. Toda partida é um parto de alguma forma, eu acho. E esse mundo real é concreto, cinza, áspero. Eu sempre fui muito tranquila, feliz, privilegiada… eu escrevia numa vida passada. Aquela não sou mais eu. Nesta reencarnação, que é dura como a realidade, eu não consigo escrever. Não consigo criar. Eu ainda anseio pelos sonhos antigos, mas não sou mais capaz de alcançar nenhum deles,",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Quando eu perdi meus pais, eu… eu morri um pouco também, mas… acho que também nasci pro mundo real. Toda partida é um parto de alguma forma, eu acho. E esse mundo real é concreto, cinza, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "áspero"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Eu sempre fui muito tranquila, feliz, privilegiada… eu escrevia numa vida passada. Aquela não sou mais eu. Nesta reencarnação, que é dura como a realidade, eu não consigo escrever. Não consigo criar. Eu ainda anseio pelos sonhos antigos, mas não sou mais capaz de alcançar nenhum deles,"
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0155",
+      "type": "paragraph",
+      "text": "Eduarda fitou o chão. Sentia-se adoecida. Queria se recolher, deitar em posição fetal, sair correndo sem rumo."
+    },
+    {
+      "id": "cap-09-0156",
+      "type": "paragraph",
+      "text": "O silêncio de Lorena não ajudava. O que ela estaria pensando?"
+    },
+    {
+      "id": "cap-09-0157",
+      "type": "paragraph",
+      "text": "Por fim, a professora se manifestou."
+    },
+    {
+      "id": "cap-09-0158",
+      "type": "paragraph",
+      "text": "— Você tem certeza que ainda não quer falar sobre isso?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "— Você tem certeza que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ainda"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " não quer falar sobre isso?"
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0159",
+      "type": "paragraph",
+      "text": "— Eu… tenho. Acho que tenho."
+    },
+    {
+      "id": "cap-09-0160",
+      "type": "paragraph",
+      "text": "Lorena assentiu. Olhou demoradamente para as mãos de Eduarda e pareceu hesitar. Por um instante, moveu a própria mão, mas a recolheu no meio do caminho."
+    },
+    {
+      "id": "cap-09-0161",
+      "type": "paragraph",
+      "text": "A separação entre Igreja e Estado aparentava ser mais complexa do que parecia."
+    },
+    {
+      "id": "cap-09-0162",
+      "type": "paragraph",
+      "text": "— Eu vou te passar um exercício… especial. Eu… também não tenho… conseguido escrever. E acredito que o que eu vou te propor pode ajudar a nós duas."
+    }
+  ],
+  "notes": {
+    "before": [],
+    "after": []
+  }
+}

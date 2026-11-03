@@ -1,0 +1,24 @@
+@use '../../styles/tokens' as t;
+.header { background: rgba(250,247,240,.95); border-bottom: 1px solid t.$line; }
+.inner { min-height: 90px; display:flex; align-items:center; gap:24px; }
+.brand { display:flex; gap:12px; align-items:center; text-decoration:none; color:t.$ink; }
+.brandSymbol { width:44px; height:44px; background:t.$wine; display:grid; place-items:center; border-radius:12px; color:#fff5e7; }
+.brand strong { display:block; font: 600 30px/1 'Cormorant Garamond', Georgia, serif; letter-spacing:-.5px; }
+.brand small { display:block; font-size:10px; letter-spacing:2px; text-transform:uppercase; margin-top:4px; color:t.$muted; }
+.nav { margin-left:auto; display:flex; gap:32px; align-items:center;
+ a { font-size:13px; color:t.$muted; text-decoration:none; font-weight:600; padding:35px 0 31px; border-bottom:2px solid transparent; transition:color .2s; }
+ a:hover, a.active { color:t.$wine; border-bottom-color:t.$wine; }
+}
+.eyebrow { color:t.$muted; font-size:11px; margin-left:44px; white-space:nowrap; }
+.dot { display:inline-block; width:6px; height:6px; background:#ac9468; border-radius:100%; margin-right:8px; }
+.mobileSymbol { display:none; color:t.$wine; }
+@media(max-width:740px){
+ .inner { min-height:74px; }
+ .brand strong { font-size:27px; }
+ .brand small { font-size:9px; letter-spacing:1.3px; }
+ .brandSymbol { width:39px;height:39px; }
+ .nav { margin-left:auto; gap:17px; }
+ .nav a { padding:27px 0 23px; font-size:12px; }
+ .eyebrow {display:none;}
+}
+@media(max-width:390px){.nav a:last-child{display:none;}}

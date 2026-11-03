@@ -1,0 +1,803 @@
+{
+  "id": "cap-02",
+  "blocks": [
+    {
+      "id": "cap-02-0001",
+      "type": "paragraph",
+      "text": "Era mais de uma da manhã quando Alanis apagou as luzes do estúdio naquela madrugada de sexta para sábado. Tinha perdido a hora terminando um quadro encomendado e quando se deu conta, o estúdio estava mergulhado em uma bagunça artística generalizada. Ela não se preocupava com as tintas espalhadas, ou com os quadros pela metade em que trabalhava quando sentia inspiração ou até mesmo com o cheiro de tinta aberta pelo local, mas gostava de deixar uma impressão melhor nos matriculados em suas oficinas, e a primeira aula daquela que seria sua última ali estava para começar em algumas horas."
+    },
+    {
+      "id": "cap-02-0002",
+      "type": "paragraph",
+      "text": "Ela gastou um bom tempo organizando a bagunça rotineira, até que por fim, tinha deixado organizados os dez cavaletes em tamanho padrão e apenas um infantil, todos com um quadro em branco. Em uma das mesas, deixou uma grande quantidade de opções de tintas e várias paletas e pincéis de todos os tamanhos."
+    },
+    {
+      "id": "cap-02-0003",
+      "type": "paragraph",
+      "text": "Alanis se lembrou da pequena Sofia, da exceção que tinha aberto em segredo, sem que a mãe soubesse que aquela seria a primeira vez que teria uma criança tão pequena em suas oficinas. Ela sorriu ao se lembrar que teria que reformular toda a sua didática para que uma criança de quatro anos acompanhasse o seu raciocínio que muitas das vezes, era nebuloso até para ela mesma.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Alanis se lembrou da pequena Sofia, da "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "exceção"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que tinha aberto em segredo, sem que a mãe soubesse que aquela seria a primeira vez que teria uma criança tão pequena em suas oficinas. Ela sorriu ao se lembrar que teria que reformular toda a sua didática para que uma criança de quatro anos acompanhasse o seu raciocínio que muitas das vezes, era nebuloso até para ela mesma."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0004",
+      "type": "paragraph",
+      "text": "Mas ela simplesmente não teve outra opção. Quando viu a pequena com os olhos iguais aos da mãe, brilhando ao encarar para a tela vazia, sentiu que aquele era o lugar certo para desenvolver aquela menininha de cabelos ruivos e sorriso encantador."
+    },
+    {
+      "id": "cap-02-0005",
+      "type": "paragraph",
+      "text": "Alanis pensou no fato da mãe ser um show à parte. Mas não sabia nada sobre a mulher. Talvez fosse casada… A probabilidade era altíssima, mas não havia reparado se algum dos muitos anéis na mão bonita que ela viu assinar alguns papéis era de fato uma aliança. Fato era que ela não conseguia deixar de lembrar da presença das duas em seu estúdio."
+    },
+    {
+      "id": "cap-02-0006",
+      "type": "paragraph",
+      "text": "Ela subiu as escadas que levavam ao segundo andar do sobrado que Alanis havia herdado dos seus avós. Na antiga casa, havia feito o que sempre sonhou: um estúdio embaixo e sua casa em cima. Não era enorme, mas era muito confortável. Os móveis em madeira de lei faziam parte da história da família. De moderno em sua casa, apenas os eletrodomésticos. Até ali, tinha que desviar de quadros e latas de tinta espalhadas, jornais que forravam uma parte do chão onde trabalhava em algum quadro… Apesar de amar aquele lugar, ela já não conseguia suportar o vazio. Amava a arte, mas ainda assim, sua alma buscava por mais, e ela queria dar uma chance para buscar o que nem ela mesma sabia. Viu na oportunidade de se mudar para a Europa uma chance de mandar embora esse sentimento."
+    },
+    {
+      "id": "cap-02-0007",
+      "type": "paragraph",
+      "text": "Ela havia passado o dia inteiro, desde a visita de Gabriela e Sofia, no estúdio. Sua oficina com dez vagas estava lotada desde o dia anterior, mas Gabriela não chegou a saber disso. Sua classe, religiosamente sempre de dez pessoas, agora tinha onze, e toda vez que ela se lembrava disso, ela sorria."
+    },
+    {
+      "id": "cap-02-0008",
+      "type": "paragraph",
+      "text": "Estava com uma encomenda muito grande para uma compradora regular, por isso não teve tempo nem mesmo de pegar no celular. Lutou o dia inteiro contra a vontade de jogar o nome que não saiu da sua mente, no google. Ela sabia que a probabilidade de encontrar a mulher seria enorme, com um nome tão único daquele. Mas, ao mesmo tempo, teve receio de se desapontar com o que possivelmente veria.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Estava com uma encomenda muito grande para uma compradora regular, por isso não teve tempo nem mesmo de pegar no celular. Lutou o dia inteiro contra a vontade de jogar o nome que não saiu da sua mente, no "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "google"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Ela sabia que a probabilidade de encontrar a mulher seria enorme, com um nome tão único daquele. Mas, ao mesmo tempo, teve receio de se desapontar com o que possivelmente veria."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0009",
+      "type": "paragraph",
+      "text": "- Que palhaçada, Alanis.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "- "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Que palhaçada, Alanis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0010",
+      "type": "paragraph",
+      "text": "Ela passou pelo corredor onde tinha um grande espelho suspenso com um aparador de madeira onde mantinha fotos de familiares. Ela se lembrou de verificar suas costas para encontrar a mini mão em cores misturadas marcando com exatidão metade em sua pele, metade na costura da camiseta. Ela sorriu e seguiu para o banho, sabendo que gastaria um bom tempo tirando aquela e diversas outras áreas com tinta pelo corpo."
+    },
+    {
+      "id": "cap-02-0011",
+      "type": "divider",
+      "text": "***",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "***"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0012",
+      "type": "paragraph",
+      "text": "Gabriela tinha colocado o celular para despertar bem cedo. Queria passar na quadra e treinar antes de levar Sofia para a primeira aula de artes. Levantou com calma na manhã atípica de outubro no Rio. Pela janela do apartamento, quase não via nada por causa da neblina, mas seu corpo inteiro sentia necessidade de jogar tênis, mesmo que por alguns minutos. Gabi usava uma saia curta e camiseta, ambos na cor branca, apropriados para uma partida casual de tênis, com a bolsa de proteção da raquete nas costas. Sofia estava toda estilosa com sua jardineira jeans e os cabelinhos ruivos presos em um mini rabo de cavalo."
+    },
+    {
+      "id": "cap-02-0013",
+      "type": "paragraph",
+      "text": "Antes de saírem, ela se lembrou do pincel que Alanis havia lhe emprestado e do desenho que ela havia feito na noite anterior. Gabi tinha comprado um caderno de desenho para ela e um estojo com alguns lápis de cor para ela brincar enquanto ela jogava. O caderno estava quase todo rabiscado já, mas a pequena não se importava, onde havia espaço em branco, ela pintava alguma coisa sem forma."
+    },
+    {
+      "id": "cap-02-0014",
+      "type": "paragraph",
+      "text": "Quando chegou na quadra, era um pouco mais das sete da manhã. Sua parceira de partida já estava por ali se aquecendo. Gabi sentou Sofia em uma mesa com guarda-sol na beira da quadra, onde ela jamais saísse do seu campo de visão, e foi jogar."
+    },
+    {
+      "id": "cap-02-0015",
+      "type": "paragraph",
+      "text": "Gabi se sentia bem em casa com sua filha. Mas ela se sentia magnífica quando estava na quadra. Todo o seu sangue fervia quando rebatia uma bola, quando marcava um ponto ou quando simplesmente estava ali, dando pulos para lá e para cá, à espera de um saque. Gabriela tinha nascido para estar ali. E, mesmo que fosse por diversão, tinha que estar em uma quadra pelo menos por alguns minutos todos os dias."
+    },
+    {
+      "id": "cap-02-0016",
+      "type": "paragraph",
+      "text": "Muitos minutos haviam se passado quando Gabriela apertou a mão da moça que tinha jogado com ela naquela manhã. Gabriela secou o rosto com a toalha que havia levado na pequena mala esportiva e mesmo com o cabelo preso, sentia os fios soltos do rabo de cabelo grudarem em seu pescoço. Ela colocou os óculos escuros e puxou a camiseta um pouco, desgruando da pele suada. As coxas torneadas brilhavam mesmo à fraca luz do sol naquela hora."
+    },
+    {
+      "id": "cap-02-0017",
+      "type": "paragraph",
+      "text": "- Eca, mamãe. - Sofia comentou quando levantou os olhos do desenho para ver a mãe pingando de suor."
+    },
+    {
+      "id": "cap-02-0018",
+      "type": "paragraph",
+      "text": "Gabi riu, mas não se defendeu."
+    },
+    {
+      "id": "cap-02-0019",
+      "type": "paragraph",
+      "text": "Elas juntaram as coisas espalhadas pela menina durante a prática do esporte e foram até o estúdio de Alanis."
+    },
+    {
+      "id": "cap-02-0020",
+      "type": "paragraph",
+      "text": "No caminho, Sofia tagarelava sobre diversas coisas com sua mãe, que tentava acompanhar e responder, sem sucesso, às inúmeras perguntas sem pé nem cabeça da menina. Faltavam alguns minutos para as oito da manhã quando Gabriela estacionou seu T-Cross em uma vaga, a poucos metros do estúdio de Alanis. A criança reconheceu o lugar quando passou em frente e já estava toda alegre.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "No caminho, Sofia tagarelava sobre diversas coisas com sua mãe, que tentava acompanhar e responder, sem sucesso, às inúmeras perguntas sem pé nem cabeça da menina. Faltavam alguns minutos para as oito da manhã quando Gabriela estacionou seu "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "T-Cross"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " em uma vaga, a poucos metros do estúdio de Alanis. A criança reconheceu o lugar quando passou em frente e já estava toda alegre."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0021",
+      "type": "paragraph",
+      "text": "Alanis conversava com uma mulher de meia idade acompanhada de uma adolescente entre as mesas alinhadas, segurava um quadro pequeno e mostrava algo para as duas com entusiasmo. A luz atravessava as janelas amplas, deixando o ambiente perfeito para aquele tipo de atividade, fazendo as cores parecerem muito mais vivas."
+    },
+    {
+      "id": "cap-02-0022",
+      "type": "paragraph",
+      "text": "Ela conferiu a hora em seu relógio no pulso, sentindo aquele frio bom que antecede o primeiro encontro com uma turma nova. Os dez alunos, de onze, já estavam por ali. Até que o som do sino que se balançava quando a porta da frente se abria tilintou anunciando a entrada de quem faltava."
+    },
+    {
+      "id": "cap-02-0023",
+      "type": "paragraph",
+      "text": "Alanis ergueu o olhar e encontrou Gabriela entrando de mãos dadas com Sofia. A mulher estava de óculos escuros e os ergueu para o topo da cabeça assim que entrou. De roupa de atividade física (mini saia de tênis e uma regata antitranspirante com marcas de suor), com uma mochila de unicórnio rosa e lilás pendurada no ombro, e uma outra, mais comportada e exalando ar de mulher que preza pelo bom gosto, no outro. O cabelo preso de maneira prática revelava alguns fios soltos que escaparam durante a atividade. A pele brilhava mais do que o normal, as coxas torneadas era um detalhe difícil de ignorar."
+    },
+    {
+      "id": "cap-02-0024",
+      "type": "paragraph",
+      "text": "Sofia, ao lado dela, parecia um contraste encantador: olhos atentos, um sorriso enorme ao ver Alanis e a curiosidade saltando de detalhe em detalhe. Alanis viu que a menina segurava o pincel que ela havia levado junto com uma folha dobrada na mesma mão."
+    },
+    {
+      "id": "cap-02-0025",
+      "type": "paragraph",
+      "text": "Por um segundo, Alanis esqueceu completamente o que falava com as pessoas à sua frente."
+    },
+    {
+      "id": "cap-02-0026",
+      "type": "paragraph",
+      "text": "Gabriela foi passando pelas pessoas dando bom dia aos rostos desconhecidos, se aproximando cada vez mais de Alanis."
+    },
+    {
+      "id": "cap-02-0027",
+      "type": "paragraph",
+      "text": "- Chegamos a tempo, amor. - Disse Gabriela, com um sorriso rápido para a menina."
+    },
+    {
+      "id": "cap-02-0028",
+      "type": "paragraph",
+      "text": "Sofia soltou a mão da mãe rapidamente e correu até Alanis, aproximando-se da mulher, entregando o pincel e o papel dobrado, como se cumprisse uma promessa."
+    },
+    {
+      "id": "cap-02-0029",
+      "type": "paragraph",
+      "text": "- Oi, Sofia. Você lembrou de trazer o meu pincel. - Alanis se abaixou e abriu o desenho sorrindo. - Ficou muito bonito, obrigada!"
+    },
+    {
+      "id": "cap-02-0030",
+      "type": "paragraph",
+      "text": "O desenho era uma bagunça de rabiscos em guache, que Gabriela tinha se irritado muito em ver que a tinta não tinha apenas ficado no papel, mas pelo chão de piso laminado e tapete da sala também."
+    },
+    {
+      "id": "cap-02-0031",
+      "type": "paragraph",
+      "text": "Alanis voltou a ficar de pé e então ela e Gabriela trocaram um aperto de mãos educado, ambas com um sorriso tímido."
+    },
+    {
+      "id": "cap-02-0032",
+      "type": "paragraph",
+      "text": "- A oficina vai começar. - Alanis avisou a todos. E, então, se direcionou a Gabriela: - Você pode ficar ali, - ela apontou para um sofá no canto do estúdio, que servia como uma sala confortável de espera - … acho que sua filha está bem à vontade aqui."
+    },
+    {
+      "id": "cap-02-0033",
+      "type": "paragraph",
+      "text": "Gabriela tinha certeza daquilo, sua criança estava explorando as diversas opções de pincéis sobre uma mesa de sua altura, que parecia ter sido pensada nela de tão confortável que ela estava. Gabi andou até o sofá e soltou a bolsa e a mochila ali ao lado, sentando-se por ali. Observava a filha desbravar o ambiente com a diversão que nunca tinha visto nela em nenhuma outra atividade. Em determinado momento, pegou o celular e ficou rolando o feed. Seus dedos estavam marcados levemente pela empunhadura da raquete, fazendo-a lembrar da liberdade que sentia na quadra, minutos antes. Do vento gelado em seu rosto, do sangue fervendo a cada ace…Gabriela passou a mão discretamente pela testa, afastando o suor que insistia em denunciar o esforço recente."
+    },
+    {
+      "id": "cap-02-0034",
+      "type": "paragraph",
+      "text": "A primeira aula da oficina começou com aquele silêncio curioso por parte dos alunos que prestavam atenção quase religiosa no que Alanis falava. Havia um senhor de cabelos brancos que observava tudo com afinco, um casal que trocava olhares satisfeitos a cada instrução dela, um rapaz que claramente nunca tinha segurado um pincel antes, mas estava decidido a tentar. E no meio de tantas pessoas de idades diferentes, estava Sofia. Em frente a um único minicavalete. Era a única criança ali, Alanis dava uma atenção diferente a ela, Gabriela notou. A forma como sempre voltava até ela, como se abaixava, pegava em sua mãozinha para ajudá-la a segurar o pincel da melhor forma."
+    },
+    {
+      "id": "cap-02-0035",
+      "type": "paragraph",
+      "text": "Um sorriso discreto surgiu no rosto de Alanis, conforme ia vendo a menina desferindo traços leves na tela em branco."
+    },
+    {
+      "id": "cap-02-0036",
+      "type": "paragraph",
+      "text": "- Hoje a única regra é experimentar... - disse ela, apoiando-se com o quadril levemente na mesa, com uma tranquilidade absurda."
+    },
+    {
+      "id": "cap-02-0037",
+      "type": "paragraph",
+      "text": "Gabriela notou que ela usava um vestido soltinho sem sutiã. Ousada. O vestido decotado parecia ser uma segunda pele, nunca revelando mais do que o necessário no decote, mas longo até quase arrastar no chão.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Gabriela notou que ela usava um vestido soltinho sem sutiã. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ousada"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". O vestido decotado parecia ser uma segunda pele, nunca revelando mais do que o necessário no decote, mas longo até quase arrastar no chão."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0038",
+      "type": "paragraph",
+      "text": "Ela havia feito um panorama entre os materiais artísticos, uma aula básica sobre cores e em seguida, sugeriu um exercício simples: pintar uma lembrança usando apenas três cores. Não precisava ser algo profundo ou importante, podia ser um cheiro, um sabor ou até mesmo uma sensação. Gabriela não sabia como sua filha entenderia aquilo, ficou curiosa e passou a prestar mais atenção."
+    },
+    {
+      "id": "cap-02-0039",
+      "type": "paragraph",
+      "text": "O silêncio que se formou na sala era por pura concentração. O senhor de cabelos brancos começou com movimentos cuidadosos, testando, receoso. O rapaz fez sua primeira pincelada com um medo que Gabriela sentia de longe."
+    },
+    {
+      "id": "cap-02-0040",
+      "type": "paragraph",
+      "text": "Sofia escolheu o verde claro primeiro."
+    },
+    {
+      "id": "cap-02-0041",
+      "type": "paragraph",
+      "text": "Sem timidez nenhuma, ela misturou cores com uma confiança espontânea, inclinando a cabeça para Alanis como quem buscava suporte, como se compartilhasse um segredo recém-descoberto. Deixando pequenas manchas nas pontas dos dedos. Alanis se abaixou para ficar na altura dela, observando com atenção genuína."
+    },
+    {
+      "id": "cap-02-0042",
+      "type": "paragraph",
+      "text": "- Por que o verde, Sofia? - perguntou com delicadeza."
+    },
+    {
+      "id": "cap-02-0043",
+      "type": "paragraph",
+      "text": "- Porque é bonito. - respondeu Sofia, como se fosse a explicação mais completa possível."
+    },
+    {
+      "id": "cap-02-0044",
+      "type": "paragraph",
+      "text": "Alanis sorriu e fez um carinho delicado no topo da cabeça da menina, que voltou toda a sua concentração para a pequena tela."
+    },
+    {
+      "id": "cap-02-0045",
+      "type": "paragraph",
+      "text": "Enquanto a aula seguia, Alanis caminhava entre as mesas sem pressa, oferecendo sugestões suaves, fazendo perguntas que expandiam os horizontes nas mentes travadas dos iniciantes. A sala começou a se encher de cores imperfeitas e sinceras, de pequenos acidentes felizes, de pessoas percebendo que criar não exigia técnica, mas sim a iniciativa de tentar."
+    },
+    {
+      "id": "cap-02-0046",
+      "type": "paragraph",
+      "text": "Gabriela observava de um canto, tentando não interromper o momento em que Sofia mergulhava naquele universo novo, agora mais suja de tinta do que em sua casa. Havia algo de bonito em ver a filha ali."
+    },
+    {
+      "id": "cap-02-0047",
+      "type": "paragraph",
+      "text": "Ao final da primeira hora, as onze telas já carregavam a história particular de cada um dos alunos. A timidez inicial tinha evaporado, substituída por conversas baixas, risadas e comentários curiosos sobre como as cores se transformavam ao serem misturadas."
+    },
+    {
+      "id": "cap-02-0048",
+      "type": "paragraph",
+      "text": "Em determinado momento, Sofia foi correndo até a mãe. As mãozinhas cheias de tinta fizeram o coração de Gabriela quase parar ao vê-la se aproximar de repente."
+    },
+    {
+      "id": "cap-02-0049",
+      "type": "paragraph",
+      "text": "- Opa! Calma aí, criança. - Gabriela segurou a filha pelos pulsos com cuidado, para que ela não a sujasse."
+    },
+    {
+      "id": "cap-02-0050",
+      "type": "paragraph",
+      "text": "- Quero água, mamãe."
+    },
+    {
+      "id": "cap-02-0051",
+      "type": "paragraph",
+      "text": "Gabriela a soltou e pegou a garrafa da menina na mochila, destampando e puxando o canudinho. A menina bebia tranquilamente com as pernas inquietas, se balançando."
+    },
+    {
+      "id": "cap-02-0052",
+      "type": "paragraph",
+      "text": "- Você já tá com fome? A mãe trouxe frutinha pra você."
+    },
+    {
+      "id": "cap-02-0053",
+      "type": "paragraph",
+      "text": "Sofia terminou de beber a água e balançou a cabeça, dizendo que não. Sem paciência, voltou correndo até a aula."
+    },
+    {
+      "id": "cap-02-0054",
+      "type": "paragraph",
+      "text": "Gabi guardou a garrafa da menina e voltou sua atenção ao celular."
+    },
+    {
+      "id": "cap-02-0055",
+      "type": "paragraph",
+      "text": "A aula percorreu por mais alguns minutos depois disso até Alanis anunciar uma pausa. Alanis tinha ajudado Sofia a limpar as mãos antes dela voltar correndo até a mãe. Dessa vez, ela anunciou estar com fome. Gabriela pegou a lancheira da menina e abriu, colocando-a no colo dela depois que ela havia se sentado ao seu lado no sofá."
+    },
+    {
+      "id": "cap-02-0056",
+      "type": "paragraph",
+      "text": "Gabriela tirou uma foto da filha comendo as frutas que ela havia cortado em um potinho, com uma garrafinha de suco na outra mão. Na foto, a menina estava distraída, com pequenas manchas coloridas em sua jardineira jeans."
+    },
+    {
+      "id": "cap-02-0057",
+      "type": "paragraph",
+      "text": "Alanis observava a cena de longe. Alguns alunos tinham saído, outros ficaram por ali conversando entre si. Alanis, no entanto, não acreditava estar há longos segundos olhando para as coxas torneadas da mãe de uma aluna sua. Mas Alanis não conseguia ignorar o fato da mulher ser uma obra de arte ali no canto do seu estúdio. Talvez a mais bonita que ela já havia visto. Logo ela, que visitava museus com uma frequência sobrenatural."
+    },
+    {
+      "id": "cap-02-0058",
+      "type": "paragraph",
+      "text": "Seu celular, esquecido na mão, vibrou, a puxando de volta do transe."
+    },
+    {
+      "id": "cap-02-0059",
+      "type": "paragraph",
+      "text": "A amiga que havia indicado a oficina de Alanis para Gabi tinha respondido a mensagem do dia anterior."
+    },
+    {
+      "id": "cap-02-0060",
+      "type": "paragraph",
+      "text": "“Não sei muito sobre ela, amiga. Conversamos o básico do básico nas pausas das aulas. Sei que é mãe solteira, muuuuito reservada, louca por tênis, acho que joga/jogava profissionalmente. Já conheceu a menina dela? Um amor, ela sempre vem junto pro pilates com a mãe. Todo mundo ama essa menina por aqui.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Não sei muito sobre ela, amiga. Conversamos o básico do básico nas pausas das aulas. Sei"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "que é mãe solteira, muuuuito reservada, louca por tênis, acho que joga/jogava"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "profissionalmente. Já conheceu a menina dela? Um amor, ela sempre vem junto pro pilates"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "com a mãe. Todo mundo ama essa menina por aqui."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "”"
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0061",
+      "type": "paragraph",
+      "text": "Alanis leu a mensagem, intrigadíssima."
+    },
+    {
+      "id": "cap-02-0062",
+      "type": "paragraph",
+      "text": "“Já conheci sim, elas estão aqui nesse exato momento. Agradeço a indicação, estava olhando com muito respeito porque não sabia se ela era casada ou não, mas fica muito difícil quando ela está de minisaia toda suada parecendo que saiu diretamente de uma quadra pro meu estúdio.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Já conheci sim, elas estão aqui nesse exato momento. Agradeço a indicação, estava olhando"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "com muito respeito porque não sabia se ela era casada ou não, mas fica muito difícil quando"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ela está de minisaia toda suada parecendo que saiu diretamente de uma quadra pro meu"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "estúdio.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0063",
+      "type": "paragraph",
+      "text": "Ela enviou, e um pouco depois apareceram os três pontinhos."
+    },
+    {
+      "id": "cap-02-0064",
+      "type": "paragraph",
+      "text": "“kkkkkk” Grigio havia enviado. Alanis sem entender, mandou apenas uma “?” para a amiga. Que logo em seguida, enviou a foto mais sexy que Alanis viu em muito tempo.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "kkkkkk"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "” Grigio havia enviado. Alanis sem entender, mandou apenas uma “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "” para a amiga. Que logo em seguida, enviou a foto mais sexy que Alanis viu em muito tempo."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0065",
+      "type": "paragraph",
+      "text": "O print de um story recém-publicado por Gabriela, aparentemente Grigio a seguia."
+    },
+    {
+      "id": "cap-02-0066",
+      "type": "paragraph",
+      "text": "A foto era de Gabriela em uma quadra ao ar livre, o momento a capturava no meio do movimento de um golpe que Alanis não fazia ideia do nome, mas era lindo. O corpo inclinado levemente para frente, com a perna de apoio firme no chão verde da quadra e a outra elevada atrás, indicando velocidade e equilíbrio como em uma escultura grega. O braço estendido segurando a raquete no ponto final do movimento, Alanis imaginou que a foto foi tirada após ela ter rebatido a bola. O cabelo ruivo preso em um rabo de cavalo que acompanhava o giro do corpo, reforçando a sensação perfeita de movimento congelado."
+    },
+    {
+      "id": "cap-02-0067",
+      "type": "paragraph",
+      "text": "“Se ela está assim aí na sua frente, boa sorte, amiga.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Se ela está assim aí na sua frente, boa sorte, amiga."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "”"
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0068",
+      "type": "paragraph",
+      "text": "“Sua cachorra!” Alanis enviou.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Sua cachorra"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "!” Alanis enviou."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0069",
+      "type": "paragraph",
+      "text": "Grigio enviou outro print, dessa vez, a foto que ela tinha visto Gabriela tirar da filha comendo. As legendas nas fotos eram uma sequência engraçada de emojis."
+    },
+    {
+      "id": "cap-02-0070",
+      "type": "paragraph",
+      "text": "“Que fofura.” Grigio mandou.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Que fofura"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ".” Grigio mandou."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0071",
+      "type": "paragraph",
+      "text": "“Essa eu vi ao vivo. Uma fofura mesmo. Até mais, tenho que retomar a aula.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Essa eu vi ao vivo. Uma fofura mesmo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Até mais, tenho que retomar a aula"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ".”"
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0072",
+      "type": "paragraph",
+      "text": "Alanis deixou o celular por ali e chamou o pessoal para dar continuidade à oficina."
+    },
+    {
+      "id": "cap-02-0073",
+      "type": "paragraph",
+      "text": "O restante da manhã seguiu como o esperado. As próximas duas horas passaram muito rápido para os alunos e torturante para Gabriela, que já não aguentava mais esperar. Tudo já se encaminhava para o fim. Alanis passava pequenas tarefas para a semana, o próximo encontro era no sábado seguinte, somando quatro aulas por mês no período de seis meses."
+    },
+    {
+      "id": "cap-02-0074",
+      "type": "paragraph",
+      "text": "Nas instruções finais, Sofia levantou a mão manchada de tinta, como se já se sentisse oficialmente parte daquele pequeno universo."
+    },
+    {
+      "id": "cap-02-0075",
+      "type": "paragraph",
+      "text": "- Pode usar glitter, tia?"
+    },
+    {
+      "id": "cap-02-0076",
+      "type": "paragraph",
+      "text": "Algumas pessoas riram. Alanis também. Gabriela queria se enterrar no sofá."
+    },
+    {
+      "id": "cap-02-0077",
+      "type": "paragraph",
+      "text": "- Pode - respondeu. - Glitter é muito bem-vindo."
+    },
+    {
+      "id": "cap-02-0078",
+      "type": "paragraph",
+      "text": "Dado o encerramento da classe, as pessoas começaram a reunir suas coisas para ir embora. Gabriela acabou demorando um pouco mais porque Sofia queria ir ao banheiro antes."
+    },
+    {
+      "id": "cap-02-0079",
+      "type": "paragraph",
+      "text": "Quando voltou ao estúdio, só estava Alanis organizando as coisas pós-aula."
+    },
+    {
+      "id": "cap-02-0080",
+      "type": "paragraph",
+      "text": "Sofia estava distraída pegando seu pequeno quadro pintado para levar embora, quando Gabi parou perto de Alanis."
+    },
+    {
+      "id": "cap-02-0081",
+      "type": "paragraph",
+      "text": "- Fiquei bastante surpresa com a variedade de perfis na sua aula. Imagino que seja um desafio enorme."
+    },
+    {
+      "id": "cap-02-0082",
+      "type": "paragraph",
+      "text": "- Muito, mas eu amo. - Alanis parou o que estava fazendo e olhou bem nos olhos de Gabriela. - Não vejo graça em ensinar de forma automática, eu gosto de dar atenção de um por um."
+    },
+    {
+      "id": "cap-02-0083",
+      "type": "paragraph",
+      "text": "- Sofia está encantada, e, confesso que eu também. - Gabriela confessou. - Se ela está feliz, não tenho como não ficar também."
+    },
+    {
+      "id": "cap-02-0084",
+      "type": "paragraph",
+      "text": "Alanis sorriu. Aquele tipo de elogio invadia sua alma sem pedir passagem."
+    },
+    {
+      "id": "cap-02-0085",
+      "type": "paragraph",
+      "text": "- Obrigada! De verdade. Se eu puder ajudar sua filha com o mínimo que seja, já estou feliz."
+    },
+    {
+      "id": "cap-02-0086",
+      "type": "paragraph",
+      "text": "As duas sorriram e se despediram. Dessa vez, sem show de pirraça, a pequena saiu saltitando feliz depois de abraçar Alanis. Com seu pequeno quadro nos braços enquanto Gabriela ia atrás com a mochila de unicórnio nos braços e sua própria bolsa a tiracolo."
+    },
+    {
+      "id": "cap-02-0087",
+      "type": "paragraph",
+      "text": "- Até a próxima semana! - Gabriela disse antes de sair pela porta, com um sorriso, que Alanis descreveria como: arrebatador.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "- Até a próxima semana! - Gabriela disse antes de sair pela porta, com um sorriso, que Alanis descreveria como: "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "arrebatador"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0088",
+      "type": "paragraph",
+      "text": "- Até… - Alanis disse com um sorriso honesto, vendo as duas irem embora."
+    }
+  ],
+  "notes": {
+    "before": [],
+    "after": []
+  }
+}

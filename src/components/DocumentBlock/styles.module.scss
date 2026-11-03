@@ -1,0 +1,7 @@
+.document {
+  margin: 2.25rem 0; padding: clamp(1rem, 4vw, 2.25rem); background: var(--reader-surface); border-block: 1px solid var(--reader-border);
+  > header { display: flex; align-items: center; gap: .5rem; padding-bottom: 1.25rem; margin-bottom: 1rem; border-bottom: 1px solid var(--reader-border); color: var(--reader-accent); font: 600 .65rem/1.6 'DM Sans', system-ui, sans-serif; letter-spacing: .06em; }
+  &[data-kind='letter'] { border: 1px solid var(--reader-border); border-left: 3px solid var(--reader-accent); background: var(--reader-background); }
+  &[data-kind='draft'] { border-inline: 1px solid var(--reader-border); background: var(--reader-background); box-shadow: 3px 3px 0 var(--reader-surface); }
+  &[data-kind='report'], &[data-kind='article'] { background: transparent; border-block: 2px solid var(--reader-border); }
+}
