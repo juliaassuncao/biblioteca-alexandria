@@ -1,3 +1,4 @@
+import type { ReactNode } from 'react';
 import { signatureParts } from '../../services/document-signatures';
 import type { ChapterBlock } from '../../types/fanfic';
 import { isSafeReaderImage, isSafeReaderLink } from '../../utils/reader-links';
@@ -12,7 +13,7 @@ import type { ChapterBodyContext, ChapterBodyProps } from './props';
 import { inlineContent } from './inline';
 import styles from './styles.module.scss';
 
-function renderBlock(block: ChapterBlock, context: ChapterBodyContext, signature = false) {
+function renderBlock(block: ChapterBlock, context: ChapterBodyContext, signature = false): ReactNode {
   switch (block.type) {
     case 'paragraph':
       if (signature) { const { name, rest } = signatureParts(block); return <p className={`${styles.paragraph} ${styles.signature}`}><span>{name}</span>{inlineContent(rest)}</p>; }
