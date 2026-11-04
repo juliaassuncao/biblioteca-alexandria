@@ -11,7 +11,8 @@ export default function WorkCard({ work }: WorkCardProps) {
     <div className={styles.art}><WorkCover work={work}/>{!isExternal && <span className={styles.openIcon}>
       <ArrowUpRight size={17}/></span>}</div>
     <div className={styles.row}><span className={styles.category}>{isExternal ? 'SITE PRÓPRIO' : 'ACERVO ALEXANDRIA'}</span>
-      {work.status === 'ongoing' && <span className={styles.status}>Em andamento</span>}</div>
+      {work.status === 'ongoing' && <span className={styles.status}>Em andamento</span>}
+      {work.status === 'completed' && <span className={styles.status}>Concluída</span>}</div>
     <h3 className={styles.title}>{work.title}</h3>
   </>;
 

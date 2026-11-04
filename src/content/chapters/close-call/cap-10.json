@@ -1,0 +1,2848 @@
+{
+  "id": "cap-10",
+  "blocks": [
+    {
+      "id": "cap-10-0002",
+      "type": "paragraph",
+      "text": "Lorena",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0003",
+      "type": "paragraph",
+      "text": "No dia seguinte, o tópico principal do mundo do tênis na internet era a partida de exibição entre elas."
+    },
+    {
+      "id": "cap-10-0004",
+      "type": "paragraph",
+      "text": "@dudafragoat: nem exibição a lorena consegue ganhar eitaaaa esse slam vai ser uma delícia.\n|\n@loreign_ replying to @dudafragoat: sendo que a lorena ganhou A ÚLTIMA PARTIDA QUE ELAS JOGARAM ?????\n|\n@dudafragoat replying to @loreign_: e quem liga pro WTA finals? duda já tinha aquele torneio e ganhou o que REALMENTE importa… vamos ver quantos grand slams sua queridinha vai pipocar esse ano.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@dudafragoat:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "nem exibição a lorena consegue ganhar eitaaaa esse slam"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "vai ser uma delícia."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "|"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@loreign_ replying to @dudafragoat:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sendo que a lorena ganhou A"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ÚLTIMA PARTIDA QUE ELAS JOGARAM ?????"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "|"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@dudafragoat replying to @loreign_:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "e quem liga pro WTA finals? duda já"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tinha aquele torneio e ganhou o que REALMENTE importa… vamos ver"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "quantos grand slams sua queridinha vai pipocar esse ano."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0005",
+      "type": "paragraph",
+      "text": "@ferettennis: deixe que esses otários comemorem exibição em dupla… lore vai ganhar o troféu de verdade.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@ferettennis:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "deixe que esses otários comemorem exibição em dupla… lore"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "vai ganhar o troféu de verdade."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0006",
+      "type": "paragraph",
+      "text": "@wimbcelina: eita que essas malucas levam até exibição a sério puta que pariu achei que elas tavam pra se matar ali mesmo.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@wimbcelina:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "eita que essas malucas levam até exibição a sério puta que"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pariu achei que elas tavam pra se matar ali mesmo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0007",
+      "type": "paragraph",
+      "text": "@lofere11e: essa maluca da fragoso que tava estressada por causa de set de exibição em duplas mds a lorena alugou um triplex na cabeça dela mesmo.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@lofere11e:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "essa maluca da fragoso que tava estressada por causa de set"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "de exibição em duplas mds a lorena alugou um triplex na cabeça dela"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mesmo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0008",
+      "type": "paragraph",
+      "text": "@mancinilove: gente e a VAGABUNDA DA FERETTE JOGANDO UMA BOLA NA CHIARA???? ESSA FILHA DA PUTA MDS POR ISSO NINGUÉM GOSTA DELA.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@mancinilove:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "gente e a VAGABUNDA DA FERETTE JOGANDO UMA"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "BOLA NA CHIARA???? ESSA FILHA DA PUTA MDS POR ISSO"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "NINGUÉM GOSTA DELA."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0009",
+      "type": "paragraph",
+      "text": "|\n@tennislover3 replying to @mancinilove: não queria falar nada não mas a eduarda deu um risinho quando isso rolou viu eu não to doido. |\n@mancinilove replying to @tennislover3: ela só tava desacreditada com a cara de pau daquela maluca de fazer uma coisa dessas com a mulher dela.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "|"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@tennislover3 replying to @mancinilove:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "não queria falar nada não mas a"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "eduarda deu um risinho quando isso rolou viu eu não to doido."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "|"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@mancinilove replying to @tennislover3:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ela só tava desacreditada com a"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "cara de pau daquela maluca de fazer uma coisa dessas com a mulher dela."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0010",
+      "type": "paragraph",
+      "text": "@nathinhaloarda: e a lorena que perdeu o timing da bola porque teve um flashback de guerra com o gemidão da eduarda… fonte: dos desejos.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@nathinhaloarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "e a lorena que perdeu o timing da bola porque teve um"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "flashback de guerra com o gemidão da eduarda… fonte: dos desejos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0011",
+      "type": "paragraph",
+      "text": "@d_francini: a duda e a chiara todas lindinhas em sincronia jogando duplas mds MEU CASAL.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@d_francini:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "a duda e a chiara todas lindinhas em sincronia jogando"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "duplas mds MEU CASAL."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0012",
+      "type": "paragraph",
+      "text": "@martinslam: muito se fala da chiara e da eduarda mas pouco se fala da QUÍMICA entre a celina e a lorena…\n|\n@ferettennis replying to @martinslam: MDS SIM EU REPAREI A MESMA COISA ELAS TAVAM EM SINCRONIA COMPLETA",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@martinslam:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "muito se fala da chiara e da eduarda mas pouco se fala da"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "QUÍMICA entre a celina e a lorena…"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "|"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@ferettennis replying to @martinslam:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "MDS SIM EU REPAREI A MESMA"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "COISA ELAS TAVAM EM SINCRONIA COMPLETA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0013",
+      "type": "paragraph",
+      "text": "@fraretteloarda: sendo que a tl inteira ta focando nas coisas erradas em vez de focar que a lorena ficou toda desconcertada quando a duda gemeu um pouco mais alto no microfone…\n|\n@ferettemy1 replying to @fraretteloarda: mds você não cansa de ser doente não? me diz de onde você saiu pra gente ir lá e fechar a porta. |\n@goatfragoso replying to @fraretteloarda: única coisa que concordo com os loreners… essa conta ai deveria ser banida por falar tanto absurdo.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@fraretteloarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sendo que a tl inteira ta focando nas coisas erradas em"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "vez de focar que a lorena ficou toda desconcertada quando a duda gemeu"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "um pouco mais alto no microfone…"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "|"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@ferettemy1 replying to @fraretteloarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mds você não cansa de ser"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "doente não? me diz de onde você saiu pra gente ir lá e fechar a porta."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "|"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@goatfragoso replying to @fraretteloarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "única coisa que concordo com"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "os loreners… essa conta ai deveria ser banida por falar tanto absurdo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0014",
+      "type": "paragraph",
+      "text": "Lorena não deu muita atenção, na verdade, ela estava ignorando os comentários como um todo."
+    },
+    {
+      "id": "cap-10-0015",
+      "type": "paragraph",
+      "text": "Não é que ela ficou tão estressada assim de ter perdido, o que deixou Lorena possessa foi como ela perdeu. Ela odiava que tinha deixado Eduarda entrar na sua cabeça daquela forma, e o pior de tudo, aquela vagabunda fez de propósito. Lorena viu no seu sorrisinho exibido que ela tinha feito de propósito, e aquilo só deu mais motivação para Lorena vencer o campeonato que realmente importava.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Não é que ela ficou tão estressada assim de ter perdido, o que deixou Lorena possessa foi "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "como"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " ela perdeu. Ela odiava que tinha deixado Eduarda entrar na sua cabeça daquela forma, e o pior de tudo, aquela vagabunda "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "fez"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "de propósito"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Lorena viu no seu sorrisinho exibido que ela tinha feito de propósito, e aquilo só deu mais motivação para Lorena vencer o campeonato que realmente importava."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0016",
+      "type": "paragraph",
+      "text": "Então ela finalmente conseguiu focar de verdade em seus treinos, e o Leonardo até comentou que ela parecia melhor naquele dia. Lorena se sentia melhor, mais focada, menos ansiosa. Talvez porque seu encontro com Eduarda no dia anterior tinha sido uma confirmação de que a outra garota realmente não pretendia falar nada pra mídia. Se esse fosse seu plano, ela não teria feito tudo de novo, nem provocado Lorena no vestiário."
+    },
+    {
+      "id": "cap-10-0017",
+      "type": "paragraph",
+      "text": "Quanto à provocação, Lorena estava tentando não passar muito tempo lendo as entrelinhas. Não é como se ela estivesse planejando transar com Eduarda de novo - nas duas vezes que aconteceu, foi apenas uma obra do acaso. Lorena não ia intencionalmente procurar a outra garota, e ela duvidava que Eduarda faria o mesmo. O closet de limpeza serviu para aliviar sua tensão, mas era melhor se elas parassem por ali. Lorena não tinha nenhuma intenção de continuar alimentando algo com uma pessoa que ela odiava; e ela definitivamente continuava odiando Eduarda."
+    },
+    {
+      "id": "cap-10-0018",
+      "type": "paragraph",
+      "text": "Na verdade, talvez ela odiasse Eduarda ainda mais, como se cada vez que elas se vissem o ódio crescesse quente em seu peito, o sentimento ameaçando transbordar para fora. Aquela garota estava deixando Lorena um pouco maluca, e ela não ia descansar até conseguir recuperar o que já foi seu."
+    },
+    {
+      "id": "cap-10-0019",
+      "type": "paragraph",
+      "text": "Pro bem ou pro mal, Lorena não vê Eduarda no complexo naquele dia, até porque elas estavam em escalas de treino completamente diferentes - não que Lorena estivesse conferindo."
+    },
+    {
+      "id": "cap-10-0020",
+      "type": "paragraph",
+      "text": "Ela chega no hotel satisfeita com o desenrolar do dia, e um pouco mais confiante pro início da competição. Então Lorena se prepara para o seu jantar com Maggye, que elas tinham combinado naquela noite. Ela tinha que admitir que estava um pouco ansiosa, tinha muito tempo que ela e Maggye não saíam daquela forma, só as duas."
+    },
+    {
+      "id": "cap-10-0021",
+      "type": "paragraph",
+      "text": "Lorena tenta se lembrar que era só um jantar, só algumas horas, e que ia sair tudo bem."
+    },
+    {
+      "id": "cap-10-0022",
+      "type": "paragraph",
+      "text": "Elas vão juntas pro restaurante, que foi indicação de Maggye - era um lugar super exclusivo, aparentemente, com mesas espaçadas e clientes da alta sociedade; o local perfeito se você buscava privacidade. Elas se sentam em uma mesa perto da parede, a iluminação do local aconchegante, um piano tocando ao fundo. Lorena imediatamente já gosta do lugar."
+    },
+    {
+      "id": "cap-10-0023",
+      "type": "paragraph",
+      "text": "O cardápio tinha diversas opções veganas, e elas pedem algumas entradas para começar. Inicialmente, Lorena estava um pouco nervosa, com medo delas ficarem sem assunto em algum momento. No entanto, ela não podia estar mais errada, porque logo elas engatam em conversas sobre sua infância, sobre as pessoas da sua escola, sobre outros tenistas e fofocas do circuito. Elas compartilham sobre viagens que fizeram ao longo dos anos, contam como estão suas famílias, os livros que elas andam lendo e séries que elas têm assistido."
+    },
+    {
+      "id": "cap-10-0024",
+      "type": "paragraph",
+      "text": "Lorena descobre que conversar com Maggye é tão fácil quanto era antes, e que elas ainda tinham muito em comum. Na verdade, a sensação que ela tem é como se o tempo não tivesse passado, ou como se elas tivessem permanecido amigas todos esses anos. Lorena sempre tem dificuldade de deixar as pessoas de fato conhecerem ela, além do que ela propositalmente passava pro público. A questão é que Maggye já conhecia Lorena, e talvez Lorena seja mais parecida com a garota que ela era anos atrás do que ela pensava."
+    },
+    {
+      "id": "cap-10-0025",
+      "type": "paragraph",
+      "text": "Ela nem percebe o tempo passar, e algumas horas depois elas já estão comendo a sobremesa, enquanto Maggye conta pra Lorena sua história do namoro com Júnior. É possível perceber, na forma como Maggye fala dele, o quanto ela está apaixonada, o quanto o relacionamento a faz feliz. Aquilo deixa Lorena genuinamente feliz pela sua amiga, apesar do amor romântico não ser algo que ela conheça muito bem. Lorena tem plena consciência de que se apaixonar é algo que provavelmente não está nas cartas pra ela, e tudo bem. Nunca foi algo que ela realmente quis, ou que ela procurou; Lorena tinha outras prioridades na vida."
+    },
+    {
+      "id": "cap-10-0026",
+      "type": "paragraph",
+      "text": "Lorena está pegando mais uma colherada da sobremesa - que estava maravilhosa, por sinal - quando Maggye acaba de falar, e olha pra ela por um momento."
+    },
+    {
+      "id": "cap-10-0027",
+      "type": "paragraph",
+      "text": "– Mas e você, amiga? - Ela pergunta, fazendo Lorena levantar as sobrancelhas."
+    },
+    {
+      "id": "cap-10-0028",
+      "type": "paragraph",
+      "text": "– E eu o que?"
+    },
+    {
+      "id": "cap-10-0029",
+      "type": "paragraph",
+      "text": "– Eu acabei de falar um monte da minha vida amorosa… Mas e a sua? -Maggye dá um gole em sua bebida, seu tom casual."
+    },
+    {
+      "id": "cap-10-0030",
+      "type": "paragraph",
+      "text": "– Ah. - Lorena solta uma pequena risada. - Não tem muito o que falar, na verdade… Eu nunca me envolvi sério com ninguém."
+    },
+    {
+      "id": "cap-10-0031",
+      "type": "paragraph",
+      "text": "– E quem disse que eu tô falando de se envolver sério? - Maggye responde. - Pode ser uma coisa casual, um rolinho…"
+    },
+    {
+      "id": "cap-10-0032",
+      "type": "paragraph",
+      "text": "– Um rolinho? - Lorena engole em seco, imagens do dia anterior no closet vindo sem aviso à sua mente. - Não tem nada do tipo, também não."
+    },
+    {
+      "id": "cap-10-0033",
+      "type": "paragraph",
+      "text": "– Nada, mesmo? - Maggye insiste. - Deve ter alguém que você ache interessante, não sei… Tem tanta gente no circuito, sabe? Algum jogador, ou… Jogadora.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Nada, mesmo? - Maggye insiste. - Deve ter alguém que você ache interessante, não sei… Tem tanta gente no circuito, sabe? Algum jogador, ou… "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Jogadora"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0034",
+      "type": "paragraph",
+      "text": "A palavra faz Lorena paralisar, seu coração começando a bater mais forte no peito."
+    },
+    {
+      "id": "cap-10-0035",
+      "type": "paragraph",
+      "text": "– Maggye, do que você… - Sua voz falha, e ela precisa limpar a garganta. -Do que você tá falando?"
+    },
+    {
+      "id": "cap-10-0036",
+      "type": "paragraph",
+      "text": "– Não tô falando nada, mas você sabe que tudo bem, né? - Maggye diz. - Eu jamais te julgaria, nem nada do tipo."
+    },
+    {
+      "id": "cap-10-0037",
+      "type": "paragraph",
+      "text": "– Tudo bem, mas por que você acha isso? - Lorena aperta suas mãos em seu colo, que começam a tremer de leve."
+    },
+    {
+      "id": "cap-10-0038",
+      "type": "paragraph",
+      "text": "– Lo, eu não acho nada, de verdade. - O tom de voz de Maggye é gentil. -Eu só tô dizendo que você pode conversar comigo. Caso tenha alguém, não sei, que tenha despertado seu interesse ultimamente."
+    },
+    {
+      "id": "cap-10-0039",
+      "type": "paragraph",
+      "text": "– Puta merda. - Lorena solta, incapaz de se segurar. - Você viu a gente, não viu?"
+    },
+    {
+      "id": "cap-10-0040",
+      "type": "paragraph",
+      "text": "Aquilo faz Maggye levantar as sobrancelhas, parecendo surpresa."
+    },
+    {
+      "id": "cap-10-0041",
+      "type": "paragraph",
+      "text": "– Eu vi vocês…"
+    },
+    {
+      "id": "cap-10-0042",
+      "type": "paragraph",
+      "text": "– Meu Deus, eu sabia que eu tava sendo descuidada demais, como eu pude ser tão burra? - Lorena passa uma mão pelo seu rosto, começando a ficar desesperada. - Eu sabia que no complexo do torneio era se arriscar demais, mas na hora eu não achei que-",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Meu Deus, eu "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sabia"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que eu tava sendo descuidada demais, como eu pude ser tão burra? - Lorena passa uma mão pelo seu rosto, começando a ficar desesperada. - Eu sabia que no complexo do torneio era se arriscar demais, mas na hora eu não achei que-"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0043",
+      "type": "paragraph",
+      "text": "– Lorena, calma. - Maggye estende sua mão, colocando ela em cima da de Lorena. - Do que você tá falando?"
+    },
+    {
+      "id": "cap-10-0044",
+      "type": "paragraph",
+      "text": "Lorena respira fundo, ficando um pouco confusa."
+    },
+    {
+      "id": "cap-10-0045",
+      "type": "paragraph",
+      "text": "– Do que você tá falando?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Do que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "você"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " tá falando?"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0046",
+      "type": "paragraph",
+      "text": "Maggye suspira, fechando seus olhos por um momento."
+    },
+    {
+      "id": "cap-10-0047",
+      "type": "paragraph",
+      "text": "– Eu não ia falar diretamente, mas… Bem, eu tô falando de você, e da Eduarda."
+    },
+    {
+      "id": "cap-10-0048",
+      "type": "paragraph",
+      "text": "Lorena sente seu estômago revirar, seu coração batendo tão rápido que ela acha que ele pode sair do peito a qualquer momento."
+    },
+    {
+      "id": "cap-10-0049",
+      "type": "paragraph",
+      "text": "– Sim, eu também. - Ela admite, sabendo que era tarde demais pra negar. -Você viu a gente no closet de limpeza ontem-"
+    },
+    {
+      "id": "cap-10-0050",
+      "type": "paragraph",
+      "text": "– Ontem? - Maggye interrompe. - Como assim? Vocês… - Ela levanta as sobrancelhas, ficando levemente boquiaberta. - Lorena, você transou com a Eduarda de novo?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Ontem? - Maggye interrompe. - Como assim? Vocês… - Ela levanta as sobrancelhas, ficando levemente boquiaberta. - Lorena, você transou com a Eduarda "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "de novo?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0051",
+      "type": "paragraph",
+      "text": "– Como assim de novo? - Lorena fica tão confusa que até diminui sua ansiedade. - Maggye, você tá falando do-"
+    },
+    {
+      "id": "cap-10-0052",
+      "type": "paragraph",
+      "text": "– Do WTA finals, Lorena. - Maggye explica."
+    },
+    {
+      "id": "cap-10-0053",
+      "type": "paragraph",
+      "text": "– Como você… - Ela tenta raciocinar, mas nada daquilo faz sentido. - Você não tava lá, ninguém mais tava lá, porque já era o último dia, e… Como você sabe disso?"
+    },
+    {
+      "id": "cap-10-0054",
+      "type": "paragraph",
+      "text": "Maggye abre a boca, hesitando por alguns segundos."
+    },
+    {
+      "id": "cap-10-0055",
+      "type": "paragraph",
+      "text": "– Então… - Ela começa a falar, como quem sabe que foi pego fazendo algo que não devia. - Por favor, não surta."
+    },
+    {
+      "id": "cap-10-0056",
+      "type": "paragraph",
+      "text": "– Maggye!",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Maggye!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0057",
+      "type": "paragraph",
+      "text": "– A Eduarda me contou. - Maggye admite, e Lorena solta uma risada desacreditada."
+    },
+    {
+      "id": "cap-10-0058",
+      "type": "paragraph",
+      "text": "– Ela… Ela te contou??? - Lorena passa uma mão por seus cabelos. - Puta que pariu, eu vou matar a Eduarda!",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Ela… Ela "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "te contou???"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " - Lorena passa uma mão por seus cabelos. - Puta que pariu, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "eu vou matar a Eduarda!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0059",
+      "type": "paragraph",
+      "text": "– Lorena, calma. - Maggye tenta controlar a situação. - Não foi de propósito, eu não acho que ela queria me contar."
+    },
+    {
+      "id": "cap-10-0060",
+      "type": "paragraph",
+      "text": "– Isso torna tudo pior! - Lorena está cada vez mais desesperada. - Se ela contou pra você sem querer, pra quem mais ela deve ter falado?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Isso torna tudo pior! - Lorena está cada vez mais desesperada. - Se ela contou pra você "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sem querer"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", pra quem mais ela deve ter falado?"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0061",
+      "type": "paragraph",
+      "text": "– Olha, sinceramente? Eu acho que pra ninguém. - Maggye responde. - Eu acho que foi inclusive por isso que ela me contou, porque ela não tava aguentando mais guardar só pra ela. Não sei, foi a impressão que me passou. - Ela fala. - Inclusive, ela me fez prometer que eu não ia falar pra ninguém, e pouco depois a equipe dela apareceu, e deu pra ver na cara dela que eles não sabiam de nada."
+    },
+    {
+      "id": "cap-10-0062",
+      "type": "paragraph",
+      "text": "Lorena para, respirando fundo algumas vezes, tentando pensar. Se Maggye estivesse certa, talvez não era motivo pra tanto pânico, mas mesmo assim…",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena para, respirando fundo algumas vezes, tentando pensar. Se Maggye estivesse certa, talvez não era motivo pra "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tanto"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " pânico, mas mesmo assim…"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0063",
+      "type": "paragraph",
+      "text": "– Maggye, me explica isso direito. - Ela pede. - Em que contexto a Eduarda te contou isso?"
+    },
+    {
+      "id": "cap-10-0064",
+      "type": "paragraph",
+      "text": "– Não teve muito contexto. - Maggye solta uma risada. - Eu tava em uma das salas de descanso do torneio, ela apareceu, e do nada começou a me perguntar sobre você."
+    },
+    {
+      "id": "cap-10-0065",
+      "type": "paragraph",
+      "text": "Aquilo chama a atenção de Lorena."
+    },
+    {
+      "id": "cap-10-0066",
+      "type": "paragraph",
+      "text": "– Perguntar sobre mim?"
+    },
+    {
+      "id": "cap-10-0067",
+      "type": "paragraph",
+      "text": "– Sim, ela sabe que a gente era amiga, e ela queria saber se eu sabia alguma coisa sobre seu histórico amoroso. - Maggye conta. - Ela tava tentando descobrir se eu sabia que você ficava com mulheres."
+    },
+    {
+      "id": "cap-10-0068",
+      "type": "paragraph",
+      "text": "– E o que você falou?"
+    },
+    {
+      "id": "cap-10-0069",
+      "type": "paragraph",
+      "text": "– Eu nem falei nada, de verdade. Ela começou a se embaralhar toda, e eu me toquei que tinha mais alguma coisa ali."
+    },
+    {
+      "id": "cap-10-0070",
+      "type": "paragraph",
+      "text": "Lorena tem que admitir que a cena parecia um tanto engraçada na sua cabeça, se não fosse a coisa mais estúpida que alguém poderia fazer.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena tem que admitir que a cena parecia um tanto engraçada na sua cabeça, se não fosse a coisa "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mais estúpida que alguém poderia fazer"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0071",
+      "type": "paragraph",
+      "text": "– E aí você perguntou?"
+    },
+    {
+      "id": "cap-10-0072",
+      "type": "paragraph",
+      "text": "– Não exatamente, eu só falei que parecia que ela tava interessada em você, e aí ela se embaralhou ainda mais, e… Bem, ela acabou me contando o que aconteceu entre vocês."
+    },
+    {
+      "id": "cap-10-0073",
+      "type": "paragraph",
+      "text": "– Quando foi isso? - Lorena pergunta, querendo entender todos os detalhes."
+    },
+    {
+      "id": "cap-10-0074",
+      "type": "paragraph",
+      "text": "– Dois dias atrás."
+    },
+    {
+      "id": "cap-10-0075",
+      "type": "paragraph",
+      "text": "Aquilo significava que foi antes delas transarem de novo no dia anterior.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Aquilo significava que foi "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "antes"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " delas transarem de novo no dia anterior."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0076",
+      "type": "paragraph",
+      "text": "– E ela te falou mais alguma coisa? - Lorena não sabia ao certo o que ela queria saber, mas ela sentia que talvez tinha algo a mais ali."
+    },
+    {
+      "id": "cap-10-0077",
+      "type": "paragraph",
+      "text": "– Não muito, ela só… - Maggye para, pensando. - Lo, eu não acho que ela fez por mal, nem nada do tipo. Ela só tava muito confusa, e ela queria… Te entender.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Não muito, ela só… - Maggye para, pensando. - Lo, eu não acho que ela fez por mal, nem nada do tipo. Ela só tava muito confusa, e ela queria… "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Te"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "entender"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0078",
+      "type": "paragraph",
+      "text": "– Me entender? - Aquilo deixa Lorena mais surpresa do que Eduarda ter contado sobre o que aconteceu."
+    },
+    {
+      "id": "cap-10-0079",
+      "type": "paragraph",
+      "text": "– Sim. - Maggye confirma. - Ela tava repensando o que ela conhecia sobre você, porque acho que o que aconteceu entre vocês deixou ela muito confusa. Ela não achou que você… Bem, ela achou que você era hetero, e talvez que você fosse uma pessoa diferente."
+    },
+    {
+      "id": "cap-10-0080",
+      "type": "paragraph",
+      "text": "Lorena se inclina pra trás na cadeira, colocando uma mão em sua boca, pensando sobre o que ela tinha acabado de ouvir. No dia anterior, ela tinha constatado que sua teoria de que Eduarda esqueceu totalmente sobre a noite delas no terraço estava errada, até porque Eduarda meio que admitiu ter acompanhado o que Lorena tinha feito nas férias. No entanto, ela não achou que Eduarda estava pensando tanto assim, pelo menos não ao ponto de falar sobre com Maggye.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena se inclina pra trás na cadeira, colocando uma mão em sua boca, pensando sobre o que ela tinha acabado de ouvir. No dia anterior, ela tinha constatado que sua teoria de que Eduarda esqueceu totalmente sobre a noite delas no terraço estava errada, até porque Eduarda meio que admitiu ter acompanhado o que Lorena tinha feito nas férias. No entanto, ela não achou que Eduarda estava pensando "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tanto assim"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", pelo menos não ao ponto de falar sobre com Maggye."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0081",
+      "type": "paragraph",
+      "text": "– Eu… Eu não sei muito bem o que pensar."
+    },
+    {
+      "id": "cap-10-0082",
+      "type": "paragraph",
+      "text": "– Talvez você devesse conversar com ela."
+    },
+    {
+      "id": "cap-10-0083",
+      "type": "paragraph",
+      "text": "– Com a Eduarda? - Lorena solta o ar pelo nariz, porque aquela era a sugestão mais absurda que ela já ouviu. - A gente não tem nada pra conversar."
+    },
+    {
+      "id": "cap-10-0084",
+      "type": "paragraph",
+      "text": "– Ah, não? - Maggye cruza os braços, cerrando os olhos pra ela. - Porque se eu entendi direito, vocês transaram ontem de novo.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Ah, não? - Maggye cruza os braços, cerrando os olhos pra ela. - Porque se eu entendi direito, vocês "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "transaram ontem de novo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0085",
+      "type": "paragraph",
+      "text": "– Maggye, fala baixo. - Lorena pede, olhando em volta. - Olha, ontem foi… Não sei, foi um deslize."
+    },
+    {
+      "id": "cap-10-0086",
+      "type": "paragraph",
+      "text": "– Mais um?"
+    },
+    {
+      "id": "cap-10-0087",
+      "type": "paragraph",
+      "text": "– Sim, mais um. - Lorena fala entre dentes. - Não foi planejado, a gente só… Não sei, se viu no corredor, e começou a discutir, e aí ela me empurrou pra dentro do closet de limpeza.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Sim, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mais um"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". - Lorena fala entre dentes. - Não foi planejado, a gente só… Não sei, se viu no corredor, e começou a discutir, e aí ela me empurrou pra dentro do closet de limpeza."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0088",
+      "type": "paragraph",
+      "text": "– Ah sim, e aí você teve que transar com ela, né?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Ah sim, e aí você "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "teve"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que transar com ela, né?"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0089",
+      "type": "paragraph",
+      "text": "Lorena trava seu maxilar, odiando que na sua cabeça tinha sido mais ou menos aquilo."
+    },
+    {
+      "id": "cap-10-0090",
+      "type": "paragraph",
+      "text": "– Enfim, não teve conversa, e nem vai ter. - Ela fala. - Foi uma coisa puramente carnal, do calor do momento, não sei."
+    },
+    {
+      "id": "cap-10-0091",
+      "type": "paragraph",
+      "text": "Era esquisito pra Lorena falar sobre aquilo em voz alta. Ela nunca tinha falado sobre suas experiências sexuais com ninguém em voz alta, mas ela sentia que podia confiar em Maggye. Mesmo se não pudesse, não é como se fosse servir de muita coisa tentar negar àquela altura.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Era esquisito pra Lorena falar sobre aquilo em voz alta. Ela nunca tinha falado sobre suas experiências sexuais com "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ninguém"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " em voz alta, mas ela sentia que podia confiar em Maggye. Mesmo se não pudesse, não é como se fosse servir de muita coisa tentar negar àquela altura."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0092",
+      "type": "paragraph",
+      "text": "– E foi bom? - A pergunta pega Lorena totalmente de surpresa, e ela quase engasga na sua própria saliva."
+    },
+    {
+      "id": "cap-10-0093",
+      "type": "paragraph",
+      "text": "– Você quer dizer o…"
+    },
+    {
+      "id": "cap-10-0094",
+      "type": "paragraph",
+      "text": "– O sexo. - Maggye dá de ombros. - Foi bom?"
+    },
+    {
+      "id": "cap-10-0095",
+      "type": "paragraph",
+      "text": "Lorena perde todas as suas palavras, e ela tem certeza que está ficando vermelha."
+    },
+    {
+      "id": "cap-10-0096",
+      "type": "paragraph",
+      "text": "Bem nessa hora, o garçom aparece para retirar os pratos, e Lorena bebe um gole de sua água, tentando se recompor."
+    },
+    {
+      "id": "cap-10-0097",
+      "type": "paragraph",
+      "text": "– Não sei, foi… Normal. - Ela fala quando ele vai embora."
+    },
+    {
+      "id": "cap-10-0098",
+      "type": "paragraph",
+      "text": "– Normal? - Maggye parece não acreditar."
+    },
+    {
+      "id": "cap-10-0099",
+      "type": "paragraph",
+      "text": "Como Lorena poderia começar a explicar que transar com Eduarda naquele terraço pareceu uma experiência de outra vida, que foi tão bom que ela sentia vontade de morrer toda vez que lembrava do ocorrido, de vergonha e de ódio mortal por aquele ter sido de longe o melhor sexo que ela já teve em sua vida? Como ela poderia admitir que fazer sua maior rival gozar gemendo no seu ouvido a fez se sentir mais viva do que qualquer outra coisa nos últimos anos, e que mesmo no confinamento e desconforto do closet de limpeza foi tão surreal que ela não conseguia tirar as imagens de sua cabeça? Lorena não sabia como explicar, até porque ela estava se esforçando ao máximo para não se permitir pensar em todas essas coisas.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Como Lorena poderia começar a explicar que transar com Eduarda naquele terraço pareceu uma experiência de outra vida, que foi "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tão bom"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que ela sentia vontade de morrer toda vez que lembrava do ocorrido, de vergonha e de "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ódio mortal"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " por aquele ter sido de longe o melhor sexo que ela já teve em sua vida? Como ela poderia admitir que fazer sua maior rival gozar gemendo no seu ouvido a fez se sentir mais viva do que qualquer outra coisa nos últimos anos, e que mesmo no confinamento e desconforto do closet de limpeza foi tão surreal que ela não conseguia tirar as imagens de sua cabeça? Lorena não sabia como explicar, até porque ela estava se esforçando ao máximo para não se permitir "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pensar"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " em todas essas coisas."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0100",
+      "type": "paragraph",
+      "text": "– Tá, talvez não tenha sido exatamente normal. - Ela fala por fim. - Na verdade foi… Muito bom. - Lorena admite. - O que me faz querer morrer, porque eu ainda não acredito que fiz isso com a maldita da Eduarda Fragoso."
+    },
+    {
+      "id": "cap-10-0101",
+      "type": "paragraph",
+      "text": "Maggye sorri, seu olhar ganhando um interesse a mais."
+    },
+    {
+      "id": "cap-10-0102",
+      "type": "paragraph",
+      "text": "– Olha, eu acho isso ótimo. - Ela fala. - Sabe… Eu gosto da Eduarda."
+    },
+    {
+      "id": "cap-10-0103",
+      "type": "paragraph",
+      "text": "– Não sei porquê. - Lorena solta um riso seco."
+    },
+    {
+      "id": "cap-10-0104",
+      "type": "paragraph",
+      "text": "– Eu tô falando sério… Ela sempre foi legal comigo, a gente já teve algumas boas conversas."
+    },
+    {
+      "id": "cap-10-0105",
+      "type": "paragraph",
+      "text": "– Bem, ela sempre foi o exato oposto comigo, e eu não suporto ela.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Bem, ela sempre foi o exato oposto comigo, e eu não "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "suporto"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " ela."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0106",
+      "type": "paragraph",
+      "text": "Maggye não responde de imediato, olhando pra Lorena por algum tempo."
+    },
+    {
+      "id": "cap-10-0107",
+      "type": "paragraph",
+      "text": "– Talvez vocês precisem se conhecer melhor."
+    },
+    {
+      "id": "cap-10-0108",
+      "type": "paragraph",
+      "text": "– E por que a gente faria isso? - Lorena pergunta. - Ela é minha maior rival, Maggye, e o que aconteceu com a gente não importa, até porque não vai acontecer de novo."
+    },
+    {
+      "id": "cap-10-0109",
+      "type": "paragraph",
+      "text": "– E você tem certeza disso?"
+    },
+    {
+      "id": "cap-10-0110",
+      "type": "paragraph",
+      "text": "– Sim! - Lorena fala com mais convicção do que ela sentia. - Foi um erro, as duas vezes, e… Bem, é melhor se ficar no passado.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Sim!"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " - Lorena fala com mais convicção do que ela sentia. - Foi um erro, as duas vezes, e… Bem, é melhor se ficar no passado."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0111",
+      "type": "paragraph",
+      "text": "– Tudo bem, eu não vou insistir. - Maggye levanta suas mãos. - Até porque, eu imagino que se envolver romanticamente com um rival direto não seja a coisa mais fácil do mundo. De toda forma… Eu fico feliz, por você."
+    },
+    {
+      "id": "cap-10-0112",
+      "type": "paragraph",
+      "text": "– Por qual parte, exatamente? - Lorena pergunta, porque ela não sabe se feliz é a palavra que ela usaria.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Por qual parte, exatamente? - Lorena pergunta, porque ela não sabe se "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "feliz"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " é a palavra que ela usaria."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0113",
+      "type": "paragraph",
+      "text": "– Por você se permitir. - Maggye responde. - Independente de quem seja."
+    },
+    {
+      "id": "cap-10-0114",
+      "type": "paragraph",
+      "text": "Lorena para, soltando o ar. Ela não sabe muito bem como falar sobre essas coisas com outra pessoa, ela nunca tinha feito isso antes."
+    },
+    {
+      "id": "cap-10-0115",
+      "type": "paragraph",
+      "text": "– Olha, eu sei que a gente nunca… Que eu nunca te contei que eu…"
+    },
+    {
+      "id": "cap-10-0116",
+      "type": "paragraph",
+      "text": "– Tudo bem. - Maggye fala. - Eu entendo porque você não contou, e eu imagino que deve ser difícil pra você."
+    },
+    {
+      "id": "cap-10-0117",
+      "type": "paragraph",
+      "text": "– É, não sei. - Lorena pisca algumas vezes, pensando. - A verdade é que eu não sei se uma coisa é difícil, quando eu nunca conheci a alternativa. Pra mim, as coisas sempre foram assim, e é o que é."
+    },
+    {
+      "id": "cap-10-0118",
+      "type": "paragraph",
+      "text": "– Então talvez esteja na hora. - Maggye se inclina um pouco na sua direção. - De você conhecer a alternativa. - Ela elabora. - Você nunca falou pra ninguém? O Leonardo não sabe?"
+    },
+    {
+      "id": "cap-10-0119",
+      "type": "paragraph",
+      "text": "– Não, eu não… - Lorena balança a cabeça de leve. - Não é que eu não confio nele, mas eu sei o quanto ele é controlado pelo nosso pai, talvez até mais do que eu, de certa forma. - Ela engole em seco. - Eu não queria fazer ele carregar esse segredo, sabe? Talvez na minha cabeça, seria mais fácil se só eu tivesse algo a esconder."
+    },
+    {
+      "id": "cap-10-0120",
+      "type": "paragraph",
+      "text": "– Eu entendo porque você pensa assim, mas… Não sei, Lorena, me parece muito solitário. - Maggye fala pra ela. - Não precisa ser assim."
+    },
+    {
+      "id": "cap-10-0121",
+      "type": "paragraph",
+      "text": "– Será que não? - Lorena solta um riso triste. - Eu cresci acreditando que precisava ser assim."
+    },
+    {
+      "id": "cap-10-0122",
+      "type": "paragraph",
+      "text": "– Eu sei, mas só porque o seu pai acredita em uma coisa, não significa que ele está certo. - Maggye segura a mão dela por cima da mesa. - Eu tô aqui, e eu não acho que nossa amizade vai prejudicar sua carreira, embora eu saiba que foi isso que ele colocou na sua cabeça."
+    },
+    {
+      "id": "cap-10-0123",
+      "type": "paragraph",
+      "text": "– Eu sei. - Lorena segura a mão dela de volta. - Eu também não acho que vai… Na verdade, eu acho que ter uma amiga talvez faria bem pra mim, num geral. O último ano… Não foi fácil, e toda a pressão que eu coloquei em mim mesma não ajudou. - Ela pausa, olhando pra Maggye. - Talvez ter alguém pra conversar, alguém que entenda… Não sei, talvez ajude."
+    },
+    {
+      "id": "cap-10-0124",
+      "type": "paragraph",
+      "text": "– Eu tenho certeza que sim, e não ia fazer bem só pra você, sabe? - Maggye fala. - Eu também senti falta da minha melhor amiga… Eu converso com outras meninas do circuito, e tenho minhas amizades fora do tênis, mas não é a mesma coisa. Eu sinto falta da gente, Lo."
+    },
+    {
+      "id": "cap-10-0125",
+      "type": "paragraph",
+      "text": "– Eu também. - Lorena sente seus olhos se encherem de lágrimas. - Eu não percebi o quanto eu sentia falta da gente, até a gente voltar a se falar, na verdade. - Ela admite. - Desculpa, Maggye, de verdade. Eu sei que foi culpa minha, eu sei que eu devia ter feito diferente, mas na época eu não sabia como."
+    },
+    {
+      "id": "cap-10-0126",
+      "type": "paragraph",
+      "text": "– Não tem problema, eu entendo. - O tom de voz de Maggye é sincero. - Eu sei como seu pai é, mas… Você não é mais adolescente, e ele não é mais seu treinador. Eu sei que ele ainda controla muita coisa, mas talvez algumas coisas possam ser diferentes agora."
+    },
+    {
+      "id": "cap-10-0127",
+      "type": "paragraph",
+      "text": "– O Leonardo falou a mesma coisa. - Lorena lembra da conversa com seu irmão. - Você tem razão, e eu adoraria ser sua amiga de novo."
+    },
+    {
+      "id": "cap-10-0128",
+      "type": "paragraph",
+      "text": "– Você já é. - Maggye sorri, e Lorena sorri de volta. Ela sente um alívio tão grande, como se um pouco do peso que ela carregava constantemente nas costas tivesse saído dali. Lorena não tinha ideia sobre como conversar sobre as coisas podia ser tão… Libertador. Era um sentimento totalmente novo pra ela. - E você pode conversar comigo, sempre que você precisar. Pode me contar o que você quiser.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Você já é. - Maggye sorri, e Lorena sorri de volta. Ela sente um alívio tão grande, como se um pouco do peso que ela carregava constantemente nas costas tivesse saído dali. Lorena não tinha ideia sobre como "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "conversar"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " sobre as coisas podia ser tão… Libertador. Era um sentimento totalmente novo pra ela. - E você pode conversar comigo, sempre que você precisar. Pode me contar o que você quiser."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0129",
+      "type": "paragraph",
+      "text": "– Obrigada, mesmo. - Lorena fala. - Talvez eu ainda precise de um tempo pra conseguir me abrir sobre certas coisas. Acho que é um pouco novo pra mim."
+    },
+    {
+      "id": "cap-10-0130",
+      "type": "paragraph",
+      "text": "– Não tem problema. - Maggye responde. - A gente pode ir no seu tempo."
+    },
+    {
+      "id": "cap-10-0131",
+      "type": "paragraph",
+      "text": "Lorena assente de leve com a cabeça."
+    },
+    {
+      "id": "cap-10-0132",
+      "type": "paragraph",
+      "text": "– Mas hoje foi bom. - Ela fala. - Muito bom, na verdade."
+    },
+    {
+      "id": "cap-10-0133",
+      "type": "paragraph",
+      "text": "– Eu também achei."
+    },
+    {
+      "id": "cap-10-0134",
+      "type": "paragraph",
+      "text": "– Obrigada por me chamar."
+    },
+    {
+      "id": "cap-10-0135",
+      "type": "paragraph",
+      "text": "– Obrigada por ter aceitado. - Maggye fala. - A gente devia fazer mais vezes."
+    },
+    {
+      "id": "cap-10-0136",
+      "type": "paragraph",
+      "text": "– Eu concordo."
+    },
+    {
+      "id": "cap-10-0137",
+      "type": "paragraph",
+      "text": "Maggye então levanta seu copo, estendendo ele na direção de Lorena."
+    },
+    {
+      "id": "cap-10-0138",
+      "type": "paragraph",
+      "text": "– Um brinde, então. - Ela diz. - A nossa nova velha amizade."
+    },
+    {
+      "id": "cap-10-0139",
+      "type": "paragraph",
+      "text": "Lorena ri, levando seu copo de encontro ao de Maggye."
+    },
+    {
+      "id": "cap-10-0140",
+      "type": "paragraph",
+      "text": "– Um brinde."
+    },
+    {
+      "id": "cap-10-0141",
+      "type": "paragraph",
+      "text": "Não demora muito pra elas pagarem a conta e saírem dali, e quando Lorena chega de volta ao hotel, ela se sente genuinamente feliz. É um sentimento tão novo que é quase esquisito pra ela, mas ela sente que talvez tenha recuperado algo importante naquele dia."
+    },
+    {
+      "id": "cap-10-0142",
+      "type": "paragraph",
+      "text": "Aquilo quase é o suficiente para fazer ela se esquecer do que Eduarda tinha feito. Quase.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Aquilo quase é o suficiente para fazer ela se esquecer do que Eduarda tinha feito. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Quase"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0143",
+      "type": "paragraph",
+      "text": "Lorena pretendia ter uma certa conversinha com ela no dia seguinte.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena pretendia ter uma certa "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "conversinha"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " com ela no dia seguinte."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0144",
+      "type": "divider",
+      "text": "***"
+    },
+    {
+      "id": "cap-10-0145",
+      "type": "paragraph",
+      "text": "Lorena anda pelo complexo do Australian Open por quase uma hora até ela finalmente encontrar Eduarda."
+    },
+    {
+      "id": "cap-10-0146",
+      "type": "paragraph",
+      "text": "Era início da tarde, e ela tinha dito a Leonardo que ele podia voltar para o hotel na frente dela, porque ela tinha marcado uma sessão de massagem na área de relaxamento do torneio. Na verdade, ela estava em busca de certos esclarecimentos, e Lorena duvidava que ia ser uma conversa relaxante.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Era início da tarde, e ela tinha dito a Leonardo que ele podia voltar para o hotel na frente dela, porque ela tinha marcado uma sessão de massagem na área de relaxamento do torneio. Na verdade, ela estava em busca de "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "certos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "esclarecimentos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", e Lorena duvidava que ia ser uma conversa relaxante."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0147",
+      "type": "paragraph",
+      "text": "Depois de rodar pelas quadras de treino e áreas comuns, ela encontra Eduarda em um dos vestiários menores, em um prédio mais afastado da área principal. Lorena se aproxima dela, jogando sua bolsa em cima do banco, e nem pensa duas vezes: ela puxa Eduarda pelo braço, que olha confusa pra ela enquanto Lorena a leva até a área dos chuveiros, empurrando ela pra dentro de uma das cabines."
+    },
+    {
+      "id": "cap-10-0148",
+      "type": "paragraph",
+      "text": "Lorena pressiona Eduarda contra a parede, prendendo ela ali com o braço."
+    },
+    {
+      "id": "cap-10-0149",
+      "type": "paragraph",
+      "text": "– Que is- - Eduarda tenta começar a falar."
+    },
+    {
+      "id": "cap-10-0150",
+      "type": "paragraph",
+      "text": "– Você tem algum problema? - Lorena pergunta, não dando a chance dela completar a frase."
+    },
+    {
+      "id": "cap-10-0151",
+      "type": "paragraph",
+      "text": "Eduarda levanta as sobrancelhas, parecendo genuinamente surpresa."
+    },
+    {
+      "id": "cap-10-0152",
+      "type": "paragraph",
+      "text": "– Se eu tenho algum problema? - Ela pergunta de volta. - Nesse momento, meu problema é voc-",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Se "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "eu"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " tenho algum problema? - Ela pergunta de volta. - Nesse momento, meu problema é voc-"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0153",
+      "type": "paragraph",
+      "text": "– Eu não tô brincando, Fragoso. - Lorena pressiona mais seu braço contra o peito de Eduarda. - Eu te fiz uma pergunta. Você tem algum problema, ou você só é uma anta mesmo?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Eu não tô brincando, Fragoso. - Lorena pressiona mais seu braço contra o peito de Eduarda. - Eu te fiz uma pergunta. Você tem algum problema, ou você só é "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "uma anta"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " mesmo?"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0154",
+      "type": "paragraph",
+      "text": "Eduarda abre sua boca, claramente ofendida."
+    },
+    {
+      "id": "cap-10-0155",
+      "type": "paragraph",
+      "text": "– Você veio mesmo atrás de mim só pra me insult-"
+    },
+    {
+      "id": "cap-10-0156",
+      "type": "paragraph",
+      "text": "– Cala a porra da boca e me escuta. - Lorena corta mais uma vez. - Eu quero saber se você tem alguma explicação pra ter aberto a matraca sobre o aconteceu entre a gente."
+    },
+    {
+      "id": "cap-10-0157",
+      "type": "paragraph",
+      "text": "Eduarda não responde de imediato, parecendo ligar os pontos. Ela aperta seus olhos, emitindo um ruído, como quem sabe que fez merda."
+    },
+    {
+      "id": "cap-10-0158",
+      "type": "paragraph",
+      "text": "– Você tá falando d-"
+    },
+    {
+      "id": "cap-10-0159",
+      "type": "paragraph",
+      "text": "– Da Maggye, sim. - Lorena completa. - Agora será que dá pra você me explicar?"
+    },
+    {
+      "id": "cap-10-0160",
+      "type": "paragraph",
+      "text": "– Eu não acredito que ela te contou. - Eduarda reclama, parecendo irritada."
+    },
+    {
+      "id": "cap-10-0161",
+      "type": "paragraph",
+      "text": "– Eu não acredito que você contou pra ela. - Lorena responde. - Sério, você só é descuidada, não se importa, ou não tem a menor noção das consequências se isso vazar? Você tem sorte que a Maggye é uma pessoa confiável, mas se fosse qualquer outra pe-",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Eu não acredito que você contou pra ela. - Lorena responde. - Sério, você só é descuidada, não se importa, ou não tem a "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "menor noção"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " das consequências se isso vazar? Você tem sorte que a Maggye é uma pessoa confiável, mas se fosse qualquer outra pe-"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0162",
+      "type": "paragraph",
+      "text": "– Eu sei, tá bom? - Eduarda interrompe. - Eu não sou burra, nem nada do que você tá me acusando. Eu sabia que a Maggye não ia falar nada, eu não ia arriscar alguém descobr-"
+    },
+    {
+      "id": "cap-10-0163",
+      "type": "paragraph",
+      "text": "– Será que não ia, mesmo? - Lorena pergunta. - As consequências podem ser piores pra mim, mas você sabe que ia te afetar também, né? Você sabe que não ia passar ilesa pela mídia, pelo que as pessoas falariam-"
+    },
+    {
+      "id": "cap-10-0164",
+      "type": "paragraph",
+      "text": "– Eu já disse que eu sei! - Eduarda corta. - Você acha que eu quero mesmo que as pessoas descubram que eu me envolvi com você, de todas as pessoas do mundo? - Ela fala, e Lorena ignora a pontada que ela sente ao ouvir aquilo. - Eu sei as consequências, Lorena, e eu também não to nenhum pouco afim de arriscar minha carreira, confia em mim.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Eu já disse que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "eu sei!"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " - Eduarda corta. - Você acha que eu quero "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mesmo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que as pessoas descubram que eu me envolvi com você, de todas as pessoas do mundo? - Ela fala, e Lorena ignora a pontada que ela sente ao ouvir aquilo. - Eu sei as consequências, Lorena, e eu também não to nenhum pouco afim de arriscar minha carreira, confia em mim."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0165",
+      "type": "paragraph",
+      "text": "– Então você não contou pra mais ninguém? - Lorena pergunta, retomando seu foco."
+    },
+    {
+      "id": "cap-10-0166",
+      "type": "paragraph",
+      "text": "– Não, claro que não. - Eduarda parece ofendida que ela perguntou."
+    },
+    {
+      "id": "cap-10-0167",
+      "type": "paragraph",
+      "text": "– E como eu sei que posso confiar em você?"
+    },
+    {
+      "id": "cap-10-0168",
+      "type": "paragraph",
+      "text": "– Aí já não é problema meu, né? - Eduarda fala. - Acredita no que você quiser."
+    },
+    {
+      "id": "cap-10-0169",
+      "type": "paragraph",
+      "text": "Eduarda tenta se mover, mas Lorena não deixa, ainda apertando ela contra a parede."
+    },
+    {
+      "id": "cap-10-0170",
+      "type": "paragraph",
+      "text": "– Ah, mas é problema seu sim. - Ela fala. - Eu já te disse o que vai acontecer se você vazar isso.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Ah, mas é problema seu "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sim"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". - Ela fala. - Eu já te disse o que vai acontecer se você vazar isso."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0171",
+      "type": "paragraph",
+      "text": "– Você vai acabar com minha vida, é? - Eduarda solta um riso debochado. -E como você vai fazer isso, exatamente? Me diz, Ferette."
+    },
+    {
+      "id": "cap-10-0172",
+      "type": "paragraph",
+      "text": "– Você ficaria surpresa com o que eu sou capaz, Fragoso."
+    },
+    {
+      "id": "cap-10-0173",
+      "type": "paragraph",
+      "text": "– Eu não tenho medo de você. - Eduarda segura seu olhar."
+    },
+    {
+      "id": "cap-10-0174",
+      "type": "paragraph",
+      "text": "– Talvez deveria ter. - Lorena ameaça, chegando um pouco mais perto."
+    },
+    {
+      "id": "cap-10-0175",
+      "type": "paragraph",
+      "text": "– Então eu te pergunto de novo. - Eduarda fala, sua voz um pouco mais baixa. - O que você vai fazer?"
+    },
+    {
+      "id": "cap-10-0176",
+      "type": "paragraph",
+      "text": "Lorena sente o ódio crescendo por seu peito, sua respiração acelerando, seu coração quase explodindo. Ela olha pra Eduarda por mais um segundo, e então… Ela move sua mão e liga a torneira do chuveiro, fazendo com que água fria caia sobre a cabeça de Eduarda."
+    },
+    {
+      "id": "cap-10-0177",
+      "type": "paragraph",
+      "text": "– Mas que porra é essa? - Eduarda pergunta, passando uma mão pelo seu rosto. - Você tá maluca?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Mas que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "porra é essa?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " - Eduarda pergunta, passando uma mão pelo seu rosto. - Você tá maluca?"
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0178",
+      "type": "paragraph",
+      "text": "Eduarda tenta mais uma vez sair dali, mas novamente Lorena não deixa, prendendo ela na parede. Os cabelos de Eduarda começam a se prender em seu rosto, e Lorena sente os dela também ficando molhados, a água a atingindo."
+    },
+    {
+      "id": "cap-10-0179",
+      "type": "paragraph",
+      "text": "As duas se olham por um momento, e o olhar de Lorena se abaixa pelo rosto de Eduarda, indo até seus lábios, que também estavam molhados. Eduarda percebe o movimento, e quando Lorena levanta o olhar de novo, não leva nem um segundo até as duas se moverem ao mesmo tempo, se chocando sob a água do chuveiro."
+    },
+    {
+      "id": "cap-10-0180",
+      "type": "paragraph",
+      "text": "Seus lábios se encontram em um movimento rápido, quase desesperado, e Lorena finalmente move seu braço, dessa vez puxando Eduarda pra perto em vez de empurrá-la pra longe. Eduarda leva uma mão até seu pescoço, o calor de seu toque se contrastando com o gelado da água, e Lorena já sente uma eletricidade familiar subir por seu corpo."
+    },
+    {
+      "id": "cap-10-0181",
+      "type": "paragraph",
+      "text": "Suas línguas se encontram, o beijo ganhando velocidade e intensidade à medida que elas continuam puxando uma a outra pra perto. Lorena sente sua roupa se encharcar, grudando em sua pele, seu rabo de cavalo já completamente molhado, começando a cair. A cada vez que Eduarda passava a mão pelo seu corpo, ou a beijava com vontade, não eram só as roupas de Lorena que ficavam mais molhadas."
+    },
+    {
+      "id": "cap-10-0182",
+      "type": "paragraph",
+      "text": "Lorena parte o beijo por um momento, precisando respirar.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena parte o beijo por um momento, precisando "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "respirar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0183",
+      "type": "paragraph",
+      "text": "– Isso não significa que eu não continuo possessa com o que você fez. - Ela fala, suas mãos ainda em Eduarda.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Isso não significa que eu não continuo "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "possessa"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " com o que você fez. - Ela fala, suas mãos ainda em Eduarda."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0184",
+      "type": "paragraph",
+      "text": "– Eu não tô nem aí. - Eduarda responde, puxando ela pela cintura, beijando Lorena novamente."
+    },
+    {
+      "id": "cap-10-0185",
+      "type": "paragraph",
+      "text": "Eduarda passa a mão pelas suas costas por baixo da blusa, o movimento enviando arrepios por todo seu corpo, e Lorena pressiona ela ainda mais contra a parede, movendo uma mão de seu pescoço para sua barriga, subindo ela por baixo da blusa de Eduarda, acariciando sua cintura."
+    },
+    {
+      "id": "cap-10-0186",
+      "type": "paragraph",
+      "text": "Eduarda emite um leve som em sua boca, e Lorena suga seu lábio com vontade, antes de descer, beijando o pescoço molhado de Eduarda. Ela lambe a água que escorre pelo seu pescoço, sugando de leve como se ela pudesse secar Eduarda com a boca."
+    },
+    {
+      "id": "cap-10-0187",
+      "type": "paragraph",
+      "text": "Eduarda emite um ruído, seu corpo tensionando sob o toque de Lorena. Em vez de subir novamente, Lorena se abaixa mais, beijando a clavícula de Eduarda, passando suas mãos pela sua barriga molhada. Lorena continua descendo, até que ela se agacha, colocando suas mãos nos shorts de Eduarda."
+    },
+    {
+      "id": "cap-10-0188",
+      "type": "paragraph",
+      "text": "– O que você… - Eduarda começa a perguntar, olhando pra baixo."
+    },
+    {
+      "id": "cap-10-0189",
+      "type": "paragraph",
+      "text": "Lorena olha pra cima, seus olhos encontrando os de Eduarda."
+    },
+    {
+      "id": "cap-10-0190",
+      "type": "paragraph",
+      "text": "– Eu quero sentir exatamente o quão molhada você tá. - Ela fala, já abaixando os shorts de Eduarda, que arregala os olhos de leve pra ela, mas não protesta.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Eu quero sentir exatamente "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "o quão"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " molhada você tá. - Ela fala, já abaixando os shorts de Eduarda, que arregala os olhos de leve pra ela, mas não protesta."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0191",
+      "type": "paragraph",
+      "text": "Lorena se abaixa mais para tirar os tênis de Eduarda também, de forma que ela consiga tirar o shorts totalmente do caminho. Ela levanta um pouco de novo, abrindo as pernas de Eduarda com as mãos, e começa a beijar sua coxa, também sugando a água dali."
+    },
+    {
+      "id": "cap-10-0192",
+      "type": "paragraph",
+      "text": "Eduarda apoia uma mão na parede lateral do box, tentando manter seu equilíbrio, e Lorena sorri, levando seus dedos até a barra de sua calcinha. Ela brinca por ali um pouco antes de finalmente descer a peça de roupa."
+    },
+    {
+      "id": "cap-10-0193",
+      "type": "paragraph",
+      "text": "Depois de tirar todos os empecilhos do caminho, Lorena se ajeita, e então ela levanta uma das penas de Eduarda, colocando ela sobre seu ombro. Eduarda se move, de forma que ela continue equilibrada, ainda se apoiando na parede lateral."
+    },
+    {
+      "id": "cap-10-0194",
+      "type": "paragraph",
+      "text": "Então Lorena se aproxima, colocando sua boca entre as penas de Eduarda, o calor de sua pele quase pegando fogo comparado ao gelado da água que continuava caindo ao redor delas. Ela movimenta sua língua por ali, feliz de constatar que definitivamente não era só o chuveiro que estava deixando Eduarda encharcada.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Então Lorena se aproxima, colocando sua boca entre as penas de Eduarda, o calor de sua pele quase pegando fogo comparado ao gelado da água que continuava caindo ao redor delas. Ela movimenta sua língua por ali, feliz de constatar que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "definitivamente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " não era "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "só o chuveiro"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que estava deixando Eduarda encharcada."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0195",
+      "type": "paragraph",
+      "text": "Lorena encontra o clitóris, e então ela começa a movimentar a língua por ali, e Eduarda deixa escapar um gemido, seu corpo tensionando. Lorena continua os movimentos, alternando com chupadas, estimulando o ponto de prazer de Eduarda o máximo possível, aumentando a velocidade aos poucos conforme o corpo de Eduarda reage aos seus toques."
+    },
+    {
+      "id": "cap-10-0196",
+      "type": "paragraph",
+      "text": "Os gemidos abafados de Eduarda começam a ficar um pouco mais altos, e Lorena sente ela colocando mais força em seu braço que estava apoiado. Então Eduarda leva sua mão livre para a cabeça de Lorena, colocando ela em seus cabelos, puxando de leve."
+    },
+    {
+      "id": "cap-10-0197",
+      "type": "paragraph",
+      "text": "Lorena aumenta ainda mais a velocidade, sentindo Eduarda ficando mais molhada, seu quadril subindo cada vez mais, suas pernas começando a tremer. Ela percebe o momento exato em que o corpo de Eduarda tensiona como um todo, um barulho escapando do fundo de sua garganta, suas pernas ficando bambas, seu quadril subindo e descendo."
+    },
+    {
+      "id": "cap-10-0198",
+      "type": "paragraph",
+      "text": "Lorena não para seus movimentos até que ela tenha certeza que o orgasmo de Eduarda tenha passado, e então ela respira fundo antes de subir, ficando na altura de Eduarda novamente, que continuava respirando pesado."
+    },
+    {
+      "id": "cap-10-0199",
+      "type": "paragraph",
+      "text": "– Você… - Eduarda murmura, balançando a cabeça de leve enquanto olha pra Lorena."
+    },
+    {
+      "id": "cap-10-0200",
+      "type": "paragraph",
+      "text": "– Eu o que? - Lorena se aproxima, um meio sorriso em seu rosto."
+    },
+    {
+      "id": "cap-10-0201",
+      "type": "paragraph",
+      "text": "Eduarda engole em seco, como se nem ela soubesse o que ela queria falar."
+    },
+    {
+      "id": "cap-10-0202",
+      "type": "paragraph",
+      "text": "– Isso ainda não acabou, Ferette. - Ela parece se recompor."
+    },
+    {
+      "id": "cap-10-0203",
+      "type": "paragraph",
+      "text": "– Ah, não? - Lorena levanta uma sobrancelha. - Porque eu acho que a gente já desperdiçou água demais por hoje."
+    },
+    {
+      "id": "cap-10-0204",
+      "type": "paragraph",
+      "text": "Lorena faz menção de se virar, mas antes que ela consiga, Eduarda a puxa pelo braço."
+    },
+    {
+      "id": "cap-10-0205",
+      "type": "paragraph",
+      "text": "– Você tá maluca se você acha que vai sair daqui agora. - Eduarda fala antes de inverter suas posições, agora empurrando Lorena contra a parede. Ela leva sua boca até o ouvido de Lorena. – Eu sei que você tá tão molhada quanto eu, Ferette."
+    },
+    {
+      "id": "cap-10-0206",
+      "type": "paragraph",
+      "text": "– Deve ser o chuveiro. - Lorena precisa se esforçar para manter sua voz estável."
+    },
+    {
+      "id": "cap-10-0207",
+      "type": "paragraph",
+      "text": "Eduarda solta uma risada, e então ela leva uma mão até os shorts de Lorena, colocando ela entre suas pernas por cima do tecido."
+    },
+    {
+      "id": "cap-10-0208",
+      "type": "paragraph",
+      "text": "– Ah, sim… - Eduarda sussurra. - Só o chuveiro, né?"
+    },
+    {
+      "id": "cap-10-0209",
+      "type": "paragraph",
+      "text": "Lorena fecha seus olhos, tentando se controlar. A água fria segue caindo, tocando cada centímetro de seu corpo, e ainda assim Lorena sente cada vez mais calor."
+    },
+    {
+      "id": "cap-10-0210",
+      "type": "paragraph",
+      "text": "– S-sim. - Sua voz sai entrecortada, e Eduarda se aproxima, aplicando ainda mais pressão com suas mãos."
+    },
+    {
+      "id": "cap-10-0211",
+      "type": "paragraph",
+      "text": "– E depois você fala que a mentirosa sou eu. - Eduarda sussurra em seus lábios, antes de beijar Lorena mais uma vez."
+    },
+    {
+      "id": "cap-10-0212",
+      "type": "paragraph",
+      "text": "Eduarda continua o movimento com suas mãos, e Lorena solta um gemido em sua boca, o prazer percorrendo por todo seu corpo. Ela está se controlando para não gritar que Eduarda pare com essa tortura e apenas encoste nela de verdade, quando de repente… Ela escuta passos se aproximando, alguém entrando lá dentro.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Eduarda continua o movimento com suas mãos, e Lorena solta um gemido em sua boca, o prazer percorrendo por todo seu corpo. Ela está se controlando para não gritar que Eduarda pare com essa tortura e apenas encoste nela "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "de verdade"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", quando de repente… Ela escuta passos se aproximando, alguém entrando lá dentro."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0213",
+      "type": "paragraph",
+      "text": "As duas param ao mesmo tempo, arregalando os olhos uma pra outra. Lorena prende sua respiração, apenas olhando pra Eduarda, sem saber o que fazer. Eduarda se vira, trancando a porta da cabine, que naquele momento estava apenas encostada, antes que a pessoa se aproxime. Então, nenhuma delas se mexe, e elas escutam os passos passando pela cabine em que elas estavam, até provavelmente duas ou três cabines depois. Logo é possível ouvir o barulho de outro chuveiro sendo ligado, a água caindo."
+    },
+    {
+      "id": "cap-10-0214",
+      "type": "paragraph",
+      "text": "Elas se olham por mais um momento, Lorena sentindo seu coração acelerar cada vez mais."
+    },
+    {
+      "id": "cap-10-0215",
+      "type": "paragraph",
+      "text": "– O que a gente faz? - Eduarda sussurra, e Lorena coloca uma mão sobre sua boca."
+    },
+    {
+      "id": "cap-10-0216",
+      "type": "paragraph",
+      "text": "– Shhh. - É tudo que ela fala, e então ela aponta pra porta com a cabeça."
+    },
+    {
+      "id": "cap-10-0217",
+      "type": "paragraph",
+      "text": "Eduarda apenas assente, e então ela se abaixa, buscando suas roupas que ainda estavam espalhadas pelo chão molhado. Ela veste sua calcinha e seu shorts, e então se vira para Lorena novamente."
+    },
+    {
+      "id": "cap-10-0218",
+      "type": "paragraph",
+      "text": "– Espera. - Ela faz o movimento da palavra com a boca, sem emitir sons, estendendo sua mão. - Depois você vai."
+    },
+    {
+      "id": "cap-10-0219",
+      "type": "paragraph",
+      "text": "– Tá bom. - Lorena também não emite sons, confiando na leitura labial."
+    },
+    {
+      "id": "cap-10-0220",
+      "type": "paragraph",
+      "text": "Então Eduarda a observa por mais um segundo, antes de pegar seus tênis com as mãos e sair dali. Ela se movimenta com cuidado para não fazer barulho, e pouco depois Lorena já não consegue mais ouvir nada, Eduarda indo para a área comum do vestiário."
+    },
+    {
+      "id": "cap-10-0221",
+      "type": "paragraph",
+      "text": "Ela respira fundo, a água ainda caindo sobre ela. Tá tudo bem, Lorena repete pra si mesma. A pessoa provavelmente achou que era só alguém tomando banho, nada demais acontecendo. Eduarda já tinha ido, e era melhor se Lorena fosse antes que a outra pessoa saísse do chuveiro também, para não ver ela encharcada em suas roupas.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Ela respira fundo, a água ainda caindo sobre ela. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tá tudo bem"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", Lorena repete pra si mesma. A pessoa provavelmente achou que era só alguém tomando banho, nada demais acontecendo. Eduarda já tinha ido, e era melhor se Lorena fosse antes que a outra pessoa saísse do chuveiro também, para não ver ela "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "encharcada em suas roupas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0222",
+      "type": "paragraph",
+      "text": "Ainda assim, ela espera alguns minutos, caso tenha alguém fora da área dos chuveiros que tenha visto Eduarda. Só para não ficar muito na cara que elas saíram ao mesmo tempo."
+    },
+    {
+      "id": "cap-10-0223",
+      "type": "paragraph",
+      "text": "Ela aproveita esse tempo para tentar se recuperar, emocionalmente e, bem, fisicamente também, depois de Eduarda ter deixado ela ali quase explodindo, sem conseguir aliviar sua tensão.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Ela aproveita esse tempo para tentar se recuperar, emocionalmente e, bem, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "fisicamente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " também, depois de Eduarda ter deixado ela ali quase explodindo, sem conseguir aliviar sua tensão."
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0224",
+      "type": "paragraph",
+      "text": "Lorena finalmente cria coragem para sair dali, antes que a pessoa misteriosa saísse do chuveiro. Ela provavelmente pegaria sua bolsa e trocaria de roupa no vestiário, para colocar alguma coisa que esteja seca; ela acha que deve ter uma toalha nas suas coisas."
+    },
+    {
+      "id": "cap-10-0225",
+      "type": "paragraph",
+      "text": "Quando Lorena finalmente chega na área comum do vestiário, não tinha sinal nenhum de Eduarda por ali. Ela já tinha sumido, e suas coisas também. Lorena vai até sua bolsa, e para, percebendo que ela estava entreaberta."
+    },
+    {
+      "id": "cap-10-0226",
+      "type": "paragraph",
+      "text": "Ela acha aquilo esquisito, e então abre o ziper por completo, para ver se alguém tinha mexido em suas coisas. Lorena encontra todos os seus pertences no lugar, porém, tinha algo sim de diferente: um pedaço de papel, em cima de suas coisas, com um recado escrito à mão."
+    },
+    {
+      "id": "cap-10-0227",
+      "type": "paragraph",
+      "text": "‘Caso você queira terminar o que começamos, meu quarto é o 1206.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "‘Caso você queira terminar o que começamos, meu quarto é o 1206."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-10-0228",
+      "type": "paragraph",
+      "text": "- E.F (#1)’",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "- E.F (#1)’"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": {
+    "before": [
+      {
+        "id": "cap-10-0001",
+        "type": "paragraph",
+        "text": "Um beijo especial pra minhas leitoras nathinha e millena que tão fazendo aniversário hoje!"
+      }
+    ],
+    "after": [
+      {
+        "id": "cap-10-0229",
+        "type": "paragraph",
+        "text": "Será que a Lorena vai aceitar esse convite? Quarta vocês descobrem hehe"
+      }
+    ]
+  }
+}

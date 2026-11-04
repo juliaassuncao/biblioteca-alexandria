@@ -1,0 +1,1338 @@
+{
+  "id": "cap-02",
+  "blocks": [
+    {
+      "id": "cap-02-0003",
+      "type": "paragraph",
+      "text": "Lorena",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0004",
+      "type": "paragraph",
+      "text": "Lorena passa a próxima semana no ritmo já conhecido do início de um torneio. Ela divide seu tempo entre treinar, trabalhar no seu condicionamento físico, jogar suas partidas, dar conferências de imprensa e descansar para começar tudo de novo no dia seguinte."
+    },
+    {
+      "id": "cap-02-0005",
+      "type": "paragraph",
+      "text": "No papel, nada mudava para aquele torneio em específico, tudo seguia seu fluxo natural. Na prática, no entanto, a história já era outra. Lorena odiava admitir, mas é claro que ela sentia a pressão do que estava em jogo. Seu pai já tinha deixado claro, em toda oportunidade possível, o quão decepcionado ele estava com os resultados dela daquele ano, o quão absurdo era que ela ainda não tinha conseguido um Grand Slam. Se ela não defendesse o título do US Open, se ela acabasse o ano de mãos abanando, ele ia ter um surto completo."
+    },
+    {
+      "id": "cap-02-0006",
+      "type": "paragraph",
+      "text": "E como se lidar com as expectativas de seu pai narcisista já não fosse o suficiente, ainda tinha o pequeno detalhe de que perder aquele título possivelmente significaria perder seu ranking para a insuportável da Eduarda Fragoso. Lorena tinha repetido a conversa delas no vestiário na semana anterior em sua cabeça mais vezes do que ela gostaria de admitir, ainda sem acreditar na cara de pau daquela garota.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "E como se lidar com as expectativas de seu pai narcisista já não fosse o suficiente, ainda tinha o pequeno detalhe de que perder aquele título possivelmente significaria perder seu ranking para a "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "insuportável"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " da Eduarda Fragoso. Lorena tinha repetido a conversa delas no vestiário na semana anterior em sua cabeça mais vezes do que ela gostaria de admitir, ainda sem acreditar na cara de pau daquela garota."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0007",
+      "type": "paragraph",
+      "text": "Lorena e Eduarda nunca tinham se dado bem, essa é a verdade. Cresceram juntas como as mais novas promessas do esporte brasileiro, a mídia e o público as rivalizando desde que ainda eram praticamente crianças. Lorena tinha aprendido uma lição muito nova com o seu pai: suas competidoras são suas rivais, não suas amigas. Ela nunca tentou ser amigável com Eduarda, nunca se deu ao trabalho, mas a outra menina também nunca pareceu muito empenhada em mudar a situação. As duas sabiam o que estava em jogo, e suas personalidades conflitantes nunca deram liga, mesmo fora das quadras."
+    },
+    {
+      "id": "cap-02-0008",
+      "type": "paragraph",
+      "text": "Lorena sempre achou que Eduarda era… Um pouco demais, em todos os sentidos da palavra. Extrovertida demais, falante demais, aparecida demais, o tipo de pessoa que quase tinha uma necessidade física de ser o centro das atenções por onde passava. Ela conversava com quase todas as pessoas do circuito, não se importava em passar horas falando com jornalistas, tinha uma presença digital considerável. Não era de se surpreender que ela tinha virado a queridinha da mídia, porém carisma e charme só te levavam até certo ponto. Lorena provou cedo demais que ela estava ali para levar o jogo a sério, e suas conquistas falavam por si só. Fragoso podia ter o circo midiático que fosse em volta dela, mas Lorena era quem tinha realmente chegado ao topo… Até agora.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena sempre achou que Eduarda era… Um pouco "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "demais"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", em todos os sentidos da palavra. Extrovertida demais, falante demais, aparecida demais, o tipo de pessoa que quase tinha uma necessidade física de ser o centro das atenções por onde passava. Ela conversava com quase todas as pessoas do circuito, não se importava em passar horas falando com jornalistas, tinha uma presença digital considerável. Não era de se surpreender que ela tinha virado a queridinha da mídia, porém carisma e charme só te levavam até certo ponto. Lorena provou cedo demais que ela estava ali para levar o jogo a sério, e suas conquistas falavam por si só. Fragoso podia ter o circo midiático que fosse em volta dela, mas Lorena era quem tinha realmente chegado ao topo… "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Até agora."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0009",
+      "type": "paragraph",
+      "text": "Então, era uma questão de honra pessoal para Lorena impedir que aquela garota sequer conseguisse sentir o cheiro do número 1 do ranking. Talvez seja por isso que ela estava na academia do complexo até depois do necessário, correndo na esteira com uma determinação incomum depois de um dia inteiro de treino."
+    },
+    {
+      "id": "cap-02-0010",
+      "type": "paragraph",
+      "text": "– Lorena, chega. - Leonardo desliga a esteira contra sua vontade. - Já tá tarde, você precisa descansar, amanhã você joga de novo."
+    },
+    {
+      "id": "cap-02-0011",
+      "type": "paragraph",
+      "text": "Lorena resmunga, irritada com seu irmão, que também era seu treinador."
+    },
+    {
+      "id": "cap-02-0012",
+      "type": "paragraph",
+      "text": "– O papai não ia reclamar deu treinar demais. - Ela reclama, mas pega sua garrafa d’água e desce do aparelho."
+    },
+    {
+      "id": "cap-02-0013",
+      "type": "paragraph",
+      "text": "– Ah, é? - Leonardo balança a cabeça. - Então o que acha da gente perguntar se o papai não quer voltar a ser seu treinador? Você ia gostar disso, não ia?"
+    },
+    {
+      "id": "cap-02-0014",
+      "type": "paragraph",
+      "text": "– Não, pelo amor de deus. Também não é pra tanto. - Lorena preferia ser atingida por um carro e passar uma temporada inteira sem jogar tênis do que ser treinada por seu pai novamente, se ela pudesse escolher."
+    },
+    {
+      "id": "cap-02-0015",
+      "type": "paragraph",
+      "text": "– É, foi o que eu pensei. - Leonardo se abaixa, pegando as coisas de Lorena. - Vamos, o carro tá esperando."
+    },
+    {
+      "id": "cap-02-0016",
+      "type": "paragraph",
+      "text": "– Tá bom, tá bom. - Ela aceita a derrota, saindo da academia com ele."
+    },
+    {
+      "id": "cap-02-0017",
+      "type": "paragraph",
+      "text": "A relação de Lorena com seu irmão era um tanto complicada, mas na maioria dos dias ela era grata por tê-lo ali. Depois de ser treinada por seu próprio pai no início de sua carreira, chegou um ponto que a relação estava ficando insustentável. Lorena tentava evitar, mas era mais forte do que ela bater de frente com seu pai, o que já tinha resultado em muitas brigas e descontroles e jogos que foram pelo caminho errado."
+    },
+    {
+      "id": "cap-02-0018",
+      "type": "paragraph",
+      "text": "Além disso, Santiago Ferette deixou claro que tinha mais o que fazer do que focar toda sua energia em treinar sua filha, como administrar o império que ele construiu depois de se aposentar. Ele criou uma marca, abriu uma fundação, organizava eventos com frequência e até se envolveu com política. Santiago estava envolvido em tudo possível da alta sociedade -tudo que beneficiava ele de alguma forma, é claro."
+    },
+    {
+      "id": "cap-02-0019",
+      "type": "paragraph",
+      "text": "Então, pouco antes de Lorena completar dezenove anos, Leonardo virou oficialmente seu treinador. Ela sonhou por um breve período em ser treinada por alguém de fora, alguém mais experiente, mas Santiago Ferette sempre tinha deixado muito claro que negócios para ele deveriam ficar na família. Era por isso que a mãe de Lorena era sua advogada; Xênica, amiga de longa data de seus pais, era sua assessora de imagem, seu irmão era seu treinador, e seu pai tinha a palavra final em todas as decisões a respeito de sua carreira. Podia ser um pouco sufocante, como viver sua vida em uma prisão invisível na qual Lorena nem sabia onde a fechadura estava para tentar escapar, mas Leonardo pelo menos deixava tudo um pouco mais suportável. Eles se entendiam, pelo menos. Aquilo já era mais do que Lorena tinha com a maioria das pessoas."
+    },
+    {
+      "id": "cap-02-0020",
+      "type": "paragraph",
+      "text": "Eles chegam no hotel e sobem direto pro décimo sétimo andar, onde eram seus quartos. Lorena precisava desesperadamente de um banho, e se vira para despedir de seu irmão quando eles param na porta de seu quarto."
+    },
+    {
+      "id": "cap-02-0021",
+      "type": "paragraph",
+      "text": "– Você vai querer jantar? - Leonardo pergunta, do outro lado do corredor."
+    },
+    {
+      "id": "cap-02-0022",
+      "type": "paragraph",
+      "text": "– Vou pedir serviço de quarto. - Lorena fala pra ele. - Preciso urgente de um banho, e depois só quero deitar."
+    },
+    {
+      "id": "cap-02-0023",
+      "type": "paragraph",
+      "text": "– Tudo bem, vê se dorme cedo. - Ele parece não se importar."
+    },
+    {
+      "id": "cap-02-0024",
+      "type": "paragraph",
+      "text": "– Pode deixar. - Lorena concorda, se virando para abrir a porta. - Até amanhã."
+    },
+    {
+      "id": "cap-02-0025",
+      "type": "paragraph",
+      "text": "– Lorena. - Leo chama assim que ela coloca a mão na maçaneta, e Lorena para, ainda sem se virar. - Você tá lembrada que o pai chega amanhã, né?"
+    },
+    {
+      "id": "cap-02-0026",
+      "type": "paragraph",
+      "text": "Lorena fecha seus olhos, suspirando. Claro que ela não ia esquecer que Santiago estava chegando em Nova York no dia seguinte. Pelo menos ela teve metade do torneio sem ele ali. Como seu pai costumava dizer: ‘a primeira semana de um Grand Slam é inútil, e se você perder antes dela acabar, então é melhor mesmo eu nem ter assistido’. No dia seguinte a segunda semana começava, e Lorena teria seu jogo das oitavas de final, e seus pais estariam ali para assistir.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena fecha seus olhos, suspirando. Claro que ela não ia esquecer que Santiago estava chegando em Nova York no dia seguinte. Pelo menos ela teve metade do torneio sem ele ali. Como seu pai costumava dizer: "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "‘a"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "primeira semana de um Grand Slam é inútil, e se você perder antes dela"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "acabar, então é melhor mesmo eu nem ter assistido’"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". No dia seguinte a segunda semana começava, e Lorena teria seu jogo das oitavas de final, e seus pais estariam ali para assistir."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0027",
+      "type": "paragraph",
+      "text": "– Sim, Leo. - Ela fala depois de um momento. - Como eu ia esquecer?"
+    },
+    {
+      "id": "cap-02-0028",
+      "type": "paragraph",
+      "text": "Leo não fala nada, apenas se aproxima, colocando uma mão no ombro de Lorena, que continua virada pra porta."
+    },
+    {
+      "id": "cap-02-0029",
+      "type": "paragraph",
+      "text": "– Vai dar certo. - Ele fala. - Pelo menos a mãe vem com ele."
+    },
+    {
+      "id": "cap-02-0030",
+      "type": "paragraph",
+      "text": "– É, pelo menos. - Teve uma época que aquilo seria um consolo maior pra Lorena do que era naquele momento. - Boa noite, Leo."
+    },
+    {
+      "id": "cap-02-0031",
+      "type": "paragraph",
+      "text": "– Boa noite."
+    },
+    {
+      "id": "cap-02-0032",
+      "type": "paragraph",
+      "text": "Ela escuta seu irmão se afastar, os passos ecoando pelo corredor. Então, Lorena finalmente entra em seu quarto. Ela tenta se esquecer de tudo, tomando um banho demorado e pedindo serviço de quarto, ligando a TV em um canal qualquer para passar o tempo."
+    },
+    {
+      "id": "cap-02-0033",
+      "type": "paragraph",
+      "text": "Eventualmente ela pega seu celular, rolando pelas redes sociais como quem não quer nada. Lorena tenta não dar atenção demais pro que a mídia está falando, mas eventualmente um vídeo desperta seu interesse. É um vídeo de Eduarda Fragoso na sua conferência de imprensa, depois dela vencer seu jogo de hoje."
+    },
+    {
+      "id": "cap-02-0034",
+      "type": "paragraph",
+      "text": "– Primeiro, parabéns pela partida de hoje, e por chegar à segunda semana de mais um Grand Slam. - O jornalista começa falando. - Claro que ainda é cedo, porém existe uma expectativa crescente de uma possível final entre você e Lorena Ferette. Vocês duas vem fazendo jogos dominantes, sem perder nenhum set. Isso passa pela sua cabeça, ou é algo que você prefere não pensar por agora?"
+    },
+    {
+      "id": "cap-02-0035",
+      "type": "paragraph",
+      "text": "– Eu tento sempre focar na próxima partida, levar um dia de cada vez. -Eduarda fala, e Lorena não consegue evitar soltar uma risada. Ela teria fortes evidências do contrário, se aquela conversa no vestiário diz alguma coisa. - Eu estou ciente de todas as possibilidades, e quero dar o meu melhor nesse torneio. Se chegar ao ponto deu enfrentar a Ferette, então é algo que eu vou pensar quando acontecer."
+    },
+    {
+      "id": "cap-02-0036",
+      "type": "paragraph",
+      "text": "Quando acontecer, e todos os dias antes disso também, aparentemente.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Quando acontecer, e todos os dias antes disso também, aparentemente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0037",
+      "type": "paragraph",
+      "text": "– Você acredita que uma possível final contra ela, aumentaria a tensão? Seria mais fácil para você enfrentar outra adversária, sabendo que você já poderia garantir o número 1 se Lorena perder antes da final?"
+    },
+    {
+      "id": "cap-02-0038",
+      "type": "paragraph",
+      "text": "– Acredito que numa final de Grand Slam, pouco importa sua adversária. Sempre vai ser um jogo complicado, com certo nervosismo. - Eduarda responde, polida como sempre. Então, ela inclina a cabeça de leve, seu olhar ganhando um foco diferente. - Porém, sendo sincera, se eu pudesse escolher… Eu adoraria enfrentar Lorena Ferette na final. Ganhar o título em cima dela… Bem, seria o melhor cenário possível."
+    },
+    {
+      "id": "cap-02-0039",
+      "type": "paragraph",
+      "text": "Lorena revira os olhos, pouco surpresa com a alfinetada. Àquela garota estava obcecada por ela, isso sim. Já não bastava sair falando merda pra Lorena na semana anterior, agora ela já estava compartilhando seus devaneios com a mídia. Melhor assim, Lorena pensa. Melhor assim, porque aí quando Eduarda Fragoso perdesse essa desgraça de título, seria ainda mais humilhante pra ela. E Lorena ia achar hilário ver o sonho de Eduarda de um dia chegar ao topo se desfazer bem na frente de seus olhos."
+    },
+    {
+      "id": "cap-02-0040",
+      "type": "paragraph",
+      "text": "Ela continua olhando pro seu celular, vendo os comentários agora."
+    },
+    {
+      "id": "cap-02-0041",
+      "type": "paragraph",
+      "text": "@L_Fere11e: os fãs dessa daí caíram em cima da Lorena por falar muito menos, pra fav deles pagar esse mico na conferência de imprensa. Quero só ver a cara de tacho dela quando não ganhar nada.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@L_Fere11e:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "os fãs dessa daí caíram em cima da Lorena por falar muito"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "menos, pra fav deles pagar esse mico na conferência de imprensa. Quero só"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ver a cara de tacho dela quando não ganhar nada."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0042",
+      "type": "paragraph",
+      "text": "@allfragoso: a duda é a pessoa mais amorzinho do mundo com todo mundo, e eu acho lindo que ela odeia a Ferette em voz alta. Prova que essa insuportável realmente é uma pessoa lixosa.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@allfragoso:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "a duda é a pessoa mais amorzinho do mundo com todo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mundo, e eu acho lindo que ela odeia a Ferette em voz alta. Prova que essa"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "insuportável realmente é uma pessoa lixosa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0043",
+      "type": "paragraph",
+      "text": "@mancinilove: se for pra Chiara perder esse torneio, então espero que a gente tenha essa final Frarette que tanto falam, porque vai ser hilário ver quem perder se matar em rede internacional.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@mancinilove:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "se for pra Chiara perder esse torneio, então espero que a"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "gente tenha essa final Frarette que tanto falam, porque vai ser hilário ver"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "quem perder se matar em rede internacional."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0044",
+      "type": "paragraph",
+      "text": "@ferettennis: nossa mas essa daí adora falar mais do que deve, né? Alguém avisa pra ela olhar o head to head que ela tem com a Lorena antes de afirmar que quer ganhar alguma coisa em cima dela kkkkkkk",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@ferettennis:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "nossa mas essa daí adora falar mais do que deve, né?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Alguém avisa pra ela olhar o head to head que ela tem com a Lorena antes"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "de afirmar que quer ganhar alguma coisa em cima dela kkkkkkk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0045",
+      "type": "paragraph",
+      "text": "@fraretteloarda: pois eu acho que a eduarda devia sim ficar em cima da lorena, mas não necessariamente no ranking… #TensãoSexualMalResolvida.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "@fraretteloarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pois eu acho que a eduarda devia sim ficar em cima da"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "lorena, mas não necessariamente no ranking…"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "#TensãoSexualMalResolvida."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0046",
+      "type": "paragraph",
+      "text": "Ok, aquilo ali era o suficiente pra Lorena bloquear seu celular e decidir que tinha excedido o tempo de tela ideal para aquela noite. Ela às vezes esquecia de como as pessoas na internet eram completamente malucas."
+    },
+    {
+      "id": "cap-02-0047",
+      "type": "paragraph",
+      "text": "Então ela também desliga a TV, tentando fazer o que Leo sugeriu e dormir cedo, ela teria um longo dia amanhã. Seu corpo já está cansado, seus músculos doendo depois de todo o treino, mas a cabeça de Lorena demora a desligar. Ela pensa em seu pai, em seu jogo do dia seguinte, em como ela precisava vencer aquele torneio. Ela também pensa numa certa ruiva enxerida que aparentemente estava dando seu melhor para ser uma pedra no seu sapato. Se tudo desse certo, Lorena esperava jogar essa pedra específica pra bem longe o mais rápido possível."
+    },
+    {
+      "id": "cap-02-0048",
+      "type": "divider",
+      "text": "***"
+    },
+    {
+      "id": "cap-02-0049",
+      "type": "paragraph",
+      "text": "Seus pais chegam em Nova York pela manhã, e Lorena vê eles pela primeira vez na hora do almoço. Seu jogo seria na sessão noturna naquele dia, então infelizmente ela teria tempo de sobra para almoçar com sua família."
+    },
+    {
+      "id": "cap-02-0050",
+      "type": "paragraph",
+      "text": "– Meu amor. - Sua mãe fala assim que vê Lorena, no restaurante do complexo. - Que saudade de você."
+    },
+    {
+      "id": "cap-02-0051",
+      "type": "paragraph",
+      "text": "Lorena abraça sua mãe, realmente feliz por ela estar ali. Ela se acostumou muito nova a estar longe de Zenilda, sempre focada nos treinos e nos campeonatos, mas era bom poder ter o seu afeto de vez em quando; com ela, Lorena se sentia menos tenista e mais filha, o oposto do que sempre sentiu com seu pai.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena abraça sua mãe, realmente feliz por ela estar ali. Ela se acostumou muito nova a estar longe de Zenilda, sempre focada nos treinos e nos campeonatos, mas era bom poder ter o seu afeto de vez em quando; com ela, Lorena se sentia menos "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tenista"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " e mais "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "filha"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", o oposto do que sempre sentiu com seu pai."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0052",
+      "type": "paragraph",
+      "text": "– Oi, mãe. - Ela fala quando elas se partem. - Saudades também."
+    },
+    {
+      "id": "cap-02-0053",
+      "type": "paragraph",
+      "text": "Zenilda sorri e se vira, indo cumprimentar Leonardo. Seu pai se aproxima, olhando pra ela, e Lorena involuntariamente alinha sua postura, ficando um pouco mais ereta."
+    },
+    {
+      "id": "cap-02-0054",
+      "type": "paragraph",
+      "text": "– Minha filha. - Ele sorri, mas não é um sorriso afável. - Espero que você esteja preparada pra hoje."
+    },
+    {
+      "id": "cap-02-0055",
+      "type": "paragraph",
+      "text": "Claro que era assim que ele ia começar. ‘Saudades, filha, tudo bem? Como você tá?’ aparentemente eram palavras difíceis demais pra Santiago Ferette pronunciar.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Claro que era assim que ele ia começar. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "‘Saudades, filha, tudo bem? Como"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "você tá?’"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " aparentemente eram palavras difíceis demais pra Santiago Ferette pronunciar."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0056",
+      "type": "paragraph",
+      "text": "– Sempre, pai. - Ela responde, tentando disfarçar sua pontada de decepção."
+    },
+    {
+      "id": "cap-02-0057",
+      "type": "paragraph",
+      "text": "– Não deve ser uma partida difícil, mas podemos discutir o seu plano de jogo enquanto almoçamos. Vamos ver se o Leonardo está sendo competente, alguma vez na vida dele."
+    },
+    {
+      "id": "cap-02-0058",
+      "type": "paragraph",
+      "text": "– Valeu, pai. - Leonardo fala atrás dela. - Oi pra você também."
+    },
+    {
+      "id": "cap-02-0059",
+      "type": "paragraph",
+      "text": "Santiago olha para seu filho com a cara de quem não está com paciência pra gracinhas naquele dia."
+    },
+    {
+      "id": "cap-02-0060",
+      "type": "paragraph",
+      "text": "– Vamos? - Ele fala, apontando pra mesa."
+    },
+    {
+      "id": "cap-02-0061",
+      "type": "paragraph",
+      "text": "O almoço é uma mistura de falar de táticas de jogo, comentar sobre o torneio, e lembrar Lorena sobre como ela estava tendo a temporada mais decepcionante de sua carreira em anos, e que aquele título era necessário para que não fosse um completo fiasco. Em resumo, um leve e delicioso almoço em família."
+    },
+    {
+      "id": "cap-02-0062",
+      "type": "paragraph",
+      "text": "Lorena fica aliviada quando precisa sair dali para iniciar sua preparação pré partida, agradecida pelo tempo sozinha e por poder simplesmente focar no que ela precisava fazer. Não importava o quão ruim o dia de Lorena fosse, o quanto as coisas estavam complicadas, ou o quanto ela estava cansada; ela sempre se sentia livre na quadra, ela sentia que podia ser ela mesma. Na quadra, ela podia liberar tudo dentro dela, simplesmente ser, sem precisar pensar para isso. Os instintos tomavam conta, e tudo que importava era a bolinha amarela em que ela precisava bater com sua raquete. E claro, vencer. Vencer sempre importava, e muito."
+    },
+    {
+      "id": "cap-02-0063",
+      "type": "paragraph",
+      "text": "Ela estava aquecendo no vestiário, esperando a hora em que ela seria chamada para a quadra, quando uma figura familiar para ao seu lado, colocando sua bolsa em um dos bancos. Lorena desvia sua atenção por um segundo, mas fica presa ali quando seu olhar encontra o de Maggye, que estava voltando da sua própria partida, que tinha acabado de terminar."
+    },
+    {
+      "id": "cap-02-0064",
+      "type": "paragraph",
+      "text": "Maggye Damatta, atual número 17 do mundo, e, bem, antiga melhor amiga de Lorena."
+    },
+    {
+      "id": "cap-02-0065",
+      "type": "paragraph",
+      "text": "– Boa sorte hoje. - Maggye fala pra ela, um sorriso educado em seu rosto."
+    },
+    {
+      "id": "cap-02-0066",
+      "type": "paragraph",
+      "text": "– Obrigada. - Lorena responde, voltando sua atenção para seu aquecimento. Maggye permence ali, ajeitando suas coisas, e Lorena observa de canto de olho algumas vezes, antes de decidir se pronunciar novamente. - Maggye."
+    },
+    {
+      "id": "cap-02-0067",
+      "type": "paragraph",
+      "text": "– Oi? - Ela olha de novo na direção de Lorena."
+    },
+    {
+      "id": "cap-02-0068",
+      "type": "paragraph",
+      "text": "– Parabéns, pela partida de hoje. - Lorena fala, seu tom não muito seguro. -Eu ouvi que você venceu. Quartas de final de um slam… Bem, já é um ótimo resultado. Parabéns."
+    },
+    {
+      "id": "cap-02-0069",
+      "type": "paragraph",
+      "text": "Maggye sorri, e dessa vez é sincero."
+    },
+    {
+      "id": "cap-02-0070",
+      "type": "paragraph",
+      "text": "– Obrigada, Lo. - Ela responde. - Não tenho dúvidas que seu jogo também vai ir bem."
+    },
+    {
+      "id": "cap-02-0071",
+      "type": "paragraph",
+      "text": "– É, eu espero."
+    },
+    {
+      "id": "cap-02-0072",
+      "type": "paragraph",
+      "text": "Elas se olham por um momento, e Maggye pega suas coisas, se virando pra sair dali."
+    },
+    {
+      "id": "cap-02-0073",
+      "type": "paragraph",
+      "text": "– A gente se vê."
+    },
+    {
+      "id": "cap-02-0074",
+      "type": "paragraph",
+      "text": "– Até mais. - Lorena responde, dando um pequeno aceno."
+    },
+    {
+      "id": "cap-02-0075",
+      "type": "paragraph",
+      "text": "Quando ela olha pra frente de novo, Leonardo encara ela com uma sobrancelha levantada, encostado na parede a alguns metros dela."
+    },
+    {
+      "id": "cap-02-0076",
+      "type": "paragraph",
+      "text": "– Que foi? - Lorena pergunta, seu tom um pouco hostil."
+    },
+    {
+      "id": "cap-02-0077",
+      "type": "paragraph",
+      "text": "– Você sabe que pode ter amigas, né? - Ele se aproxima um pouco dela. - Eu não sou o pai, eu não vou te proibir de falar com as pessoas."
+    },
+    {
+      "id": "cap-02-0078",
+      "type": "paragraph",
+      "text": "Lorena suspira, não querendo falar sobre aquilo agora. Ela e Maggye tinham sido melhores amigas de infância, ambas as suas famílias envolvidas no universo do tênis; cresceram jogando no mesmo clube, suas casas no mesmo condomínio. Até que de repente, elas começaram a crescer, e começaram a competir. E como diria Santiago Ferette: suas competidoras não são suas amigas. Ela não sabe ao certo como aconteceu, mas eventualmente sua amizade com Maggye se desfez, sobrando conversas educadas nos vestiários e quem sabe um aceno aqui e ali. Lorena tentava não pensar muito nisso, não importava mais agora."
+    },
+    {
+      "id": "cap-02-0079",
+      "type": "paragraph",
+      "text": "– Talvez papai tenha razão em algumas coisas. - Ela fala. - Nessa linha de trabalho, amigos são uma distração. Existem coisas mais importantes."
+    },
+    {
+      "id": "cap-02-0080",
+      "type": "paragraph",
+      "text": "– Se você diz. - Leonardo dá de ombros, como quem não vai discutir. Lorena agradece silenciosamente, voltando a se concentrar no aquecimento. Sua partida acontece em um ritmo confortável, e Lorena se delicia na distração que é simplesmente jogar. O estádio está quase lotado, Arthur Ashe na sessão noturna, um mar de olhos mirando em Lorena, câmeras capturando o menor de seus movimentos. Ela estava acostumada com aquilo, com a atenção, a plateia, as luzes, o barulho. Nada disso incomodava Lorena, a não ser, talvez, um par de olhos específicos em seu box, que teria muito a dizer não importa o resultado da partida. No entanto, ela dá seu melhor para apenas ignorar que seu pai está assistindo, focada completamente no objetivo a sua frente."
+    },
+    {
+      "id": "cap-02-0081",
+      "type": "paragraph",
+      "text": "O jogo termina em um 6x4 7x5 para Lorena, em pouco menos de duas horas. Ela fica satisfeita com o seu desempenho geral, apesar de saber que tem alguns pontos a melhorar. Ela vacilou na devolução algumas horas, e seu backhand estava mais errático que o normal. Todos pontos que ela já sabia, e teria que ouvir do seu pai do mesmo jeito, como um papagaio irritante que se recusa a ir embora."
+    },
+    {
+      "id": "cap-02-0082",
+      "type": "paragraph",
+      "text": "Ela chega de madrugada no hotel, a sina de se jogar sessões noturnas. Já passa das duas da manhã quando ela finalmente deita em sua cama, mas apesar de seus esforços para dormir, a adrenalina do jogo parece não ter ido embora, e Lorena se mexe de um lado pro outro, incapaz de desligar sua cabeça."
+    },
+    {
+      "id": "cap-02-0083",
+      "type": "paragraph",
+      "text": "Já são quase 3hrs quando ela aceita que não vai dormir naquele momento, se levantando na cama e acendendo a luz do abajur. Lorena está… Com fome, ela percebe. Ela abre o frigobar, vendo se tem alguma coisa interessante ali, mas nada que chama sua atenção. Lorena sabe que conseguir comida às três da manhã em Nova York não é a coisa mais difícil do mundo, mas… Não é como se ela quisesse sair do hotel também. Então ela se lembra: tem uma daquelas máquinas automáticas de comida no corredor. Qual a chance daquele negócio ter alguma coisa vegana? Provavelmente zero, mas não custa nada tentar."
+    },
+    {
+      "id": "cap-02-0084",
+      "type": "paragraph",
+      "text": "Então Lorena coloca um moletom e sai no corredor do hotel, esperando que estivesse vazio àquela hora. À medida que ela se aproxima da máquina no fim do corredor, no entanto, Lorena percebe que tem uma pessoa ali, parecendo lutar contra os botões do aparelho. Ela dá mais alguns passos antes de identificar os cabelos ruivos, e Lorena solta o ar pelo nariz, porque honestamente, quais as chances?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Então Lorena coloca um moletom e sai no corredor do hotel, esperando que estivesse vazio àquela hora. À medida que ela se aproxima da máquina no fim do corredor, no entanto, Lorena percebe que tem uma pessoa ali, parecendo lutar contra os botões do aparelho. Ela dá mais alguns passos antes de identificar os cabelos ruivos, e Lorena solta o ar pelo nariz, porque honestamente, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "quais as chances?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0085",
+      "type": "paragraph",
+      "text": "Ela se aproxima com cuidado para não fazer barulho, e então se apoia na parede do corredor, cruzando os braços."
+    },
+    {
+      "id": "cap-02-0086",
+      "type": "paragraph",
+      "text": "– Tá com insônia? - Lorena pergunta, e a outra garota dá um pulo, claramente só agora percebendo que ela estava ali."
+    },
+    {
+      "id": "cap-02-0087",
+      "type": "paragraph",
+      "text": "– Puta que pariu. - Eduarda se vira pra ela, e imediatamente revira os olhos quando vê Lorena, abrindo a boca de leve, como se ela também não pudesse acreditar. - Você é mesmo uma assombração, hein?"
+    },
+    {
+      "id": "cap-02-0088",
+      "type": "paragraph",
+      "text": "– Eu deveria me preocupar? - Lorena pergunta, ignorando completamente o que Eduarda falou."
+    },
+    {
+      "id": "cap-02-0089",
+      "type": "paragraph",
+      "text": "– Do que você tá falando? - Eduarda franze o cenho pra ela."
+    },
+    {
+      "id": "cap-02-0090",
+      "type": "paragraph",
+      "text": "– Quer dizer, primeiro você vai atrás de mim no vestiário, depois você fica falando de mim em entrevistas, agora você aparece no mesmo hotel que eu… - Lorena se inclina levemente na direção de Eduarda. - Sei não, Fragoso, tô começando a achar que sua obsessão foi longe demais, e você tá me perseguindo."
+    },
+    {
+      "id": "cap-02-0091",
+      "type": "paragraph",
+      "text": "Eduarda solta uma risada cheia de sarcasmo, como se ela não acreditasse no que estava ouvindo."
+    },
+    {
+      "id": "cap-02-0092",
+      "type": "paragraph",
+      "text": "– Abaixa seu ego um pouco, Ferette. - Ela semicerra seus olhos para Lorena. - Metade dos jogadores ficam aqui, então não sei pra que a surpresa. E outra, foi você que apareceu aqui igual um fantasma, tirando minha paz."
+    },
+    {
+      "id": "cap-02-0093",
+      "type": "paragraph",
+      "text": "– Você não parecia muito em paz quando eu cheguei. - Lorena aponta com a cabeça para a máquina, a qual claramente ainda não tinha entregado o que quer que Eduarda estivesse tentando comprar."
+    },
+    {
+      "id": "cap-02-0094",
+      "type": "paragraph",
+      "text": "– Essa máquina idiota travou e não quer me dar meu chocolate."
+    },
+    {
+      "id": "cap-02-0095",
+      "type": "paragraph",
+      "text": "Lorena solta uma risada, como se a máquina estivesse de alguma forma do seu lado, e zoando com a cara de Eduarda de propósito. Ela repara agora que tem mesmo um kit kat preso no meio do caminho, se recusando a cair."
+    },
+    {
+      "id": "cap-02-0096",
+      "type": "paragraph",
+      "text": "– Talvez a máquina saiba quem você é, e resolveu se rebelar."
+    },
+    {
+      "id": "cap-02-0097",
+      "type": "paragraph",
+      "text": "– Ha ha, muito engraçado. - Eduarda abre um sorriso cínico pra Lorena, parecendo sem paciência. - O que é que você tá fazendo aqui, hein? Ou apareceu só pra encher meu saco?"
+    },
+    {
+      "id": "cap-02-0098",
+      "type": "paragraph",
+      "text": "– Diferente de você, eu não planejo o que eu faço com você na cabeça, Fragoso. - Lorena inclina a cabeça de leve, se divertindo com aquela interação. Ela tinha que admitir que irritar Eduarda Fragoso era um tanto engraçado. - Eu joguei na sessão noturna, como eu tenho certeza que você já sabe, e cheguei tarde no hotel. - Ela dá um passo pra frente, se desencostando da parede, olhando curiosa para Eduarda. - Agora… O que você tá fazendo aqui essas horas, sendo que você nem jogou hoje? Não deveria estar dormindo?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Diferente de você, eu não planejo o que eu faço com você na cabeça, Fragoso. - Lorena inclina a cabeça de leve, se divertindo com aquela interação. Ela tinha que admitir que irritar Eduarda Fragoso era um tanto engraçado. - Eu joguei na sessão noturna, como eu tenho certeza que você já sabe, e cheguei tarde no hotel. - Ela dá um passo pra frente, se desencostando da parede, olhando curiosa para Eduarda. - Agora… O que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "você"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " tá fazendo aqui essas horas, sendo que você nem jogou hoje? Não deveria estar dormindo?"
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0099",
+      "type": "paragraph",
+      "text": "– Eu fico honrada que você saiba a minha agenda de partidas, apesar de acusar que eu sou a obcecada. - Eduarda também se aproxima, seu olhar intenso em Lorena. - E não sabia que eu precisava te dar satisfação do que eu faço ou deixo de fazer da minha vida.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Eu fico honrada que você saiba a minha agenda de partidas, apesar de acusar que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "eu"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " sou a obcecada. - Eduarda também se aproxima, seu olhar intenso em Lorena. - E não sabia que eu precisava te dar satisfação do que eu faço ou deixo de fazer da minha vida."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0100",
+      "type": "paragraph",
+      "text": "– Você não precisa. - Lorena dá de ombros, como se não se importasse. - Só fiquei curiosa com o que deixa a destemida Eduarda Fragoso acordada à noite… Ou será que você não está tão confiante assim quanto você afirma por aí? Preocupada com o torneio?"
+    },
+    {
+      "id": "cap-02-0101",
+      "type": "paragraph",
+      "text": "– A única pessoa que deveria estar preocupada aqui é você. - Eduarda sustenta o olhar de Lorena, seu tom hostil. - Se o seu backhand hoje for algum indicativo, você não vai passar nem das quartas."
+    },
+    {
+      "id": "cap-02-0102",
+      "type": "paragraph",
+      "text": "Lorena fica levemente irritada que Eduarda percebeu o mesmo que ela sobre sua partida, mas então ela se dá conta do que isso significa, e abre um sorriso."
+    },
+    {
+      "id": "cap-02-0103",
+      "type": "paragraph",
+      "text": "– Então você ficou acordada até tarde pra me ver jogar? - Ela provoca. -Sabe, Fragoso, se você quer um autógrafo, é só pedir."
+    },
+    {
+      "id": "cap-02-0104",
+      "type": "paragraph",
+      "text": "– Não sei, Ferette, acho melhor esperar o torneio acabar… - Eduarda molha seus lábios, seu olhar ainda fixo nos olhos de Lorena. - Eu não me interesso muito por autógrafos de perdedores."
+    },
+    {
+      "id": "cap-02-0105",
+      "type": "paragraph",
+      "text": "– Eu adoro quando você fala essas coisas, sabia? - Lorena responde. - Vai deixar ganhar o torneio muito mais saboroso pra mim."
+    },
+    {
+      "id": "cap-02-0106",
+      "type": "paragraph",
+      "text": "– Só vê se não vai chorar, quando isso não acontecer."
+    },
+    {
+      "id": "cap-02-0107",
+      "type": "paragraph",
+      "text": "– Se alguém vai chorar no fim dessa semana, eu te garanto que não vai ser eu.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Se alguém vai chorar no fim dessa semana, eu te "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "garanto"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que não vai ser eu."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0108",
+      "type": "paragraph",
+      "text": "– Suponho que nós vamos ver, não é?"
+    },
+    {
+      "id": "cap-02-0109",
+      "type": "paragraph",
+      "text": "– Suponho que sim."
+    },
+    {
+      "id": "cap-02-0110",
+      "type": "paragraph",
+      "text": "Elas então apenas se olham, e Lorena se dá conta do quanto Eduarda está perto. Ela consegue sentir o calor de seu corpo, a respiração quente de Eduarda batendo contra seu rosto. Ela também consegue ver seu próprio ódio refletido nos olhos de Eduarda, a tensão envolvendo elas, o resto do mundo parecendo sumir."
+    },
+    {
+      "id": "cap-02-0111",
+      "type": "paragraph",
+      "text": "Então, Lorena mexe sua mão, um movimento rápido, e bate com força na máquina ao lado delas. O movimento brusco faz Eduarda se mexer, piscando. Lorena sorri, olhando pra máquina, e Eduarda segue seu olhar, percebendo que seu chocolate finalmente caiu."
+    },
+    {
+      "id": "cap-02-0112",
+      "type": "paragraph",
+      "text": "– De nada. - Lorena fala, e dá uma piscadinha pra Eduarda antes de se virar e sair dali."
+    },
+    {
+      "id": "cap-02-0113",
+      "type": "paragraph",
+      "text": "Ela consegue ouvir Eduarda xingar pra si mesma atrás dela, e volta pro seu quarto se sentindo um tanto triunfante. De alguma forma, trocar farpas com Eduarda Fragoso tinha sido o ponto alto de sua noite, e dessa vez, quando Lorena deita novamente em sua cama, ela dorme fácil, igual um bebe."
+    },
+    {
+      "id": "cap-02-0114",
+      "type": "divider",
+      "text": "***"
+    },
+    {
+      "id": "cap-02-0115",
+      "type": "paragraph",
+      "text": "O resto da semana passa rápido, Lorena totalmente focada em suas partidas, que vão ficando mais desafiadoras a partir dali. Seu jogo das quartas vai para um tie break, mas ela resolve em sets diretos, diferentemente da semifinal, onde Lorena perde um set pela primeira vez no torneio, apesar de sair com a vitória por dois sets a um."
+    },
+    {
+      "id": "cap-02-0116",
+      "type": "paragraph",
+      "text": "Seu pai não fica muito satisfeito, óbvio, como se perder sets em uma semifinal não fosse a coisa mais normal do mundo. De toda forma, pelo menos ele e sua mãe tem algum compromisso com alguém em algum lugar que Lorena não prestou atenção, e ela não precisa lidar com ele depois da partida.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Seu pai não fica muito satisfeito, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "óbvio"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", como se perder sets em uma semifinal não fosse a coisa mais normal do mundo. De toda forma, pelo menos ele e sua mãe tem algum compromisso com alguém em algum lugar que Lorena não prestou atenção, e ela não precisa lidar com ele depois da partida."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0117",
+      "type": "paragraph",
+      "text": "Ela está se preparando para ir embora do complexo, depois da rodada de entrevistas e de distribuir tantos autógrafos que sua mão já está doendo, quando Leonardo se vira pra ela na saída do vestiário."
+    },
+    {
+      "id": "cap-02-0118",
+      "type": "paragraph",
+      "text": "– Por algum acaso… Você não quer ficar e assistir a próxima semifinal? -Ele pergunta. - Vai começar agora."
+    },
+    {
+      "id": "cap-02-0119",
+      "type": "paragraph",
+      "text": "Lorena sabia muito bem que a outra semifinal estava pra começar, e sabia muito bem quem estaria jogando nela. Eduarda Fragoso contra Chiara Mancini, e quem quer que vencesse iria ser a adversária de Lorena na final. Ela estava pretendendo assistir àquele jogo na paz de seu quarto de hotel, onde poderia xingar Fragoso e toda sua família sem que ninguém visse."
+    },
+    {
+      "id": "cap-02-0120",
+      "type": "paragraph",
+      "text": "Ela inclina a cabeça pra Leonardo, pensando."
+    },
+    {
+      "id": "cap-02-0121",
+      "type": "paragraph",
+      "text": "– Você quer assistir?"
+    },
+    {
+      "id": "cap-02-0122",
+      "type": "paragraph",
+      "text": "– Eu ia assistir de todo jeito, preciso analisar as jogadoras pro seu plano tático da final, você sabe. - Ele fala. - A gente já tá aqui… Enfim, pode ser bom, pra você saber o que te espera."
+    },
+    {
+      "id": "cap-02-0123",
+      "type": "paragraph",
+      "text": "Lorena pondera por um momento; ela sabe que jogadores assistirem a partidas de seus competidores está longe de ser anormal, sempre quando se tem tempo, tem um jogador ou outro assistindo aos jogos. Ela sabe também que sua presença possivelmente irritaria Eduarda, o que é definitivamente um ponto positivo."
+    },
+    {
+      "id": "cap-02-0124",
+      "type": "paragraph",
+      "text": "– Tá bem, por que não? - Ela aceita, e Leonardo parece até surpreso."
+    },
+    {
+      "id": "cap-02-0125",
+      "type": "paragraph",
+      "text": "– Tudo bem, então. - Ele fala. - Vamos lá."
+    },
+    {
+      "id": "cap-02-0126",
+      "type": "paragraph",
+      "text": "Eles chegam na quadra pouco antes da partida começar, as jogadoras já no aquecimento, indo para uma das áreas VIPs reservadas para organizadores do torneio e outros jogadores. Eles se sentam, e os olhos de Lorena involuntariamente caem em Eduarda, que parece concentrada demais para perceber que ela está ali."
+    },
+    {
+      "id": "cap-02-0127",
+      "type": "paragraph",
+      "text": "Lorena presta atenção em seus movimentos, na forma como Eduarda bate na bola, como seu cabelo ruivo se move de um lado pro outro no rabo de cavalo, conforme ela se mexe. Ela presta atenção em como sua camisa vermelha já começa a pregar contra sua pele, como a saia do uniforme se levanta quando Eduarda faz o movimento do saque, seus músculos do braço saltando quando a raquete finalmente encontra o ponto de contato na bola. Ela presta atenção em tudo, e só uma coisa passa pela cabeça de Lorena: ela quer destruir aquela garota.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena presta atenção em seus movimentos, na forma como Eduarda bate na bola, como seu cabelo ruivo se move de um lado pro outro no rabo de cavalo, conforme ela se mexe. Ela presta atenção em como sua camisa vermelha já começa a pregar contra sua pele, como a saia do uniforme se levanta quando Eduarda faz o movimento do saque, seus músculos do braço saltando quando a raquete finalmente encontra o ponto de contato na bola. Ela presta atenção em tudo, e só uma coisa passa pela cabeça de Lorena: "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ela"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "quer destruir aquela garota."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0128",
+      "type": "paragraph",
+      "text": "A juíza aponta o fim do aquecimento, e as jogadoras entram em posição pro início da partida. Eduarda vai até o canto da quadra, onde estão suas toalhas, e então ela olha pra cima, um movimento natural de quem não procura nada. No entanto, ela desvia o olhar só por um momento antes de olhar de novo, dessa vez mirando exatamente onde Lorena está. Ela cerra seus olhos de leve, e Lorena consegue sentir a irritação saindo de sua pele, mesmo de longe. Lorena sorri, sentindo que seu objetivo foi cumprido. Eduarda mantém seu olhar ali por mais um momento, antes de respirar fundo e voltar seu foco para o jogo à sua frente."
+    },
+    {
+      "id": "cap-02-0129",
+      "type": "paragraph",
+      "text": "A partida começa, e logo elas caem em um ritmo constante de jogo. Lorena observa atentamente, tentando perceber padrões, formas de jogar, como as duas jogadoras lidam com diferentes situações na partida. Tudo era uma pesquisa de campo, mas ela estaria mentindo se dissesse que não estava observando Eduarda um pouco mais atentamente. Lorena se encontrava em uma encruzilhada emocional: ao mesmo tempo que ela adoraria assistir Eduarda perder de camarote, ela adoraria ainda mais vencer ela pessoalmente na final no sábado. Então, ela não sabe ao certo para quem torcer ao assistir o desenrolar do jogo."
+    },
+    {
+      "id": "cap-02-0130",
+      "type": "paragraph",
+      "text": "Eduarda quebra o saque primeiro, no 4x4 do primeiro set, e consegue então fechar o set em um 6x4. Ela solta um grito de comemoração, e Lorena quase jura que ela olhou diretamente para onde ela estava, como se quisesse ver a reação de Lorena, que por sua vez, é treinada o suficiente para não exibir nenhuma reação visível."
+    },
+    {
+      "id": "cap-02-0131",
+      "type": "paragraph",
+      "text": "O segundo set começa um pouco diferente, Chiara está jogando melhor, e Lorena fica até impressionada com o nível dela, ela tem que admitir. Chiara consegue quebrar o saque de Eduarda no que seria o último game antes do tie break, levando o set por 7x5."
+    },
+    {
+      "id": "cap-02-0132",
+      "type": "paragraph",
+      "text": "Eduarda parece irritada, e Lorena tenta conter seu sorriso com a cena. Ela grita alguma coisa para seu treinador, que parece gritar instruções de volta."
+    },
+    {
+      "id": "cap-02-0133",
+      "type": "paragraph",
+      "text": "Então, o set decisivo começa, e quem ganhar seria a adversária de Lorena na grande decisão. Eduarda parece completamente focada, motivada, como se ela se recusasse a aceitar qualquer outro resultado que não a vitória. Ela corre para cada bola, sempre se esforçando pra passar mais uma pro lado de lá. Chiara não consegue acompanhar o ritmo, e o set acaba em um 6x2 a favor de Eduarda, que solta um grito alto quando a juíza finalmente fala ‘game, set, match’, encerrando oficialmente a partida.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Então, o set decisivo começa, e quem ganhar seria a adversária de Lorena na grande decisão. Eduarda parece completamente focada, motivada, como se ela se recusasse a aceitar qualquer outro resultado que não a vitória. Ela corre para cada bola, sempre se esforçando pra passar mais uma pro lado de lá. Chiara não consegue acompanhar o ritmo, e o set acaba em um 6x2 a favor de Eduarda, que solta um grito alto quando a juíza finalmente fala "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "‘game, set, match’"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", encerrando oficialmente a partida."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0134",
+      "type": "paragraph",
+      "text": "Então as duas jogadoras vão até a rede, dando um abraço um pouco mais caloroso do que o necessário, fazendo Lorena revirar seus olhos. Eduarda aperta a mão da juíza, e se vira pra plateia, erguendo seu punho no ar, comemorando. Ela tem um sorriso no rosto, a sensação da vitória com certeza correndo por suas veias, àquela sensação única que Lorena conhece bem, de se chegar à final de um Grand Slam."
+    },
+    {
+      "id": "cap-02-0135",
+      "type": "paragraph",
+      "text": "Lorena já está se preparando para falar com Leonardo pra eles saírem dali, sem paciência pra ficar e ouvir a entrevista pós jogo na quadra de Fragoso, quando Eduarda se vira para onde ela estava, e olha diretamente para Lorena. Seus olhos se encontram, e é como se não tivesse mais ninguém ali, como se as milhares de pessoas naquele estádio sumissem, e só as duas permanecessem. Então, Eduarda sorri, mas dessa vez é um sorriso cínico, debochado, uma provocação. Ela sustenta o olhar de Lorena por mais um segundo, e então Eduarda dá uma piscadinha em sua direção, antes de se virar para voltar pro banco.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena já está se preparando para falar com Leonardo pra eles saírem dali, sem paciência pra ficar e ouvir a entrevista pós jogo na quadra de Fragoso, quando Eduarda se vira para onde ela estava, e olha diretamente para Lorena. Seus olhos se encontram, e é como se não tivesse mais ninguém ali, como se as milhares de pessoas naquele estádio sumissem, e só as duas permanecessem. Então, Eduarda sorri, mas dessa vez é um sorriso cínico, debochado, uma "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "provocação"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Ela sustenta o olhar de Lorena por mais um segundo, e então Eduarda dá uma piscadinha em sua direção, antes de se virar para voltar pro banco."
+        }
+      ]
+    },
+    {
+      "id": "cap-02-0136",
+      "type": "paragraph",
+      "text": "O sangue de Lorena começa a ferver em suas veias, porque ela sabe muito bem o que aquilo significava. Eduarda Fragoso a estava desafiando, dizendo sem precisar dizer que elas se veriam na final, e que ela estaria pronta. No entanto, não importava o quanto Eduarda acha que estava preparada para aquela partida, Lorena estaria lá, mais pronta do que nunca para acabar com a raça de Eduarda Fragoso. Não importa o que acontecesse no sábado, Lorena só sabia de uma coisa: ela se recusava a perder.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "O sangue de Lorena começa a ferver em suas veias, porque ela sabe muito bem o que aquilo significava. Eduarda Fragoso a estava desafiando, dizendo sem precisar dizer que elas se veriam na final, e que ela estaria pronta. No entanto, não importava o quanto Eduarda "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "acha"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que estava preparada para aquela partida, Lorena estaria lá, mais pronta do que nunca para acabar com a raça de Eduarda Fragoso. Não importa o que acontecesse no sábado, Lorena só sabia de uma coisa: ela se "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "recusava"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " a perder."
+        }
+      ]
+    }
+  ],
+  "notes": {
+    "before": [
+      {
+        "id": "cap-02-0001",
+        "type": "paragraph",
+        "text": "Voltei com mais um capítulo pra vocês!!"
+      },
+      {
+        "id": "cap-02-0002",
+        "type": "paragraph",
+        "text": "Infelizmente o Leonardo precisa existir nessa fic, mas eu pretendo humilhar ele de outras formas... Enfim, espero que gostem!"
+      }
+    ],
+    "after": [
+      {
+        "id": "cap-02-0137",
+        "type": "paragraph",
+        "text": "E aí, o que acharam? Quem vocês querem que ganhe a final? Hehe"
+      }
+    ]
+  }
+}

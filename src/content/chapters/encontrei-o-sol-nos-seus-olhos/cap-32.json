@@ -1,0 +1,2223 @@
+{
+  "id": "cap-32",
+  "blocks": [
+    {
+      "id": "cap-32-0002",
+      "type": "paragraph",
+      "text": "Juquinha",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Juquinha"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0003",
+      "type": "paragraph",
+      "text": "Na prática, começar a namorar Lorena oficialmente não tinha mudado tanta coisa assim na vida de Eduarda. Elas continuavam na mesma rotina de antes, dormindo e acordando juntas, Eduarda levando Lorena no trabalho, mensagens trocadas durante o dia, palavras de amor antes de dormir."
+    },
+    {
+      "id": "cap-32-0004",
+      "type": "paragraph",
+      "text": "No entanto, tinha alguma coisa especial sobre se referir a Lorena como sua namorada para outras pessoas. Sobre levar Lorena no aniversário de seu chefe e seus colegas da delegacia falarem “então essa é a famosa namorada?”, ou sobre sua mãe falar que mal pode esperar pra voltar pra São Paulo e dessa vez encontrar Lorena oficialmente como sua nora. Tinha algo ainda mais especial sobre ter as roupas de Lorena ao lado das suas no guarda roupa, seu quarto mudando totalmente de cara porque Lorena resolveu redecorar - e claro que ela deixou. O quarto que agora não era mais de Eduarda, mas era das duas, e Eduarda estava começando a perceber como a palavra nosso era especial. Nada mais naquela casa era só dela, e ela não queria que fosse. Tudo que era dela também pertencia a Lorena, e a junção oficial de suas vidas era a coisa mais linda que ela já tinha vivido até ali.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "No entanto, tinha alguma coisa especial sobre se referir a Lorena como sua namorada para outras pessoas. Sobre levar Lorena no aniversário de seu chefe e seus colegas da delegacia falarem "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“então essa é a famosa namorada?”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", ou sobre sua mãe falar que mal pode esperar pra voltar pra São Paulo e dessa vez encontrar Lorena oficialmente como sua nora. Tinha algo ainda mais especial sobre ter as roupas de Lorena ao lado das suas no guarda roupa, seu quarto mudando totalmente de cara porque Lorena resolveu redecorar - e claro que ela deixou. O quarto que agora não era mais de Eduarda, mas era das duas, e Eduarda estava começando a perceber como a palavra "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "nosso"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " era especial. Nada mais naquela casa era só dela, e ela não queria que fosse. Tudo que era dela também pertencia a Lorena, e a junção oficial de suas vidas era a coisa mais linda que ela já tinha vivido até ali."
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0005",
+      "type": "paragraph",
+      "text": "Então, podia-se dizer que as últimas semanas tinham sido boas, e que Eduarda estava experienciando o tipo de felicidade que você espera viver um dia, mas não tem certeza absoluta que existe de fato. Agora ela sabia que existia, e que no seu caso tinha nome e sobrenome: Lorena Ferette."
+    },
+    {
+      "id": "cap-32-0006",
+      "type": "paragraph",
+      "text": "Além disso, como se o universo tivesse resolvido alinhar tudo de uma vez, o trabalho dela estava indo bem ultimamente. O delegado estava confiando cada vez mais nela para assumir casos mais importantes, e Eduarda sentia que estava fazendo progresso de verdade na delegacia. Sua vida parecia ter finalmente entrado nos trilhos, e ela sabe que esse tipo de calmaria não ia durar pra sempre, mas ela queria aproveitar enquanto podia."
+    },
+    {
+      "id": "cap-32-0007",
+      "type": "paragraph",
+      "text": "Ela estava trabalhando justamente em um de seus novos casos, em um dia mais agitado que o normal na delegacia - tinha algum burburinho rolando nos corredores, mas ela ainda não tinha conseguido pegar exatamente o que era - quando seu celular apita, e Eduarda sorri assim que ela vê o nome na tela."
+    },
+    {
+      "id": "cap-32-0008",
+      "type": "paragraph",
+      "text": "Lorena: AMOR.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "AMOR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0009",
+      "type": "paragraph",
+      "text": "Lorena: AMORRRRRR.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "AMORRRRRR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0010",
+      "type": "paragraph",
+      "text": "Lorena: VOCÊ NÃO VAI ACREDITAR.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "VOCÊ NÃO VAI ACREDITAR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0011",
+      "type": "paragraph",
+      "text": "Eduarda: Oiiiiii.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Eduarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Oiiiiii."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0012",
+      "type": "paragraph",
+      "text": "Eduarda: Que foi???",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Eduarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Que foi???"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0013",
+      "type": "paragraph",
+      "text": "Lorena: ME LIGARAM AGORA.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ME LIGARAM AGORA."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0014",
+      "type": "paragraph",
+      "text": "Lorena: EU CONSEGUI O EMPREGOOOO.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "EU CONSEGUI O EMPREGOOOO."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0015",
+      "type": "paragraph",
+      "text": "Lorena: OFICIALMENTE!!!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "OFICIALMENTE!!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0016",
+      "type": "paragraph",
+      "text": "O sorriso de Eduarda abre ainda mais. Lorena havia passado por algumas entrevistas nas últimas semanas para o emprego que sua mãe havia recomendado. Ela sabia que sua namorada ia conseguir, mas sabia também que Lorena estava ansiosa a respeito disso."
+    },
+    {
+      "id": "cap-32-0017",
+      "type": "paragraph",
+      "text": "Eduarda: AAAAAA MEU DEUS PARABENS MEU AMORRRR.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Eduarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "AAAAAA MEU DEUS PARABENS MEU AMORRRR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0018",
+      "type": "paragraph",
+      "text": "Eduarda: EU SABIA QUE VOCÊ IA CONSEGUIR!!!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Eduarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "EU SABIA QUE VOCÊ IA CONSEGUIR!!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0019",
+      "type": "paragraph",
+      "text": "Eduarda: EU TÔ MUITO ORGULHOSA DE VOCÊ!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Eduarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "EU TÔ MUITO ORGULHOSA DE VOCÊ!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0020",
+      "type": "paragraph",
+      "text": "Lorena: EU NEM ACREDITO EU JURO.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "EU NEM ACREDITO EU JURO."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0021",
+      "type": "paragraph",
+      "text": "Lorena: Eu tô muito felizzzzzz.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu tô muito felizzzzzz."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0022",
+      "type": "paragraph",
+      "text": "Eduarda: Ai eu tambémmmm!!!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Eduarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ai eu tambémmmm!!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0023",
+      "type": "paragraph",
+      "text": "Eduarda: Vai ser incrível!! Você vai tirar de letra.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Eduarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vai ser incrível!! Você vai tirar de letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0024",
+      "type": "paragraph",
+      "text": "Lorena: Ai eu espero.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ai eu espero."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0025",
+      "type": "paragraph",
+      "text": "Eduarda: Quando você começa?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Eduarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Quando você começa?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0026",
+      "type": "paragraph",
+      "text": "Lorena: Daqui 10 dias! Pra dar tempo deu sair do meu trabalho atual.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Daqui 10 dias! Pra dar tempo deu sair do meu trabalho atual."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0027",
+      "type": "paragraph",
+      "text": "Eduarda: Ótimo!! To animada por você.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Eduarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ótimo!! To animada por você."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0028",
+      "type": "paragraph",
+      "text": "Eduarda: Hoje a noite a gente comemora!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Eduarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Hoje a noite a gente comemora!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0029",
+      "type": "paragraph",
+      "text": "Lorena: Aaaaaa combinado!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Aaaaaa combinado!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0030",
+      "type": "paragraph",
+      "text": "Lorena: Animada pra te ver já!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Animada pra te ver já!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0031",
+      "type": "paragraph",
+      "text": "Eduarda: Eu também, sempre.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Eduarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu também, sempre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0032",
+      "type": "paragraph",
+      "text": "Eduarda: Já tô com saudade.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Eduarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Já tô com saudade."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0033",
+      "type": "paragraph",
+      "text": "Lorena: Não mais do que eu.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Não mais do que eu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0034",
+      "type": "paragraph",
+      "text": "A atenção de Eduarda é desviada de seu celular quando Paulinho entra na sala."
+    },
+    {
+      "id": "cap-32-0035",
+      "type": "paragraph",
+      "text": "Eduarda: Preciso ir, depois a gente se fala.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Eduarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Preciso ir, depois a gente se fala."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0036",
+      "type": "paragraph",
+      "text": "Eduarda: Te amo!!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Eduarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Te amo!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0037",
+      "type": "paragraph",
+      "text": "Lorena: Tá bom, eu preciso ir também.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tá bom, eu preciso ir também."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0038",
+      "type": "paragraph",
+      "text": "Lorena: Te amo mais!!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Te amo mais!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0039",
+      "type": "paragraph",
+      "text": "Eduarda: Impossível.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Eduarda:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Impossível."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0040",
+      "type": "paragraph",
+      "text": "Eduarda bloqueia o celular e olha pra cima, vendo seu amigo olhando pra ela."
+    },
+    {
+      "id": "cap-32-0041",
+      "type": "paragraph",
+      "text": "– Esse sorriso no seu rosto, vou nem perguntar com quem você tava falando."
+    },
+    {
+      "id": "cap-32-0042",
+      "type": "paragraph",
+      "text": "– Como se você fosse muito melhor quando fala com a Gerluce."
+    },
+    {
+      "id": "cap-32-0043",
+      "type": "paragraph",
+      "text": "– Eu nunca disse que era. - Paulinho responde. - Tudo bem no paraíso, então?"
+    },
+    {
+      "id": "cap-32-0044",
+      "type": "paragraph",
+      "text": "– Tudo mais do que ótimo. - Eduarda fala, já sorrindo de novo. - Lembra que eu te falei que a Lorena tava fazendo entrevista pra um novo emprego? Ela conseguiu!"
+    },
+    {
+      "id": "cap-32-0045",
+      "type": "paragraph",
+      "text": "– Ah mentira, que bom! - O tom de Paulinho é sincero. - Fico feliz por ela."
+    },
+    {
+      "id": "cap-32-0046",
+      "type": "paragraph",
+      "text": "– Ai eu to super feliz, ela queria tanto."
+    },
+    {
+      "id": "cap-32-0047",
+      "type": "paragraph",
+      "text": "– Depois a gente devia sair com a turma pra comemorar, então."
+    },
+    {
+      "id": "cap-32-0048",
+      "type": "paragraph",
+      "text": "– Ta aí uma ótima ideia. - Eduarda concorda. - Depois eu mando mensagem no grupo."
+    },
+    {
+      "id": "cap-32-0049",
+      "type": "paragraph",
+      "text": "– Beleza… - Paulinho continua olhando pra ela, mas sua expressão muda um pouco. Ele adquire aquele olhar mais sério de quando ele está no modo policial."
+    },
+    {
+      "id": "cap-32-0050",
+      "type": "paragraph",
+      "text": "– Que foi? - Eduarda pergunta, levantando as sobrancelhas. - Você tá com cara de que vai me contar um problemão."
+    },
+    {
+      "id": "cap-32-0051",
+      "type": "paragraph",
+      "text": "Paulinho suspira, passando a mão no cabelo."
+    },
+    {
+      "id": "cap-32-0052",
+      "type": "paragraph",
+      "text": "– É, talvez… - Ele admite. - Mas não é exatamente nosso problema."
+    },
+    {
+      "id": "cap-32-0053",
+      "type": "paragraph",
+      "text": "– Como assim? - Eduarda franze o cenho pra ele."
+    },
+    {
+      "id": "cap-32-0054",
+      "type": "paragraph",
+      "text": "– Olha, eu vou te falar porque tá rolando maior fofoca pela delegacia, e do jeito que você é, na sua primeira pausa pra tomar café você já ia dar um jeito de descobrir."
+    },
+    {
+      "id": "cap-32-0055",
+      "type": "paragraph",
+      "text": "– Eu tava mesmo planejando usar minha pausa do café pra apurar o assunto do dia. - Eduarda se inclina um pouco na direção dele. - O que foi que estão falando agora? Caso grande?"
+    },
+    {
+      "id": "cap-32-0056",
+      "type": "paragraph",
+      "text": "– Sim… Caso enorme, pode-se dizer. - Paulinho fala. - Não é da nossa delegacia, no entanto… Por isso ninguém nem sabia de nada antes. Mas você sabe como é, quando as coisas começam a andar, os policiais têm amigos em outras unidades… Logo se espalha."
+    },
+    {
+      "id": "cap-32-0057",
+      "type": "paragraph",
+      "text": "– Paulinho, desembucha logo. - Eduarda pede, curiosa. - Qual é a figura pública que tá sendo investigada agora?"
+    },
+    {
+      "id": "cap-32-0058",
+      "type": "paragraph",
+      "text": "Ele para, como se estivesse repensando se devia ou não falar. Paulinho respira fundo antes de responder."
+    },
+    {
+      "id": "cap-32-0059",
+      "type": "paragraph",
+      "text": "– O pai da sua namorada."
+    },
+    {
+      "id": "cap-32-0060",
+      "type": "paragraph",
+      "text": "– O pai da minha… - Eduarda precisa parar pra raciocinar. - Pera, o Ferette?"
+    },
+    {
+      "id": "cap-32-0061",
+      "type": "paragraph",
+      "text": "– Sim, o poderoso Santiago Ferette. - Paulinho se aproxima mais um pouco dela. - Parece que tinha uma investigação rolando há um tempo, mas agora conseguiram provas concretas… Pelo que eu ouvi, os policiais do caso tão bem convencidos de que vão prender ele."
+    },
+    {
+      "id": "cap-32-0062",
+      "type": "paragraph",
+      "text": "Eduarda engole em seco, um misto de emoções a invadindo. Ela absolutamente odeia o Santiago Ferette, mesmo que ela só tenha estado uma vez no mesmo ambiente que ele. De toda forma, ele abandonou a Lorena, além de ter sido um péssimo pai durante toda sua vida. Ver ele preso trazia uma satisfação especial pra ela. Por outro lado, ela não sabia ao certo como Lorena ia reagir. Era bem possível que ela iria ficar chateada com a situação, ela ainda tinha sentimentos conflitantes sobre o pai."
+    },
+    {
+      "id": "cap-32-0063",
+      "type": "paragraph",
+      "text": "– O que foi que ele fez, exatamente? - Ela pergunta, querendo entender melhor. - Lavagem de dinheiro? Sonegação de impostos?"
+    },
+    {
+      "id": "cap-32-0064",
+      "type": "paragraph",
+      "text": "– Sim e sim… Porém o motivo pra lavagem de dinheiro e sonegação de impostos é o verdadeiro problema. - Paulinho conta pra ela. - Juquinha, ele… Ele falsifica os remédios da Fundação Ferette."
+    },
+    {
+      "id": "cap-32-0065",
+      "type": "paragraph",
+      "text": "– Ele o que??? - Ela pergunta, ficando um pouco incrédula."
+    },
+    {
+      "id": "cap-32-0066",
+      "type": "paragraph",
+      "text": "Paulinho explica o caso pra ela, como aparentemente Ferette falsificava todos os remédios que ele distribuía pela Fundação Ferette, e pagava gente importante pra se safar. Parece que houveram múltiplas denúncias, e finalmente levaram o caso pra frente… E, bem, existia uma chance concreta agora de Santiago ser preso."
+    },
+    {
+      "id": "cap-32-0067",
+      "type": "paragraph",
+      "text": "– Puta que pariu. - Eduarda fala ao acabar de ouvir tudo. - Quando a Lorena souber, ela vai ficar devastada. Ela sabe que o pai dela é um mau caráter, mas assassino? Porque é isso que você tá me falando."
+    },
+    {
+      "id": "cap-32-0068",
+      "type": "paragraph",
+      "text": "– É, eu sei… - Paulinho concorda, suspirando. - Mas, Juquinha, você tem que tomar cuidado com o que você fala. Se ele fica sabendo que a investigação tá perto de ser concluída, tem uma chance dele fugir, e você sabe como é."
+    },
+    {
+      "id": "cap-32-0069",
+      "type": "paragraph",
+      "text": "– Você tá me falando que eu não posso contar pra Lorena?"
+    },
+    {
+      "id": "cap-32-0070",
+      "type": "paragraph",
+      "text": "– Bem, você não é policial do caso, então tecnicamente você não tem uma obrigação legal, mas… Se isso chega nele e interfere nas investigações, e descobrem que vazou por você, você sabe que pode dar merda. - Paulinho responde. - Você faz o que você achar melhor, mas cuidado, porque se a Lorena inventa de falar com o Léo ou com a mãe dela… Enfim, pensa direito."
+    },
+    {
+      "id": "cap-32-0071",
+      "type": "paragraph",
+      "text": "– Eu sabia que tava tudo bom demais pra ser verdade. - Eduarda passa a mão pelo cabelo, soltando o ar. - Como que eu vou dormir com ela hoje a noite e não falo nada, Paulinho?"
+    },
+    {
+      "id": "cap-32-0072",
+      "type": "paragraph",
+      "text": "– É, eu sei que é difícil, mas essas coisas fazem parte de ser policial."
+    },
+    {
+      "id": "cap-32-0073",
+      "type": "paragraph",
+      "text": "Eduarda apenas apoia a cabeça nas mãos, sem saber ao certo como seguir em frente a partir daqui. Lorena estava tão feliz pelo emprego, e essa felicidade ia ser abafada uma hora ou outra. E pior, Eduarda tinha que decidir se ia dar a notícia ou deixar Lorena descobrir em alguns dias ou semanas por canais de notícias, ou na melhor das hipóteses pela sua família."
+    },
+    {
+      "id": "cap-32-0074",
+      "type": "paragraph",
+      "text": "Aquele era um dos poucos momentos em que ela odiava o fato de ser policial."
+    },
+    {
+      "id": "cap-32-0075",
+      "type": "paragraph",
+      "text": "Lorena",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0076",
+      "type": "paragraph",
+      "text": "Lorena passa o dia nas nuvens depois da notícia que ela conseguiu o emprego. Ela chega em casa antes de Eduarda, e toma um banho e sai cantarolando pela casa, já abrindo uma garrafa de vinho. Eduarda tinha falado pra elas comemorarem, mas como ela ia chegar em casa um pouco tarde, elas não iam sair naquele dia. Tudo bem por Lorena, comemorar fazendo um jantar na sua casa com sua namorada já era mais do que o suficiente pra ela."
+    },
+    {
+      "id": "cap-32-0077",
+      "type": "paragraph",
+      "text": "Era por volta das 20:00hrs quando ela finalmente ouve o barulho de chave na porta, Eduarda chegando em casa. Lorena vai pra porta, já sorrindo."
+    },
+    {
+      "id": "cap-32-0078",
+      "type": "paragraph",
+      "text": "– Ei, meu amor. - Ela fala quando Eduarda entra em casa."
+    },
+    {
+      "id": "cap-32-0079",
+      "type": "paragraph",
+      "text": "– Oi. - Eduarda sorri pra ela. - Cheguei, finalmente."
+    },
+    {
+      "id": "cap-32-0080",
+      "type": "paragraph",
+      "text": "Lorena se aproxima, dando um beijo de boas vindas em sua namorada."
+    },
+    {
+      "id": "cap-32-0081",
+      "type": "paragraph",
+      "text": "– Eu já deixei tudo do jantar praticamente pronto, a gente só precisa cozinhar o macarrão. -Ela fala. - E eu já abri um vinho pra gente também."
+    },
+    {
+      "id": "cap-32-0082",
+      "type": "paragraph",
+      "text": "– Desculpa ter chegado tarde, eu não queria que você fizesse tudo sozinha. - Eduarda responde. - E parabéns pelo emprego! Oficialmente, agora."
+    },
+    {
+      "id": "cap-32-0083",
+      "type": "paragraph",
+      "text": "Eduarda dá um abraço nela, e Lorena a abraça de volta. No entanto, alguma coisa parece… errada. O tom de voz de Eduarda não parecia exatamente feliz, e seu sorriso não estava atingindo seus olhos, como normalmente acontece."
+    },
+    {
+      "id": "cap-32-0084",
+      "type": "paragraph",
+      "text": "– Obrigada, mas… Tá tudo bem? - Lorena pergunta. - Você parece um pouco pra baixo."
+    },
+    {
+      "id": "cap-32-0085",
+      "type": "paragraph",
+      "text": "– Tá tudo bem, sim. - Eduarda fala pra ela. - Eu só… Preciso muito de um banho."
+    },
+    {
+      "id": "cap-32-0086",
+      "type": "paragraph",
+      "text": "– Vai lá, então. - Lorena imagina que talvez ela só esteja cansada do longo dia de trabalho. -Eu te espero."
+    },
+    {
+      "id": "cap-32-0087",
+      "type": "paragraph",
+      "text": "– Tá bom. - Eduarda dá um selinho nela. - Já volto, e aí a gente acaba o jantar juntas."
+    },
+    {
+      "id": "cap-32-0088",
+      "type": "paragraph",
+      "text": "– Combinado."
+    },
+    {
+      "id": "cap-32-0089",
+      "type": "paragraph",
+      "text": "Lorena espera na sala enquanto Eduarda toma banho. Ela aproveita e coloca uma música pra tocar, servindo uma taça de vinho agora pra Eduarda também. Ela está no sofá quando Eduarda aparece de novo, agora vestindo roupas confortáveis."
+    },
+    {
+      "id": "cap-32-0090",
+      "type": "paragraph",
+      "text": "– Voltei. - Eduarda vai até o sofá, se sentando ao lado dela."
+    },
+    {
+      "id": "cap-32-0091",
+      "type": "paragraph",
+      "text": "– Eu coloquei vinho pra você. - Lorena entrega a taça pra ela."
+    },
+    {
+      "id": "cap-32-0092",
+      "type": "paragraph",
+      "text": "Eduarda aceita, dando um gole. Ela olha pra Lorena, depois desvia o olhar, depois olha de novo, como se ela estivesse debatendo internamente se devia falar alguma coisa ou não."
+    },
+    {
+      "id": "cap-32-0093",
+      "type": "paragraph",
+      "text": "– Duda… - Lorena começa a ficar preocupada. - O que é que tá acontecendo?"
+    },
+    {
+      "id": "cap-32-0094",
+      "type": "paragraph",
+      "text": "Eduarda fecha os olhos por um momento, suspirando."
+    },
+    {
+      "id": "cap-32-0095",
+      "type": "paragraph",
+      "text": "– Olha, eu preciso falar com você sobre uma coisa. - Ela coloca a taça de vinho na mesa de centro, e Lorena faz a mesma coisa, o nervosismo já tomando conta dela. - Mas eu preciso que você me prometa que não vai falar pra ninguém, e com ninguém eu quero dizer sua mãe e seu irmão."
+    },
+    {
+      "id": "cap-32-0096",
+      "type": "paragraph",
+      "text": "– Eduarda… Por que você tá me pedindo isso? - O coração dela começa a bater mais forte."
+    },
+    {
+      "id": "cap-32-0097",
+      "type": "paragraph",
+      "text": "– Lorena, eu só preciso que você me prometa. É sobre… Questões da delegacia, e eu meio que não deveria falar sobre isso com você."
+    },
+    {
+      "id": "cap-32-0098",
+      "type": "paragraph",
+      "text": "Lorena começa a ficar muito confusa, por que o que diabos de questões da delegacia tem a ver com sua família?"
+    },
+    {
+      "id": "cap-32-0099",
+      "type": "paragraph",
+      "text": "– Tudo bem, eu prometo. - Ela aceita, até porque ela não acha que tem outra opção no momento. - Só me fala o que tá acontecendo."
+    },
+    {
+      "id": "cap-32-0100",
+      "type": "paragraph",
+      "text": "– É sobre o seu pai. - Eduarda explica. - Eu fiquei sabendo hoje que… Bem, tem uma investigação acontecendo em outra unidade, e parece que… - Ela pausa, como se tentasse procurar as palavras. - Lorena, tem grandes chances do seu pai ser preso."
+    },
+    {
+      "id": "cap-32-0101",
+      "type": "paragraph",
+      "text": "Lorena não processa muito bem de imediato. Ela pensa sobre o que Eduarda falou, e então de repente, ela solta uma risada."
+    },
+    {
+      "id": "cap-32-0102",
+      "type": "paragraph",
+      "text": "– Eu sabia que ele tava envolvido em alguma coisa ilegal. Eu sempre falava pra minha mãe, não existe ter tanto dinheiro com uma fundação beneficente! - Ela balança a cabeça, se sentindo um pouco validada. Agora que sua mãe tinha se divorciado, e seu irmão tinha oficialmente saído da fundação - ele tinha contado pra ela na semana anterior - Lorena não via muitos motivos pra não querer a prisão de seu pai. - Me conta, o que foi que ele fez? Desvio de dinheiro, eu imagino?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Eu "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sabia"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que ele tava envolvido em alguma coisa ilegal. Eu sempre falava pra minha mãe, não existe ter tanto dinheiro com uma fundação beneficente! - Ela balança a cabeça, se sentindo um pouco validada. Agora que sua mãe tinha se divorciado, e seu irmão tinha oficialmente saído da fundação - ele tinha contado pra ela na semana anterior - Lorena não via muitos motivos pra não querer a prisão de seu pai. - Me conta, o que foi que ele fez? Desvio de dinheiro, eu imagino?"
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0103",
+      "type": "paragraph",
+      "text": "– Sim, mas… - Eduarda engole em seco. - Não foi só desvio de dinheiro, Lorena."
+    },
+    {
+      "id": "cap-32-0104",
+      "type": "paragraph",
+      "text": "– Como assim? - Ela pergunta, confusa."
+    },
+    {
+      "id": "cap-32-0105",
+      "type": "paragraph",
+      "text": "– Lo, o seu pai… Ele tá envolvido em um esquema de falsificação de remédios. - Eduarda explica. - Os remédios que ele distribuí… São falsos, Lorena. Feitos de farinha, aparentemente. Ele vende os remédios verdadeiros num mercado paralelo, e é assim que ele faz tanto dinheiro."
+    },
+    {
+      "id": "cap-32-0106",
+      "type": "paragraph",
+      "text": "– O meu pai… Ele… - Lorena fica um pouco tonta de repente. - Você tá me falando que ele…"
+    },
+    {
+      "id": "cap-32-0107",
+      "type": "paragraph",
+      "text": "O mundo fica turvo, e Lorena sente como se ela não conseguisse respirar, porque se ela entendeu direito, Eduarda acabou de falar que seu pai é um assassino. Ele é um assassino, porque se ele distribui remédios falsificados pra pessoas doentes, então essencialmente ele está matando essas pessoas, com todas as letras.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "O mundo fica turvo, e Lorena sente como se ela não conseguisse respirar, porque se ela entendeu direito, Eduarda acabou de falar que seu pai "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "é um assassino"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Ele é um assassino, porque se ele distribui remédios falsificados pra pessoas doentes, então essencialmente ele está matando essas pessoas, com todas as letras."
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0108",
+      "type": "paragraph",
+      "text": "Ela não sabe ao certo como isso acontece, mas quando Lorena percebe, sua cabeça está deitada no colo de Eduarda, que está acariciando seus cabelos com cuidado."
+    },
+    {
+      "id": "cap-32-0109",
+      "type": "paragraph",
+      "text": "– Tá tudo bem. - Ela ouve a voz de sua namorada, parecendo um pouco distante demais. -Respira, Lorena. Respira comigo."
+    },
+    {
+      "id": "cap-32-0110",
+      "type": "paragraph",
+      "text": "Lorena obedece, tentando respirar fundo, o foco de sua visão voltando aos poucos. Ela ainda se sente um pouco tonta, mas consegue respirar normalmente de novo."
+    },
+    {
+      "id": "cap-32-0111",
+      "type": "paragraph",
+      "text": "– Duda… - Sua voz falha um pouco, e ela limpa a garganta, ainda deitada no colo de Eduarda. - Você tá me falando que meu pai deixou as pessoas morrerem."
+    },
+    {
+      "id": "cap-32-0112",
+      "type": "paragraph",
+      "text": "– Sim. - Eduarda fala sem rodeios. - Eu sinto muito mesmo, mas é exatamente isso que ele fez. Eu não sei como falar de outra forma."
+    },
+    {
+      "id": "cap-32-0113",
+      "type": "paragraph",
+      "text": "Lorena não fala nada por um tempo, tentando processar tudo mais uma vez. Ela se levanta aos poucos, sentando novamente e olhando pra Eduarda."
+    },
+    {
+      "id": "cap-32-0114",
+      "type": "paragraph",
+      "text": "– Eu sempre soube que ele não era uma pessoa boa, que ele não era esse benfeitor que a sociedade dizia que ele era. - Ela sente sua garganta apertar. - Mas eu… Porra, eu pensei que ele tava envolvido em algum esquema de corrupção, do tipo que ele desviava verba pública ou mentia sobre a verdadeira quantidade da produção da fundação. Não que isso não fosse ruim, mas eu nunca pensei que ele… Eu nunca pensei que meu pai fosse um assassino, Duda. Ele foi o homem que me criou, eu morei com ele por anos, eu vivi desse dinheiro por anos… E esse tempo todo- - Ela para de falar quando lágrimas começam a cair por seus olhos antes que ela conseguisse se segurar. Eduarda a puxa pra perto, abraçando Lorena."
+    },
+    {
+      "id": "cap-32-0115",
+      "type": "paragraph",
+      "text": "– Eu sei, meu amor. - Eduarda abraça ela forte. - Eu sei, e eu sinto muito mesmo. Mas não tinha como você saber, não tinha como ninguém saber."
+    },
+    {
+      "id": "cap-32-0116",
+      "type": "paragraph",
+      "text": "– Mesmo assim, eu usufrui desse dinheiro por anos, dinheiro cheio de sangue. - Lorena fala entre soluços. - Eu não acredito nisso, eu não acredito que… - Ela pausa, saindo do abraço de Eduarda. - Será que minha mãe sabe? Porra, será que meu irmão sabe? Ele trabalhou na fundação por anos."
+    },
+    {
+      "id": "cap-32-0117",
+      "type": "paragraph",
+      "text": "– Lorena, eu não sei, mas… Eu falei sério, você não pode falar com eles agora. - Eduarda fala. - A gente não pode arriscar seu pai descobrir… Se é verdade que conseguiram provas concretas, vai acontecer tudo muito rápido. Não vai demorar até eles conseguirem um mandato de prisão."
+    },
+    {
+      "id": "cap-32-0118",
+      "type": "paragraph",
+      "text": "Lorena passa uma mão por seu rosto, tentando pensar."
+    },
+    {
+      "id": "cap-32-0119",
+      "type": "paragraph",
+      "text": "– Tudo bem, eu não vou quebrar a sua confiança em mim. Eu sei que você nem devia tá me falando. - Ela respira fundo. - Mas nossa, eles também vão ficar devastados quando souberem. Minha mãe amou ele por anos, Duda… Ela não vai acreditar."
+    },
+    {
+      "id": "cap-32-0120",
+      "type": "paragraph",
+      "text": "– Eu sei. - Eduarda segura sua mão. - E quando eles souberem, a gente vai tá lá pra apoiar eles, eu te juro. Eu só preciso que você aguente um pouco com isso."
+    },
+    {
+      "id": "cap-32-0121",
+      "type": "paragraph",
+      "text": "– Tá bom. - Lorena concorda, e Eduarda estende uma mão, limpando suas lágrimas."
+    },
+    {
+      "id": "cap-32-0122",
+      "type": "paragraph",
+      "text": "– Vai ficar tudo bem, meu amor. - Ela fala. - Eu te prometo."
+    },
+    {
+      "id": "cap-32-0123",
+      "type": "paragraph",
+      "text": "– Vai ficar tudo bem assim que ele tiver atrás das grades. - Lorena responde, seu choque sendo substituído pela raiva. - Ele precisa pagar pelo que ele fez."
+    },
+    {
+      "id": "cap-32-0124",
+      "type": "paragraph",
+      "text": "– Eu sei, e ele vai! É pra isso que a gente trabalha."
+    },
+    {
+      "id": "cap-32-0125",
+      "type": "paragraph",
+      "text": "– Eu espero que sim. - Lorena balança a cabeça, ainda um pouco desacreditada. - E agora o nome da Fundação vai ficar manchado pra sempre… E sabe qual o pior de tudo? É o meu nome. - Ela solta um riso seco. - Ferette… O sobrenome que eu carrego, desse homem horrível, e que agora vai ficar pra sempre associado com um crime horrível."
+    },
+    {
+      "id": "cap-32-0126",
+      "type": "paragraph",
+      "text": "– Não precisa ser o seu sobrenome, se você não quiser. - Eduarda fala, e Lorena olha confusa pra ela. - Quer dizer… Eu sei que tá muito cedo pra isso, mas eventualmente… Você pode usar o meu sobrenome, se você quiser."
+    },
+    {
+      "id": "cap-32-0127",
+      "type": "paragraph",
+      "text": "Lorena arregala os olhos, toda sua tristeza e raiva sendo substituídas por um sentimento totalmente diferente."
+    },
+    {
+      "id": "cap-32-0128",
+      "type": "paragraph",
+      "text": "– Eduarda Fragoso… - Ela levanta uma sobrancelha pra Eduarda. - Você tá me pedindo em casamento?"
+    },
+    {
+      "id": "cap-32-0129",
+      "type": "paragraph",
+      "text": "– Novamente, eu sei que agora ainda tá cedo. - Eduarda abre o início de um sorriso. - Mas sim, eu me adoraria casar com você."
+    },
+    {
+      "id": "cap-32-0130",
+      "type": "paragraph",
+      "text": "Lorena sorri de volta, sem conseguir se segurar."
+    },
+    {
+      "id": "cap-32-0131",
+      "type": "paragraph",
+      "text": "– De verdade?"
+    },
+    {
+      "id": "cap-32-0132",
+      "type": "paragraph",
+      "text": "– Óbvio!"
+    },
+    {
+      "id": "cap-32-0133",
+      "type": "paragraph",
+      "text": "– Eu me adoraria casar com você também. - Lorena fala. - E eu adoraria mais ainda usar o seu sobrenome."
+    },
+    {
+      "id": "cap-32-0134",
+      "type": "paragraph",
+      "text": "– Lorena Fragoso… - Eduarda fala, inclinando a cabeça. - Não soa nada mal."
+    },
+    {
+      "id": "cap-32-0135",
+      "type": "paragraph",
+      "text": "– Soa perfeito. - Lorena se aproxima, colocando uma mão no rosto dela. - E passar uma vida com você soa melhor ainda."
+    },
+    {
+      "id": "cap-32-0136",
+      "type": "paragraph",
+      "text": "– Eu também acho. - Eduarda se inclina na direção de Lorena, dando um beijo nela. - Eu te amo."
+    },
+    {
+      "id": "cap-32-0137",
+      "type": "paragraph",
+      "text": "– Eu também te amo. - Lorena fala, então, ela ri. - Você até fez eu esquecer sobre toda a desgraça que você acabou de me contar."
+    },
+    {
+      "id": "cap-32-0138",
+      "type": "paragraph",
+      "text": "– Desculpa, eu não queria tirar o foco."
+    },
+    {
+      "id": "cap-32-0139",
+      "type": "paragraph",
+      "text": "– Não, eu acho ótimo que você tirou. - Lorena responde. - Eu… Bem, não tem muito o que eu fazer agora, né? Acho que só tentar processar isso, e esperar acontecer. Eu espero mesmo que não demore muito, porque eu não quero manter isso em segredo da minha mãe e do meu irmão por muito tempo."
+    },
+    {
+      "id": "cap-32-0140",
+      "type": "paragraph",
+      "text": "– Eu sei. - Eduarda aperta a mão dela. - Desculpa por te pedir pra guardar segredo."
+    },
+    {
+      "id": "cap-32-0141",
+      "type": "paragraph",
+      "text": "– Não precisa pedir desculpas. - Lorena aperta a mão dela de volta. - Obrigada por me contar."
+    },
+    {
+      "id": "cap-32-0142",
+      "type": "paragraph",
+      "text": "– Claro, eu não… Eu não ia conseguir esconder por muito tempo. - Eduarda admite. - Seja o que acontecer, a gente vai passar por tudo juntas, tá bom? Se sua família precisar de qualquer coisa, minha família tá aqui pra ajudar."
+    },
+    {
+      "id": "cap-32-0143",
+      "type": "paragraph",
+      "text": "– Eu sei. - Lorena sorri pra ela. - Obrigada, Duda, por tudo. Eu não sei o que seria de mim sem você."
+    },
+    {
+      "id": "cap-32-0144",
+      "type": "paragraph",
+      "text": "– Bem, você não vai precisar descobrir. - Eduarda leva a mão de Lorena até sua boca, deixando um beijinho ali. - Porque eu to aqui pra sempre."
+    },
+    {
+      "id": "cap-32-0145",
+      "type": "paragraph",
+      "text": "– Eu também. - Lorena fala. - Futura Lorena Esteves Fragoso, agora você não pode voltar atrás."
+    },
+    {
+      "id": "cap-32-0146",
+      "type": "paragraph",
+      "text": "– Eu jamais iria voltar atrás. - Eduarda abre um sorriso enorme. - Lorena Esteves Fragoso é o nome mais lindo que eu já vi."
+    },
+    {
+      "id": "cap-32-0147",
+      "type": "paragraph",
+      "text": "– Eu também gostei. - Lorena se aproxima, e elas se beijam novamente. - Eu te amo muito."
+    },
+    {
+      "id": "cap-32-0148",
+      "type": "paragraph",
+      "text": "Eduarda abraça ela, e Lorena descansa sua cabeça no ombro de sua namorada."
+    },
+    {
+      "id": "cap-32-0149",
+      "type": "paragraph",
+      "text": "– Eu te amo muito também."
+    },
+    {
+      "id": "cap-32-0150",
+      "type": "paragraph",
+      "text": "Ali, nos braços de Eduarda, não importa o que acontecesse, Lorena tinha a certeza que tudo ia ficar bem."
+    },
+    {
+      "id": "cap-32-0151",
+      "type": "paragraph",
+      "text": "Juquinha",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Juquinha"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0152",
+      "type": "paragraph",
+      "text": "Felizmente as coisas andam até mais rápido do que ela imaginou, e no final daquela semana Santiago Ferette é oficialmente preso. Ele com certeza ia tentar responder em liberdade, e ainda teria todo um julgamento, mas a situação não parecia muito boa pro lado dele."
+    },
+    {
+      "id": "cap-32-0153",
+      "type": "paragraph",
+      "text": "Lorena vai até o novo apartamento de sua mãe, conversar com ela e com seu irmão. Eduarda perguntou se Lorena queria que ela fosse junto, mas sua namorada disse que era melhor eles conversarem só os três primeiro. Então ela espera Lorena em casa, que chega tarde naquele dia, tomando um banho e se arrumando pra dormir antes que elas possam finalmente conversar."
+    },
+    {
+      "id": "cap-32-0154",
+      "type": "paragraph",
+      "text": "– E como foi a conversa? - Eduarda pergunta quando elas já estão deitadas em sua cama. Ela tinha feito um chá pra Lorena, que bebericava em sua caneca favorita."
+    },
+    {
+      "id": "cap-32-0155",
+      "type": "paragraph",
+      "text": "– Foi um pouco pesada, mas foi boa. - Lorena suspira. - Minha mãe ficou completamente chocada, ela realmente não fazia ideia. Eu só fico pensando que foi bom ela ter descoberto depois dela já ter pedido o divórcio, eu não sei o que ela ia fazer se fosse há uns meses atrás."
+    },
+    {
+      "id": "cap-32-0156",
+      "type": "paragraph",
+      "text": "– E o Leo?"
+    },
+    {
+      "id": "cap-32-0157",
+      "type": "paragraph",
+      "text": "– Também ficou chocado, ele também não sabia de nada. - Lorena fala. - Ele disse que o pai era muito secreto com algumas coisas da Fundação, não deixava o Leo ver tudo. Agora ele entendeu o porquê."
+    },
+    {
+      "id": "cap-32-0158",
+      "type": "paragraph",
+      "text": "– Pelo menos isso, né? Confesso que fiquei com medo dele já saber de tudo."
+    },
+    {
+      "id": "cap-32-0159",
+      "type": "paragraph",
+      "text": "– Eu fiquei com isso na cabeça também, mas que bom que não. - Lorena responde, respirando fundo. - E agora eu não sei ao certo o que vai acontecer com a Fundação… No momento todos os bens do meu pai tão congelados e as operações da Fundação tão paralisadas, pra investigação. Depois que comprovarem a falsificação, eu não sei se vão fechar de vez, ou se vão permitir que continue operando sob outra administração, não sei como isso funciona."
+    },
+    {
+      "id": "cap-32-0160",
+      "type": "paragraph",
+      "text": "– Olha, eu acho que depende do juiz que pegar o caso, o que ele vai determinar. Também envolve o governo né, já que a Fundação recebe verba pública… É complicado, mas deve ficar tudo parado até o julgamento acontecer."
+    },
+    {
+      "id": "cap-32-0161",
+      "type": "paragraph",
+      "text": "– É, foi o que minha mãe falou… Nossa, que alívio que o Leo já tinha saído de lá, foi na hora certa."
+    },
+    {
+      "id": "cap-32-0162",
+      "type": "paragraph",
+      "text": "– Foi realmente um timing excepcional. - Eduarda concorda. - Mas me diz… Essa história dos bens do seu pai estarem bloqueados, isso afeta sua mãe? Ela consegue movimentar o dinheiro dela ainda?"
+    },
+    {
+      "id": "cap-32-0163",
+      "type": "paragraph",
+      "text": "– Minha mãe não é boba, já tinha muita coisa no nome dela. Aparentemente no meu e no do Leo também, e eu nem sabia… Não sei, ela já tá olhando tudo isso, mas relaxa que sem dinheiro ela não vai ficar."
+    },
+    {
+      "id": "cap-32-0164",
+      "type": "paragraph",
+      "text": "– Bem, você sabe que se eles precisarem de qualquer coisa…"
+    },
+    {
+      "id": "cap-32-0165",
+      "type": "paragraph",
+      "text": "– Eu sei, eu sei. - Lorena coloca seu chá de lado, e leva uma mão ao rosto de Eduarda. - Você e sua mania de querer bancar todo mundo… Não precisa, tá tudo bem."
+    },
+    {
+      "id": "cap-32-0166",
+      "type": "paragraph",
+      "text": "– Não é todo mundo. - Eduarda discorda. - É só a minha linda namorada, e a família dela, se eles precisarem.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Não é "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "todo mundo."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " - Eduarda discorda. - É só a minha linda namorada, e a família dela, se eles precisarem."
+        }
+      ]
+    },
+    {
+      "id": "cap-32-0167",
+      "type": "paragraph",
+      "text": "– Como se você não tivesse feito isso mesmo antes de eu ser sua namorada."
+    },
+    {
+      "id": "cap-32-0168",
+      "type": "paragraph",
+      "text": "– Mas eu já sabia no fundo da minha alma que você era o amor da minha vida."
+    },
+    {
+      "id": "cap-32-0169",
+      "type": "paragraph",
+      "text": "– Aham, deve ter sido isso sim. - Lorena fala em um tom levemente sarcástico. Então ela se aproxima levemente de Eduarda, e fica um pouco mais séria. - Mas falando em amor da vida…"
+    },
+    {
+      "id": "cap-32-0170",
+      "type": "paragraph",
+      "text": "– O que? - Eduarda pergunta."
+    },
+    {
+      "id": "cap-32-0171",
+      "type": "paragraph",
+      "text": "– No outro dia, quando você falou sobre a gente casar… Você tava falando sério?"
+    },
+    {
+      "id": "cap-32-0172",
+      "type": "paragraph",
+      "text": "– Claro que eu tava falando sério! - Eduarda fica surpresa que Lorena ainda tenha dúvidas. -Você achou que eu ia brincar sobre isso?"
+    },
+    {
+      "id": "cap-32-0173",
+      "type": "paragraph",
+      "text": "– Não que você fosse brincar, mas sei lá… - Lorena parece pensar por um momento. - Acho que aquela conversa me deixou pensativa."
+    },
+    {
+      "id": "cap-32-0174",
+      "type": "paragraph",
+      "text": "– Sobre o que? - Eduarda estende uma mão, brincando com uma mexa do cabelo de Lorena."
+    },
+    {
+      "id": "cap-32-0175",
+      "type": "paragraph",
+      "text": "– É só que eu nunca quis nada disso. - Lorena começa a falar. - Quero dizer, casar, ter uma família… Meu pai sempre falou isso na minha cabeça, e eu nunca quis, sempre me pareceu um conceito antiquado, alguma coisa que seria só uma obrigação. - Ela continua. - Mas desde que a gente tá junta… Eu percebi que quero essas coisas sim, com você. Acho que eu comecei a imaginar toda uma vida que eu nunca achei que eu fosse ter, mas parece certo quando eu penso que vou ter todas essas coisas com você."
+    },
+    {
+      "id": "cap-32-0176",
+      "type": "paragraph",
+      "text": "Eduarda sorri pra ela, sua mão ainda mexendo nos cabelos de Lorena."
+    },
+    {
+      "id": "cap-32-0177",
+      "type": "paragraph",
+      "text": "– Você já parou pra pensar que você talvez só não queria essas coisas com um homem? - Ela pergunta. - Eu sei que a maior parte da sua vida você pensou que essa era a única opção."
+    },
+    {
+      "id": "cap-32-0178",
+      "type": "paragraph",
+      "text": "– É, eu acho que é exatamente isso. - Lorena concorda. - É engraçado como as coisas que a gente quer e as coisas que a gente imagina pra nossa vida podem mudar… Por muito tempo eu nem pensava em ter um relacionamento sério, e agora eu me pego imaginando como seria ter filhos ruivos correndo pela casa."
+    },
+    {
+      "id": "cap-32-0179",
+      "type": "paragraph",
+      "text": "– Filhos ruivos, é? - Eduarda arregala os olhos, levemente surpresa. - E se eu quiser que nossos filhos se pareçam com você?"
+    },
+    {
+      "id": "cap-32-0180",
+      "type": "paragraph",
+      "text": "– Não tem problema, a gente pode ter os dois."
+    },
+    {
+      "id": "cap-32-0181",
+      "type": "paragraph",
+      "text": "– Se você continuar falando assim, você vai me fazer chorar."
+    },
+    {
+      "id": "cap-32-0182",
+      "type": "paragraph",
+      "text": "– Você chora por tudo. - Lorena ri, colocando uma mão no rosto de Eduarda."
+    },
+    {
+      "id": "cap-32-0183",
+      "type": "paragraph",
+      "text": "– É que a vida com você é bonita demais pra eu não me emocionar. - Os olhos de Eduarda brilham."
+    },
+    {
+      "id": "cap-32-0184",
+      "type": "paragraph",
+      "text": "– Agora é você que vai me fazer chorar. - Lorena responde, também começando a se emocionar."
+    },
+    {
+      "id": "cap-32-0185",
+      "type": "paragraph",
+      "text": "Eduarda solta uma risada, e se aproxima pra beijar Lorena."
+    },
+    {
+      "id": "cap-32-0186",
+      "type": "paragraph",
+      "text": "– Eu te amo tanto, que às vezes parece nem caber dentro de mim. - Ela fala entre beijos."
+    },
+    {
+      "id": "cap-32-0187",
+      "type": "paragraph",
+      "text": "– Eu sinto exatamente a mesma coisa por você. - Lorena puxa Eduarda pra perto de novo, beijando ela mais uma vez."
+    },
+    {
+      "id": "cap-32-0188",
+      "type": "paragraph",
+      "text": "Aos poucos o beijo se intensifica, suas bocas se partem e Eduarda sente o gosto de Lorena em sua boca, que àquela altura já era tão familiar, mas causava o mesmo efeito nela do que na primeira vez."
+    },
+    {
+      "id": "cap-32-0189",
+      "type": "paragraph",
+      "text": "Lorena puxa Eduarda pela cintura, que se move para ficar em cima dela, colocando uma perna entre as pernas de Lorena. O beijo vai ganhando intensidade, e as mãos de Eduarda começam a se aventurar pelo corpo de Lorena, que emite um leve som com o contato."
+    },
+    {
+      "id": "cap-32-0190",
+      "type": "paragraph",
+      "text": "O beijo se parte quando as duas precisam de um pouco de ar."
+    },
+    {
+      "id": "cap-32-0191",
+      "type": "paragraph",
+      "text": "– Eu sei que o dia foi longo. - Eduarda fala. - Se você tiver cansada, a gente não precisa fazer nada."
+    },
+    {
+      "id": "cap-32-0192",
+      "type": "paragraph",
+      "text": "– Eu até tava cansada, mesmo. - Lorena responde. - Mas é só você me beijar assim, que de repente todo o cansaço vai embora."
+    },
+    {
+      "id": "cap-32-0193",
+      "type": "paragraph",
+      "text": "Eduarda sorri, e Lorena puxa ela pelo pescoço, beijando ela de novo. Deva vez o beijo já começa intenso, e Eduarda já sente sua calcinha ficando molhada só com aquele contato. Ela move uma mão pra barra da blusa de pijama de Lorena, que se afasta do beijo apenas para deixar Eduarda passar a blusa pela sua cabeça, jogando ela do outro lado da cama."
+    },
+    {
+      "id": "cap-32-0194",
+      "type": "paragraph",
+      "text": "– Você é maravilhosa. - Eduarda fala olhando pra Lorena. - Mais que maravilhosa, você é perfeita. A mulher mais bonita que já existiu."
+    },
+    {
+      "id": "cap-32-0195",
+      "type": "paragraph",
+      "text": "– Essa é você. - Lorena puxa Eduarda de volta, e quando o beijo é retomado, Eduarda move uma mão para a barriga agora nua de Lorena, subindo aos poucos até seus seios."
+    },
+    {
+      "id": "cap-32-0196",
+      "type": "paragraph",
+      "text": "Ela aperta o seio de Lorena de leve, o beijo ainda intenso. Então, Eduarda puxa o lábio de Lorena, e parte o beijo apenas para descer até seu pescoço, deixando beijos ali enquanto ela continua estimulando o seio de Lorena, agora colocando um dedo em seu mamilo."
+    },
+    {
+      "id": "cap-32-0197",
+      "type": "paragraph",
+      "text": "– Duda... - A voz de Lorena é quase um sussurro, e Eduarda sobre para olhar pra ela. - Eu também quero te ver."
+    },
+    {
+      "id": "cap-32-0198",
+      "type": "paragraph",
+      "text": "Lorena move sua mão para a blusa de Eduarda, que ajuda Lorena a tirá-la do caminho. Agora as duas estão nuas da cintura pra cima, e Lorena molha os lábios ao olhar pra Eduarda, seus olhos focados, como se ela fosse uma onça pronta para o abate."
+    },
+    {
+      "id": "cap-32-0199",
+      "type": "paragraph",
+      "text": "– Que sorte a minha de te ter pra mim. - Lorena fala antes de puxar Eduarda pela cintura, levantando de leve na cama para levar sua boca até um dos seios de Eduarda."
+    },
+    {
+      "id": "cap-32-0200",
+      "type": "paragraph",
+      "text": "Só o contato da respiração quente de Lorena já é o suficiente para fazer Eduarda fechar os olhos, sua cabeça indo levemente pra trás. Então Lorena coloca sua língua ali, e Eduarda emite um leve gemido enquanto Lorena suga e lambe seu mamilo com intenção."
+    },
+    {
+      "id": "cap-32-0201",
+      "type": "paragraph",
+      "text": "Ela fica ali por algum tempo, e então Eduarda finalmente empurra Lorena levemente pra trás."
+    },
+    {
+      "id": "cap-32-0202",
+      "type": "paragraph",
+      "text": "– Você já tá me matando. - Ela fala e Lorena sorri, então Eduarda se aproxima, fazendo suas bocas se encontrarem de novo."
+    },
+    {
+      "id": "cap-32-0203",
+      "type": "paragraph",
+      "text": "Lorena passa as mãos pelas costas nuas de Eduarda enquanto elas se beijam, e Eduarda se move para pressionar sua perna em Lorena, que emite um leve ruído. Eduarda desce sua mão devagar pelo corpo de Lorena, levando ela até seu shorts. Ela para o beijo apenas para abaixar a peça de roupa, e Lorena joga ela pelo quarto."
+    },
+    {
+      "id": "cap-32-0204",
+      "type": "paragraph",
+      "text": "Eduarda se aproxima para beijar Lorena de novo, mas sua namorada para ela no meio do caminho,"
+    },
+    {
+      "id": "cap-32-0205",
+      "type": "paragraph",
+      "text": "– Ainda não. - Lorena fala, levando sua própria mão aos shorts de Eduarda. - Tira o seu também."
+    },
+    {
+      "id": "cap-32-0206",
+      "type": "paragraph",
+      "text": "Eduarda sorri, e ajuda Lorena a se livrar da peça, deixando as duas só de calcinha."
+    },
+    {
+      "id": "cap-32-0207",
+      "type": "paragraph",
+      "text": "Elas começam a se beijar de novo, e Eduarda se move para encaixar seu corpo no de Lorena de uma forma que suas pernas estejam entrelaçadas, e ela estimule Lorena por cima de sua calcinha da mesma forma que ela está sendo estimulada. A tensão já começa a crescer entre elas, o beijo intenso."
+    },
+    {
+      "id": "cap-32-0208",
+      "type": "paragraph",
+      "text": "Eduarda move sua cabeça da boca de Lorena até seu maxilar, deixando beijos ali e indo até sua orelha, mordendo o lóbulo."
+    },
+    {
+      "id": "cap-32-0209",
+      "type": "paragraph",
+      "text": "– Duda - Lorena geme, seu corpo tremendo de leve."
+    },
+    {
+      "id": "cap-32-0210",
+      "type": "paragraph",
+      "text": "Eduarda sorri com o som, levando sua boca até o pescoço de Lorena, deixando beijos molhados ali, fazendo Lorena pressionar suas mãos com um pouco mais de força nas costas de Eduarda. Ela começa a descer devagar, indo do pescoço até a clavícula, e depois até os seios de Lorena. Eduarda coloca um deles em sua boca, chupando com vontade enquanto leva sua mão até o outro, estimulando o mamilo com o dedo."
+    },
+    {
+      "id": "cap-32-0211",
+      "type": "paragraph",
+      "text": "Ela sente o corpo de Lorena reagir, um ruído escapando de sua boca, uma mão agora apertando o lençol ao lado delas. Eduarda desce novamente, deixando beijos molhados na barriga de Lorena, até chegar na barra de sua calcinha. Ela coloca sua mão por cima da calcinha de Lorena, já sentindo o quanto ela está molhada, e aperta ali de leve."
+    },
+    {
+      "id": "cap-32-0212",
+      "type": "paragraph",
+      "text": "– Eduarda… - A voz de Lorena falha um pouco. - Para de me provocar."
+    },
+    {
+      "id": "cap-32-0213",
+      "type": "paragraph",
+      "text": "– Mas eu adoro te provocar. - Eduarda ri, subindo para dar mais um beijo nos lábios de Lorena."
+    },
+    {
+      "id": "cap-32-0214",
+      "type": "paragraph",
+      "text": "Esse é rápido, e quando ela se afasta, ela já leva sua mão a barra da calcinha de Lorena, atendendo ao pedido de sua namorada. Ela abaixa a calcinha com cuidado, tirando ela pelas pernas de Lorena. Então, Eduarda joga seu cabelo pra trás, e abre as coxas de Lorena, se posicionando ali."
+    },
+    {
+      "id": "cap-32-0215",
+      "type": "paragraph",
+      "text": "Eduarda molha seus lábios e então finalmente coloca sua boca em Lorena, sentindo o gosto maravilhoso dela, sua região já encharcada. Lorena geme um pouco mais alto agora, e Eduarda começa a mexer sua língua assim que ela encontra o clitóris, estimulando a região. Ela aumenta a velocidade aos poucos, alternando com chupadas, sentindo o corpo de Lorena reagir, seus gemidos aumentando aos poucos. Então, com cuidado, Eduarda coloca um dedo dentro de Lorena, que emite um som alto de prazer, e Eduarda começa a mexer o dedo, aumentando também o ritmo ali até que ela coloque mais um dedo, sentindo já que Lorena está perto do clímax."
+    },
+    {
+      "id": "cap-32-0216",
+      "type": "paragraph",
+      "text": "Ela continua com os estímulos, o corpo de Lorena já tremendo embaixo dela, seus gemidos reverberando pelo quarto, até que Lorena aperta o lençol com força, o ápice a atingindo. Eduarda continua com os movimentos até que sente o corpo de Lorena relaxar, e devagar ela tira seus dedos e sua boca dali."
+    },
+    {
+      "id": "cap-32-0217",
+      "type": "paragraph",
+      "text": "Eduarda sobe novamente, deitando ao lado de Lorena, que ainda respira ofegante. Ela acha que ela fica extremamente maravilhosa daquele jeito, completamente desfeita sob seu toque. Eduarda nunca ia se cansar de saber que foi ela que causou aquilo."
+    },
+    {
+      "id": "cap-32-0218",
+      "type": "paragraph",
+      "text": "Quando Lorena recupera o fôlego, ela se aproxima de Eduarda, dando um beijo nela."
+    },
+    {
+      "id": "cap-32-0219",
+      "type": "paragraph",
+      "text": "– Isso foi incrível. - Ela fala, fazendo Eduarda sorrir."
+    },
+    {
+      "id": "cap-32-0220",
+      "type": "paragraph",
+      "text": "– Você achou?"
+    },
+    {
+      "id": "cap-32-0221",
+      "type": "paragraph",
+      "text": "– Você sabe muito bem que sim. - Lorena fala entre beijos. - Mas agora eu quero retribuir o favor."
+    },
+    {
+      "id": "cap-32-0222",
+      "type": "paragraph",
+      "text": "Ela beija Eduarda com vontade antes que ela possa responder, já intensificando o contato, levando uma mão até a cintura de Eduarda para puxar ela mais pra perto. Eduarda agradece a proximidade, sua própria calcinha já encharcada só de ouvir Lorena daquele jeito."
+    },
+    {
+      "id": "cap-32-0223",
+      "type": "paragraph",
+      "text": "Lorena encaixa seus corpos, o beijo intenso enquanto ela leva uma perna até entre as pernas de Eduarda, aplicando pressão. Aos poucos, ela se movimenta para que agora ela esteja em cima de Eduarda, que emite um leve ruído."
+    },
+    {
+      "id": "cap-32-0224",
+      "type": "paragraph",
+      "text": "Lorena interrompe o beijo apenas para levar sua boca até o pescoço de Eduarda, deixando beijos e leves mordidas ali enquanto ela ainda exerce pressão com sua perna, levando uma mão até o seio de Eduarda, apertando de leve antes de começar a estimular seu mamilo. Eduarda fecha os olhos, a mistura de sensações já levando ela à loucura, mordendo seu lábio com força para tentar se conter. Lorena percebe, e devagar ela desce sua mão, levando ela do seio de Eduarda até a barra de sua calcinha."
+    },
+    {
+      "id": "cap-32-0225",
+      "type": "paragraph",
+      "text": "Ela estimula por cima da calcinha primeiro, com certeza já percebendo o estado em que Eduarda estava. Então, ela começa a tirar a calcinha de Eduarda, até que ela também esteja fora do caminho. Ela sobe sua cabeça novamente, olhando Eduarda nos olhos agora, antes de encostar de vez nela."
+    },
+    {
+      "id": "cap-32-0226",
+      "type": "paragraph",
+      "text": "– Eu amo te ver assim. - Lorena fala, apreciando Eduarda. - Eu te amo."
+    },
+    {
+      "id": "cap-32-0227",
+      "type": "paragraph",
+      "text": "– Eu também te amo. - Eduarda consegue responder, e Lorena sela seus lábios, por fim colocando sua mão em Eduarda, encontrando o clitóris e começando a estimular ali."
+    },
+    {
+      "id": "cap-32-0228",
+      "type": "paragraph",
+      "text": "Eduarda geme na boca de Lorena, o contato enviando uma corrente elétrica pelo seu corpo. Ela já estava tão no limite que não demora quase nada até que ela sinta seu corpo se aproximando do ápice, o movimento dos dedos de Lorena e seu beijo fazendo ela jogar sua cabeça pra trás, saindo do beijo de Lorena e gemendo alto, seu corpo inteiro tremendo assim que o clímax a atinge."
+    },
+    {
+      "id": "cap-32-0229",
+      "type": "paragraph",
+      "text": "Lorena diminui seus movimentos apenas por um momento, mas quando Eduarda se acalma, ela apenas beija sua namorada novamente, e volta a movimentar seus dedos, fazendo com que o desejo já se forme novamente no corpo de Eduarda."
+    },
+    {
+      "id": "cap-32-0230",
+      "type": "paragraph",
+      "text": "Dessa vez, Lorena movimenta com mais calma, até que ela mude a posição de seus dedos, colocando o dedo do meio e o anelar dentro de Eduarda, que emite um ruído de aprovação com o movimento. Então, Lorena estimula seu clitóris com o polegar, aumentando a velocidade de suas estocadas aos poucos. Ela desce sua cabeça, voltando ao pescoço de Eduarda, sua respiração pesada ali misturada com os movimentos fazendo ela fechar os olhos com força, arranhando de leve as costas de Lorena."
+    },
+    {
+      "id": "cap-32-0231",
+      "type": "paragraph",
+      "text": "Ela sente o prazer se acumular novamente, e então Lorena desce até seu seio, colocando sua boca ali enquanto ela continua com os movimentos dos dedos, e Eduarda geme alto, sentindo o clímax se aproximar mais uma vez. Ela sente seu corpo inteiro tremer, completamente desfeita sob o toque de Lorena, que continua com os movimentos até que o corpo de Eduarda pare de tremer, relaxando novamente, sua respiração pesada."
+    },
+    {
+      "id": "cap-32-0232",
+      "type": "paragraph",
+      "text": "Lorena tira seus dedos dela, e chupa eles com certa apreciação até que ela deite ao lado de Eduarda novamente. Elas se olham, e Lorena já se aproxima pra dar um beijo nela."
+    },
+    {
+      "id": "cap-32-0233",
+      "type": "paragraph",
+      "text": "– Eu vou dormir como um bebê agora. - Eduarda fala quando elas se afastam, e Lorena solta uma risada sincera."
+    },
+    {
+      "id": "cap-32-0234",
+      "type": "paragraph",
+      "text": "– Eu também. - Ela diz, e se aninha no corpo de Eduarda, deitando a cabeça em seu ombro."
+    },
+    {
+      "id": "cap-32-0235",
+      "type": "paragraph",
+      "text": "Eduarda a abraça de volta, fazendo carinho no braço de Lorena."
+    },
+    {
+      "id": "cap-32-0236",
+      "type": "paragraph",
+      "text": "– Eu te amo. - Ela fala, só porque ela quer falar. Ela falaria que ama Lorena todos os segundos de todos os dias se pudesse."
+    },
+    {
+      "id": "cap-32-0237",
+      "type": "paragraph",
+      "text": "– Eu te amo muito. - Lorena responde, e ela se move para olhar pra Eduarda. - Sabe, mesmo depois de dias difíceis, é impossível ficar triste por muito tempo quando eu tenho você."
+    },
+    {
+      "id": "cap-32-0238",
+      "type": "paragraph",
+      "text": "Eduarda sorri, seus olhos já brilhando."
+    },
+    {
+      "id": "cap-32-0239",
+      "type": "paragraph",
+      "text": "– Se depender de mim, eu vou te fazer feliz todos os dias das nossas vidas."
+    },
+    {
+      "id": "cap-32-0240",
+      "type": "paragraph",
+      "text": "– Você já faz. - Lorena dá um selinho nela."
+    },
+    {
+      "id": "cap-32-0241",
+      "type": "paragraph",
+      "text": "– Você também."
+    },
+    {
+      "id": "cap-32-0242",
+      "type": "paragraph",
+      "text": "Lorena sorri, e deita em Eduarda novamente, que continua fazendo carinho nela. Eduarda também fecha seus olhos, já sentindo o cansaço tomar conta. Antes de dormir, ela agradece silenciosamente ao universo por ter dado a ela muito mais do que ela sempre sonhou."
+    }
+  ],
+  "notes": {
+    "before": [
+      {
+        "id": "cap-32-0001",
+        "type": "paragraph",
+        "text": "Olaaa, estou de volta com mais um capítulo, dessa vez o penúltimo... Queria agradecer mais uma vez a vocês que continuam lendo e acompanhando a fic <3"
+      }
+    ],
+    "after": [
+      {
+        "id": "cap-32-0243",
+        "type": "paragraph",
+        "text": "Precisava fazer o Ferette ser preso no universo da fic... E sim, o Leonardo dessa história é uma pessoa melhor que o Leonardo da novela... Em algum universo ele tem que prestar né"
+      },
+      {
+        "id": "cap-32-0244",
+        "type": "paragraph",
+        "text": "Espero que tenham gostado, eu vou ter esse fim de semana livre e vou aproveitar pra tentar escrever o último cap, eu já sei como vai ser. Um sentimento meio bittersweet mas acho que vai acabar na hora certa. Enfim, vejo vocês lá :)"
+      }
+    ]
+  }
+}

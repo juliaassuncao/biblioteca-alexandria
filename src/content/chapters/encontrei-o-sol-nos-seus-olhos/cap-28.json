@@ -1,0 +1,927 @@
+{
+  "id": "cap-28",
+  "blocks": [
+    {
+      "id": "cap-28-0001",
+      "type": "paragraph",
+      "text": "Lorena",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-28-0002",
+      "type": "paragraph",
+      "text": "Lorena estava um tanto ansiosa para encontrar sua mãe. Ela não a via desde a festa na fundação, e elas não tinham uma conversa de verdade provavelmente desde que Lorena foi expulsa por seu pai. Ela estava preparada, ela sentia que tinha chegado em um ponto em que estava pronta para perdoar sua mãe, para deixar a mágoa pra trás e seguir em frente. Mesmo assim, ela não podia evitar o frio na barriga enquanto ela se aproximava do restaurante."
+    },
+    {
+      "id": "cap-28-0003",
+      "type": "paragraph",
+      "text": "Era domingo no início da tarde, e ela tinha marcado com sua mãe em um restaurante a alguns quarteirões de seu apartamento, então Lorena estava indo a pé, aproveitando a caminhada para clarear a cabeça. Eduarda tinha oferecido de levar ela, caso ela quisesse, mas ela achava melhor assim, para ter mais tempo de se preparar emocionalmente. Eduarda também tinha deixado claro que se Lorena precisasse, ela estaria no restaurante na mesma hora para buscar ela. Lorena se sentia um pouco mais segura sabendo que tinha alguém ali pra ela, alguém em quem ela podia contar, que ela confiava. Eduarda se mostrava cada vez mais solícita, mais atenciosa, surpreendendo Lorena sempre que ela pensava que não tinha como melhorar."
+    },
+    {
+      "id": "cap-28-0004",
+      "type": "paragraph",
+      "text": "Na noite anterior, Eduarda realmente não chegou tão tarde do trabalho, e elas dormiram no quarto dela, acordando juntas novamente. Lorena gostava dessa nova rotina, que apenas estava começando a tomar forma, mas que pra ela já parecia o normal, não algo que ela tinha que se acostumar. Quase como se emocionalmente, ela já estivesse naquele ponto há muito tempo, e era a realidade que estava finalmente a alcançando. Era uma sensação boa."
+    },
+    {
+      "id": "cap-28-0005",
+      "type": "paragraph",
+      "text": "Lorena é tirada de seus pensamentos quando finalmente chega na porta do restaurante. Ela respira fundo, se preparando. É um lugar vegano que ela e Eduarda iam de vez em quando, o ambiente é aconchegante, tem uma área aberta, o ritmo do lugar desacelerado, o tipo de local que dava pra ter uma conversa."
+    },
+    {
+      "id": "cap-28-0006",
+      "type": "paragraph",
+      "text": "Sua mãe havia lhe mandado mensagem avisando que tinha chegado, e Lorena entra e olha em volta por um tempo até encontrá-la, sentada em uma mesa um pouco afastada na área aberta, o jardim ao redor deixando a mesa sob a sombra."
+    },
+    {
+      "id": "cap-28-0007",
+      "type": "paragraph",
+      "text": "– Oi. - Lorena fala ao se aproximar, um pouco sem jeito."
+    },
+    {
+      "id": "cap-28-0008",
+      "type": "paragraph",
+      "text": "Assim que sua mãe a olha, ela tira os óculos escuros de seu rosto, e sorri. É um sorriso tão sincero, que Lorena já se sente um pouco melhor."
+    },
+    {
+      "id": "cap-28-0009",
+      "type": "paragraph",
+      "text": "– Oi, meu amor. - Zenilda se levanta, dando um abraço nela. - Como você tá?"
+    },
+    {
+      "id": "cap-28-0010",
+      "type": "paragraph",
+      "text": "– Eu tô bem. - Lorena fala. - E você?"
+    },
+    {
+      "id": "cap-28-0011",
+      "type": "paragraph",
+      "text": "– Tudo bem também."
+    },
+    {
+      "id": "cap-28-0012",
+      "type": "paragraph",
+      "text": "Elas se sentam, e Zenilda pergunta o que ela vai beber, quase casualmente demais, como se elas fizessem isso toda semana, e não como se elas mal conversassem fazia meses. Lorena pede um suco, sua mãe pede uma água e Lorena respira fundo, tentando se preparar para o que ela queria falar. Sua mãe faz um comentário sobre o tempo de São Paulo, Lorena responde como se fosse uma conversa de elevador."
+    },
+    {
+      "id": "cap-28-0013",
+      "type": "paragraph",
+      "text": "As bebidas chegam rápido e o silêncio se instala de novo, dessa vez pesado demais para ignorar."
+    },
+    {
+      "id": "cap-28-0014",
+      "type": "paragraph",
+      "text": "– Então… - Lorena começa a falar, mexendo nos anéis de sua mão, um tique nervoso."
+    },
+    {
+      "id": "cap-28-0015",
+      "type": "paragraph",
+      "text": "– Minha filha. - Zenilda a interrompe. - Se você não se importar, eu queria falar primeiro."
+    },
+    {
+      "id": "cap-28-0016",
+      "type": "paragraph",
+      "text": "Lorena fica um pouco surpresa, mas ela até agradece mentalmente por sua mãe ter oferecido."
+    },
+    {
+      "id": "cap-28-0017",
+      "type": "paragraph",
+      "text": "– Claro. - Ela engole em seco. - Pode falar."
+    },
+    {
+      "id": "cap-28-0018",
+      "type": "paragraph",
+      "text": "– Eu quero te pedir desculpas. - Zenilda olha em seus olhos, sincera. - Eu sei que foi seu pai que te expulsou, mas eu podia ter feito mais. Eu podia ter ido com você, eu podia ter batido o pé, eu podia ter saído de casa e me separado do seu pai no dia seguinte. Eu devia ter feito todas essas coisas, na verdade. Eu não devia ter continuado dormindo na mesma cama que ele, aceitado que ele não te mandava mais dinheiro e nem deixava eu mandar, deixado você morar de favor por meses… Eu errei como mãe, e eu errei feio, e por muito tempo eu fiquei magoada com você por ter me cortado, por não ter continuado conversando comigo, eu sentia que você me culpou por uma coisa que seu pai fez. - Ela pausa, respirando fundo. - A verdade é que eu também fiz, talvez não diretamente, mas no momento que eu não fiz mais pra impedir, eu fui conivente, e eu te peço desculpas que demorou tanto tempo pra eu perceber isso.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Eu quero te pedir desculpas. - Zenilda olha em seus olhos, sincera. - Eu sei que foi seu pai que te expulsou, mas eu podia ter feito mais. Eu podia ter ido com você, eu podia ter batido o pé, eu podia ter saído de casa e me separado do seu pai no dia seguinte. Eu "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "devia"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " ter feito todas essas coisas, na verdade. Eu não devia ter continuado dormindo na mesma cama que ele, aceitado que ele não te mandava mais dinheiro e nem deixava eu mandar, deixado você morar de favor por meses… Eu errei como mãe, e eu errei feio, e por muito tempo eu fiquei magoada com você por ter me cortado, por não ter continuado conversando comigo, eu sentia que você me culpou por uma coisa que seu pai fez. - Ela pausa, respirando fundo. - A verdade é que eu também fiz, talvez não diretamente, mas no momento que eu não fiz mais pra impedir, eu fui conivente, e eu te peço desculpas que demorou tanto tempo pra eu perceber isso."
+        }
+      ]
+    },
+    {
+      "id": "cap-28-0019",
+      "type": "paragraph",
+      "text": "Lorena fica sem palavras por um momento, sua garganta apertada, lágrimas se formando em seus olhos. Essas foram as palavras que ela esperou ouvir por meses, que ela esperava toda vez que sua mãe ligava naquelas primeiras semanas, que ela ficava mais e mais magoada toda vez que elas não vinham, até que ela desistiu…"
+    },
+    {
+      "id": "cap-28-0020",
+      "type": "paragraph",
+      "text": "Ouvir elas agora curava uma parte dela que ela nem tinha percebido que ainda estava tão ferida. Lorena tinha superado muito quando se tratava de sua expulsão, mas algumas feridas eram mais difíceis de se fechar completamente. Ouvir aquilo, no entanto, já ajudava mais até do que ela esperava."
+    },
+    {
+      "id": "cap-28-0021",
+      "type": "paragraph",
+      "text": "– Você não sabe o quanto eu esperei ouvir isso de você. - Lorena responde depois de algum tempo, contendo suas lágrimas. - Eu não te culpei quando eu fui expulsa, mãe, de verdade… O problema foi o depois. Quando eu fui morar na casa da Maggye, e você nem ofereceu uma alternativa. Quando você continuou casada com o pai, morando com ele, indo nos eventos da Fundação como se ele fosse um homem exemplar. Quando você nem ofereceu de me mandar dinheiro, mesmo sabendo que se não fosse pelo Leo eu teria que largar a minha faculdade. -Ela pausa, passando uma mão pelo cabelo, respirando. - Eu acho que esperava que você fizesse mais, de alguma forma… Que você estivesse comigo além das palavras, mas também nas ações. Doeu muito perceber que eu estava sozinha, no fim do dia. Que se não fosse pela Maggye, eu não tenho nem ideia de onde eu ia parar… Foi um balde de água fria, depois da relação que a gente teve a vida inteira. Não foi fácil pra mim superar isso."
+    },
+    {
+      "id": "cap-28-0022",
+      "type": "paragraph",
+      "text": "Sua mãe estende sua mão, segurando a de Lorena por cima da mesa. Ela agora também tem lágrimas nos olhos."
+    },
+    {
+      "id": "cap-28-0023",
+      "type": "paragraph",
+      "text": "– Eu sei, minha filha. - Ela fala. - E você tá certa, e eu sei que eu não vou conseguir reconquistar isso do dia pra noite, mas eu quero tentar. Eu fiquei tão cega pelo seu pai, pelo nosso casamento… A verdade é que eu aceitei ser submissa por ele tempo demais, e eu não sabia como sair disso. Eu não sabia nem que eu podia sair disso, que era uma opção de verdade. Perder você fez eu começar a acordar, não só pra como seu pai sempre te tratou mal, mas pra como ele também me tratava, como ele me diminuía… Não é certo, nunca foi."
+    },
+    {
+      "id": "cap-28-0024",
+      "type": "paragraph",
+      "text": "Lorena suspira, sentindo seu coração apertar. Ela sentia por sua mãe, ela sempre soube que ela também era uma vítima, no fim do dia. Lorena tinha empatia por ela como mulher, mas como filha, não foi tão simples assim separar as coisas."
+    },
+    {
+      "id": "cap-28-0025",
+      "type": "paragraph",
+      "text": "– Eu sei que ele sempre foi abusivo com você de certa forma… Emocionalmente, financeiramente. Eu sei que foi mais culpa dele do que sua, e que você também sofreu, e eu sinto muito mesmo por isso. - Lorena responde, sua mão ainda segurando a de sua mãe. - Eu queria ter conseguido passar por cima da minha mágoa pra não te perder, mas eu não consegui. - Ela para por um momento, organizando seus pensamentos. - Na verdade, eu acho que foi importante pra mim ficar esse tempo sozinha. Entender o que eu queria pra minha vida, trabalhar pra conquistar minha independência… Foi difícil, mais do que eu gostaria, mas foi importante. Hoje em dia, eu não tenho mais mágoa, não de você. Eu consegui chegar em um ponto em que a saudade e a vontade de seguir em frente são maiores dentro de mim."
+    },
+    {
+      "id": "cap-28-0026",
+      "type": "paragraph",
+      "text": "Sua mãe sorri com as palavras."
+    },
+    {
+      "id": "cap-28-0027",
+      "type": "paragraph",
+      "text": "– Você não sabe o quanto me deixa feliz ouvir isso. - Ela diz. - Quando você disse que queria conversar, eu fiquei mais feliz do que eu fui em qualquer momento nos últimos meses. Eu sinto sua falta todos os dias, minha filha."
+    },
+    {
+      "id": "cap-28-0028",
+      "type": "paragraph",
+      "text": "– Eu também, mãe. - Lorena admite. - Eu te amo, e eu to feliz da gente finalmente poder se entender."
+    },
+    {
+      "id": "cap-28-0029",
+      "type": "paragraph",
+      "text": "– Eu também te amo, muito. - Sua mãe leva uma mão ao rosto de Lorena, enxugando uma lágrima que escapou pela sua bochecha. - E eu vou ser melhor pra você, eu te prometo."
+    },
+    {
+      "id": "cap-28-0030",
+      "type": "paragraph",
+      "text": "– Tá tudo bem, mãe. - Lorena respira fundo, tentando se recompor. - Eu entendo que as coisas também não vão mudar da noite pro dia."
+    },
+    {
+      "id": "cap-28-0031",
+      "type": "paragraph",
+      "text": "– Na verdade, elas vão. - Sua mãe responde, e Lorena franze o cenho, olhando curiosa pra ela. - Já tem um tempo que eu estava pensando nisso, mas depois da conversa que eu tive com o Leonardo, foi a confirmação que eu precisava."
+    },
+    {
+      "id": "cap-28-0032",
+      "type": "paragraph",
+      "text": "– Você diz a conversa sobre a Vivi? - Lorena pergunta. - Ele me falou mesmo que tinha contado pra você."
+    },
+    {
+      "id": "cap-28-0033",
+      "type": "paragraph",
+      "text": "– Sim. - Zenilda confirma. - Lorena, te perder já doeu demais, eu não vou cometer o mesmo erro duas vezes e deixar o Santiago fazer a mesma coisa com outro filho meu. Eu já praticamente tinha me decidido, mas agora eu vou acelerar as coisas, colocar em prática. -Ela pausa, um suspense no ar. - Eu vou me divorciar do seu pai."
+    },
+    {
+      "id": "cap-28-0034",
+      "type": "paragraph",
+      "text": "Lorena arregala os olhos, completamente surpresa. Ela não esperava que sua mãe algum dia fosse dar esse passo, por mais que ela sonhasse com isso."
+    },
+    {
+      "id": "cap-28-0035",
+      "type": "paragraph",
+      "text": "– Você tá falando sério?"
+    },
+    {
+      "id": "cap-28-0036",
+      "type": "paragraph",
+      "text": "– Seríssimo. - Sua mãe fala. - Eu já dei início a papelada, eu vou avisar pra ele ainda essa semana."
+    },
+    {
+      "id": "cap-28-0037",
+      "type": "paragraph",
+      "text": "– Meu Deus, eu nem acredito. - Lorena não consegue conter uma risada desacreditada. - Eu tô muito feliz por você, mãe, de verdade. Eu sei que vai ser difícil, mas eu acho que vai te fazer muito bem."
+    },
+    {
+      "id": "cap-28-0038",
+      "type": "paragraph",
+      "text": "– Eu também acho, minha filha. - Sua mãe sorri. - E eu também estou me organizando pra voltar a trabalhar, finalmente. Já tenho até alguns casos, acredita?"
+    },
+    {
+      "id": "cap-28-0039",
+      "type": "paragraph",
+      "text": "– Sério? - Lorena sente uma alegria inexplicável ouvindo aquilo. - Mãe, isso é incrível!"
+    },
+    {
+      "id": "cap-28-0040",
+      "type": "paragraph",
+      "text": "– Eu sei, eu tô bem feliz. - Ela fala, e Lorena percebe que ela parecia feliz, mesmo. Mais do que em muito tempo. - E bem… Agora que eu vou sair de casa, reivindicar minha metade de tudo que é do seu pai, eu devo alugar um apartamento."
+    },
+    {
+      "id": "cap-28-0041",
+      "type": "paragraph",
+      "text": "– Você não vai mandar o papai ir embora? - Lorena levanta as sobrancelhas pra ela."
+    },
+    {
+      "id": "cap-28-0042",
+      "type": "paragraph",
+      "text": "– Eu não quero ficar naquela casa, quero começar do zero, acho que vai ser bom. - Zenilda explica. - Mas como eu ia dizendo, eu devo alugar um apartamento, e eu já falei com o Leo que ele pode ir morar comigo. - Ela pausa, olhando pra Lorena por um momento. - E eu ia amar se você viesse morar comigo também."
+    },
+    {
+      "id": "cap-28-0043",
+      "type": "paragraph",
+      "text": "Lorena fica levemente boquiaberta, não sabendo o que falar, nem o que sentir. Por meses, tudo que ela mais queria era que sua mãe se mudasse de casa e elas morassem juntas de novo. Agora, no entanto… Lorena não consegue imaginar um mundo em que ela mora em outro lugar. Seu apartamento tinha virado seu lar, Eduarda tinha virado seu lar."
+    },
+    {
+      "id": "cap-28-0044",
+      "type": "paragraph",
+      "text": "– Olha, mãe, eu agradeço, de verdade… - Ela fala, não querendo parecer ingrata. - Mas-"
+    },
+    {
+      "id": "cap-28-0045",
+      "type": "paragraph",
+      "text": "– Você não quer sair do seu apartamento, quer? - Sua mãe fala antes que ela pudesse, levantando uma sobrancelha, um olhar desconfiado no rosto."
+    },
+    {
+      "id": "cap-28-0046",
+      "type": "paragraph",
+      "text": "– Não. - Lorena admite, soltando sua respiração. - Eu quero continuar morando lá, me desculpa."
+    },
+    {
+      "id": "cap-28-0047",
+      "type": "paragraph",
+      "text": "– Não tem problema. - Zenilda bebe um gole de sua água. - Eu imagino que isso tenha a ver com a Eduarda, acertei?"
+    },
+    {
+      "id": "cap-28-0048",
+      "type": "paragraph",
+      "text": "Lorena tenta e falha em conter um sorriso."
+    },
+    {
+      "id": "cap-28-0049",
+      "type": "paragraph",
+      "text": "– Talvez…"
+    },
+    {
+      "id": "cap-28-0050",
+      "type": "paragraph",
+      "text": "– Então o namoro de vocês tá indo bem? - Zenilda parece animada."
+    },
+    {
+      "id": "cap-28-0051",
+      "type": "paragraph",
+      "text": "Só então Lorena se toca que ela nunca desmentiu pra sua mãe que ela e Eduarda não namoravam. Ela não teve nem a chance, depois da festa na Fundação."
+    },
+    {
+      "id": "cap-28-0052",
+      "type": "paragraph",
+      "text": "– Na verdade… - Ela hesita por um momento, sem saber como responder àquilo. - Eu e a Eduarda não somos namoradas."
+    },
+    {
+      "id": "cap-28-0053",
+      "type": "paragraph",
+      "text": "– Como assim? - Zenilda parece confusa, e Lorena respira fundo."
+    },
+    {
+      "id": "cap-28-0054",
+      "type": "paragraph",
+      "text": "– A gente mentiu aquele dia, mãe. - Ela confessa. - Eu fiquei tão maluca vendo meu pai, a forma que ele me tratou, como ele falou comigo… Eu queria deixar ele louco de raiva. -Lorena explica. - Então eu menti que a Eduarda era minha namorada, só pra irritar ele. E bem, funcionou."
+    },
+    {
+      "id": "cap-28-0055",
+      "type": "paragraph",
+      "text": "Zenilda olha pra ela por um segundo, então ela começa a rir."
+    },
+    {
+      "id": "cap-28-0056",
+      "type": "paragraph",
+      "text": "– Funcionou mesmo. - Ela parece pensar sobre. - Ele fala até hoje sobre ela."
+    },
+    {
+      "id": "cap-28-0057",
+      "type": "paragraph",
+      "text": "– Fala? - Lorena pergunta, genuinamente surpresa."
+    },
+    {
+      "id": "cap-28-0058",
+      "type": "paragraph",
+      "text": "– Seu pai nunca superou que você não voltou com o rabo entre as pernas pra casa, minha filha. Ele sempre achou que você ia dar pra trás."
+    },
+    {
+      "id": "cap-28-0059",
+      "type": "paragraph",
+      "text": "– Não ia mesmo. - Lorena cruza os braços, ficando irritada."
+    },
+    {
+      "id": "cap-28-0060",
+      "type": "paragraph",
+      "text": "– Eu sei. - Sua mãe inclina a cabeça de leve. - Mas voltando aqui pra Eduarda… Vocês não são namoradas?"
+    },
+    {
+      "id": "cap-28-0061",
+      "type": "paragraph",
+      "text": "– Não. - Lorena fala, depois para, pensa, e Zenilda segue olhando curiosa pra ela. - Quer dizer… Na época da festa, a gente não era nada, só amiga."
+    },
+    {
+      "id": "cap-28-0062",
+      "type": "paragraph",
+      "text": "– E agora?"
+    },
+    {
+      "id": "cap-28-0063",
+      "type": "paragraph",
+      "text": "– Agora… Bem, ainda não definimos nada, mas… - Lorena morde seu lábio, tentando encontrar as palavras. - Nós estamos juntas, eu acho."
+    },
+    {
+      "id": "cap-28-0064",
+      "type": "paragraph",
+      "text": "Sua mãe sorri."
+    },
+    {
+      "id": "cap-28-0065",
+      "type": "paragraph",
+      "text": "– Olha como você fica toda boba só de pensar nela. - Ela comenta. - Eu vou te dizer, que se você me falasse que não tem nada acontecendo, eu não ia comprar não. Eu te conheço, eu nunca vi você olhar pra ninguém daquele jeito, minha filha. Você olhava pra ela como se ela fosse o sol."
+    },
+    {
+      "id": "cap-28-0066",
+      "type": "paragraph",
+      "text": "Lorena fica um pouco envergonhada, mas ela sorri. De diversas maneiras, Eduarda era mesmo o seu sol."
+    },
+    {
+      "id": "cap-28-0067",
+      "type": "paragraph",
+      "text": "– Eu fui tão óbvia assim? - Ela pergunta, rindo. - Naquele dia eu tava tentando disfarçar, pelo menos pra ela."
+    },
+    {
+      "id": "cap-28-0068",
+      "type": "paragraph",
+      "text": "– Bem, você não disfarçou muito bem. - Sua mãe balança a cabeça, rindo também. - Mas Lorena… Não foi só você. O jeito que aquela menina olha pra você, o jeito que ela falou de você no dia que eu fui- - Sua mãe corta sua frase de repente, como se tivesse falado algo que não devia."
+    },
+    {
+      "id": "cap-28-0069",
+      "type": "paragraph",
+      "text": "Lorena demora um segundo para entender o que era."
+    },
+    {
+      "id": "cap-28-0070",
+      "type": "paragraph",
+      "text": "– Ah. - Ela solta o ar. - Eu sei que você foi ver ela na delegacia um dia, ela me contou."
+    },
+    {
+      "id": "cap-28-0071",
+      "type": "paragraph",
+      "text": "Sua mãe respira aliviada."
+    },
+    {
+      "id": "cap-28-0072",
+      "type": "paragraph",
+      "text": "– Claro que contou. - Zenilda fala. - Enfim, aquele dia, ela falou de você com tanto carinho, tanto amor, minha filha… Dava pra ver como ela se importava, como ela estava apaixonada. Foi depois daquele dia que eu finalmente fiquei em paz com você ter saído de casa, porque eu percebi que tinha alguém cuidando de você, quando eu não podia."
+    },
+    {
+      "id": "cap-28-0073",
+      "type": "paragraph",
+      "text": "Lorena se emociona um pouco, sem nem saber o que responder. Será que Eduarda sentia todas essas coisas, mesmo? Do jeito que as coisas estavam, ela queria acreditar que sim."
+    },
+    {
+      "id": "cap-28-0074",
+      "type": "paragraph",
+      "text": "– É, ela realmente cuida de mim. - Lorena admite."
+    },
+    {
+      "id": "cap-28-0075",
+      "type": "paragraph",
+      "text": "– Eu fico feliz, e eu espero que vire namoro de verdade logo. - Sua mãe fala."
+    },
+    {
+      "id": "cap-28-0076",
+      "type": "paragraph",
+      "text": "– É, eu também… - Lorena admite. - Mas eu acho melhor esperar umas semanas, né? Quer dizer, tudo aconteceu logo antes do ano novo, e na viagem, e a gente acabou de voltar pra São Paulo. Eu não quero assustar ela indo rápido demais, melhor deixar a gente se adaptar à rotina."
+    },
+    {
+      "id": "cap-28-0077",
+      "type": "paragraph",
+      "text": "– O que você achar melhor, mas eu duvido que você assustaria ela. - Zenilda fala. - Mas de toda forma, mesmo se você não vier morar comigo, eu quero poder pelo menos te mandar dinheiro de novo."
+    },
+    {
+      "id": "cap-28-0078",
+      "type": "paragraph",
+      "text": "Lorena olha pra ela por um momento, surpresa com a proposta."
+    },
+    {
+      "id": "cap-28-0079",
+      "type": "paragraph",
+      "text": "– Não precisa, mãe."
+    },
+    {
+      "id": "cap-28-0080",
+      "type": "paragraph",
+      "text": "– Não precisa, mas eu quero. - Ela fala. - Lorena, agora esse dinheiro vai ser meu, e você é minha filha. Não vou deixar você tendo que se virar com pouco considerando o tanto que eu tenho."
+    },
+    {
+      "id": "cap-28-0081",
+      "type": "paragraph",
+      "text": "Lorena suspira, pensando. Ela nunca quis aceitar dinheiro de seu pai, mas Zenilda tinha um ponto, que a partir do momento que ela se divorciasse, a metade dela era dela, não de Santiago."
+    },
+    {
+      "id": "cap-28-0082",
+      "type": "paragraph",
+      "text": "– Tudo bem. - Lorena cede. - Eu aceito, até pro coitado do Leo poder parar de pagar minha faculdade."
+    },
+    {
+      "id": "cap-28-0083",
+      "type": "paragraph",
+      "text": "Além disso, ela poderia começar a pagar as contas por completo e Eduarda não precisaria mais bancar parte pra ela. Lorena sabia que tinha uma certa dívida com Eduarda, mesmo que a outra menina jamais fosse cobrar, muito menos visse dessa forma. E era mais do que só pagar parte das contas, eram pequenos detalhes do dia a dia. Antes mesmo que Lorena se desse conta, sempre tinha papel higiênico no banheiro, detergente na pia da cozinha, sabão em pó na máquina de lavar. Eduarda fazia questão que tudo estivesse comprado, que a geladeira estivesse cheia, que nada faltasse. Ela nunca cobrava isso de Lorena, nem reclamava que era ela quem tinha que fazer. Ela apenas fazia, e era um gesto simples, mas que já demonstrava mais cuidado do que Lorena teve por muito tempo."
+    },
+    {
+      "id": "cap-28-0084",
+      "type": "paragraph",
+      "text": "– Ótimo. - Zenilda tira Lorena de seus pensamentos. - Porque eu não ia aceitar não como resposta."
+    },
+    {
+      "id": "cap-28-0085",
+      "type": "paragraph",
+      "text": "– Obrigada, mãe. - Lorena sorri pra ela."
+    },
+    {
+      "id": "cap-28-0086",
+      "type": "paragraph",
+      "text": "– Não precisa agradecer. - Sua mãe responde. - Agora, será que a gente pode pedir? Eu já to morrendo de fome."
+    },
+    {
+      "id": "cap-28-0087",
+      "type": "paragraph",
+      "text": "– Eu também. - Lorena fala, pegando o cardápio. - Vamos pedir sim, eu adoro a comida daqui."
+    },
+    {
+      "id": "cap-28-0088",
+      "type": "paragraph",
+      "text": "– Tô doida pra provar. - Sua mãe responde, também olhando o cardápio."
+    },
+    {
+      "id": "cap-28-0089",
+      "type": "paragraph",
+      "text": "Antes, Lorena não sabia ao certo como essa conversa ia ser, mas ela já sente como se um peso que estava ali no fundo tivesse deixado ela por completo. Ter sua mãe de volta trazia uma alegria pra ela que ela não conseguia colocar em palavras, apenas sentir. Era bom ser uma filha de novo."
+    },
+    {
+      "id": "cap-28-0090",
+      "type": "paragraph",
+      "text": "Juquinha",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Juquinha"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-28-0091",
+      "type": "paragraph",
+      "text": "Eduarda estava deitada na sua cama, vendo alguma coisa qualquer na TV enquanto fazia carinho em Cadu. Lorena tinha saído pra conversar com sua mãe fazia algum tempo, e ela estava um pouco ansiosa esperando respostas. No entanto, Eduarda não queria pressionar, nem atrapalhar a conversa, então ela estava tentando não mandar muitas mensagens."
+    },
+    {
+      "id": "cap-28-0092",
+      "type": "paragraph",
+      "text": "De repente seu telefone toca, e ela pega o aparelho rápido, esperando que fosse Lorena. Pra sua decepção, era só algum número desconhecido. Ela desliga, achando que era telemarketing, e volta a olhar pra TV. Menos de trinta segundos se passam quando o telefone toca de novo, mesmo número na tela."
+    },
+    {
+      "id": "cap-28-0093",
+      "type": "paragraph",
+      "text": "Eduarda suspira, resolvendo atender. Vai que era do trabalho, ou alguma coisa do tipo. Ela desliza o dedo na tela e coloca o aparelho no ouvido."
+    },
+    {
+      "id": "cap-28-0094",
+      "type": "paragraph",
+      "text": "– Alô?"
+    },
+    {
+      "id": "cap-28-0095",
+      "type": "paragraph",
+      "text": "– Duda? - A voz do outro lado da linha faz Eduarda congelar."
+    },
+    {
+      "id": "cap-28-0096",
+      "type": "paragraph",
+      "text": "– Mariana? - Ela pergunta, ainda desacreditada. - É você?"
+    },
+    {
+      "id": "cap-28-0097",
+      "type": "paragraph",
+      "text": "– Sim, sou eu. - Sua ex responde na maior casualidade do mundo, como se fosse normal ela ligar de um número desconhecido em um domingo à tarde depois delas estarem há mais de um ano terminadas."
+    },
+    {
+      "id": "cap-28-0098",
+      "type": "paragraph",
+      "text": "– Por que você tá me ligando? - Ela pergunta. - Que número é esse?"
+    },
+    {
+      "id": "cap-28-0099",
+      "type": "paragraph",
+      "text": "– Você me bloqueou no meu outro número, então eu tive que improvisar. - Mariana responde, como se fosse uma justificativa aceitável. - Eu queria conversar com você."
+    },
+    {
+      "id": "cap-28-0100",
+      "type": "paragraph",
+      "text": "– Eu não acho que a gente tem nada pra conversar. - Eduarda ainda não estava acreditando naquilo."
+    },
+    {
+      "id": "cap-28-0101",
+      "type": "paragraph",
+      "text": "– Você sabe que tem, sim. - Mariana insiste. - Duda, desde que eu te vi na cafeteria naquele dia, eu não consigo parar de pensar em você. Pra mim, foi mais do que coincidência, foi um sinal de que eu tinha que ir atrás de você."
+    },
+    {
+      "id": "cap-28-0102",
+      "type": "paragraph",
+      "text": "Eduarda suspira, passando uma mão por seu rosto."
+    },
+    {
+      "id": "cap-28-0103",
+      "type": "paragraph",
+      "text": "– Vir atrás de mim pra que, exatamente? - Ela solta um riso seco. - A gente ficou um ano sem se falar."
+    },
+    {
+      "id": "cap-28-0104",
+      "type": "paragraph",
+      "text": "– Sim, e eu não te esqueci. - Mariana fala. - Eu te prometo que eu não to ligando pra ser uma escrota de novo nem nada, eu só… Eu me arrependo muito de como as coisas terminaram entre a gente, Duda. De como eu agi com você, eu sei que eu fui escrota, que você não merecia nada daquilo."
+    },
+    {
+      "id": "cap-28-0105",
+      "type": "paragraph",
+      "text": "– E por que você tá me falando isso agora, depois de um ano?"
+    },
+    {
+      "id": "cap-28-0106",
+      "type": "paragraph",
+      "text": "– Porque as coisas mudaram, eu mudei. - Mariana responde. - Minha vida não é a mesma, e eu odeio que você me odeia, que a gente foi amiga por anos e agora você me bloqueou em tudo. Eu odeio que você se afastou dos nossos amigos por minha causa, que a gente nunca mais saiu todo mundo junto. Você não odeia que tenha sido do jeito que foi?"
+    },
+    {
+      "id": "cap-28-0107",
+      "type": "paragraph",
+      "text": "Eduarda sente que essa conversa exigia mais disponibilidade emocional do que ela esperava antes de atender o telefone. Ela está se sentindo um pouco sobrecarregada, e seu cérebro não está funcionando direito."
+    },
+    {
+      "id": "cap-28-0108",
+      "type": "paragraph",
+      "text": "– Claro que eu odeio, você acha que eu gostei de me afastar dos nossos amigos? Foi uma merda, na época eu fiquei super mal. - Ela admite. - Mas já passou, já foi, não tem mais o que fazer."
+    },
+    {
+      "id": "cap-28-0109",
+      "type": "paragraph",
+      "text": "– Eu só quero te ver, pra poder te pedir desculpas pessoalmente. - Mariana fala. - Conversar, poder ficar bem com você… Quero que a gente possa pelo menos ser amigável."
+    },
+    {
+      "id": "cap-28-0110",
+      "type": "paragraph",
+      "text": "– Mari, eu não sei se é uma boa ide-"
+    },
+    {
+      "id": "cap-28-0111",
+      "type": "paragraph",
+      "text": "– Por favor! - Ela a interrompe. - Não to falando como sua ex ficante ou seja lá o que a gente foi, tô falando como alguém que foi sua amiga por muito tempo. Como alguém que quer acertar as coisas com você."
+    },
+    {
+      "id": "cap-28-0112",
+      "type": "paragraph",
+      "text": "Eduarda respira fundo, sem acreditar. Por meses, tudo que ela queria era receber essa ligação. Ela queria que Mariana se desculpasse, que elas pudessem seguir em frente, que a mágoa fosse embora. Isso já tinha passado fazia muito tempo, no entanto, e a verdade é que a história delas já não ocupava mais tanto espaço na sua cabeça. Quase nada, quando todo espaço dentro dela já estava sendo tomado por um par específico de olhos verdes."
+    },
+    {
+      "id": "cap-28-0113",
+      "type": "paragraph",
+      "text": "– Olha, eu entendo, e eu agradeço você falar todas essas coisas. - Eduarda responde. - Mas você acha mesmo que a gente precisa encontrar pra isso? Eu segui com minha vida, eu tenho certeza que você seguiu com a sua também."
+    },
+    {
+      "id": "cap-28-0114",
+      "type": "paragraph",
+      "text": "– Eu quero me explicar pra você, de verdade. - Ela insiste. - Eu quero poder compensar todo o mal que eu fiz, de alguma forma. Eu quero que você entenda, por favor, Duda."
+    },
+    {
+      "id": "cap-28-0115",
+      "type": "paragraph",
+      "text": "Eduarda fecha seus olhos, se sentindo um pouco derrotada. Ela precisava de tempo pra pensar, pra organizar sua cabeça."
+    },
+    {
+      "id": "cap-28-0116",
+      "type": "paragraph",
+      "text": "– Eu posso pensar sobre, mas não sei."
+    },
+    {
+      "id": "cap-28-0117",
+      "type": "paragraph",
+      "text": "Ela também teria que falar com Lorena, obviamente, e ver o que ela achava dessa história."
+    },
+    {
+      "id": "cap-28-0118",
+      "type": "paragraph",
+      "text": "– Bem, pensa rápido, porque eu to na porta da sua casa."
+    },
+    {
+      "id": "cap-28-0119",
+      "type": "paragraph",
+      "text": "– Você tá o que??? - Eduarda se levanta um pouco na cama, arregalando os olhos.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Você tá "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "o que???"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " - Eduarda se levanta um pouco na cama, arregalando os olhos."
+        }
+      ]
+    },
+    {
+      "id": "cap-28-0120",
+      "type": "paragraph",
+      "text": "– Bem, não na porta, porta. - Mariana explica. - Mas aqui embaixo, na porta do prédio."
+    },
+    {
+      "id": "cap-28-0121",
+      "type": "paragraph",
+      "text": "– Você tá maluca? - Ela pergunta. - Como você sabe onde eu moro?"
+    },
+    {
+      "id": "cap-28-0122",
+      "type": "paragraph",
+      "text": "Eduarda ainda morava com seus pais na época que elas estavam juntas."
+    },
+    {
+      "id": "cap-28-0123",
+      "type": "paragraph",
+      "text": "– Eu tenho meus meios. - Mariana fala como se isso explicasse alguma coisa. - Por favor, me deixa subir."
+    },
+    {
+      "id": "cap-28-0124",
+      "type": "paragraph",
+      "text": "– Não! - Eduarda responde rápido até demais. Não tinha a menor possibilidade dela deixar Mariana subir pro seu apartamento, até porque aquele também era o apartamento de Lorena, e ela jamais faria uma coisa do tipo sem que Lorena soubesse. - Você não vai subir."
+    },
+    {
+      "id": "cap-28-0125",
+      "type": "paragraph",
+      "text": "– Eu não vou embora até te ver. - Ela fala, e meu deus, essa garota ainda era completamente maluca depois de todo esse tempo. - Se você não quer me liberar, eu vou esperar você ter que sair, por algum motivo."
+    },
+    {
+      "id": "cap-28-0126",
+      "type": "paragraph",
+      "text": "Então, Eduarda pensa em uma possibilidade muito pior. Em Lorena chegando em casa, vendo Mariana na portaria, sem entender nada. E imagina se Mariana inventasse de conversar com ela? Ela não podia deixar isso acontecer, não sem pelo menos tentar explicar pra Lorena."
+    },
+    {
+      "id": "cap-28-0127",
+      "type": "paragraph",
+      "text": "– Tá bom. - Eduarda suspira, derrotada. - Mas você não vai subir. Eu desço aí e a gente vai pra algum lugar aqui perto, e aí você me fala o que tem que falar."
+    },
+    {
+      "id": "cap-28-0128",
+      "type": "paragraph",
+      "text": "– Ótimo. - A voz de Mariana parece triunfante."
+    },
+    {
+      "id": "cap-28-0129",
+      "type": "paragraph",
+      "text": "– Eu só vou trocar de roupa."
+    },
+    {
+      "id": "cap-28-0130",
+      "type": "paragraph",
+      "text": "– Estarei esperando. - Ela fala. - Beijos, Duda."
+    },
+    {
+      "id": "cap-28-0131",
+      "type": "paragraph",
+      "text": "Eduarda apenas desliga o telefone, já sem paciência. Em que caralhos ela tinha se metido, atendendo uma ligação de número desconhecido? Então, ela abre sua conversa com Lorena, pensando em falar alguma coisa. O problema é que ela nem sabia como explicar isso por mensagem, e ela não ia ligar agora e correr o risco de atrapalhar o momento de Lorena com sua mãe."
+    },
+    {
+      "id": "cap-28-0132",
+      "type": "paragraph",
+      "text": "Eduarda tinha pedido pra Lorena avisar como foi e falar quando estivesse voltando pra casa, então tudo que ela podia fazer agora era esperar. Era melhor ela ir falar com Mariana de uma vez, e ela podia contar tudo pra Lorena assim que ela voltasse pra casa."
+    },
+    {
+      "id": "cap-28-0133",
+      "type": "paragraph",
+      "text": "Ela respira fundo, tentando se preparar pra descer."
+    },
+    {
+      "id": "cap-28-0134",
+      "type": "paragraph",
+      "text": "Lorena",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-28-0135",
+      "type": "paragraph",
+      "text": "O almoço com sua mãe tinha sido maravilhoso, e Lorena até perdeu a noção do tempo. Depois da conversa delas, elas se atualizaram sobre a vida, sobre o que aconteceu nos últimos meses, jogaram conversa fora… Lorena amava poder apenas estar com sua mãe, conversar com ela. Elas comem, pedem sobremesa e café, o tempo passando. Lorena nem se dá conta de que ficou horas no restaurante até sua mãe pagar a conta. Merda, ela tinha que responder Eduarda, era capaz dela estar ficando preocupada."
+    },
+    {
+      "id": "cap-28-0136",
+      "type": "paragraph",
+      "text": "Lorena e Zenilda se despedem, com uma promessa de saírem de novo em breve, Lorena falando que quer que ela conheça o apartamento. Zenilda fala que vai amar, e que também quer que Lorena visite ela assim que ela se mudar."
+    },
+    {
+      "id": "cap-28-0137",
+      "type": "paragraph",
+      "text": "Então, Lorena caminha de volta pra casa se sentindo triunfante. No meio do caminho, ela tira o celular do bolso para mandar uma mensagem pra Eduarda."
+    },
+    {
+      "id": "cap-28-0138",
+      "type": "paragraph",
+      "text": "Lorena: Foi maravilhoso! Em casa te conto tudo.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Foi maravilhoso! Em casa te conto tudo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-28-0139",
+      "type": "paragraph",
+      "text": "Lorena: Desculpa sumir, me distraí total aqui.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Desculpa sumir, me distraí total aqui."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-28-0140",
+      "type": "paragraph",
+      "text": "Lorena: Menos de cinco minutos eu chego.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Menos de cinco minutos eu chego."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-28-0141",
+      "type": "paragraph",
+      "text": "Ela guarda o celular de novo, e continua andando sem muita pressa, olhando ao redor. Falta pouco para chegar em casa quando ela passa na frente da cafeteria que ela e Eduarda iam de vez em quando. Ela olha pra dentro do ambiente, sem esperar muita coisa, até que de repente seus olhos encontram cabelos ruivos."
+    },
+    {
+      "id": "cap-28-0142",
+      "type": "paragraph",
+      "text": "Lorena para, olhando direito, achando que apenas se confundiu, mas assim que ela olha de verdade, ela vê que realmente Eduarda está ali, sentada em uma mesa perto da janela. Ela fica um pouco confusa, mas ela começa a abrir um sorriso, gostando da possibilidade de surpreender Eduarda. É só então que Lorena olha pro outro lado da mesa, e vê que tem outra pessoa sentada ali, e seu coração para de bater por um momento."
+    },
+    {
+      "id": "cap-28-0143",
+      "type": "paragraph",
+      "text": "Ela pisca uma, duas vezes, sua boca ficando seca, sua cabeça confusa. Lorena está imaginando ou Eduarda está realmente sentada em uma cafeteria com sua ex, como quem não quer nada? Lorena checa o celular, só pra conferir se ela perdeu alguma mensagem da outra garota, mas não, Eduarda não tinha mandado nada.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Ela pisca uma, duas vezes, sua boca ficando seca, sua cabeça confusa. Lorena está imaginando ou Eduarda está "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "realmente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " sentada em uma cafeteria com sua ex, como quem não quer nada? Lorena checa o celular, só pra conferir se ela perdeu alguma mensagem da outra garota, mas não, Eduarda não tinha mandado nada."
+        }
+      ]
+    },
+    {
+      "id": "cap-28-0144",
+      "type": "paragraph",
+      "text": "Ela respira fundo, tentando conter seus pensamentos. Não é possível que… Não, não pode ser. Lorena se lembra da viagem, de todas as coisas que Eduarda disse pra ela, sobre como ela quer tentar ter um relacionamento com Lorena, como ela disse que gosta de verdade de Lorena. Ela pensa no que sua mãe disse, sobre como Eduarda olhava pra ela, falava sobre ela, como todos os seus amigos pareciam achar que as duas estavam em sintonia completa."
+    },
+    {
+      "id": "cap-28-0145",
+      "type": "paragraph",
+      "text": "Deve ter alguma explicação lógica pra isso, né? Lorena considera suas opções, parte dela quer entrar nessa cafeteria e tirar aquela garota dali pelos cabelos, mandando ela nunca mais chegar perto de Eduarda. Parte dela quer puxar Eduarda pela mão e exigir uma explicação que faça sentido."
+    },
+    {
+      "id": "cap-28-0146",
+      "type": "paragraph",
+      "text": "Então, antes que ela pudesse se decidir, de repente a ex de Eduarda se move, colocando uma mão sobre a mão de Eduarda. O gesto é rápido, mas Eduarda não se afasta, não de imediato, e Lorena desvia o olhar antes que ela pudesse ver o desenrolar da cena."
+    },
+    {
+      "id": "cap-28-0147",
+      "type": "paragraph",
+      "text": "Ela fecha seus olhos, tentando conter seus sentimentos, mas incapaz de controlar o fluxo de pensamentos nada amigáveis que invadem sua cabeça. Então Lorena respira fundo, invadida por uma necessidade de sair dali, e continua seu caminho pra casa, mas dessa vez com uma sensação horrível em seu peito."
+    }
+  ],
+  "notes": {
+    "before": [],
+    "after": [
+      {
+        "id": "cap-28-0148",
+        "type": "paragraph",
+        "text": "Não me odeiem... Pra voces se acostumarem com a Teca rsrs"
+      }
+    ]
+  }
+}

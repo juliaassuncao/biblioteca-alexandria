@@ -23,6 +23,7 @@ const filters: { value: CatalogFilter; label: string }[] = [
 ];
 
 export default function Home() {
+  const recentAddition = works[1];
   const { query, setQuery, filter, setFilter, filtered } =
     useCatalogFilter(works);
   return (
@@ -50,7 +51,7 @@ export default function Home() {
           </div>
           {featuredWork && (
             <div className={styles.spotlight}>
-              <span className={styles.labelTop}>NOVA HISTÓRIA NA BIBLIOTECA</span>
+              <span className={styles.labelTop}>NOVAS HISTÓRIAS NA BIBLIOTECA</span>
               <div className={styles.spotlightCover}>
                 <WorkCover work={featuredWork} featured />
               </div>
@@ -64,6 +65,12 @@ export default function Home() {
               >
                 Conhecer a obra <ArrowRight size={15} />
               </Link>
+              {recentAddition && (
+                <div className={styles.alsoAdded}>
+                  <span>Também chegou ao acervo</span>
+                  <Link to={`/obra/${recentAddition.slug}`}>{recentAddition.title} <ArrowRight size={14} aria-hidden="true" /></Link>
+                </div>
+              )}
             </div>
           )}
         </div>

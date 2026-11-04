@@ -1,0 +1,1797 @@
+{
+  "id": "cap-33",
+  "blocks": [
+    {
+      "id": "cap-33-0002",
+      "type": "paragraph",
+      "text": "25/12/2026 - 11 meses depois",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "25/12/2026 - 11 meses depois"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-33-0003",
+      "type": "paragraph",
+      "text": "Juquinha",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Juquinha"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-33-0004",
+      "type": "paragraph",
+      "text": "– Amor! - Lorena grita da sala, fazendo Eduarda voltar pro cômodo. - Cadê você? A gente precisa acabar de arrumar as coisas."
+    },
+    {
+      "id": "cap-33-0005",
+      "type": "paragraph",
+      "text": "– Tô aqui. - Eduarda fala, se aproximando de sua namorada. - E relaxa, já tá tudo arrumado."
+    },
+    {
+      "id": "cap-33-0006",
+      "type": "paragraph",
+      "text": "– Mas tudo precisa estar perfeito. - Lorena responde, mexendo em um enfeite da sala como se movê-lo dois centímetros fizesse muita diferença. - Seus pais tão vindo aqui, pelo amor de deus! Eu não vou passar vergonha na frente deles."
+    },
+    {
+      "id": "cap-33-0007",
+      "type": "paragraph",
+      "text": "– Meus pais te amam, e você sabe. - Eduarda passa os braços em volta de Lorena, abraçando ela por trás. - Eles já vieram aqui antes, eu não sei porque você tá tão estressada com esse almoço."
+    },
+    {
+      "id": "cap-33-0008",
+      "type": "paragraph",
+      "text": "– Porque é um almoço de natal! - Lorena se vira, olhando pra Eduarda. - E nossas famílias e nossos amigos vão chegar daqui a pouco, e se a gente insistiu em fazer um almoço de natal, então precisa valer a pena."
+    },
+    {
+      "id": "cap-33-0009",
+      "type": "paragraph",
+      "text": "– Lorena, independente de qualquer coisa, se tiver bebida e companhia boa, ninguém vai reparar no enfeite da sala. - Eduarda leva uma mão ao rosto de Lorena, tirando uma mecha de cabelo do caminho. - Relaxa, vai dar certo."
+    },
+    {
+      "id": "cap-33-0010",
+      "type": "paragraph",
+      "text": "Lorena suspira, passando uma mão por seu cabelo."
+    },
+    {
+      "id": "cap-33-0011",
+      "type": "paragraph",
+      "text": "– Tá, você tem razão. - Ela concede. - É só que é a primeira vez que a gente faz um evento desses na nossa casa, eu quero que todo mundo goste."
+    },
+    {
+      "id": "cap-33-0012",
+      "type": "paragraph",
+      "text": "– Eles vão, meu amor, eu prometo. - Eduarda se aproxima, dando um beijo nela."
+    },
+    {
+      "id": "cap-33-0013",
+      "type": "paragraph",
+      "text": "– Eu espero. - Lorena fala, antes de mudar sua expressão, franzindo o cenho pra Eduarda. -Mas o que é que você tava fazendo? Você ficou anos naquele quarto hoje."
+    },
+    {
+      "id": "cap-33-0014",
+      "type": "paragraph",
+      "text": "Eduarda realmente tinha passado um tempo considerável no quarto extra naquele dia, o antigo quarto de Lorena. É que ela precisava de um lugar pra esconder uma certa surpresa."
+    },
+    {
+      "id": "cap-33-0015",
+      "type": "paragraph",
+      "text": "– Então… - Ela começa a falar, inclinando a cabeça de leve. - Eu tenho mais um presente de natal pra você."
+    },
+    {
+      "id": "cap-33-0016",
+      "type": "paragraph",
+      "text": "– Como assim? - Lorena olha desconfiada pra ela. - A gente trocou nossos presentes ontem!"
+    },
+    {
+      "id": "cap-33-0017",
+      "type": "paragraph",
+      "text": "– Eu sei, mas é que esse eu só busquei hoje de manhã."
+    },
+    {
+      "id": "cap-33-0018",
+      "type": "paragraph",
+      "text": "– Hoje de manhã?"
+    },
+    {
+      "id": "cap-33-0019",
+      "type": "paragraph",
+      "text": "– Sim, na hora que eu fui no supermercado, eu fiz um pequeno desvio. - Eduarda se afasta de Lorena, começando a andar em direção ao quarto. - Vem, deixa eu te mostrar."
+    },
+    {
+      "id": "cap-33-0020",
+      "type": "paragraph",
+      "text": "– Eduarda, o que é que você tá aprontando? - Lorena pergunta, indo atrás de sua namorada."
+    },
+    {
+      "id": "cap-33-0021",
+      "type": "paragraph",
+      "text": "– Você vai gostar. - Eduarda fala, entrando no quarto. - Eu acho."
+    },
+    {
+      "id": "cap-33-0022",
+      "type": "paragraph",
+      "text": "– Eu tô começando a ficar preocupada."
+    },
+    {
+      "id": "cap-33-0023",
+      "type": "paragraph",
+      "text": "Lorena segue Eduarda para dentro do quarto, parecendo confusa quando tudo que ela vê é uma caixa de papelão em cima da cama."
+    },
+    {
+      "id": "cap-33-0024",
+      "type": "paragraph",
+      "text": "– Que isso? - Ela pergunta, se aproximando."
+    },
+    {
+      "id": "cap-33-0025",
+      "type": "paragraph",
+      "text": "– Preparada? - Eduarda olha pra ela com um meio sorriso no rosto. Então, ela abre mais a caixa, tirando o presente misterioso dali."
+    },
+    {
+      "id": "cap-33-0026",
+      "type": "paragraph",
+      "text": "Quando ela se vira, Lorena olha pra ela boquiaberta ao ver um gatinho preto no colo de Eduarda."
+    },
+    {
+      "id": "cap-33-0027",
+      "type": "paragraph",
+      "text": "– Tcharam. - Eduarda sorri, mostrando o gato pra ela. - É o nosso novo filho."
+    },
+    {
+      "id": "cap-33-0028",
+      "type": "paragraph",
+      "text": "– Duda, você… - Lorena se aproxima, ainda desacreditada. - Você adotou um gato? Ele é nosso?"
+    },
+    {
+      "id": "cap-33-0029",
+      "type": "paragraph",
+      "text": "– Sim. - Eduarda dá um beijinho na cabeça do gato. - Um amigo do Paulinho resgatou uma ninhada da rua e tava procurando gente pra adotar. Você sempre fala que o Cadu parece comigo, então eu achei que já tava na hora da gente ter um filho que se parece com você!"
+    },
+    {
+      "id": "cap-33-0030",
+      "type": "paragraph",
+      "text": "Assim que Eduarda viu as fotos do gatinho, de pelo preto e olhos verdes, ela sabia que precisava levar ele pra casa.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Assim que Eduarda viu as fotos do gatinho, de pelo preto e olhos verdes, ela sabia que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "precisava"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " levar ele pra casa."
+        }
+      ]
+    },
+    {
+      "id": "cap-33-0031",
+      "type": "paragraph",
+      "text": "– Só você mesmo. - Lorena solta uma risada, fazendo carinho no gato, que mia com o toque de sua mão."
+    },
+    {
+      "id": "cap-33-0032",
+      "type": "paragraph",
+      "text": "– Você gostou?"
+    },
+    {
+      "id": "cap-33-0033",
+      "type": "paragraph",
+      "text": "– Duda, ele é… Ele é perfeito! - Lorena olha pra ela, seus olhos brilhando. - Sério, olha que coisinha mais fofa, meu deus."
+    },
+    {
+      "id": "cap-33-0034",
+      "type": "paragraph",
+      "text": "Lorena pega o gato do colo de Eduarda, olhando melhor pra ele."
+    },
+    {
+      "id": "cap-33-0035",
+      "type": "paragraph",
+      "text": "– Eu sabia que você ia gostar. - Eduarda sorri, apreciando a cena. - E o Cadu tava precisando de um irmão, ele é muito rabugento."
+    },
+    {
+      "id": "cap-33-0036",
+      "type": "paragraph",
+      "text": "– Ele já viu o gatinho? - Lorena pergunta. - Será que eles vão se dar bem?"
+    },
+    {
+      "id": "cap-33-0037",
+      "type": "paragraph",
+      "text": "– Ainda não, por isso que eu deixei a porta desse quarto fechada. - Eduarda fala. - A gente vai precisar fazer um período de adaptação, mas tenho certeza que vai dar tudo certo."
+    },
+    {
+      "id": "cap-33-0038",
+      "type": "paragraph",
+      "text": "– E qual vai ser o nome dele, hein?"
+    },
+    {
+      "id": "cap-33-0039",
+      "type": "paragraph",
+      "text": "– Ah, isso eu também já sei! - Eduarda fala, animada. - O nome dele é Mike Wazowski."
+    },
+    {
+      "id": "cap-33-0040",
+      "type": "paragraph",
+      "text": "Lorena começa a rir."
+    },
+    {
+      "id": "cap-33-0041",
+      "type": "paragraph",
+      "text": "– Eduarda, eu não vou chamar nosso gato de Mike Wazowski!"
+    },
+    {
+      "id": "cap-33-0042",
+      "type": "paragraph",
+      "text": "– Por que não? - Ela pergunta, com toda seriedade. - É um ótimo nome."
+    },
+    {
+      "id": "cap-33-0043",
+      "type": "paragraph",
+      "text": "– Eu to começando a ficar preocupada com os nomes que você vai sugerir quando a gente tiver filhos humanos."
+    },
+    {
+      "id": "cap-33-0044",
+      "type": "paragraph",
+      "text": "– Eu posso te passar uma lista depois. - Ela provoca, e Lorena levanta uma sobrancelha pra ela. - Mas sério, é uma homenagem porque você disse que era o seu filme animado favorito."
+    },
+    {
+      "id": "cap-33-0045",
+      "type": "paragraph",
+      "text": "– Se esse é o seu critério, por que não chamar ele de, sei lá, Sully?"
+    },
+    {
+      "id": "cap-33-0046",
+      "type": "paragraph",
+      "text": "– Porque Mike Wazowski é um nome muito melhor. - Eduarda fala como se fosse óbvio. -Relaxa, a gente não precisa falar o nome completo o tempo inteiro. - Ela se inclina um pouco na direção de Lorena. - A gente pode abreviar, e chamar ele só de Wazowski."
+    },
+    {
+      "id": "cap-33-0047",
+      "type": "paragraph",
+      "text": "Lorena revira os olhos, mas ela tem um sorriso em seu rosto."
+    },
+    {
+      "id": "cap-33-0048",
+      "type": "paragraph",
+      "text": "– Você é impossível. - Ela leva sua mão livre ao rosto de Eduarda, a outra ainda segurando o gatinho. - Eu te amo."
+    },
+    {
+      "id": "cap-33-0049",
+      "type": "paragraph",
+      "text": "– Eu também te amo. - Eduarda se aproxima, dando um beijo rápido nela."
+    },
+    {
+      "id": "cap-33-0050",
+      "type": "paragraph",
+      "text": "Assim que ela se afastam, elas escutam a campainha tocar."
+    },
+    {
+      "id": "cap-33-0051",
+      "type": "paragraph",
+      "text": "– As pessoas chegaram! - Lorena entrega o gato de volta pra Eduarda. - Segura ele, eu vou abrir a porta. Depois a gente volta a falar do nome dele."
+    },
+    {
+      "id": "cap-33-0052",
+      "type": "paragraph",
+      "text": "– Que já está decidido, sim. - Eduarda coloca o gato de volta na caixa, indo até a sala atrás de Lorena."
+    },
+    {
+      "id": "cap-33-0053",
+      "type": "paragraph",
+      "text": "Chegando lá, ela vê seus pais entrando pela porta da frente, cumprimentando Lorena."
+    },
+    {
+      "id": "cap-33-0054",
+      "type": "paragraph",
+      "text": "– Minha norinha, como você tá? - Violeta pergunta."
+    },
+    {
+      "id": "cap-33-0055",
+      "type": "paragraph",
+      "text": "– To ótima, e vocês? - Lorena responde, retribuindo o abraço de Violeta. - Feliz natal, né."
+    },
+    {
+      "id": "cap-33-0056",
+      "type": "paragraph",
+      "text": "– Feliz natal. - Violeta sorri. - A gente trouxe presentes."
+    },
+    {
+      "id": "cap-33-0057",
+      "type": "paragraph",
+      "text": "Eduarda se aproxima deles."
+    },
+    {
+      "id": "cap-33-0058",
+      "type": "paragraph",
+      "text": "– Oi mãe. - Ela abraça sua mãe. - Feliz natal."
+    },
+    {
+      "id": "cap-33-0059",
+      "type": "paragraph",
+      "text": "– Pra você também, meu amor. - Violeta responde. - Eu vou colocar os presentes embaixo da árvore, tá?"
+    },
+    {
+      "id": "cap-33-0060",
+      "type": "paragraph",
+      "text": "– À vontade. - Eduarda aponta a árvore pra ela, e enquanto Violeta vai até lá, ela se vira pro seu pai."
+    },
+    {
+      "id": "cap-33-0061",
+      "type": "paragraph",
+      "text": "– Como estão minhas princesas? - Ele pergunta, dando um beijo no rosto de Eduarda, depois de abraçar Lorena."
+    },
+    {
+      "id": "cap-33-0062",
+      "type": "paragraph",
+      "text": "– Tá tudo ótimo."
+    },
+    {
+      "id": "cap-33-0063",
+      "type": "paragraph",
+      "text": "– Sim, tudo ótimo. - Lorena completa. - Na verdade, sua filha acabou de arrumar outro neto pra você."
+    },
+    {
+      "id": "cap-33-0064",
+      "type": "paragraph",
+      "text": "– Um neto? - Henrique olha de Lorena pra Eduarda. - Não vai me falar que…"
+    },
+    {
+      "id": "cap-33-0065",
+      "type": "paragraph",
+      "text": "– Não, ninguém tá grávida, pelo amor de deus. - Eduarda clarifica, antes que seu pai comece a chorar. - É um gato, tá bom? Um gatinho."
+    },
+    {
+      "id": "cap-33-0066",
+      "type": "paragraph",
+      "text": "– Ah, você quase me mata do coração. - Henrique parece levemente decepcionado com a revelação. Eduarda acha engraçado, até porque não é como se ela e Lorena pudessem engravidar acidentalmente."
+    },
+    {
+      "id": "cap-33-0067",
+      "type": "paragraph",
+      "text": "– Desculpa, eu devia ter sido mais específica. - Lorena responde. - Mas é que ainda tá cedo pra filhos humanos… Primeiro, essa daqui precisa colocar um anel no meu dedo."
+    },
+    {
+      "id": "cap-33-0068",
+      "type": "paragraph",
+      "text": "– Ah, é? - Eduarda levanta as sobrancelhas pra ela. - Não me provoca, viu, que eu coloco mesmo."
+    },
+    {
+      "id": "cap-33-0069",
+      "type": "paragraph",
+      "text": "– To esperando. - Lorena dá de ombros."
+    },
+    {
+      "id": "cap-33-0070",
+      "type": "paragraph",
+      "text": "Antes que Eduarda possa responder, a campainha toca novamente. Elas tinham avisado pro porteiro liberar todo mundo que chegasse."
+    },
+    {
+      "id": "cap-33-0071",
+      "type": "paragraph",
+      "text": "Lorena abre a porta para encontrar Zenilda do outro lado, também carregando presentes."
+    },
+    {
+      "id": "cap-33-0072",
+      "type": "paragraph",
+      "text": "– Mãe, você chegou!"
+    },
+    {
+      "id": "cap-33-0073",
+      "type": "paragraph",
+      "text": "– Ei meu amor. - Zenilda abraça sua filha, antes de ir cumprimentar Eduarda. - Que bom ver vocês."
+    },
+    {
+      "id": "cap-33-0074",
+      "type": "paragraph",
+      "text": "– Zenilda, bom te ver! - Henrique sorri para ela. - Feliz natal."
+    },
+    {
+      "id": "cap-33-0075",
+      "type": "paragraph",
+      "text": "– Feliz natal! - Zenilda responde. - Que bom ver vocês de novo."
+    },
+    {
+      "id": "cap-33-0076",
+      "type": "paragraph",
+      "text": "Em uma das vindas dos pais de Eduarda para São Paulo durante o ano, eles tinham organizado um jantar para todos se conhecerem. Ela ficava feliz de ver suas famílias integradas, de ver como eles se davam bem. Eduarda sabia que isso também deixava Lorena radiante, ela sempre ficava com um sorriso enorme no rosto quando via sua mãe interagindo com seus sogros."
+    },
+    {
+      "id": "cap-33-0077",
+      "type": "paragraph",
+      "text": "Violeta se junta a eles, também indo falar com Zenilda. Lorena fecha a porta novamente e vai até Eduarda."
+    },
+    {
+      "id": "cap-33-0078",
+      "type": "paragraph",
+      "text": "– Amor, me ajuda a pegar as bebidas pra todo mundo!"
+    },
+    {
+      "id": "cap-33-0079",
+      "type": "paragraph",
+      "text": "– Sim, senhora. - Eduarda responde, indo com ela até a cozinha."
+    },
+    {
+      "id": "cap-33-0080",
+      "type": "paragraph",
+      "text": "– Será que nossos amigos já tão chegando também? - Lorena pergunta, pegando uma garrafa de vinho da geladeira."
+    },
+    {
+      "id": "cap-33-0081",
+      "type": "paragraph",
+      "text": "– O Paulinho disse que tava vindo com a Gerluce já, então eles não devem demorar."
+    },
+    {
+      "id": "cap-33-0082",
+      "type": "paragraph",
+      "text": "– Ah, ótimo. - Lorena fala enquanto abre a garrafa, Eduarda pegando as taças. - A Maggye também deve tá chegando com o Júnior, eles não costumam atrasar."
+    },
+    {
+      "id": "cap-33-0083",
+      "type": "paragraph",
+      "text": "– E já tá dando tudo certo, tá vendo? - Eduarda se vira para sua namorada."
+    },
+    {
+      "id": "cap-33-0084",
+      "type": "paragraph",
+      "text": "– O dia mal começou."
+    },
+    {
+      "id": "cap-33-0085",
+      "type": "paragraph",
+      "text": "– Sim, e nossos pais estão felizes, a casa tá linda e a gente ganhou um novo filho. - Eduarda fala. - Só vitórias."
+    },
+    {
+      "id": "cap-33-0086",
+      "type": "paragraph",
+      "text": "– Falando em filho, a gente tem que ir ver como ele tá, né? Você deixou o pobre do gato lá sozinho."
+    },
+    {
+      "id": "cap-33-0087",
+      "type": "paragraph",
+      "text": "– Faz tipo cinco minutos, mas tá, eu vou lá."
+    },
+    {
+      "id": "cap-33-0088",
+      "type": "paragraph",
+      "text": "– Falando nisso, cadê o Cadu? - Lorena pergunta, olhando em volta."
+    },
+    {
+      "id": "cap-33-0089",
+      "type": "paragraph",
+      "text": "– Da última vez que eu vi, ele tava escondendo no nosso quarto. - Eduarda pega uma taça de vinho, dando um gole. - Você sabe que ele sente quando vai ter visita."
+    },
+    {
+      "id": "cap-33-0090",
+      "type": "paragraph",
+      "text": "– Sim, e ele detesta. - Lorena tira a taça de vinho da mão da Eduarda. - Esse vinho não era pra você! Era pros nossos convidados."
+    },
+    {
+      "id": "cap-33-0091",
+      "type": "paragraph",
+      "text": "– Tarde demais. - Eduarda dá de ombros, e se aproxima pra dar um beijo rápido em Lorena."
+    },
+    {
+      "id": "cap-33-0092",
+      "type": "paragraph",
+      "text": "Lorena balança a cabeça, e dessa vez ela dá um gole no vinho que Eduarda tinha pegado."
+    },
+    {
+      "id": "cap-33-0093",
+      "type": "paragraph",
+      "text": "– Agora você vai roubar meu vinho? - Eduarda levanta uma sobrancelha pra ela."
+    },
+    {
+      "id": "cap-33-0094",
+      "type": "paragraph",
+      "text": "– Tudo que é meu é seu, ou tô errada?"
+    },
+    {
+      "id": "cap-33-0095",
+      "type": "paragraph",
+      "text": "– Tá certíssima. - Eduarda passa os braços em volta de Lorena, puxando ela pra perto. -Lembra ano passado, da gente trocando mensagens no natal?"
+    },
+    {
+      "id": "cap-33-0096",
+      "type": "paragraph",
+      "text": "– Claro que eu lembro, eu tava na casa da Maggye."
+    },
+    {
+      "id": "cap-33-0097",
+      "type": "paragraph",
+      "text": "– Sim, e você falou que no próximo ano a gente devia fazer aqui em casa. - Eduarda recorda. - Não é que deu certo?"
+    },
+    {
+      "id": "cap-33-0098",
+      "type": "paragraph",
+      "text": "– Deu mesmo. - Lorena sorri. - A gente nem tava junta ainda."
+    },
+    {
+      "id": "cap-33-0099",
+      "type": "paragraph",
+      "text": "– Não, a gente tinha só se beijado… Duas vezes, pelos meus cálculos."
+    },
+    {
+      "id": "cap-33-0100",
+      "type": "paragraph",
+      "text": "– Duas ou três? - Lorena pergunta. - Você conta o beijo falso na festa da fundação?"
+    },
+    {
+      "id": "cap-33-0101",
+      "type": "paragraph",
+      "text": "– Eu conto todos os meus beijos com você, meu amor. - Eduarda se aproxima, dando mais um. - E aquele beijo foi falso só em teoria, né?"
+    },
+    {
+      "id": "cap-33-0102",
+      "type": "paragraph",
+      "text": "Lorena ri."
+    },
+    {
+      "id": "cap-33-0103",
+      "type": "paragraph",
+      "text": "– Como a gente era boba."
+    },
+    {
+      "id": "cap-33-0104",
+      "type": "paragraph",
+      "text": "– As piores. - Eduarda concorda. - Mas olha onde a gente chegou."
+    },
+    {
+      "id": "cap-33-0105",
+      "type": "paragraph",
+      "text": "– Quem diria. - Lorena acaricia o rosto de Eduarda. - Cada dia que passa eu me apaixono mais por você."
+    },
+    {
+      "id": "cap-33-0106",
+      "type": "paragraph",
+      "text": "– Eu também. - Eduarda fala com os olhos brilhando. - Eu te amo demais."
+    },
+    {
+      "id": "cap-33-0107",
+      "type": "paragraph",
+      "text": "– Te amo muito, meu amor. - Lorena puxa ela pra perto, seus lábios se tocando novamente."
+    },
+    {
+      "id": "cap-33-0108",
+      "type": "paragraph",
+      "text": "Elas são interrompidas pelo soar da campainha."
+    },
+    {
+      "id": "cap-33-0109",
+      "type": "paragraph",
+      "text": "– Aí, nossos amigos. - Eduarda fala. - Você atende? Eu vou ver como tá o Mike Wazowski."
+    },
+    {
+      "id": "cap-33-0110",
+      "type": "paragraph",
+      "text": "– A gente não definiu esse nome ainda. - Lorena se vira, pegando as taças de vinho. - E me ajuda com isso aqui primeiro."
+    },
+    {
+      "id": "cap-33-0111",
+      "type": "paragraph",
+      "text": "– Tá bom, tá bom. - Eduarda também pega algumas taças de vinho. Então, ela se vira pra Lorena. - Meu amor?"
+    },
+    {
+      "id": "cap-33-0112",
+      "type": "paragraph",
+      "text": "– O que? - Lorena pergunta, olhando pra ela."
+    },
+    {
+      "id": "cap-33-0113",
+      "type": "paragraph",
+      "text": "– Vamos ter o melhor natal de todos."
+    },
+    {
+      "id": "cap-33-0114",
+      "type": "paragraph",
+      "text": "Lorena sorri, suas covinhas aparecendo."
+    },
+    {
+      "id": "cap-33-0115",
+      "type": "paragraph",
+      "text": "– Com você, é impossível não ser. - Ela fala, beijando Eduarda mais uma vez antes de sair da cozinha."
+    },
+    {
+      "id": "cap-33-0116",
+      "type": "paragraph",
+      "text": "Pouco tempo depois todo mundo já está lá, conversando e bebendo e curtindo o dia. Paulinho conta histórias da Eduarda na delegacia (contra sua vontade) e seus pais aproveitam pra contar histórias dela quando criança (ainda mais contra sua vontade). Ela e Lorena ficam pra lá e pra cá, enchendo taças e servindo comida e vendo se os filhos peludos delas estavam bem. Todo muito elogia o almoço, e depois eles fazem um amigo oculto - que tem muita gritaria e acusações de ‘marmelada’."
+    },
+    {
+      "id": "cap-33-0117",
+      "type": "paragraph",
+      "text": "No fim da tarde, fica aquela sensação de dever cumprido - tudo correu bem, todo mundo está feliz e levemente bêbado, e tem aquela magia de natal no ar. Eduarda fica especialmente feliz em ver como Lorena parecia amar tudo aquilo. Ela se lembra do ano anterior, de Lorena passando o natal longe da família, dela contando pra Eduarda que nunca tinha gostado muito do feriado. Esse ano, foi Lorena que escolheu todos os enfeites, que fez Eduarda montar a árvore com uma antecedência desnecessária, que fez um convite para chamar oficialmente todos os seus amigos e família. Ver sua namorada genuinamente feliz, e ressignificando uma data que parecia trazer memórias dolorosas, fazia Eduarda querer chorar toda vez que olhava pra ela. Ver que as duas estavam construindo uma família conjunta, uma vida, uma rotina e um futuro, fazia Eduarda querer sair pela rua gritando de felicidade."
+    },
+    {
+      "id": "cap-33-0118",
+      "type": "paragraph",
+      "text": "O ano tinha sido longo, alguns contratempos pelo caminho, mas tinha definitivamente sido o melhor ano da vida de Eduarda. Agora ela já era a detetive principal de diversos casos na delegacia, e o delegado parecia confiar plenamente nela. Lorena tinha finalmente se formado na faculdade, e com isso ela havia sido efetivada no trabalho que ela tinha começado lá em janeiro, na revista de moda. Agora, ela já tinha um plano de carreira dentro da empresa, e as coisas corriam bem. O processo do pai de Lorena ainda estava rolando, e ele está respondendo em liberdade com uma tornozeleira eletrônica que o impede de sair de seu próprio apartamento. Lorena não quis mais ver ele, e só fica sabendo da evolução do caso pelo que sua mãe conta."
+    },
+    {
+      "id": "cap-33-0119",
+      "type": "paragraph",
+      "text": "Tinha tido momentos corridos, desencontros e noites longas, mas também muitas noites felizes, jantares com amigos, comemorações de aniversário, encontros de família e dias preguiçosos vendo tv abraçadas no sofá. A verdade é que não importava se era um dia difícil ou um dia feliz, Eduarda queria todos os dias com Lorena. Todos os que ela tivesse a sorte de ter."
+    },
+    {
+      "id": "cap-33-0120",
+      "type": "paragraph",
+      "text": "– O que é que você tá pensando, hein? - Lorena pergunta pra Eduarda, sentando ao seu lado no sofá. - Você tá aí viajando tem uns cinco minutos."
+    },
+    {
+      "id": "cap-33-0121",
+      "type": "paragraph",
+      "text": "– Nada, só… - Eduarda olha de volta pra ela, voltando pra realidade. - Em como eu tô feliz com nosso natal. Foi tudo perfeito."
+    },
+    {
+      "id": "cap-33-0122",
+      "type": "paragraph",
+      "text": "– Foi mesmo. - Lorena sorri, parecendo satisfeita. - Obrigada."
+    },
+    {
+      "id": "cap-33-0123",
+      "type": "paragraph",
+      "text": "– Pelo que? - Eduarda franze o cenho pra ela. - Foi você que fez quase tudo."
+    },
+    {
+      "id": "cap-33-0124",
+      "type": "paragraph",
+      "text": "– Bem, foi você que cozinhou. - Ela responde. - Mas… Eu quis dizer obrigada num sentido mais geral, mesmo. Por ser a melhor namorada que eu podia pedir, por estar sempre aqui comigo. Eu não ia nem querer fazer uma comemoração dessas se não fosse por você."
+    },
+    {
+      "id": "cap-33-0125",
+      "type": "paragraph",
+      "text": "– Lorena, eu tô levemente bêbada, e se você falar essas coisas agora eu vou começar a chorar. - Eduarda tenta conter suas lágrimas, o que faz Lorena rir."
+    },
+    {
+      "id": "cap-33-0126",
+      "type": "paragraph",
+      "text": "– Como se você não fosse começar a chorar mesmo se estivesse sóbria. - Ela provoca, segurando a mão da namorada."
+    },
+    {
+      "id": "cap-33-0127",
+      "type": "paragraph",
+      "text": "– Talvez. - Eduarda concede, e então olha pra Lorena por um momento. - Nada me deixa mais feliz do que ver a vida que eu tô construindo com você. A vida que a gente está construindo juntas. Eu te amo tanto, eu que tenho que te agradecer por ser a pessoa mais maravilhosa que eu já conheci."
+    },
+    {
+      "id": "cap-33-0128",
+      "type": "paragraph",
+      "text": "– Eu também te amo muito. - Lorena se aproxima, dando um beijo em sua namorada. - Cada dia mais."
+    },
+    {
+      "id": "cap-33-0129",
+      "type": "paragraph",
+      "text": "Eduarda sorri, puxando ela pra mais um beijo."
+    },
+    {
+      "id": "cap-33-0130",
+      "type": "paragraph",
+      "text": "– Vocês vão ficar nessa pegação aqui na sala mesmo? - A voz de Paulinho interrompe elas, chegando com uma garrafa de vinho na mão. - O quarto de vocês tá logo ali."
+    },
+    {
+      "id": "cap-33-0131",
+      "type": "paragraph",
+      "text": "Os pais delas já tinham ido embora, mas seus amigos continuavam ali, bebendo e conversando."
+    },
+    {
+      "id": "cap-33-0132",
+      "type": "paragraph",
+      "text": "– Ai, sai pra lá. - Eduarda reclama, se virando pra ele. - Eu te convido pra minha casa, te dou comida, bebida, e ainda sou obrigada a te ouvir reclamar?"
+    },
+    {
+      "id": "cap-33-0133",
+      "type": "paragraph",
+      "text": "– Exatamente. - Ele aponta um dedo pra ela. - Cadê a taça de vocês? A noite é uma criança."
+    },
+    {
+      "id": "cap-33-0134",
+      "type": "paragraph",
+      "text": "– Você sabe que tem que trabalhar amanhã, né? - Eduarda fala pra ele, mas estende sua taça vazia mesmo assim."
+    },
+    {
+      "id": "cap-33-0135",
+      "type": "paragraph",
+      "text": "– Você também, senhorita. - Lorena fala pra ela. - Você não acha que tá na hora de começar a beber água?"
+    },
+    {
+      "id": "cap-33-0136",
+      "type": "paragraph",
+      "text": "– Juquinha, fala pra sua namorada parar de ser chata, e beber mais com a gente. - Paulinho enche a taça dela."
+    },
+    {
+      "id": "cap-33-0137",
+      "type": "paragraph",
+      "text": "– Ih Paulinho, vai catar coquinho, vai. - Lorena dá um tapinha no ombro dele. - Se você continuar me enchendo o saco, eu vou brigar com a Eduarda só pra ela passar o dia inteiro na delegacia choramingando no seu ouvido."
+    },
+    {
+      "id": "cap-33-0138",
+      "type": "paragraph",
+      "text": "– Ah não, sobrou pra mim agora? - Eduarda pergunta, apontando pra si mesma. - Eu não fiz nada."
+    },
+    {
+      "id": "cap-33-0139",
+      "type": "paragraph",
+      "text": "– Desculpa amor, é só pra irritar ele."
+    },
+    {
+      "id": "cap-33-0140",
+      "type": "paragraph",
+      "text": "– Ninguém vai brigar com ninguém. - Paulinho fala. - Hoje é só amor."
+    },
+    {
+      "id": "cap-33-0141",
+      "type": "paragraph",
+      "text": "– O que é que ele tá falando agora, hein? - Gerluce aparece ao lado do noivo (sim, isso também tinha sido uma novidade dos últimos onze meses). - Eu já falei pra ele parar de beber, mas ele não me escuta. Depois eu tenho que aguentar ele roncando a noite inteira."
+    },
+    {
+      "id": "cap-33-0142",
+      "type": "paragraph",
+      "text": "– Tá falando merda, né Gerluce? Você conhece. - Eduarda responde, rindo."
+    },
+    {
+      "id": "cap-33-0143",
+      "type": "paragraph",
+      "text": "– Eu não falei nada demais. - Paulinho tenta se defender. Gerluce tira a garrafa de vinho da mão dele e coloca na mesa de centro."
+    },
+    {
+      "id": "cap-33-0144",
+      "type": "paragraph",
+      "text": "– Não sei se eu acredito. - Ela cruza os braços, fazendo cara de brava, mas Paulinho puxa sua noiva pela cintura, dando um beijo nela."
+    },
+    {
+      "id": "cap-33-0145",
+      "type": "paragraph",
+      "text": "– Quem é que tá precisando achar um quarto agora, hein? - Eduarda faz uma careta de nojo pra eles. - Sem pegação hetero na minha casa, aqui é uma ditadura."
+    },
+    {
+      "id": "cap-33-0146",
+      "type": "paragraph",
+      "text": "– Ih, olha só quem tá amargurada agora. - Paulinho senta no sofá ao lado dela. - Você vai se sentir culpada de ser chata assim comigo daqui alguns dias, só isso que te falo."
+    },
+    {
+      "id": "cap-33-0147",
+      "type": "paragraph",
+      "text": "– Do que é que você tá falando? - Eduarda pergunta, franzindo o cenho pra ele."
+    },
+    {
+      "id": "cap-33-0148",
+      "type": "paragraph",
+      "text": "Gerluce suspira, sentando ao lado de Paulinho."
+    },
+    {
+      "id": "cap-33-0149",
+      "type": "paragraph",
+      "text": "– Nada, ignora ele."
+    },
+    {
+      "id": "cap-33-0150",
+      "type": "paragraph",
+      "text": "– Eu também achei suspeito. - Lorena entra na conversa. - O que é que isso quis dizer?"
+    },
+    {
+      "id": "cap-33-0151",
+      "type": "paragraph",
+      "text": "Paulinho abre a boca e depois fecha, e então olha pra Gerluce, como quem diz ‘fiz merda’.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Paulinho abre a boca e depois fecha, e então olha pra Gerluce, como quem diz "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "‘fiz merda’"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-33-0152",
+      "type": "paragraph",
+      "text": "– Paulinho… - Eduarda fica mais ereta no sofá, olhando atentamente pra ele. - Me conta o que tá acontecendo."
+    },
+    {
+      "id": "cap-33-0153",
+      "type": "paragraph",
+      "text": "– Ai Deus, eu sabia que ele ia falar alguma coisa. - Gerluce suspira, passando uma mão por seu rosto."
+    },
+    {
+      "id": "cap-33-0154",
+      "type": "paragraph",
+      "text": "– Meu Deus! - Lorena coloca uma mão em sua boca. - Vocês vão ser pais?"
+    },
+    {
+      "id": "cap-33-0155",
+      "type": "paragraph",
+      "text": "Eduarda quase começa a chorar só com a insinuação."
+    },
+    {
+      "id": "cap-33-0156",
+      "type": "paragraph",
+      "text": "– Não, pelo amor de Deus! - Gerluce responde na mesma hora. - Lorena, eu tô bebendo o dia inteiro, e você acha que eu tô grávida?"
+    },
+    {
+      "id": "cap-33-0157",
+      "type": "paragraph",
+      "text": "– Isso é… Um bom ponto."
+    },
+    {
+      "id": "cap-33-0158",
+      "type": "paragraph",
+      "text": "– Então do que vocês tão falando? - Eduarda pergunta, ainda confusa."
+    },
+    {
+      "id": "cap-33-0159",
+      "type": "paragraph",
+      "text": "– Ah, foda-se, agora já joguei a merda no ventilador. - Paulinho fala, se inclinando um pouco na direção de Eduarda. - A gente ia fazer um pedido bonitinho depois, mas… Bem, eu queria pedir pra você ser madrinha do nosso casamento. - Ele completa. - Vocês duas, na verdade. Se vocês quiserem."
+    },
+    {
+      "id": "cap-33-0160",
+      "type": "paragraph",
+      "text": "– Você tá falando sério? - Eduarda coloca uma mão no braço dele."
+    },
+    {
+      "id": "cap-33-0161",
+      "type": "paragraph",
+      "text": "– Claro que sim, po! - Paulinho responde com convicção. - Eu não ia pedir de brincadeira, né."
+    },
+    {
+      "id": "cap-33-0162",
+      "type": "paragraph",
+      "text": "– É sério, Gerluce? - Eduarda olha em sua direção."
+    },
+    {
+      "id": "cap-33-0163",
+      "type": "paragraph",
+      "text": "– Sim, é sério. - Gerluce sorri. - A gente vai amar se vocês aceitarem ser madrinhas do nosso casamento."
+    },
+    {
+      "id": "cap-33-0164",
+      "type": "paragraph",
+      "text": "– É claro que a gente aceita! - Eduarda praticamente pula no pescoço de Paulinho, abraçando ele. - Meu Deus, eu não consigo imaginar nada melhor."
+    },
+    {
+      "id": "cap-33-0165",
+      "type": "paragraph",
+      "text": "Ela também vai abraçar Gerluce, e quando o abraço se parte, Eduarda já está chorando."
+    },
+    {
+      "id": "cap-33-0166",
+      "type": "paragraph",
+      "text": "– A gente vai amar! - Lorena fala, também indo abraçar eles."
+    },
+    {
+      "id": "cap-33-0167",
+      "type": "paragraph",
+      "text": "– Eu vou ser a melhor madrinha do mundo inteiro. - Eduarda enxuga suas lágrimas. - O que é que vocês precisam pra organização do casamento? Lista de convidados? Já tem o local, buffet, banda? Eu posso indicar vários fornecedores! Minha mãe conhece um monte de-"
+    },
+    {
+      "id": "cap-33-0168",
+      "type": "paragraph",
+      "text": "– Amor, calma. - Lorena coloca uma mão em seu ombro, fazendo ela parar de falar. - Eu tenho certeza que a gente pode conversar sobre isso outro dia."
+    },
+    {
+      "id": "cap-33-0169",
+      "type": "paragraph",
+      "text": "– Desculpa, eu fiquei empolgada."
+    },
+    {
+      "id": "cap-33-0170",
+      "type": "paragraph",
+      "text": "Gerluce ri, achando graça da cena."
+    },
+    {
+      "id": "cap-33-0171",
+      "type": "paragraph",
+      "text": "– Olha, a gente pode conversar sobre tudo depois, tá? Especialmente quando esse daqui não estiver caindo de bêbado."
+    },
+    {
+      "id": "cap-33-0172",
+      "type": "paragraph",
+      "text": "– Eu tô longe de estar caindo."
+    },
+    {
+      "id": "cap-33-0173",
+      "type": "paragraph",
+      "text": "– Que gritaria é essa que eu tô ouvindo lá da cozinha? - Maggye se junta a eles, com Júnior logo atrás. - Ah não, quem fez a Eduarda chorar agora?"
+    },
+    {
+      "id": "cap-33-0174",
+      "type": "paragraph",
+      "text": "– Eu juro que dessa vez não fui eu. - Lorena se defende."
+    },
+    {
+      "id": "cap-33-0175",
+      "type": "paragraph",
+      "text": "– Fazer a Juquinha chorar é a coisa mais fácil do planeta. - Paulinho fala. - Você não pode culpar a gente por isso."
+    },
+    {
+      "id": "cap-33-0176",
+      "type": "paragraph",
+      "text": "– Ei, não é assim também! - Eduarda tenta negar."
+    },
+    {
+      "id": "cap-33-0177",
+      "type": "paragraph",
+      "text": "– A gente devia fazer uma competição um dia. - Gerluce sugere, ignorando Eduarda completamente. - Um dia que a gente sair todo mundo, de quem faz ela chorar mais vezes."
+    },
+    {
+      "id": "cap-33-0178",
+      "type": "paragraph",
+      "text": "– Ei!!"
+    },
+    {
+      "id": "cap-33-0179",
+      "type": "paragraph",
+      "text": "– Eu adorei a ideia. - Lorena responde, pra surpresa de Eduarda."
+    },
+    {
+      "id": "cap-33-0180",
+      "type": "paragraph",
+      "text": "– Amor?! - Ela se vira pra sua namorada. - Até você vai ficar contra mim?"
+    },
+    {
+      "id": "cap-33-0181",
+      "type": "paragraph",
+      "text": "– Desculpa, é que eu acho muito bonitinho quando você chora."
+    },
+    {
+      "id": "cap-33-0182",
+      "type": "paragraph",
+      "text": "– Eu topo só se a Lorena não contar. - Maggye dá sua opinião. - Porque senão não vale… Se a Lorena fala que ama ela mais que demais a Eduarda já começa a chorar."
+    },
+    {
+      "id": "cap-33-0183",
+      "type": "paragraph",
+      "text": "– E se a Lorena precisar fazer ela chorar duas vezes, pra valer uma? - Júnior sugere."
+    },
+    {
+      "id": "cap-33-0184",
+      "type": "paragraph",
+      "text": "– Eu achei justo. - Paulinho aponta pra ele."
+    },
+    {
+      "id": "cap-33-0185",
+      "type": "paragraph",
+      "text": "– Eu não acredito que vocês tão falando disso como se fosse uma coisa séria. - Eduarda cruza os braços, fazendo biquinho."
+    },
+    {
+      "id": "cap-33-0186",
+      "type": "paragraph",
+      "text": "– Duda, você tem razão, me desculpa. - Gerluce se aproxima, segurando a mão dela. - Eu não queria estragar esse momento… É muito importante pra mim saber que você vai ser madrinha do nosso casamento, sabe? Você sabe que o Paulinho te ve como irmã mais nova, e eu… Eu também passei a te ver como uma irmã."
+    },
+    {
+      "id": "cap-33-0187",
+      "type": "paragraph",
+      "text": "– Ai, Gerluce… - Eduarda aperta a mão dela. - Eu também te vejo como uma irmã! - Quando ela vê, já tem lágrimas caindo pelos seus olhos."
+    },
+    {
+      "id": "cap-33-0188",
+      "type": "paragraph",
+      "text": "– Há! Eu já tenho um ponto. - Gerluce fala, e todos eles começam a rir."
+    },
+    {
+      "id": "cap-33-0189",
+      "type": "paragraph",
+      "text": "– Eu odeio vocês! - Eduarda bate uma mão no sofá, indignada. Lorena dá um beijinho na cabeça dela."
+    },
+    {
+      "id": "cap-33-0190",
+      "type": "paragraph",
+      "text": "– Eu quis dizer tudo aquilo, tá bom? - Gerluce reitera. - Eu não falei só pra te fazer chorar."
+    },
+    {
+      "id": "cap-33-0191",
+      "type": "paragraph",
+      "text": "– Acho bom mesmo."
+    },
+    {
+      "id": "cap-33-0192",
+      "type": "paragraph",
+      "text": "– Mas vem cá, que história é essa que você vai ser madrinha do casamento deles? - Maggye pergunta, já que ela perdeu esse momento."
+    },
+    {
+      "id": "cap-33-0193",
+      "type": "paragraph",
+      "text": "Eles começam a contar, e logo depois vira uma conversa sobre o casamento e planos futuros. Então, em algum momento a conversa volta pro passado, e eles relembram o ano novo que eles passaram juntos na casa de praia de Eduarda no ano anterior."
+    },
+    {
+      "id": "cap-33-0194",
+      "type": "paragraph",
+      "text": "– Você e a Lorena tavam igual duas adolescentes, descobrindo que se gostam de verdade. -Maggye fala, rindo."
+    },
+    {
+      "id": "cap-33-0195",
+      "type": "paragraph",
+      "text": "– Isso tudo porque a Juquinha é uma safada, e já tinha organizado tudo pra elas dormirem no mesmo quarto mesmo sem elas estarem juntas. - Paulinho aponta um dedo acusatório pra ela."
+    },
+    {
+      "id": "cap-33-0196",
+      "type": "paragraph",
+      "text": "– Ei! - Eduarda se defende. - Eu era apenas uma garota com um plano."
+    },
+    {
+      "id": "cap-33-0197",
+      "type": "paragraph",
+      "text": "– Graças a deus, né? - Lorena fala. - Porque se você me colocasse pra dormir em outro quarto àquela altura, eu ia te afogar no mar."
+    },
+    {
+      "id": "cap-33-0198",
+      "type": "paragraph",
+      "text": "– A pobre da Lorena já tava subindo pelas paredes. - Maggye comenta, fazendo eles rirem de novo."
+    },
+    {
+      "id": "cap-33-0199",
+      "type": "paragraph",
+      "text": "– Ai, bem que a gente podia ir esse ano de novo, né? - Gerluce fala pra Eduarda. - Pena que vocês são duas chatas que abandonaram a gente."
+    },
+    {
+      "id": "cap-33-0200",
+      "type": "paragraph",
+      "text": "– A gente não abandonou ninguém. - Eduarda levanta uma mão. - A gente só vai passar um ano novo romântico na casa de campo dos meus pais, só isso."
+    },
+    {
+      "id": "cap-33-0201",
+      "type": "paragraph",
+      "text": "– E vai negar a praia pros seus queridos amigos. - Paulinho balança a cabeça."
+    },
+    {
+      "id": "cap-33-0202",
+      "type": "paragraph",
+      "text": "– Eu já te emprestei aquela casa de praia umas quatro vezes, seu ingrato!"
+    },
+    {
+      "id": "cap-33-0203",
+      "type": "paragraph",
+      "text": "– Você não pode me chamar de ingrato. - Paulinho reclama. - Eu acabei de te chamar pra ser madrinha do meu casamento."
+    },
+    {
+      "id": "cap-33-0204",
+      "type": "paragraph",
+      "text": "– Então eu não posso reclamar de mais nada, é isso?"
+    },
+    {
+      "id": "cap-33-0205",
+      "type": "paragraph",
+      "text": "– Exatamente! - Ele concorda. - Não até você casar também, e me chamar pra ser padrinho."
+    },
+    {
+      "id": "cap-33-0206",
+      "type": "paragraph",
+      "text": "– Ah, isso aí me interessou. - Lorena entra na conversa. - Tô querendo saber quando que isso vai acontecer."
+    },
+    {
+      "id": "cap-33-0207",
+      "type": "paragraph",
+      "text": "– Eu já falei pra você não me provocar, que eu te peço em casamento."
+    },
+    {
+      "id": "cap-33-0208",
+      "type": "paragraph",
+      "text": "– E eu já falei pra você pedir!"
+    },
+    {
+      "id": "cap-33-0209",
+      "type": "paragraph",
+      "text": "– Pronto, agora elas vão ter uma DR. - Paulinho fala, bebendo mais um gole do vinho."
+    },
+    {
+      "id": "cap-33-0210",
+      "type": "paragraph",
+      "text": "– Não tem DR nenhuma. - Eduarda dá um tapa no braço dele. - Eu e Lorena temos um relacionamento perfeito, muito obrigada."
+    },
+    {
+      "id": "cap-33-0211",
+      "type": "paragraph",
+      "text": "– Podia ser um pouco menos perfeito, inclusive. - Maggye fala. - Pra ver se vocês param de se beijar na minha frente toda vez que a gente sai."
+    },
+    {
+      "id": "cap-33-0212",
+      "type": "paragraph",
+      "text": "Eduarda e Lorena abrem a boca pra se defender, mas elas sabem que pra isso aí elas não tem muita defesa."
+    },
+    {
+      "id": "cap-33-0213",
+      "type": "paragraph",
+      "text": "– Desculpa, amiga, é que olha pra ela, sabe? - Lorena responde, abraçando Eduarda. - Eu não me aguento."
+    },
+    {
+      "id": "cap-33-0214",
+      "type": "paragraph",
+      "text": "Eduarda sorri de orelha a orelha, se sentindo toda boba quando Lorena elogia ela assim."
+    },
+    {
+      "id": "cap-33-0215",
+      "type": "paragraph",
+      "text": "– Tudo bem, tudo bem. - Maggye balança a cabeça. - Eu brinco, mas eu fico muito feliz que vocês se encontraram, sabe?"
+    },
+    {
+      "id": "cap-33-0216",
+      "type": "paragraph",
+      "text": "– E tudo graças a você! - Lorena estende uma mão pra ela."
+    },
+    {
+      "id": "cap-33-0217",
+      "type": "paragraph",
+      "text": "– Sim, foi mesmo. - Maggye concorda. - Então eu que vou esperar o convite de madrinha do casamento, viu?"
+    },
+    {
+      "id": "cap-33-0218",
+      "type": "paragraph",
+      "text": "– Vai chegar em breve, Maggye. - Eduarda fala pra ela."
+    },
+    {
+      "id": "cap-33-0219",
+      "type": "paragraph",
+      "text": "– Em breve, é? - Lorena cerra os olhos pra Eduarda."
+    },
+    {
+      "id": "cap-33-0220",
+      "type": "paragraph",
+      "text": "– Eu já te falei que vou te pedir em casamento já já."
+    },
+    {
+      "id": "cap-33-0221",
+      "type": "paragraph",
+      "text": "– Aham, sei."
+    },
+    {
+      "id": "cap-33-0222",
+      "type": "paragraph",
+      "text": "– Nesse espírito. - Gerluce chama a atenção deles. - Eu gostaria de propor um brinde. - Ela fala. - A essa comemoração maravilhosa, e a todas as comemorações futuras que ainda vamos ter juntos."
+    },
+    {
+      "id": "cap-33-0223",
+      "type": "paragraph",
+      "text": "Todos eles se olham, sorrindo, e levantam suas taças."
+    },
+    {
+      "id": "cap-33-0224",
+      "type": "paragraph",
+      "text": "~~~~~~"
+    },
+    {
+      "id": "cap-33-0225",
+      "type": "paragraph",
+      "text": "Lorena",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-33-0226",
+      "type": "paragraph",
+      "text": "Elas chegam na casa de campo dos pais de Eduarda no início da tarde do dia 29. Lorena olha em volta, impressionada com o lugar. Eduarda já tinha comentado com ela sobre e mostrado fotos, mas é a primeira vez que elas vão juntas ali. Era simplesmente maravilhoso, isolado do mundo, apenas natureza ao redor. Perfeito pra passar cinco dias com sua namorada."
+    },
+    {
+      "id": "cap-33-0227",
+      "type": "paragraph",
+      "text": "– E aí, gostou? - Eduarda pergunta, abraçando ela de lado."
+    },
+    {
+      "id": "cap-33-0228",
+      "type": "paragraph",
+      "text": "– Amor, eu amei! - Lorena se vira pra ela. - Que lugar lindo, sério."
+    },
+    {
+      "id": "cap-33-0229",
+      "type": "paragraph",
+      "text": "– Espera até você ver lá dentro."
+    },
+    {
+      "id": "cap-33-0230",
+      "type": "paragraph",
+      "text": "As duas descarregam o carro, e Lorena fica tão impressionada com o interior da casa quanto ela ficou com o exterior. A casa era linda, tudo muito bem decorado, tinha uma janela enorme que mostrava a natureza, uma lareira no meio do ambiente."
+    },
+    {
+      "id": "cap-33-0231",
+      "type": "paragraph",
+      "text": "Depois de descarregar as malas, elas resolvem fazer o almoço, as duas já com fome. Eduarda insiste em fazer praticamente tudo, e Lorena até se pergunta porque ela estava tratando ela ainda mais como princesa do que o normal. No entanto, ela só aceita, bebericando uma taça de vinho enquanto observa sua namorada maravilhosa cozinhar."
+    },
+    {
+      "id": "cap-33-0232",
+      "type": "paragraph",
+      "text": "– E pensar que um ano atrás a gente tava chegando na casa de praia. - Eduarda comenta enquanto pica alguns vegetais."
+    },
+    {
+      "id": "cap-33-0233",
+      "type": "paragraph",
+      "text": "– Verdade, né? - Lorena se aproxima um pouco dela. - Quantas casas espalhadas por aí seus pais tem? Pra saber quantos anos novos a gente pode passar em lugares diferentes."
+    },
+    {
+      "id": "cap-33-0234",
+      "type": "paragraph",
+      "text": "– Além dessas, só o sítio. - Eduarda ri. - Mas se é assim, eu vou falar pra eles comprarem mais. Quem sabe uma na Europa?"
+    },
+    {
+      "id": "cap-33-0235",
+      "type": "paragraph",
+      "text": "– Uma em cada continente eu acho que seria o ideal."
+    },
+    {
+      "id": "cap-33-0236",
+      "type": "paragraph",
+      "text": "– Eu acho que você devia pegar o telefone e ligar pro senhor Fragoso, pra falar isso com ele."
+    },
+    {
+      "id": "cap-33-0237",
+      "type": "paragraph",
+      "text": "– Ah, sim. - Lorena acena com a cabeça. - Pode deixar. Meu sogro me ama, tenho certeza que ele vai aceitar na mesma hora."
+    },
+    {
+      "id": "cap-33-0238",
+      "type": "paragraph",
+      "text": "– Ele te ama mesmo, isso é verdade. - Eduarda joga os vegetais dentro da panela, misturando. - Sabe… No início daquela viagem, eu tava com tanto medo. De tudo dar errado entre a gente."
+    },
+    {
+      "id": "cap-33-0239",
+      "type": "paragraph",
+      "text": "– Eu também. - Lorena suspira, lembrando. - Mas no fundo eu já tinha a sensação que você era a pessoa certa pra mim. Eu sabia que precisava pelo menos tentar, mesmo que desse errado."
+    },
+    {
+      "id": "cap-33-0240",
+      "type": "paragraph",
+      "text": "– Quer dizer que eu sou a pessoa certa pra você? - Eduarda provoca, um sorriso travesso em seus lábios."
+    },
+    {
+      "id": "cap-33-0241",
+      "type": "paragraph",
+      "text": "– Você ainda tem dúvidas? - Lorena se aproxima mais dela."
+    },
+    {
+      "id": "cap-33-0242",
+      "type": "paragraph",
+      "text": "– Ah, é que é bom ouvir você falar, né? - Ela sorri."
+    },
+    {
+      "id": "cap-33-0243",
+      "type": "paragraph",
+      "text": "– Você é mais do que a pessoa certa pra mim, Eduarda Fragoso. - Lorena se inclina em sua direção, as duas agora a centímetros de distância. - Você é a única pessoa pra mim."
+    },
+    {
+      "id": "cap-33-0244",
+      "type": "paragraph",
+      "text": "– Gostei. - Eduarda dá um beijo nela. - Você também."
+    },
+    {
+      "id": "cap-33-0245",
+      "type": "paragraph",
+      "text": "– Acho bom, hein? - Lorena acaricia seu rosto. - Agora a gente tem dois filhos juntos, tarde demais pra você dar pra trás."
+    },
+    {
+      "id": "cap-33-0246",
+      "type": "paragraph",
+      "text": "– Pode deixar, eu vou provar pra você. - Eduarda molha seus lábios. - Mais tarde."
+    },
+    {
+      "id": "cap-33-0247",
+      "type": "paragraph",
+      "text": "– Você é uma safada, sabia?"
+    },
+    {
+      "id": "cap-33-0248",
+      "type": "paragraph",
+      "text": "– Quem disse que era disso que eu tava falando?"
+    },
+    {
+      "id": "cap-33-0249",
+      "type": "paragraph",
+      "text": "– Ah, então tava falando do que? - Lorena pergunta. - De observar as estrelas juntas?"
+    },
+    {
+      "id": "cap-33-0250",
+      "type": "paragraph",
+      "text": "– Pode ser. - Eduarda para, pensando. - Ih, até que essa não é uma má ideia não, viu? As estrelas ficam lindas aqui."
+    },
+    {
+      "id": "cap-33-0251",
+      "type": "paragraph",
+      "text": "– Então tá marcado. - Lorena fala. - Nosso date sob as estrelas, hoje a noite."
+    },
+    {
+      "id": "cap-33-0252",
+      "type": "paragraph",
+      "text": "– Date, é? - Eduarda levanta uma sobrancelha. - Quer dizer que você vai se arrumar pra mim?"
+    },
+    {
+      "id": "cap-33-0253",
+      "type": "paragraph",
+      "text": "– Se você quiser…"
+    },
+    {
+      "id": "cap-33-0254",
+      "type": "paragraph",
+      "text": "– Você sabe que eu acho você maravilhosa de todo jeito. - Eduarda puxa ela pela cintura, roubando mais um beijo dela."
+    },
+    {
+      "id": "cap-33-0255",
+      "type": "paragraph",
+      "text": "– Você acha?"
+    },
+    {
+      "id": "cap-33-0256",
+      "type": "paragraph",
+      "text": "– Sim, já falei. A menina mais maravilhosa do mundo inteiro. Do universo inteiro."
+    },
+    {
+      "id": "cap-33-0257",
+      "type": "paragraph",
+      "text": "Lorena beija ela de novo."
+    },
+    {
+      "id": "cap-33-0258",
+      "type": "paragraph",
+      "text": "– Essa é você."
+    },
+    {
+      "id": "cap-33-0259",
+      "type": "paragraph",
+      "text": "Elas são interrompidas por um barulho de ingredientes queimando na panela, e Eduarda se afasta, voltando a mexer a comida."
+    },
+    {
+      "id": "cap-33-0260",
+      "type": "paragraph",
+      "text": "– Você vai me fazer queimar nosso almoço desse jeito."
+    },
+    {
+      "id": "cap-33-0261",
+      "type": "paragraph",
+      "text": "– Foi você que começou! - Lorena pega sua taça de vinho de novo, dando mais um gole. - Eu to morrendo de fome, hein? Agiliza aí."
+    },
+    {
+      "id": "cap-33-0262",
+      "type": "paragraph",
+      "text": "Eduarda solta uma risada desacreditada."
+    },
+    {
+      "id": "cap-33-0263",
+      "type": "paragraph",
+      "text": "– Sim, senhora. - Ela responde. - Quer mais alguma coisa?"
+    },
+    {
+      "id": "cap-33-0264",
+      "type": "paragraph",
+      "text": "– Por enquanto não. - Ela dá de ombros. - Se eu quiser eu te aviso."
+    },
+    {
+      "id": "cap-33-0265",
+      "type": "paragraph",
+      "text": "– Ridícula. - Eduarda revira os olhos, mas ela tem um sorriso no rosto."
+    },
+    {
+      "id": "cap-33-0266",
+      "type": "paragraph",
+      "text": "~~~~~"
+    },
+    {
+      "id": "cap-33-0267",
+      "type": "paragraph",
+      "text": "Naquela noite, cai um temporal. Elas observam pela janela do quarto, o barulho da chuva relaxante, o cheiro de grama fresca que passa pelas frestas aconchegante."
+    },
+    {
+      "id": "cap-33-0268",
+      "type": "paragraph",
+      "text": "– É, acho que a gente não vai ver estrela hoje, né? - Eduarda olha pra Lorena, que solta uma risada."
+    },
+    {
+      "id": "cap-33-0269",
+      "type": "paragraph",
+      "text": "– Claro que o universo teve que interferir só porque eu marquei um date com você."
+    },
+    {
+      "id": "cap-33-0270",
+      "type": "paragraph",
+      "text": "– Isso não é problema. - Eduarda se aproxima, puxando Lorena pela cintura. - A gente pode ter um date de todo jeito."
+    },
+    {
+      "id": "cap-33-0271",
+      "type": "paragraph",
+      "text": "– To começando a achar que você manipulou o tempo, só pra gente ficar aqui dentro. -Lorena passa suas mãos em volta de Eduarda."
+    },
+    {
+      "id": "cap-33-0272",
+      "type": "paragraph",
+      "text": "– Quem sabe? - Ela semicerra os olhos. - Não vou mentir, que tá bem gostoso aqui com você."
+    },
+    {
+      "id": "cap-33-0273",
+      "type": "paragraph",
+      "text": "A verdade é que estava mesmo. Eduarda tinha acendido a lareira, que aquecia o ambiente, as chamas a única luz no local, a iluminação quente na pele de Eduarda deixando ela ainda mais bonita. Lorena ainda se impressionava com o quão bonita ela era, mesmo depois de tanto tempo."
+    },
+    {
+      "id": "cap-33-0274",
+      "type": "paragraph",
+      "text": "– Isso é verdade. - Ela se aproxima, dando um beijo no rosto de Eduarda."
+    },
+    {
+      "id": "cap-33-0275",
+      "type": "paragraph",
+      "text": "– Por que a gente não pega um vinho, e senta em frente a lareira?"
+    },
+    {
+      "id": "cap-33-0276",
+      "type": "paragraph",
+      "text": "– Gostei dessa ideia."
+    },
+    {
+      "id": "cap-33-0277",
+      "type": "paragraph",
+      "text": "Já tinha um vinho branco gelando, e Eduarda serve uma taça pra cada, entregando uma para Lorena. Elas colocam algumas almofadas no tapete em frente a lareira, se aconchegando ali."
+    },
+    {
+      "id": "cap-33-0278",
+      "type": "paragraph",
+      "text": "– Sabe, não sei porque você nunca me trouxe aqui antes. - Lorena comenta, dando um gole no vinho."
+    },
+    {
+      "id": "cap-33-0279",
+      "type": "paragraph",
+      "text": "– Talvez eu estava guardando pra uma data especial."
+    },
+    {
+      "id": "cap-33-0280",
+      "type": "paragraph",
+      "text": "– O ano novo? - Lorena levanta uma sobrancelha. - Eu não ia ligar se não fosse nossa primeira vez aqui."
+    },
+    {
+      "id": "cap-33-0281",
+      "type": "paragraph",
+      "text": "– Eu não quis dizer o ano novo. - Eduarda fala um pouco mais séria, e Lorena olha confusa pra ela. Sua namorada se aproxima um pouco, respirando fundo. Ela parece um pouco… nervosa. - Na verdade, eu queria te fazer uma pergunta."
+    },
+    {
+      "id": "cap-33-0282",
+      "type": "paragraph",
+      "text": "– Uma… pergunta? - Lorena não entende muito bem onde ela quer chegar."
+    },
+    {
+      "id": "cap-33-0283",
+      "type": "paragraph",
+      "text": "– Sim, uma pergunta. - Eduarda repete, se movendo pra colocar sua taça de vinho na mesa que estava próxima delas."
+    },
+    {
+      "id": "cap-33-0284",
+      "type": "paragraph",
+      "text": "– Tá bem… - Lorena também coloca sua taça ali, começando a ficar um pouco preocupada."
+    },
+    {
+      "id": "cap-33-0285",
+      "type": "paragraph",
+      "text": "Eduarda olha pra ela, parecendo pensar um pouco. Ela passa uma mão em seu cabelo, respirando fundo de novo. Então, ela se mexe, um movimento um pouco nervoso, como se ela estivesse tentando achar a posição certa."
+    },
+    {
+      "id": "cap-33-0286",
+      "type": "paragraph",
+      "text": "– Olha, eu não sei exatamente como fazer isso, então… - Ela começa a falar. - Eu só vou…"
+    },
+    {
+      "id": "cap-33-0287",
+      "type": "paragraph",
+      "text": "Lorena olha ainda mais confusa pra ela, então, de repente, Eduarda vira pra trás, mexendo em alguma coisa, e quando ela se vira pra Lorena de novo, ela tem uma caixinha nas mãos. Uma caixa de jóia, Lorena percebe.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena olha ainda mais confusa pra ela, então, de repente, Eduarda vira pra trás, mexendo em alguma coisa, e quando ela se vira pra Lorena de novo, ela tem uma caixinha nas mãos. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Uma"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "caixa de jóia"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", Lorena percebe."
+        }
+      ]
+    },
+    {
+      "id": "cap-33-0288",
+      "type": "paragraph",
+      "text": "– Lorena… - Eduarda se move, se apoiando em um de seus joelhos, e é só então que a ficha de Lorena cai totalmente sobre o que estava acontecendo naquele momento."
+    },
+    {
+      "id": "cap-33-0289",
+      "type": "paragraph",
+      "text": "– Duda. - Lorena fala antes que Eduarda pudesse falar mais alguma coisa. - Duda, você…"
+    },
+    {
+      "id": "cap-33-0290",
+      "type": "paragraph",
+      "text": "– Deixa eu falar, por favor. - Eduarda pede, seus olhos brilhando mais do que Lorena acha que já viu em todo o tempo que elas se conheciam."
+    },
+    {
+      "id": "cap-33-0291",
+      "type": "paragraph",
+      "text": "Lorena apenas assente com a cabeça, incapaz de formular uma frase. Seu coração bate tão forte em seu peito que parece que ele vai saltar pra fora a qualquer momento."
+    },
+    {
+      "id": "cap-33-0292",
+      "type": "paragraph",
+      "text": "– Lorena. - Eduarda fala novamente. - Eu escrevi umas centenas de coisas diferentes pra te falar nesse momento, mas agora acho que já esqueci todas. Não importa muito, porque só de olhar pra você eu já tenho toda inspiração que eu preciso. O que eu queria mesmo falar, é que te conhecer mudou minha vida de uma forma que eu não achei que fosse possível. Você chegou sem aviso nenhum, bateu na minha porta um dia procurando um lugar pra morar, toda tímida e meio sem jeito, como se você estivesse com receio de incomodar, como se você ainda estivesse procurando seu lugar no mundo. - Os olhos de Eduarda começam a se encher de lágrimas. - O engraçado é que naquele dia, mesmo que tenha sido eu que te recebi na minha casa, foi você que me deu um lar. Eu estava procurando uma colega de apartamento porque eu me sentia sozinha, eu sentia como se ali fosse silencioso demais, como se faltasse alguma coisa. Acho que no fundo uma parte de mim já sabia que faltava você. Em todos os meses que eu morei ali, eu só me senti verdadeiramente em casa depois que você se mudou. Depois que virou a nossa casa, depois que a gente transformou o lugar em algo de nós duas. -Ela faz uma pausa, respirando fundo, tentando manter sua voz estável. Lorena também tem lágrimas em seus olhos àquela altura. - Ter a honra de te conhecer por completo foi a melhor coisa que aconteceu na minha vida. Você me ensinou que eu não precisava ter medo do amor, que eu não precisava ter medo de que qualquer pessoa que se relacionasse comigo eventualmente iria embora. Você sempre esteve ali, e você nunca me fez duvidar que um dia você não estaria. Você me lembrou do quanto o amor pode ser bonito, e te amar é a coisa"
+    },
+    {
+      "id": "cap-33-0293",
+      "type": "paragraph",
+      "text": "mais linda que eu já fiz nessa vida. E eu quero continuar te amando, todos os dias, todos os segundos, pro resto de nossas vidas. E depois também, se possível, porque só uma vida parece muito pouco com você. - Eduarda então finalmente abre a caixinha, revelando um anel. Um anel absolutamente lindo, um diamante enorme brilhando na ponta. - Então, Lorena Esteves Ferette, eu quero te perguntar… Você aceita se casar comigo?"
+    },
+    {
+      "id": "cap-33-0294",
+      "type": "paragraph",
+      "text": "Lorena de repente esquece todas as palavras da língua portuguesa. Seu rosto está coberto por lágrimas, mas ao mesmo tempo seu rosto também tem o sorriso mais sincero que ela já deu em toda sua vida. Ela pisca algumas vezes, ainda tentando entender que aquilo é real. Então, ela simplesmente se joga em cima de Eduarda, passando os braços pelo seu pescoço, quase derrubando ela no chão."
+    },
+    {
+      "id": "cap-33-0295",
+      "type": "paragraph",
+      "text": "– Sim. - Ela consegue falar, Eduarda a abraçando de volta, evitando que as duas caiam. - É claro que eu aceito me casar com você."
+    },
+    {
+      "id": "cap-33-0296",
+      "type": "paragraph",
+      "text": "Ela se afasta um pouco, só o suficiente pra conseguir olhar pra Eduarda."
+    },
+    {
+      "id": "cap-33-0297",
+      "type": "paragraph",
+      "text": "– Aceita mesmo? - Eduarda pergunta, como se ela quisesse ter certeza de que ouviu certo."
+    },
+    {
+      "id": "cap-33-0298",
+      "type": "paragraph",
+      "text": "– Claro que sim! - Lorena coloca suas mãos no rosto de Eduarda, tentando enxugar as lágrimas que caíam por ali. - Casar com você é o que eu mais quero no mundo inteiro. Eu te amo tanto, mas tanto, você não faz ideia."
+    },
+    {
+      "id": "cap-33-0299",
+      "type": "paragraph",
+      "text": "– Eu te amo mais que o mundo inteiro. - Eduarda fala, então ela puxa Lorena pelo pescoço, dando um beijo nela."
+    },
+    {
+      "id": "cap-33-0300",
+      "type": "paragraph",
+      "text": "Quando elas se afastam, Eduarda pega a mão de Lorena, que estava tremendo de leve, para colocar o anel ali. Depois que ela o encaixa, Lorena olha pra sua própria mão, ainda um pouco desacreditada."
+    },
+    {
+      "id": "cap-33-0301",
+      "type": "paragraph",
+      "text": "– Amor, o anel é maravilhoso! - Lorena olha de sua mão de volta pra Eduarda. - Você é maravilhosa!"
+    },
+    {
+      "id": "cap-33-0302",
+      "type": "paragraph",
+      "text": "– Você merece tudo de melhor, meu amor."
+    },
+    {
+      "id": "cap-33-0303",
+      "type": "paragraph",
+      "text": "– Bem, agora a gente vai ter que procurar um anel pra você também, tá?"
+    },
+    {
+      "id": "cap-33-0304",
+      "type": "paragraph",
+      "text": "– Não precisa. - Eduarda fala pra ela. - Quer dizer, eu não preciso de um anel. Só o seu sim já é o suficiente pra mim."
+    },
+    {
+      "id": "cap-33-0305",
+      "type": "paragraph",
+      "text": "– Ah, mas eu preciso que você tenha um anel. - Lorena aponta um dedo pra ela. - Quero que todas as vagabundas de São Paulo fiquem bem avisadas de que você tá noiva, ok?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Ah, mas eu preciso que você tenha um anel. - Lorena aponta um dedo pra ela. - Quero que todas as vagabundas de São Paulo fiquem bem avisadas de que você tá "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "noiva"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", ok?"
+        }
+      ]
+    },
+    {
+      "id": "cap-33-0306",
+      "type": "paragraph",
+      "text": "Eduarda ri, jogando a cabeça pra trás."
+    },
+    {
+      "id": "cap-33-0307",
+      "type": "paragraph",
+      "text": "– Tudo bem, meu amor. - Ela fala. - A gente pode achar um anel gigante pra mim, que vai ser visto a milhares de quilômetros de distância. - Ela passa uma mão pelo cabelo de Lorena. -Mas isso não vai mudar muita coisa, porque meu coração já é totalmente seu há muito tempo. – Eu sei, o meu também. - Lorena acaricia o rosto de Eduarda. - Eu só falei brincando, você sabe. Mas de verdade, Duda, eu nunca estive tão feliz. Você me pegou totalmente de surpresa! Eu não tinha ideia de que você ia fazer isso hoje. Nem nessa viagem, nem tão cedo, na verdade."
+    },
+    {
+      "id": "cap-33-0308",
+      "type": "paragraph",
+      "text": "– Como não? - Eduarda pergunta. - Tem tempos que eu to te falando que vou te pedir em casamento."
+    },
+    {
+      "id": "cap-33-0309",
+      "type": "paragraph",
+      "text": "– Mas você sempre fala em tom de brincadeira!"
+    },
+    {
+      "id": "cap-33-0310",
+      "type": "paragraph",
+      "text": "– Bem, agora eu falei muito sério. - Eduarda dá mais um beijo nela. - E que bom que você não descobriu, porque se você estragasse meus planos de novo, igual você fez com o pedido de namoro, eu ia desistir da vida.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Bem, agora eu falei muito sério. - Eduarda dá mais um beijo nela. - E que bom que você não descobriu, porque se você estragasse meus planos "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "de novo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", igual você fez com o pedido de namoro, eu ia desistir da vida."
+        }
+      ]
+    },
+    {
+      "id": "cap-33-0311",
+      "type": "paragraph",
+      "text": "Lorena ri, se lembrando daquele dia."
+    },
+    {
+      "id": "cap-33-0312",
+      "type": "paragraph",
+      "text": "– Tá vendo? - Ela fala. - Eu tive que estragar seus planos aquele dia, pra hoje ser mais especial ainda."
+    },
+    {
+      "id": "cap-33-0313",
+      "type": "paragraph",
+      "text": "Eduarda ri, balançando a cabeça de leve."
+    },
+    {
+      "id": "cap-33-0314",
+      "type": "paragraph",
+      "text": "– Ia ser especial de todo jeito. - Ela leva uma mão ao rosto de Lorena. - Eu nunca quis nada na vida tanto quanto eu quero me casar com você."
+    },
+    {
+      "id": "cap-33-0315",
+      "type": "paragraph",
+      "text": "– Eu também. - Lorena coloca sua mão por cima da mão de Eduarda. - Você é a melhor coisa que me aconteceu. Você falou no seu discurso que eu te dei um lar mas… Duda, você me deu uma família. Você me mostrou o que era ser amada por quem eu sou, sem nada em troca, sem pressão, sem sentir que eu precisava mudar. Você foi minha família de verdade muito antes da minha própria mãe e do meu irmão entenderem o que isso significava. Você me deu forças pra passar por um momento terrível da minha vida e transformou o fundo do poço na melhor coisa que já me aconteceu. Eu nunca fui tão feliz quanto eu sou com você. Na verdade, eu nunca fui feliz de verdade até te conhecer. - Ela dá um beijo na mão de Eduarda. - Eu vou te amar todos os segundos de todos os dias pra todo o sempre, meu amor. Enquanto minha alma existir em algum lugar nesse universo, eu vou te amar. Não existe Lorena Ferette sem o seu amor por Eduarda Fragoso, e que bom que não existe, porque esse amor é a minha parte favorita de mim."
+    },
+    {
+      "id": "cap-33-0316",
+      "type": "paragraph",
+      "text": "Eduarda olha pra ela, já chorando igual um bebe, e ela puxa Lorena pra um abraço."
+    },
+    {
+      "id": "cap-33-0317",
+      "type": "paragraph",
+      "text": "– Eu te amo. - É tudo que ela consegue falar, entre alguns soluços. Lorena não consegue evitar de soltar uma risada."
+    },
+    {
+      "id": "cap-33-0318",
+      "type": "paragraph",
+      "text": "– Eu te amo muito. - Ela parte o abraço, permanecendo perto, e começa a beijar o rosto de Eduarda. Ela beija todas as lágrimas, até que seu choro pelo menos diminua um pouco. -Igual eu falei, você já é minha família, mas eu mal posso esperar pra tornar isso oficial."
+    },
+    {
+      "id": "cap-33-0319",
+      "type": "paragraph",
+      "text": "– Você… - Eduarda pausa, molhando seus lábios. - Você vai mesmo querer mudar seu nome? Igual a gente já conversou sobre, antes."
+    },
+    {
+      "id": "cap-33-0320",
+      "type": "paragraph",
+      "text": "– Claro que sim. - Lorena sorri. - Eu to contando os dias pra ser Lorena Fragoso."
+    },
+    {
+      "id": "cap-33-0321",
+      "type": "paragraph",
+      "text": "– Vai ser o dia mais feliz da minha vida."
+    },
+    {
+      "id": "cap-33-0322",
+      "type": "paragraph",
+      "text": "– Da minha também."
+    },
+    {
+      "id": "cap-33-0323",
+      "type": "paragraph",
+      "text": "Elas se aproximam, juntando seus lábios em um beijo quente, um beijo cheio de amor, de promessas, de esperança pro futuro. Elas selaram um compromisso que as duas já sabiam há muito tempo, de que elas passariam o resto de suas vidas juntas. E Lorena tinha certeza que seria uma vida maravilhosa, muito melhor do que ela sempre sonhou. Como poderia não ser, quando seria a vida de Eduarda e Lorena Fragoso?"
+    }
+  ],
+  "notes": {
+    "before": [
+      {
+        "id": "cap-33-0001",
+        "type": "paragraph",
+        "text": "Bem... Aqui estamos, depois de muito tempo. Eu vou falar algumas coisas nas notas finais, mas só queria agradecer de verdade a todos de vocês que ainda leem e acompanham essa história!! Eu espero que vocês gostem do final <3"
+      }
+    ],
+    "after": [
+      {
+        "id": "cap-33-0324",
+        "type": "paragraph",
+        "text": "E fim. To um pouco emotiva escrevendo isso... Eu comecei a escrever essa história lá em dezembro, porque tava muito obcecada com Loquinha e precisava colocar no papel. Nunca imaginei que fosse ter a recepção que teve, o tanto de comentários, kudos, pessoas vindo falar comigo sobre a história! Eu queria agradecer do fundo do meu coração todo mundo que leu, engajou, e me motivou a continuar dando vida a essa história que se tornou tão especial pra mim!"
+      },
+      {
+        "id": "cap-33-0325",
+        "type": "paragraph",
+        "text": "Um agradecimento especial a vocês que comentam em quase todo capítulo, ou que sempre vem falar comigo no twitter sobre... Sei o user de todos vocês, e vocês não sabem o quanto significa pra mim cada comentário <3"
+      },
+      {
+        "id": "cap-33-0326",
+        "type": "paragraph",
+        "text": "E claro, um agradecimento mais que especial à minha namorada, por aguentar todas as minhas obsessões e por ler tudo que eu escrevo! Tem um pouco de você em todas as minhas histórias, porque não sei falar de amor sem pensar em nós. Te amo muito!"
+      },
+      {
+        "id": "cap-33-0327",
+        "type": "paragraph",
+        "text": "Por fim, queria falar que pretendo voltar muito em breve com uma nova história por aqui... Espero que vocês me acompanhem nessa também! Por enquanto, se quiserem podem acompanhar a AU que to postando lá no twitter @folkshoni."
+      },
+      {
+        "id": "cap-33-0328",
+        "type": "paragraph",
+        "text": "Amo vocês e até logooooo"
+      }
+    ]
+  }
+}

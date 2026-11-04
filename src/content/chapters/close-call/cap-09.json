@@ -1,0 +1,2302 @@
+{
+  "id": "cap-09",
+  "blocks": [
+    {
+      "id": "cap-09-0002",
+      "type": "paragraph",
+      "text": "Lorena",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0003",
+      "type": "paragraph",
+      "text": "Depois de Lorena isolar mais uma bola no treino daquele dia, Leonardo olha pra ela com uma expressão cautelosa."
+    },
+    {
+      "id": "cap-09-0004",
+      "type": "paragraph",
+      "text": "– O que acha da gente fazer uma pausa por hoje? - Ele sugere, e Lorena bufa do outro lado da quadra."
+    },
+    {
+      "id": "cap-09-0005",
+      "type": "paragraph",
+      "text": "– Não, vamos de novo. - Ela pede. - Eu vou concentrar agora."
+    },
+    {
+      "id": "cap-09-0006",
+      "type": "paragraph",
+      "text": "– Lorena, tem mais de uma hora que a gente tá nisso, e sinceramente, não acho que estamos chegando a lugar nenhum. - Ele se aproxima dela, cruzando a quadra. - Tem dias que a gente tá meio off, e tudo bem. Às vezes a gente pode fazer um treino físico na academia.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Lorena, tem mais de uma hora que a gente tá nisso, e sinceramente, não acho que estamos chegando a lugar nenhum. - Ele se aproxima dela, cruzando a quadra. - Tem dias que a gente tá meio "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "off"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", e tudo bem. Às vezes a gente pode fazer um treino físico na academia."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0007",
+      "type": "paragraph",
+      "text": "– Leonardo, eu não… Eu não posso ter dias assim, não tão perto do torneio começar. - Ela passa uma mão por seu rosto, frustrada consigo mesma."
+    },
+    {
+      "id": "cap-09-0008",
+      "type": "paragraph",
+      "text": "– Ainda tem dias até o primeiro jogo, e você sabe que as primeiras rodadas devem ser mais tranquilas. - Ele tenta amenizar. - Amanhã é outro dia, e você já tá com ritmo de jogo depois de Brisbane, não precisa se preocupar tanto."
+    },
+    {
+      "id": "cap-09-0009",
+      "type": "paragraph",
+      "text": "– Preciso sim! - Ela responde, irritada. - Eu literalmente preciso me preocupar tanto.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Preciso sim! - Ela responde, irritada. - Eu "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "literalmente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " preciso me preocupar tanto."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0010",
+      "type": "paragraph",
+      "text": "Leonardo não responde de imediato. Ele apenas olha pra ela por um momento, antes de se aproximar um pouco mais, como se estivesse escolhendo as palavras."
+    },
+    {
+      "id": "cap-09-0011",
+      "type": "paragraph",
+      "text": "– O pai te falou mais alguma coisa? Ontem à noite, não sei."
+    },
+    {
+      "id": "cap-09-0012",
+      "type": "paragraph",
+      "text": "Bem, seu pai sempre tinha alguma coisa para falar com ela, as mensagens passivo agressivas dele desde que o torneio começou não eram novidade. Vamos dizer que era por isso que Lorena estava tão estressada e fora de si, que era pela pressão que ele estava colocando pra ela recuperar o número #1, pela pressão que ela estava se colocando, por ela sentir que precisava provar que podia ganhar um Grand Slam novamente. Vamos dizer que era por todas essas coisas, e não porque o mísero segundo em que ela viu Eduarda Fragoso no dia anterior a deixou completamente desconcertada."
+    },
+    {
+      "id": "cap-09-0013",
+      "type": "paragraph",
+      "text": "– Nada de novo. - Lorena se aproxima do banco, indo até sua garrafinha d’água, aceitando que eles estavam pelo menos fazendo uma pausa. - Já tô acostumada."
+    },
+    {
+      "id": "cap-09-0014",
+      "type": "paragraph",
+      "text": "– Tudo bem se você não estiver. - Leonardo fala. - Lo, eu de todas as pessoas sei como é lidar com a pressão do pai. Eu sei que é uma merda, eu sei o que isso pode fazer com você. Como seu treinador, e como seu irmão, eu preciso tentar fazer você tirar isso da cabeça um pouco."
+    },
+    {
+      "id": "cap-09-0015",
+      "type": "paragraph",
+      "text": "– E você acha que é possível tirar isso da cabeça? - Ela solta uma risada. -Não é como se ele desse muito espaço pra isso."
+    },
+    {
+      "id": "cap-09-0016",
+      "type": "paragraph",
+      "text": "– Não sei, mas eu acho que a gente precisa fazer alguma coisa diferente. -Leonardo sugere. - Tem um motivo pro ano passado ter ido como foi, e não é porque você ficou pior jogando tênis."
+    },
+    {
+      "id": "cap-09-0017",
+      "type": "paragraph",
+      "text": "– Você acha que é por causa do pai? - Ela pergunta, sincera dessa vez. - Eu não… Não sei, eu pensei muito sobre o que exatamente deu errado ano passado, mas eu não consegui achar um motivo claro. - Ela se senta no banco, olhando pra baixo. - Seria ótimo saber, pra eu não repetir a mesma coisa esse ano."
+    },
+    {
+      "id": "cap-09-0018",
+      "type": "paragraph",
+      "text": "Claro que era fácil culpar Eduarda Fragoso, mas o US Open foi apenas um jogo no ano de Lorena. As outras finais que ela perdeu, as outras oportunidades, não tiveram nada a ver com Eduarda, e ela sabia disso."
+    },
+    {
+      "id": "cap-09-0019",
+      "type": "paragraph",
+      "text": "Leonardo se senta ao seu lado, olhando pra Lorena."
+    },
+    {
+      "id": "cap-09-0020",
+      "type": "paragraph",
+      "text": "– Você quer mesmo saber o que eu acho?"
+    },
+    {
+      "id": "cap-09-0021",
+      "type": "paragraph",
+      "text": "– Você é meu treinador, Leo. - Lorena fala. - Seria ótimo saber o que você acha."
+    },
+    {
+      "id": "cap-09-0022",
+      "type": "paragraph",
+      "text": "– Bem, eu acho que você tornou o tênis sua vida inteira por muito tempo, e eu entendo, eu meio que fiz a mesma coisa. - Ele responde. - Mas aí, depois que você perdeu a final na Austrália pra alguém que você sentia que não podia perder, as coisas desandaram. Você se sentiu vulnerável, e deixou a semente da dúvida plantar na sua cabeça… E aí isso desandou os outros torneios, e virou uma bola de neve. - Ele pausa, e Lorena absorve as palavras. - Agora, você tá se colocando ainda mais pressão, mas talvez… Não sei, Lo, talvez perder o número um não tenha sido a pior coisa do mundo. Tipo, o que você tinha tanto medo de acontecer já aconteceu, e isso pode ser um motivo pra você jogar mais livre, sem tanto medo."
+    },
+    {
+      "id": "cap-09-0023",
+      "type": "paragraph",
+      "text": "Lorena fica um pouco impressionada, porque aquilo na verdade fazia muito sentido. Ela sabe que seu problema foi muito mais mental do que técnico, o que foi um soco no estômago porque Lorena sempre soube lidar com a pressão. Doía seu ego admitir que talvez ela tenha falhado nisso justo na hora que ela mais precisava, mas agora… Bem, a pressão não estava mais toda nela, não é? Talvez Lorena podia usar isso a seu favor."
+    },
+    {
+      "id": "cap-09-0024",
+      "type": "paragraph",
+      "text": "– Quem diria que você tem tanta sabedoria, hein? - Lorena levanta as sobrancelhas pra Leonardo, que revira os olhos pra ela."
+    },
+    {
+      "id": "cap-09-0025",
+      "type": "paragraph",
+      "text": "– Eu sei que você me acha um idiota, mas eu também sei de algumas coisas, tá bom?"
+    },
+    {
+      "id": "cap-09-0026",
+      "type": "paragraph",
+      "text": "– Eu não te acho um idiota, Leo. - Lorena dá um soquinho em seu braço. -Você só é meu irmão, faz parte da dinâmica."
+    },
+    {
+      "id": "cap-09-0027",
+      "type": "paragraph",
+      "text": "– Eu sei. - Ele sorri. - Mas então, você acha que faz sentido?"
+    },
+    {
+      "id": "cap-09-0028",
+      "type": "paragraph",
+      "text": "– Sim, faz muito… Talvez eu devesse mesmo mudar a forma como eu lido com os torneios, agora que quem tem algo pra defender é a Fragoso, e não eu."
+    },
+    {
+      "id": "cap-09-0029",
+      "type": "paragraph",
+      "text": "– Exatamente. - Leonardo concorda. - E mais do que isso… A gente fez as coisas do jeito do pai por muito tempo, mas ele não precisa saber de tudo que a gente faz, né? Ele nem aparece mais tanto nos torneios a não ser que seja nas fases finais."
+    },
+    {
+      "id": "cap-09-0030",
+      "type": "paragraph",
+      "text": "– É, acho que ano passado fez ele… Focar em outras coisas. - Lorena fala, suspirando. Ela sabe que o seu pai ter parado de comparecer em todos os torneios também era um de seus jogos mentais. Era a forma dele de dizer ‘você não merece minha atenção jogando dessa forma’. Lorena sabia, mas ao mesmo tempo, era um alívio. - Mas o que você tá falando, exatamente? -Ela olha de volta pra Leonardo.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– É, acho que ano passado fez ele… Focar em outras coisas. - Lorena fala, suspirando. Ela sabe que o seu pai ter parado de comparecer em "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "todos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " os torneios também era um de seus jogos mentais. Era a forma dele de dizer "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "‘você não merece minha atenção jogando dessa forma’"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Lorena sabia, mas ao mesmo tempo, era um alívio. - Mas o que você tá falando, exatamente? -Ela olha de volta pra Leonardo."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0031",
+      "type": "paragraph",
+      "text": "– O que eu tô falando, é que talvez você devia ter outras coisas pra te distrair. - Leonardo explica. - Tipo, achar algo que te faz bem, um hobby, não sei… Pra te ajudar a tirar a tensão durante torneios."
+    },
+    {
+      "id": "cap-09-0032",
+      "type": "paragraph",
+      "text": "– Igual você que fica jogando videogame no discord com seus amigos no quarto do hotel?"
+    },
+    {
+      "id": "cap-09-0033",
+      "type": "paragraph",
+      "text": "– Eu sei que você me zoa, mas sim! Jogar videogame é ótimo pra mim, e competitiva do jeito que você é, aposto que ia curtir."
+    },
+    {
+      "id": "cap-09-0034",
+      "type": "paragraph",
+      "text": "– Acho que talvez eu precise fazer algo menos competitivo. - Lorena fala, nem um pouco interessada em aprender o que era league of legends. -Mas… Eu vou pensar, tá bom? No que você falou.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Acho que talvez eu precise fazer algo "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "menos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " competitivo. - Lorena fala, nem um pouco interessada em aprender o que era league of legends. -Mas… Eu vou pensar, tá bom? No que você falou."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0035",
+      "type": "paragraph",
+      "text": "– Isso, pensa mesmo. - Ele encosta seu joelho no dela. - E por agora, vamos parar por hoje. Tira um tempo pra descansar a cabeça um pouco, até porque tem showmatch hoje à noite, você tá lembrando né?"
+    },
+    {
+      "id": "cap-09-0036",
+      "type": "paragraph",
+      "text": "– Puta merda, é hoje? - Lorena pergunta."
+    },
+    {
+      "id": "cap-09-0037",
+      "type": "paragraph",
+      "text": "A organização do Australian Open sempre fazia eventos para o público na semana anterior ao torneio, com os jogadores. Normalmente jogos de exibição, juntando jogadores novos e até os que já estavam aposentados, misturando com amadores, fazendo dinâmicas e brincadeiras."
+    },
+    {
+      "id": "cap-09-0038",
+      "type": "paragraph",
+      "text": "Lorena tinha concordado em fazer algumas aparições, era comum para a maioria dos jogadores aparecer um dia ou outro. Ela tinha esquecido completamente que já era naquela noite."
+    },
+    {
+      "id": "cap-09-0039",
+      "type": "paragraph",
+      "text": "– Sim, hoje às 19hrs. - Leonardo confirma. - Não se atrasa."
+    },
+    {
+      "id": "cap-09-0040",
+      "type": "paragraph",
+      "text": "– Tudo bem, não vou. - Ela suspira, já com preguiça. - Eu vou tomar um banho, então, e aí a gente vê o que a gente faz até a hora de voltar pra cá."
+    },
+    {
+      "id": "cap-09-0041",
+      "type": "paragraph",
+      "text": "– A gente podia almoçar em algum lugar, tô ficando com fome já."
+    },
+    {
+      "id": "cap-09-0042",
+      "type": "paragraph",
+      "text": "– Tudo bem, vamos. - Ela concorda."
+    },
+    {
+      "id": "cap-09-0043",
+      "type": "paragraph",
+      "text": "– Tá bom, enquanto você se ajeita eu vou falar com a organização do torneio, pra ver a escala de treinos dos próximos dias."
+    },
+    {
+      "id": "cap-09-0044",
+      "type": "paragraph",
+      "text": "– Combinado. - Ela diz. - Te mando mensagem então."
+    },
+    {
+      "id": "cap-09-0045",
+      "type": "paragraph",
+      "text": "Eles arrumam suas coisas e saem dali, e Lorena se despede de Leonardo quando eles entram no prédio, indo por caminhos opostos. Ela vai em direção ao vestiário, andando um tanto distraída quando ela vira um corredor, trombando em alguém que estava vindo da outra direção."
+    },
+    {
+      "id": "cap-09-0046",
+      "type": "paragraph",
+      "text": "Sua bolsa cai no chão, e Lorena automaticamente se vira pra pessoa, estendendo uma mão."
+    },
+    {
+      "id": "cap-09-0047",
+      "type": "paragraph",
+      "text": "– Descul- - Ela começa a falar, e para assim que ela percebe exatamente quem estava na sua frente.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Descul- - Ela começa a falar, e para assim que ela percebe exatamente "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "quem"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " estava na sua frente."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0048",
+      "type": "paragraph",
+      "text": "Eduarda olha de volta pra ela, parecendo tão surpresa quanto Lorena de ver a outra garota ali."
+    },
+    {
+      "id": "cap-09-0049",
+      "type": "paragraph",
+      "text": "– Ah, é você. - Lorena fala, sem saber mais o que falar. Ela sente seu coração bater um pouco mais forte no peito."
+    },
+    {
+      "id": "cap-09-0050",
+      "type": "paragraph",
+      "text": "Eduarda parece recuperar sua compostura, cruzando os braços e levantando uma sobrancelha. Ela estava em suas roupas de treino, assim como Lorena. A saia do uniforme combinava com a blusa azul marinho, que era sem manga, de forma que Lorena podia ver perfeitamente os braços de Eduarda, que estavam levemente tensionados. Seus cabelos ruivos estavam presos em um rabo de cavalo perfeito, claramente não tendo treinado ainda naquele dia."
+    },
+    {
+      "id": "cap-09-0051",
+      "type": "paragraph",
+      "text": "– E só porque sou eu, eu não mereço um pedido de desculpas? - Eduarda provoca, fazendo Lorena revirar os olhos."
+    },
+    {
+      "id": "cap-09-0052",
+      "type": "paragraph",
+      "text": "– Na verdade, eu acho que foi mais culpa sua do que minha. - Lorena responde. - Você devia olhar melhor pra onde anda, Fragoso."
+    },
+    {
+      "id": "cap-09-0053",
+      "type": "paragraph",
+      "text": "– É impressão minha, ou isso foi uma ameaça? - Eduarda semicerra os olhos pra ela."
+    },
+    {
+      "id": "cap-09-0054",
+      "type": "paragraph",
+      "text": "– Sabe, eu acho que você precisa parar de levar tudo pro pessoal. - Lorena fala, inclinando a cabeça. - Eu não preciso perder meu tempo te ameaçando."
+    },
+    {
+      "id": "cap-09-0055",
+      "type": "paragraph",
+      "text": "Aquilo faz Eduarda soltar uma risada sincera."
+    },
+    {
+      "id": "cap-09-0056",
+      "type": "paragraph",
+      "text": "– Que irônico logo você falar isso. - Ela rebate, e Lorena engole em seco, sabendo que as duas estão pensando no momento entre elas no corredor do hotel do WTA finals.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "irônico"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " logo você falar isso. - Ela rebate, e Lorena engole em seco, sabendo que as duas estão pensando no momento entre elas no corredor do hotel do WTA finals."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0057",
+      "type": "paragraph",
+      "text": "– Você não tem nada melhor pra fazer, não? - Lorena pergunta, querendo desviar o foco. Ela não via sentido em revisitar aquela conversa. - Você não tem um treino agora?"
+    },
+    {
+      "id": "cap-09-0058",
+      "type": "paragraph",
+      "text": "Lorena tinha olhado a agenda de treinos naquela manhã, como ela sempre fazia, e ela não podia ter deixado de reparar que Eduarda estava escalada para treinar na quadra 1 perto daquele horário, junto com Chiara Mancini. Só de pensar no nome Lorena sente um gosto amargo em sua boca.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena tinha olhado a agenda de treinos naquela manhã, como ela sempre fazia, e ela não podia ter deixado de reparar que Eduarda estava escalada para treinar na quadra 1 perto daquele horário, junto com "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chiara Mancini"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Só de pensar no nome Lorena sente um gosto amargo em sua boca."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0059",
+      "type": "paragraph",
+      "text": "– Eu tenho, na verdade. - Eduarda fala, seu olhar um tanto curioso. - Bom saber que você continua me acompanhando."
+    },
+    {
+      "id": "cap-09-0060",
+      "type": "paragraph",
+      "text": "– Eu sempre olho a escala de treinos, isso não te torna especial. - Lorena dá de ombros, mesmo sabendo que seu tom de voz não era dos mais convincentes."
+    },
+    {
+      "id": "cap-09-0061",
+      "type": "paragraph",
+      "text": "– Se você diz. - Eduarda abre o início de um sorriso, parecendo se divertir. -Bem, eu vou mesmo, não quero deixar ninguém me esperando."
+    },
+    {
+      "id": "cap-09-0062",
+      "type": "paragraph",
+      "text": "Lorena não fala nada de imediato, e Eduarda olha pra ela por mais um segundo antes de voltar a se mover, passando por Lorena no corredor. Então, Lorena solta o ar pelo nariz, incapaz de se segurar."
+    },
+    {
+      "id": "cap-09-0063",
+      "type": "paragraph",
+      "text": "– Seria mesmo um crime deixar sua namoradinha esperando. - Ela solta em voz baixa, mais pra si mesma do que para Eduarda ouvir."
+    },
+    {
+      "id": "cap-09-0064",
+      "type": "paragraph",
+      "text": "No entanto, Eduarda para, se virando de volta na direção de Lorena, que percebe o movimento, mas continua virada pro outro lado, apertando os olhos, pensando que talvez ela tenha falado demais."
+    },
+    {
+      "id": "cap-09-0065",
+      "type": "paragraph",
+      "text": "– Você cismou com essa história, né? - Eduarda pergunta, e Lorena respira fundo, se virando pra ela novamente."
+    },
+    {
+      "id": "cap-09-0066",
+      "type": "paragraph",
+      "text": "– Eu não cismei com nada, é apenas a verdade. - Ela tensiona seu maxilar, cruzando os braços. - Você sabe que é uma pessoa pública, né? Todo mundo viu suas fotinhas no ano novo. - Lorena se recusa a olhar Eduarda nos olhos. - Grande forma de chamar atenção, aliás."
+    },
+    {
+      "id": "cap-09-0067",
+      "type": "paragraph",
+      "text": "Eduarda solta uma risada, balançando a cabeça."
+    },
+    {
+      "id": "cap-09-0068",
+      "type": "paragraph",
+      "text": "– Não sabia que era um crime me divertir com minhas amigas. - Ela fala. -Que é isso que a Chiara é, se você quer saber."
+    },
+    {
+      "id": "cap-09-0069",
+      "type": "paragraph",
+      "text": "Lorena arqueia as sobrancelhas, não comprando aquilo por um segundo sequer."
+    },
+    {
+      "id": "cap-09-0070",
+      "type": "paragraph",
+      "text": "– Ah, pelo amor de Deus, você não precisa mentir pra mim. - Ela responde. - Vocês podem falar o que quiserem pra mídia, mas todas as jogadoras sabem que vocês ficam, não é como se fosse um grande segredo."
+    },
+    {
+      "id": "cap-09-0071",
+      "type": "paragraph",
+      "text": "– Ficava. - Eduarda corrige, e Lorena olha um pouco mais atenta pra ela. -A gente ficava, sim, mas a gente não fica mais. Já tem vários meses, na verdade.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Ficava. - Eduarda corrige, e Lorena olha um pouco mais atenta pra ela. -A gente "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ficava"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", sim, mas a gente não fica mais. Já tem vários meses, na verdade."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0072",
+      "type": "paragraph",
+      "text": "Lorena para, digerindo a informação. Ela morde seu lábio, tentando controlar seu tom de voz."
+    },
+    {
+      "id": "cap-09-0073",
+      "type": "paragraph",
+      "text": "– E por que não ficam mais?"
+    },
+    {
+      "id": "cap-09-0074",
+      "type": "paragraph",
+      "text": "Eduarda arregala os olhos de leve, parecendo não acreditar que Lorena realmente perguntou aquilo."
+    },
+    {
+      "id": "cap-09-0075",
+      "type": "paragraph",
+      "text": "– Isso já não te interessa, Ferette. - Ela se inclina um pouco na direção de Lorena. - Por que você tá tão interessada em saber, hein?"
+    },
+    {
+      "id": "cap-09-0076",
+      "type": "paragraph",
+      "text": "– Eu não tô! - Lorena rebate, na defensiva. - Eu não podia estar menos interessada com o que você faz ou deixa de fazer da sua vida."
+    },
+    {
+      "id": "cap-09-0077",
+      "type": "paragraph",
+      "text": "– Ótimo. - Eduarda responde. - Porque eu também não tenho o menor interesse em você. Não poderia ligar menos pro que você fez nas suas férias.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Ótimo. - Eduarda responde. - Porque eu também não tenho o "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "menor"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " interesse em você. Não poderia ligar menos pro que você fez nas suas férias."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0078",
+      "type": "paragraph",
+      "text": "– Ótimo. - Lorena sustenta o olhar de Eduarda. - Porque não te interessa, mesmo."
+    },
+    {
+      "id": "cap-09-0079",
+      "type": "paragraph",
+      "text": "– Até porque, duvido que tenha feito algo de interessante. - Eduarda fala. -Ler e esquiar, grande coisa."
+    },
+    {
+      "id": "cap-09-0080",
+      "type": "paragraph",
+      "text": "Aquilo chama a atenção de Lorena, fazendo ela levantar uma sobrancelha. Ela chega um pouco mais perto, seu lábio subindo de leve, a sombra de um sorriso."
+    },
+    {
+      "id": "cap-09-0081",
+      "type": "paragraph",
+      "text": "– Tem certeza que não se interessa?"
+    },
+    {
+      "id": "cap-09-0082",
+      "type": "paragraph",
+      "text": "Eduarda fica um pouco vermelha, parecendo irritada consigo mesma por ter falado aquilo. Ela dá um passo à frente, de forma que agora Lorena consegue sentir sua respiração."
+    },
+    {
+      "id": "cap-09-0083",
+      "type": "paragraph",
+      "text": "– Eu já falei, Ferette. - Ela fala, sua voz mais baixa. - A única coisa que me interessa sobre você, é assistir quando você perder esse torneio."
+    },
+    {
+      "id": "cap-09-0084",
+      "type": "paragraph",
+      "text": "– Poxa, isso eu vou ficar devendo. - O tom de Lorena é de deboche. - Vai ser uma delícia pegar o número um de volta."
+    },
+    {
+      "id": "cap-09-0085",
+      "type": "paragraph",
+      "text": "– Nos seus sonhos, só se for."
+    },
+    {
+      "id": "cap-09-0086",
+      "type": "paragraph",
+      "text": "– Como se eu fosse perder meu tempo sonhando com qualquer coisa que envolva você. - Lorena sustenta o olhar de Eduarda. - Eu não pensei em você nem por um segundo nesses dois meses."
+    },
+    {
+      "id": "cap-09-0087",
+      "type": "paragraph",
+      "text": "– Ótimo. - A voz de Eduarda ganha um tom de irritação. - Eu também não. Na verdade, eu tinha até esquecido que você existia."
+    },
+    {
+      "id": "cap-09-0088",
+      "type": "paragraph",
+      "text": "– Eu também. - Lorena se inclina um pouco mais na sua direção, de forma que seus narizes estão quase se encostando. - Esse sim seria um sonho meu; que você deixasse de existir.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Eu também. - Lorena se inclina um pouco mais na sua direção, de forma que seus narizes estão quase se encostando. - Esse sim seria um sonho meu; que você "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "deixasse de existir"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0089",
+      "type": "paragraph",
+      "text": "Eduarda não responde, ela apenas observa Lorena, sua pupila dilatada, sua respiração acelerada. Lorena sente seu coração ganhar velocidade, um calor subindo por seu corpo de forma que parece que cada célula está sendo incendiada."
+    },
+    {
+      "id": "cap-09-0090",
+      "type": "paragraph",
+      "text": "Então, de repente Eduarda vai pra frente, forçando Lorena a dar um passo pra trás, batendo contra a parede. Antes mesmo que ela perceba o que está acontecendo, Eduarda se move, e de repente Lorena ouve o barulho de uma maçaneta girando, e sente uma porta se abrindo atrás dela, quase caindo pra trás."
+    },
+    {
+      "id": "cap-09-0091",
+      "type": "paragraph",
+      "text": "Ela é praticamente empurrada pra dentro do… Closet de limpeza, Lorena percebe agora. Ela olha confusa pra Eduarda, que fecha a porta atrás delas.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Ela é praticamente empurrada pra dentro do… "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Closet de limpeza"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", Lorena percebe agora. Ela olha confusa pra Eduarda, que fecha a porta atrás delas."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0092",
+      "type": "paragraph",
+      "text": "– O que você… - Lorena começa a falar."
+    },
+    {
+      "id": "cap-09-0093",
+      "type": "paragraph",
+      "text": "– Cala a boca. - Eduarda rebate, e antes que Lorena possa responder, ela se aproxima, colocando as mãos no pescoço de Lorena e puxando ela pra um beijo."
+    },
+    {
+      "id": "cap-09-0094",
+      "type": "paragraph",
+      "text": "O movimento é brusco, rápido, e Lorena mal tem tempo de perceber o que está acontecendo antes de puxar Eduarda pela cintura, beijando ela de volta. Eduarda empurra ela pra trás, e alguns materiais de limpeza caem em volta delas."
+    },
+    {
+      "id": "cap-09-0095",
+      "type": "paragraph",
+      "text": "Elas não param, aprofundando o beijo, suas línguas se encontrando com urgencia, como se fosse tortura passar mais um segundo sem sentir o gosto uma da outra. Eduarda prensa ela contra a parede, e Lorena puxa ela ainda mais pra perto, passando as mãos pelas suas costas. Uma mão de Eduarda desce do pescoço de Lorena, começando a explorar seu corpo por cima de suas roupas."
+    },
+    {
+      "id": "cap-09-0096",
+      "type": "paragraph",
+      "text": "– Eu pensei que você sentia nojo só de pensar em mim. - Lorena fala, separando o beijo."
+    },
+    {
+      "id": "cap-09-0097",
+      "type": "paragraph",
+      "text": "– E eu pensei que você preferia morrer do que encostar um dedo em mim de novo. - Eduarda rebate."
+    },
+    {
+      "id": "cap-09-0098",
+      "type": "paragraph",
+      "text": "– Talvez eu prefira. - Lorena fala antes de se aproximar, juntando seus lábios novamente."
+    },
+    {
+      "id": "cap-09-0099",
+      "type": "paragraph",
+      "text": "O beijo retorna ainda mais intenso, e a mão de Eduarda vai até a barra da blusa de Lorena, passando para baixo do tecido, acariciando sua barriga, fazendo Lorena emitir um ruído na boca de Eduarda."
+    },
+    {
+      "id": "cap-09-0100",
+      "type": "paragraph",
+      "text": "Eduarda se move, partindo o beijo e indo até o pescoço de Lorena, colocando sua língua ali, ao mesmo tempo em que ela move sua mão até o top de Lorena, apertando seu peito por cima do tecido. Lorena fecha seus olhos, prendendo sua respiração, sentindo um arrepio percorrer todo seu corpo, seu calor aumentando."
+    },
+    {
+      "id": "cap-09-0101",
+      "type": "paragraph",
+      "text": "Eduarda volta com sua boca até a boca de Lorena, dando mais um beijo nela enquanto leva sua mão agora até seu short saia, colocando sua mão entre as pernas de Lorena, que tenta conter um gemido."
+    },
+    {
+      "id": "cap-09-0102",
+      "type": "paragraph",
+      "text": "– Você fica ridícula com esse uniforme. - Eduarda fala em sua boca, ainda acariciando Lorena por cima do fino tecido de seus shorts."
+    },
+    {
+      "id": "cap-09-0103",
+      "type": "paragraph",
+      "text": "– Não mais que você. - Lorena responde, sua respiração pesada. - Com esse rabo de cavalo patético. - Ela sobe sua mão pelo pescoço de Eduarda, prendendo ela em seu cabelo."
+    },
+    {
+      "id": "cap-09-0104",
+      "type": "paragraph",
+      "text": "Eduarda solta uma pequena risada."
+    },
+    {
+      "id": "cap-09-0105",
+      "type": "paragraph",
+      "text": "– Eu mal posso esperar pra ganhar de você de novo. - Ela aplica mais pressão entre as pernas de Lorena. - Vai ser uma delícia."
+    },
+    {
+      "id": "cap-09-0106",
+      "type": "paragraph",
+      "text": "Lorena morde seu lábio, contendo mais um ruído."
+    },
+    {
+      "id": "cap-09-0107",
+      "type": "paragraph",
+      "text": "– Pra jogar contra mim, voc- - Ela pausa, respirando fundo. - Você teria que chegar na final. - Lorena completa. - O que não vai acontecer."
+    },
+    {
+      "id": "cap-09-0108",
+      "type": "paragraph",
+      "text": "Eduarda pressiona Lorena ainda mais contra a parede, movendo sua mão até a barra dos shorts agora, colocando ela lá dentro."
+    },
+    {
+      "id": "cap-09-0109",
+      "type": "paragraph",
+      "text": "– Ganhar esse torneio vai ser tão fácil quanto te deixar derretida na minha mão. - Eduarda coloca sua mão dentro da calcinha de Lorena, pressionando no seu ponto de prazer, fazendo ela jogar sua cabeça pra trás, mais um ruído escapando seus lábios."
+    },
+    {
+      "id": "cap-09-0110",
+      "type": "paragraph",
+      "text": "– Eu… - Lorena tenta falar. - Eu te odeio."
+    },
+    {
+      "id": "cap-09-0111",
+      "type": "paragraph",
+      "text": "– Eu sei. - Eduarda fala em seu ouvido, mexendo seus dedos em Lorena, que sente o prazer espalhar por todo seu corpo. Então, Eduarda respira pesado em sua orelha, e leva sua boca até o limite entre seu pescoço e seu maxilar, deixando beijos molhados ali enquanto ela aumenta o ritmo com sua mão."
+    },
+    {
+      "id": "cap-09-0112",
+      "type": "paragraph",
+      "text": "– Porra. - Lorena deixa escapar, fincando uma de suas mãos nas costas de Eduarda, tentando manter seu equilíbrio.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Porra"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". - Lorena deixa escapar, fincando uma de suas mãos nas costas de Eduarda, tentando manter seu equilíbrio."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0113",
+      "type": "paragraph",
+      "text": "Eduarda continua movendo sua mão, e à medida que o prazer se acumula no corpo de Lorena, ela começa a ter problemas em conter seus gemidos, deixando alguns sons escaparem por sua garganta."
+    },
+    {
+      "id": "cap-09-0114",
+      "type": "paragraph",
+      "text": "Eduarda levanta sua cabeça, olhando nos olhos de Lorena de novo. Então, ela move sua mão livre, colocando ela sobre a boca de Lorena, abafando seus gemidos."
+    },
+    {
+      "id": "cap-09-0115",
+      "type": "paragraph",
+      "text": "Lorena mantém o contato visual, mas não protesta, e Eduarda morde seu lábio, pressionando de leve sua mão sobre a boca de Lorena, e o movimento lança mais uma onda de prazer pelo seu corpo, se juntando aos toques de Eduarda entre suas pernas."
+    },
+    {
+      "id": "cap-09-0116",
+      "type": "paragraph",
+      "text": "Ela vê um sorriso surgindo nos lábios de Eduarda antes de fechar seus olhos, completamente tomada pela eletricidade que percorria seu corpo. Lorena geme na mão de Eduarda, que pressiona ainda mais, seus movimentos com os dedos cada vez mais acelerados, e Lorena sente o prazer chegando ao seu ápice, puxando Eduarda pra perto pelas costas, suas pernas ficando bambas quando o orgasmo a atinge, seu corpo inteiro tremendo sob o toque de Eduarda, seu quadril subindo, sua respiração descompassada."
+    },
+    {
+      "id": "cap-09-0117",
+      "type": "paragraph",
+      "text": "Eduarda continua seus movimentos até o corpo de Lorena se estabilizar, mas ela permanece agarrada a Eduarda, não confiando na força de suas pernas caso ela se desgrude da outra garota."
+    },
+    {
+      "id": "cap-09-0118",
+      "type": "paragraph",
+      "text": "Então, Eduarda tira a mão da boca de Lorena, e move a outra para fora de seus shorts, levando seus dedos até seu nariz, cheirando eles como se o cheiro de Lorena fosse um perfume exclusivo que ela tinha acabado de comprar. O gesto faz Lorena abrir sua boca de leve, todo o tesão que Eduarda tinha acabado de aliviar voltando a subir por seu corpo."
+    },
+    {
+      "id": "cap-09-0119",
+      "type": "paragraph",
+      "text": "Ela se move, empurrando Eduarda pra trás, levando ela até a outra parede do closet, suas costas emitindo um barulho quando se chocam contra o concreto."
+    },
+    {
+      "id": "cap-09-0120",
+      "type": "paragraph",
+      "text": "– Quanta agressividade. - Eduarda fala, mas seu tom de voz é provocativo. -Tá com medo deu fugir?"
+    },
+    {
+      "id": "cap-09-0121",
+      "type": "paragraph",
+      "text": "Lorena pressiona sua perna contra as de Eduarda, fazendo elas se abrirem, e coloca seu joelho ali."
+    },
+    {
+      "id": "cap-09-0122",
+      "type": "paragraph",
+      "text": "– Se você fugir. - Lorena sussurra no ouvido de Eduarda. - Quem vai perder não vai ser eu."
+    },
+    {
+      "id": "cap-09-0123",
+      "type": "paragraph",
+      "text": "Eduarda emite um ruído, e Lorena se move para beijá-la novamente antes que ela consiga responder."
+    },
+    {
+      "id": "cap-09-0124",
+      "type": "paragraph",
+      "text": "Suas línguas se encontram, e Lorena aplica mais pressão com seu joelho, já passando suas mãos pelo corpo de Eduarda, seus movimentos apressados, sabendo no fundo de sua mente que o tempo delas ali era limitado."
+    },
+    {
+      "id": "cap-09-0125",
+      "type": "paragraph",
+      "text": "Ela move suas mãos das costas de Eduarda para sua barriga, descendo enquanto ela segue aplicando pressão entre suas pernas, sentindo Eduarda tensionar sob seus toques, parando o beijo para recuperar sua respiração."
+    },
+    {
+      "id": "cap-09-0126",
+      "type": "paragraph",
+      "text": "Lorena move sua mão para dentro dos shorts de Eduarda, mordiscando seu queixo, descendo até seu pescoço. Ela se delicia com cada reação de Eduarda ao contato, levando seus dedos até sua entrada."
+    },
+    {
+      "id": "cap-09-0127",
+      "type": "paragraph",
+      "text": "Lorena levanta sua cabeça, olhando nos olhos de Eduarda enquanto brinca com seus dedos, adorando o quanto Eduarda estava molhada."
+    },
+    {
+      "id": "cap-09-0128",
+      "type": "paragraph",
+      "text": "– Ainda quer fugir, Fragoso? - Ela pergunta, e vê o olhar de Eduarda ganhar um misto de ódio e desejo. Lorena abre um sorriso. - Foi o que eu pensei. -Ela junta seus lábios mais uma vez, colocando seus dedos dentro de Eduarda, que geme em sua boca."
+    },
+    {
+      "id": "cap-09-0129",
+      "type": "paragraph",
+      "text": "Lorena começa a movimentar seus dedos, continuando o beijo, o quadril de Eduarda se levantando, suas mãos agarrando as costas de Lorena. Ela sente Eduarda ficar cada vez mais apertada sob seu toque, e aumenta a velocidade aos poucos. Então Lorena move sua cabeça um pouco pra trás, olhando para Eduarda, que permanece com seus olhos fechados, sua respiração acelerada."
+    },
+    {
+      "id": "cap-09-0130",
+      "type": "paragraph",
+      "text": "– Me diz, Eduarda. - Ela fala, e aquilo faz Eduarda abrir seus olhos para olhar pra ela. - Você não pensou em mim nenhuma vez nesses dois meses?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Me diz, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eduarda"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". - Ela fala, e aquilo faz Eduarda abrir seus olhos para olhar pra ela. - Você não pensou em mim nenhuma vez nesses dois meses?"
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0131",
+      "type": "paragraph",
+      "text": "As pupilas de Eduarda dilatam, e ela respira fundo antes de responder."
+    },
+    {
+      "id": "cap-09-0132",
+      "type": "paragraph",
+      "text": "– N-não. - Sua voz falha. - Nenhuma vez."
+    },
+    {
+      "id": "cap-09-0133",
+      "type": "paragraph",
+      "text": "Lorena se aproxima, seus lábios quase se encostando."
+    },
+    {
+      "id": "cap-09-0134",
+      "type": "paragraph",
+      "text": "– Bom saber que mudou o ano, mas você continua uma mentirosa. - Ela fala, aumentando o ritmo dos seus dedos, colocando mais força."
+    },
+    {
+      "id": "cap-09-0135",
+      "type": "paragraph",
+      "text": "Eduarda fecha seus olhos, jogando sua cabeça pra trás, um gemido mais alto escapando seus lábios."
+    },
+    {
+      "id": "cap-09-0136",
+      "type": "paragraph",
+      "text": "Lorena retoma o beijo, tentando conter os barulhos que saíam da boca de Eduarda, mantendo o ritmo com seus dedos. Eduarda arranha suas costas por cima da blusa, e Lorena sente o exato momento em que seu corpo tensiona, sua entrada abrindo e fechando nos dedos de Lorena, seu corpo tremendo. Eduarda morde o lábio de Lorena com tanta força que ela sente o gosto de sangue, continuando a movimentar seus dedos até que Eduarda se afaste, sua respiração recuperando aos poucos o ritmo normal."
+    },
+    {
+      "id": "cap-09-0137",
+      "type": "paragraph",
+      "text": "Lorena beija ela mais uma vez, o gosto de sangue se misturando ao gosto de Eduarda, todas as sensações daquele momento inebriantes, de forma que Lorena é tomada por um desejo inexplicável de que elas pudessem continuar ali, presas no closet de limpeza, afastadas de todo o mundo."
+    },
+    {
+      "id": "cap-09-0138",
+      "type": "paragraph",
+      "text": "Pra sua infelicidade, o beijo logo se parte, e ela tira sua mão de dentro de Eduarda, que respira fundo, tirando suas mãos das costas de Lorena."
+    },
+    {
+      "id": "cap-09-0139",
+      "type": "paragraph",
+      "text": "Elas escutam passos vindo do corredor, e Lorena prende sua respiração até eles se afastarem, o silêncio retornando ao pequeno espaço. Ela se endireita, limpando sua garganta."
+    },
+    {
+      "id": "cap-09-0140",
+      "type": "paragraph",
+      "text": "– Merda, eu preciso ir. - Eduarda fala, também ajustando sua postura. - Eu com certeza já tô atrasada."
+    },
+    {
+      "id": "cap-09-0141",
+      "type": "paragraph",
+      "text": "Lorena engole em seco, assentindo com a cabeça. Elas se olham mais uma vez, e por alguns momentos, nenhuma delas se mexe."
+    },
+    {
+      "id": "cap-09-0142",
+      "type": "paragraph",
+      "text": "– Manda um beijo pra Chiara pra mim. - Lorena fala, levantando uma sobrancelha."
+    },
+    {
+      "id": "cap-09-0143",
+      "type": "paragraph",
+      "text": "Eduarda abre um meio sorriso."
+    },
+    {
+      "id": "cap-09-0144",
+      "type": "paragraph",
+      "text": "– Isso tudo é ciúmes, Ferette?"
+    },
+    {
+      "id": "cap-09-0145",
+      "type": "paragraph",
+      "text": "Lorena solta uma risada debochada."
+    },
+    {
+      "id": "cap-09-0146",
+      "type": "paragraph",
+      "text": "– Como se eu algum dia fosse sentir ciúmes de você. - Ela fala. - Não deixa o ego subir à cabeça, Fragoso."
+    },
+    {
+      "id": "cap-09-0147",
+      "type": "paragraph",
+      "text": "– Eu até tento. - Eduarda se aproxima dela. - Mas você deixa muito difícil."
+    },
+    {
+      "id": "cap-09-0148",
+      "type": "paragraph",
+      "text": "Então ela passa por Lorena, indo até a porta do closet, colocando a mão na maçaneta."
+    },
+    {
+      "id": "cap-09-0149",
+      "type": "paragraph",
+      "text": "– Depois que eu sair, espera uns minutos até- - Eduarda começa a falar."
+    },
+    {
+      "id": "cap-09-0150",
+      "type": "paragraph",
+      "text": "– Eu sei. - Lorena interrompe. - Eu não sou burra."
+    },
+    {
+      "id": "cap-09-0151",
+      "type": "paragraph",
+      "text": "Eduarda apenas olha pra trás, seus olhos se encontrando. Lorena molha seus lábios, prendendo sua respiração. Então Eduarda se vira, girando a maçaneta e saindo dali."
+    },
+    {
+      "id": "cap-09-0152",
+      "type": "paragraph",
+      "text": "Lorena se apoia na parede, respirando fundo, fechando seus olhos. Puta que pariu, o que ela tinha acabado de fazer? Exatamente o que ela prometeu pra si mesma que nunca mais faria, só isso. A escolha mais burra de sua vida, e Lorena tinha acabado de repeti-la, em um closet de limpeza, no complexo do Australian Open. Como ela podia estar sendo tão descuidada?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena se apoia na parede, respirando fundo, fechando seus olhos. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Puta que"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pariu"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", o que ela tinha acabado de fazer? Exatamente o que ela prometeu pra si mesma que nunca mais faria, só isso. A escolha mais burra de sua vida, e Lorena tinha acabado de repeti-la, em um "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "closet de limpeza"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", no complexo do Australian Open. Como ela podia estar sendo tão descuidada?"
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0153",
+      "type": "paragraph",
+      "text": "Bem, o Leonardo disse que ela precisava aliviar a tensão, e sendo sincera, Lorena estava se sentindo bem mais relaxada naquele momento do que ela estava vinte minutos atrás."
+    },
+    {
+      "id": "cap-09-0154",
+      "type": "paragraph",
+      "text": "Ela suspira, pensando que era melhor não perder tempo se martirizando por aquilo naquele momento. Depois de alguns minutos, Lorena também sai dali, vendo sua bolsa ainda no chão do corredor, onde ela tinha deixado cair quando elas se trombaram."
+    },
+    {
+      "id": "cap-09-0155",
+      "type": "paragraph",
+      "text": "Ela pega a bolsa, finalmente indo até o vestiário. Lorena torce para Leonardo estar bem ocupado, para ele não questionar porque ela tinha demorado tanto para tomar um mísero banho."
+    },
+    {
+      "id": "cap-09-0156",
+      "type": "paragraph",
+      "text": "Quando Lorena finalmente chega no vestiário, ela coloca suas coisas em um dos bancos, olhando pra cima para encontrar um rosto conhecido."
+    },
+    {
+      "id": "cap-09-0157",
+      "type": "paragraph",
+      "text": "– Lo, bom te ver. - Maggye fala pra ela, sorrindo. - Eu queria mesmo te mandar mensagem pra saber se você já tava por aqui."
+    },
+    {
+      "id": "cap-09-0158",
+      "type": "paragraph",
+      "text": "– Maggye, oi. - Lorena sorri de volta, apreciando a naturalidade com que elas conseguiam conversar agora. - Bom te ver também, como você tá?"
+    },
+    {
+      "id": "cap-09-0159",
+      "type": "paragraph",
+      "text": "– Tô ótima. - Maggye se aproxima dela. - Feliz de começar a temporada."
+    },
+    {
+      "id": "cap-09-0160",
+      "type": "paragraph",
+      "text": "– Eu também, já tava doida pra começar."
+    },
+    {
+      "id": "cap-09-0161",
+      "type": "paragraph",
+      "text": "– Você tava treinando agora? - Maggye pergunta. - Você tá vermelha. Tá quente aqui esse ano, né?"
+    },
+    {
+      "id": "cap-09-0162",
+      "type": "paragraph",
+      "text": "Lorena engole em seco, aquela constatação a deixando ainda mais vermelha."
+    },
+    {
+      "id": "cap-09-0163",
+      "type": "paragraph",
+      "text": "– Sim, bem quente."
+    },
+    {
+      "id": "cap-09-0164",
+      "type": "paragraph",
+      "text": "– Mas me diz. - Maggye se aproxima, olhando pra ela com um olhar um tanto curioso. - Como tão as coisas? Tipo… Além do torneio."
+    },
+    {
+      "id": "cap-09-0165",
+      "type": "paragraph",
+      "text": "Lorena franze o cenho, não esperando aquela pergunta."
+    },
+    {
+      "id": "cap-09-0166",
+      "type": "paragraph",
+      "text": "– Ah, tá tudo bem. - Ela fala. - Meus pais vão vir pra segunda semana só, se eu chegar lá né."
+    },
+    {
+      "id": "cap-09-0167",
+      "type": "paragraph",
+      "text": "Maggye a observa por alguns segundos antes de responder."
+    },
+    {
+      "id": "cap-09-0168",
+      "type": "paragraph",
+      "text": "– Você sabe que pode conversar comigo, né? - Ela fala. - Tipo, sobre qualquer coisa, se você precisar…"
+    },
+    {
+      "id": "cap-09-0169",
+      "type": "paragraph",
+      "text": "Lorena fica ainda mais confusa, mas ela assume que Maggye estava oferecendo por causa de seu pai. Ela sabia pelo menos um pouco sobre como realmente era a família de Lorena."
+    },
+    {
+      "id": "cap-09-0170",
+      "type": "paragraph",
+      "text": "– Obrigada, Maggye. - Lorena sorri. - Você também! Eu fiquei feliz da gente voltar a conversar."
+    },
+    {
+      "id": "cap-09-0171",
+      "type": "paragraph",
+      "text": "– Sim, eu fiquei feliz também. - Ela continua observando Lorena, que fica cada vez mais confusa. - Na verdade… E se a gente sair um dia desses?"
+    },
+    {
+      "id": "cap-09-0172",
+      "type": "paragraph",
+      "text": "– Sair?"
+    },
+    {
+      "id": "cap-09-0173",
+      "type": "paragraph",
+      "text": "– Sim, ainda mais que tem uns dias até o torneio começar… A gente pode sair pra jantar, o que acha?"
+    },
+    {
+      "id": "cap-09-0174",
+      "type": "paragraph",
+      "text": "Lorena para, pensando sobre a proposição por um momento. Ela pensa sobre as palavras de Leonardo, sobre como toda a pressão que ela se colocou foi sua ruína no ano passado, que ela devia ter outras coisas para pensar além do tênis. Ela sabia que seu pai não gostaria daquilo, mas Leonardo tinha razão: seu pai estava longe, e Lorena não precisava fazer as coisas do jeito dele."
+    },
+    {
+      "id": "cap-09-0175",
+      "type": "paragraph",
+      "text": "– Na verdade, seria ótimo."
+    },
+    {
+      "id": "cap-09-0176",
+      "type": "paragraph",
+      "text": "– Mesmo? - Maggye parece um pouco surpresa que ela aceitou tão fácil assim. - Amanhã a noite, que tal?"
+    },
+    {
+      "id": "cap-09-0177",
+      "type": "paragraph",
+      "text": "– Pode ser. - Lorena concorda."
+    },
+    {
+      "id": "cap-09-0178",
+      "type": "paragraph",
+      "text": "– Ótimo! - Maggye fala. - Eu preciso ir, mas… Depois te mando mensagem?"
+    },
+    {
+      "id": "cap-09-0179",
+      "type": "paragraph",
+      "text": "– Combinado."
+    },
+    {
+      "id": "cap-09-0180",
+      "type": "paragraph",
+      "text": "Elas se despedem, e Lorena fica feliz com aquele plano. Ela nem se lembrava da última vez que ela tinha saído pra jantar com uma amiga, apenas pra passar o tempo."
+    },
+    {
+      "id": "cap-09-0181",
+      "type": "paragraph",
+      "text": "Lorena então finalmente entra no chuveiro, sua cabeça alternando entre todas as coisas que já tinham acontecido naquele dia. Ela coloca a água gelada, apreciando a sensação em sua pele, o relaxar de seus músculos."
+    },
+    {
+      "id": "cap-09-0182",
+      "type": "paragraph",
+      "text": "Não importa o quão gelada seja a água, no entanto, Lorena é incapaz de mandar embora o calor que Eduarda deixou em sua pele."
+    },
+    {
+      "id": "cap-09-0183",
+      "type": "divider",
+      "text": "***"
+    },
+    {
+      "id": "cap-09-0184",
+      "type": "paragraph",
+      "text": "Eduarda",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eduarda"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0185",
+      "type": "paragraph",
+      "text": "Eduarda passa o resto do dia tentando ser minimamente funcional depois do encontro com Lorena no closet de limpeza. Ela não estava exatamente planejando aquilo, mas foi mais forte do que ela. Na cabeça de Eduarda, depois de Lorena provocar ela com aquele uniforme, toda suada do treino, admitindo que tinha acompanhado as notícias sobre ela… Simplesmente não existia outra opção que não fosse beijar Lorena ali mesmo."
+    },
+    {
+      "id": "cap-09-0186",
+      "type": "paragraph",
+      "text": "Ela sabia que não era prático, ou racional, mas Eduarda tinha que admitir que amaciou seu ego perceber que Lorena também estava afetada com o que tinha acontecido na temporada passada, que ela também se rendeu ao momento, se deixou ser tocada por Eduarda novamente, que ela quis tocar Eduarda da mesma forma."
+    },
+    {
+      "id": "cap-09-0187",
+      "type": "paragraph",
+      "text": "De todo jeito, seu pequeno encontro tinha tido algumas consequências, com ela tendo que ouvir de Paulinho como era irresponsável se atrasar pro treino com outra jogadora. Chiara não pareceu ficar tão ofendida assim, pelo menos, mas Eduarda sabia que seu foco não estava totalmente no treino, como deveria estar."
+    },
+    {
+      "id": "cap-09-0188",
+      "type": "paragraph",
+      "text": "Depois de jogar um set com Chiara, ela e Paulinho bateram mais algumas bolas, ele colocou ela pra correr - de propósito, com certeza - e eles ainda fizeram preparação física na academia. No fim do dia Eduarda estava exausta, e em vez de poder ir para o seu hotel descansar, ela ainda tinha que participar da exibição que o torneio tinha preparado para aquela noite."
+    },
+    {
+      "id": "cap-09-0189",
+      "type": "paragraph",
+      "text": "Essas exibições eram comuns antes de todo Grand Slam, e o Australian Open era um dos que mais gostavam de promovê-las para atrair o público. Eduarda não ligava muito de participar, normalmente era divertido - você não precisava levar a sério, era só fazer uma gracinha com o público e jogar alguns pontos bonitos."
+    },
+    {
+      "id": "cap-09-0190",
+      "type": "paragraph",
+      "text": "Ela chega lá perto das 20hrs, depois de fazer uma pausa para descansar e comer. Eduarda entra na quadra central ao lado de Paulinho; ela deveria jogar em breve, um set de exibição de duplas mistas."
+    },
+    {
+      "id": "cap-09-0191",
+      "type": "paragraph",
+      "text": "Quando Eduarda coloca seus olhos na quadra, no entanto, ela para por um momento, vendo que Lorena estava ali, jogando naquele exato momento. Era um set de duplas com jogadores amadores, se Eduarda entendeu direito, e ela estava de costas para Eduarda, jogando contra Celina e mais algum jogador amador."
+    },
+    {
+      "id": "cap-09-0192",
+      "type": "paragraph",
+      "text": "Eduarda engole em seco, indo até um dos bancos que eles tinham montado ali, diversas pessoas na quadra, um apresentador com um microfone narrando a partida. O clima era leve, de brincadeira, todos os jogadores também com microfones, brincando entre os pontos."
+    },
+    {
+      "id": "cap-09-0193",
+      "type": "paragraph",
+      "text": "Ela vê que Chiara estava sentada ali, e Eduarda se senta ao lado dela, ainda sem tirar os olhos de Lorena."
+    },
+    {
+      "id": "cap-09-0194",
+      "type": "paragraph",
+      "text": "– Não sabia que você vinha hoje também. - Eduarda fala."
+    },
+    {
+      "id": "cap-09-0195",
+      "type": "paragraph",
+      "text": "– Eu joguei antes delas."
+    },
+    {
+      "id": "cap-09-0196",
+      "type": "paragraph",
+      "text": "– E resolveu ficar?"
+    },
+    {
+      "id": "cap-09-0197",
+      "type": "paragraph",
+      "text": "– Ah, não é como se eu tivesse muito mais o que fazer. - Chiara dá de ombros. - Você vai jogar agora, né?"
+    },
+    {
+      "id": "cap-09-0198",
+      "type": "paragraph",
+      "text": "– Sim, é o planejado."
+    },
+    {
+      "id": "cap-09-0199",
+      "type": "paragraph",
+      "text": "Aplausos explodem quando Lorena e seu parceiro fazem mais um ponto, e o set acaba. Lorena ri, batendo na mão de sua dupla. Ela parecia… Leve, de certa forma. Sem toda a seriedade que normalmente ela carrega na quadra -bem, é uma partida boba de exibição, então até que faz sentido."
+    },
+    {
+      "id": "cap-09-0200",
+      "type": "paragraph",
+      "text": "Então Lorena se vira, e parece perceber que Eduarda estava ali. Elas se olham por um momento, o coração de Eduarda pulando uma batida, mas Lorena não exibe uma reação, ela apenas continua andando até a rede, para cumprimentar seus oponentes."
+    },
+    {
+      "id": "cap-09-0201",
+      "type": "paragraph",
+      "text": "Eduarda respira fundo, e então o apresentador do evento chega perto dela, levantando o microfone para que o público não pudesse ouvir."
+    },
+    {
+      "id": "cap-09-0202",
+      "type": "paragraph",
+      "text": "– Eduarda. - Ele fala. - Obrigada por ter vindo, mas houve uma mudança de planos."
+    },
+    {
+      "id": "cap-09-0203",
+      "type": "paragraph",
+      "text": "– Como assim? - Ela pergunta."
+    },
+    {
+      "id": "cap-09-0204",
+      "type": "paragraph",
+      "text": "– O Felix, que ia jogar com você, lesionou no treino hoje e cancelou a participação. - Ele explica. - Vamos ter que cancelar, já avisei os outros jogadores, mas você chegou só agora."
+    },
+    {
+      "id": "cap-09-0205",
+      "type": "paragraph",
+      "text": "– Então não vai ter mais nada depois disso? - Ela pergunta."
+    },
+    {
+      "id": "cap-09-0206",
+      "type": "paragraph",
+      "text": "– Bem, tem outro set de exibição às 21hrs, mas o pessoal não chegou ainda. É ruim pro torneio, mas não sei se tem muito o que fazer."
+    },
+    {
+      "id": "cap-09-0207",
+      "type": "paragraph",
+      "text": "– Ah, a gente pode fazer uma mudança de planos, não pode? - É Chiara quem fala. - Assim, se precisar, eu posso jogar mais um também."
+    },
+    {
+      "id": "cap-09-0208",
+      "type": "paragraph",
+      "text": "O apresentador olha pra ela por um momento, e então ele levanta as sobrancelhas, com um olhar de quem acabou de ter uma ideia. Ele aponta um dedo pra Chiara, e então apenas se vira, se afastando delas."
+    },
+    {
+      "id": "cap-09-0209",
+      "type": "paragraph",
+      "text": "– O que… - Eduarda começa a perguntar, mas é interrompida pela voz do apresentador no microfone."
+    },
+    {
+      "id": "cap-09-0210",
+      "type": "paragraph",
+      "text": "– Pessoal, obrigado por ficarem até aqui. - Ele fala. - A gente tinha planejado um set de duplas mistas agora, mas infelizmente, por lesão de um dos jogadores, vamos ter que mudar os planos."
+    },
+    {
+      "id": "cap-09-0211",
+      "type": "paragraph",
+      "text": "A plateia faz um som de descontentamento, e ele levanta a mão, pedindo silêncio."
+    },
+    {
+      "id": "cap-09-0212",
+      "type": "paragraph",
+      "text": "– Mas não se desanimem, tenho certeza que podemos resolver isso. - Ele então se vira pro outro lado da quadra, apontando pra onde Lorena estava bebendo de sua garrafa d’água agora. - Lorena. - Ele chama, e ela olha pra ele. - O que acha de jogar mais um com a gente?"
+    },
+    {
+      "id": "cap-09-0213",
+      "type": "paragraph",
+      "text": "Eduarda fecha os olhos, porque ela sabia exatamente para onde isso estava indo."
+    },
+    {
+      "id": "cap-09-0214",
+      "type": "paragraph",
+      "text": "– Mais um? - Lorena pergunta. - Tudo bem, contra quem?"
+    },
+    {
+      "id": "cap-09-0215",
+      "type": "paragraph",
+      "text": "O apresentador sorri, como se ele tivesse acabado de ter seu momento de triunfo."
+    },
+    {
+      "id": "cap-09-0216",
+      "type": "paragraph",
+      "text": "– Vamos fazer uma dupla de novo, que tal? - Ele diz, e se vira para onde Eduarda estava - Do outro lado… Eduarda Fragoso pode jogar. Se vocês toparem, claro."
+    },
+    {
+      "id": "cap-09-0217",
+      "type": "paragraph",
+      "text": "A plateia entra em histeria completa, e Eduarda cerra seus olhos para aquele maldito apresentador. A rivalidade das duas era um dos assuntos mais falados no mundo do tênis desde o ano anterior, e claro que ele tinha colocado elas em uma situação em que seria quase impossível recusar, falando no microfone para todo mundo ouvir. Espertinho, Eduarda pensa.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "A plateia entra em histeria completa, e Eduarda cerra seus olhos para aquele maldito apresentador. A rivalidade das duas era um dos assuntos mais falados no mundo do tênis desde o ano anterior, e claro que ele tinha colocado elas em uma situação em que seria quase impossível recusar, falando no microfone para todo mundo ouvir. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Espertinho"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", Eduarda pensa."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0218",
+      "type": "paragraph",
+      "text": "Eduarda se levanta, respirando fundo."
+    },
+    {
+      "id": "cap-09-0219",
+      "type": "paragraph",
+      "text": "– Você quer que eu jogue contra a Ferette? - Ela pergunta, ainda sem acreditar que tinha acabado ali."
+    },
+    {
+      "id": "cap-09-0220",
+      "type": "paragraph",
+      "text": "Lorena dá alguns passos em sua direção, e abaixa o microfone que ela ainda estava usando, para que todo o estádio ouça suas próximas palavras.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena dá alguns passos em sua direção, e "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "abaixa o microfone"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que ela ainda estava usando, para que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "todo o estádio ouça suas próximas palavras"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0221",
+      "type": "paragraph",
+      "text": "– Por que não, Fragoso? - Ela pergunta, abrindo um meio sorriso. - Tá com medo?"
+    },
+    {
+      "id": "cap-09-0222",
+      "type": "paragraph",
+      "text": "A plateia vai à loucura com a provocação, e Eduarda abre sua boca, sem acreditar que ela realmente falou aquilo. Ela balança a cabeça, soltando um riso seco."
+    },
+    {
+      "id": "cap-09-0223",
+      "type": "paragraph",
+      "text": "Então Eduarda vai até onde um dos microfones estava abandonado em um banco, e coloca ele em sua cabeça, também abaixando para todo mundo ouvir."
+    },
+    {
+      "id": "cap-09-0224",
+      "type": "paragraph",
+      "text": "– Jamais, Ferette. - Ela responde, já pegando sua raquete. - Vamos."
+    },
+    {
+      "id": "cap-09-0225",
+      "type": "paragraph",
+      "text": "– Ótimo, ótimo. - O apresentador sorri. - Agora, só precisamos achar com quem-"
+    },
+    {
+      "id": "cap-09-0226",
+      "type": "paragraph",
+      "text": "– Eu jogo com a Duda. - Chiara se oferece, levantando do banco e também pegando sua raquete."
+    },
+    {
+      "id": "cap-09-0227",
+      "type": "paragraph",
+      "text": "– Perfeito. - Eduarda fala, sorrindo, olhando pra Lorena."
+    },
+    {
+      "id": "cap-09-0228",
+      "type": "paragraph",
+      "text": "Ela jura por tudo que quase consegue ver faíscas saindo dos olhos verdes, e então Lorena respira fundo."
+    },
+    {
+      "id": "cap-09-0229",
+      "type": "paragraph",
+      "text": "– Celina. - Ela chama. - Joga comigo?"
+    },
+    {
+      "id": "cap-09-0230",
+      "type": "paragraph",
+      "text": "Celina olha pra ela, parecendo interessada na proposição."
+    },
+    {
+      "id": "cap-09-0231",
+      "type": "paragraph",
+      "text": "– Vamos. - Ela concorda, já indo de volta para a quadra."
+    },
+    {
+      "id": "cap-09-0232",
+      "type": "paragraph",
+      "text": "A plateia se manifesta mais uma vez, e o apresentador sorri de orelha a orelha com o set de exibição que ele tinha acabado de conseguir arrumar ali mesmo."
+    },
+    {
+      "id": "cap-09-0233",
+      "type": "paragraph",
+      "text": "Elas se preparam, eles falam as regras, elas são apresentadas mais uma vez pra plateia, e pouco tempo depois estão se colocando em seus lugares."
+    },
+    {
+      "id": "cap-09-0234",
+      "type": "paragraph",
+      "text": "Era o mesmo de jogar um set normal, com trocas de lado, pausas pra descanso, mesma pontuação. Claro que ninguém usava todas as suas cartadas nesse tipo de partida, era apenas uma brincadeira, e jogar de dupla era bem diferente do que o jogo de simples. No entanto, Eduarda tinha a leve sensação de que Lorena não planejava pegar leve com ela, e ela estava pronta pra fazer o mesmo."
+    },
+    {
+      "id": "cap-09-0235",
+      "type": "paragraph",
+      "text": "Logo o árbitro anuncia o início do jogo, e Eduarda começa sacando. Ela tenta se concentrar, não querendo dar abertura logo de cara. Suas adversárias começam devolvendo bem, e os primeiros pontos já tem mais trocas de bola do que ela esperava. O game é levemente apertado, mas Eduarda consegue encaixar alguns bons saques para confirmar."
+    },
+    {
+      "id": "cap-09-0236",
+      "type": "paragraph",
+      "text": "Ela bate na mão de Chiara, e elas já fazem a troca do lado da quadra. Celina saca a seguir, e logo o jogo vai ganhando ritmo. Aos poucos, Eduarda e Chiara vão entrando mais em sincronia - elas já se conheciam, o que ajudava. No entanto, com o passar dos primeiros games, Eduarda começa a reparar em algo que chama sua atenção: Lorena e Celina também estão em sincronia. Na verdade, mais ainda do que elas; elas trocam de lado da quadra como se fosse natural, combinam jogadas, cobrem uma a outra… De onde isso surgiu?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Ela bate na mão de Chiara, e elas já fazem a troca do lado da quadra. Celina saca a seguir, e logo o jogo vai ganhando ritmo. Aos poucos, Eduarda e Chiara vão entrando mais em sincronia - elas já se conheciam, o que ajudava. No entanto, com o passar dos primeiros games, Eduarda começa a reparar em algo que chama sua atenção: Lorena e Celina "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "também estão em"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sincronia"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Na verdade, mais ainda do que elas; elas trocam de lado da quadra como se fosse natural, combinam jogadas, cobrem uma a outra… "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "De"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "onde isso surgiu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0237",
+      "type": "paragraph",
+      "text": "Tudo bem que elas já estavam jogando antes, então deviam estar mais aquecidas, mas… Lorena parece quase à vontade com Celina. Elas conversam entre os pontos, batem na mão uma da outra, Lorena até chega a rir. Celina faz brincadeiras com o público, e Lorena entra na onda, e Eduarda entra em curto circuito, se perguntando se ela entrou em um buraco de minhoca e acidentalmente foi parar em um universo paralelo. Lorena não se misturava com as outras jogadoras, ela não conversava no vestiário, ela não se abria com ninguém… O que estava acontecendo?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Tudo bem que elas já estavam jogando antes, então deviam estar mais aquecidas, mas… Lorena parece quase "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "à vontade"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " com Celina. Elas conversam entre os pontos, batem na mão uma da outra, Lorena até "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "chega a"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "rir"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Celina faz brincadeiras com o público, e Lorena entra na onda, e Eduarda entra em curto circuito, se perguntando se ela entrou em um buraco de minhoca e acidentalmente foi parar em um universo paralelo. Lorena não se misturava com as outras jogadoras, ela não conversava no vestiário, ela não se abria com ninguém… "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "O que estava acontecendo?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0238",
+      "type": "paragraph",
+      "text": "Aquilo deixa Eduarda ainda mais irritada, e ela começa a levar o jogo mais sério do que ela estava no início. Quando o set está 2x2, ela saca de novo, e irritantemente seus primeiros saques seguem indo na rede. Ela joga a maioria dos pontos com o segundo, o que não ajuda, e elas precisam se esforçar para fazer os pontos. Celina sobe pra rede na maioria das jogadas, e Eduarda tem que admitir que a desgraçada sabia volear."
+    },
+    {
+      "id": "cap-09-0239",
+      "type": "paragraph",
+      "text": "O game chega no 30x30, e Eduarda encaixa um primeiro saque, finalmente, mas Lorena devolve com velocidade, colocando em quadra. Elas jogam a bola pra lá e pra cá, até que Celina voleia uma bola de Eduarda que cai na quadra de Chiara. Sua parceira corre pra bola, que não estava tão difícil assim, mas quando ela bate com sua raquete, a bola vai pra fora. 30x40, e agora elas tinham o break point."
+    },
+    {
+      "id": "cap-09-0240",
+      "type": "paragraph",
+      "text": "Eduarda suspira, e quando ela vai pegar novas bolas, Chiara vai até ela, e elas levantam o microfone, para conversarem sem a plateia ouvir."
+    },
+    {
+      "id": "cap-09-0241",
+      "type": "paragraph",
+      "text": "– Chiara, se concentra. - Eduarda fala. - A gente não pode sair do jogo."
+    },
+    {
+      "id": "cap-09-0242",
+      "type": "paragraph",
+      "text": "Chiara apenas inclina a cabeça pra ela, levantando as sobrancelhas."
+    },
+    {
+      "id": "cap-09-0243",
+      "type": "paragraph",
+      "text": "– Duda, você sabe que isso é uma exibição, né? - Ela responde. - Relaxa, não é tão sério assim."
+    },
+    {
+      "id": "cap-09-0244",
+      "type": "paragraph",
+      "text": "– Só porque é uma exibição, não significa que eu quero perder. - Eduarda respira fundo, escolhendo suas bolas, e então se vira pra Chiara. - Desculpa, eu não queria ser grossa. É só que… - Ela olha pro outro lado da quadra, na direção de Lorena."
+    },
+    {
+      "id": "cap-09-0245",
+      "type": "paragraph",
+      "text": "– Eu sei. - Chiara fala, seguindo seu olhar. - É pessoal pra você, eu sei. Mas curtir um pouco não vai te matar."
+    },
+    {
+      "id": "cap-09-0246",
+      "type": "paragraph",
+      "text": "Eduarda acha que apenas curtir o momento e perder pra Lorena e Celina talvez mataria ela sim, mas ela não fala isso em voz alta. Ela apenas se posiciona, se preparando para sacar mais uma vez."
+    },
+    {
+      "id": "cap-09-0247",
+      "type": "paragraph",
+      "text": "Ela saca aberto, e é até um bom saque, mas… Celina dá um winner de devolução.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Ela saca aberto, e é até um bom saque, mas… "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Celina dá um winner de"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "devolução."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0248",
+      "type": "paragraph",
+      "text": "Game Lorena e Celina, e agora estava 3x2, com elas sacando a seguir. Ótimo, realmente ótimo.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Game Lorena e Celina, e agora estava 3x2, com elas sacando a seguir. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ótimo, realmente ótimo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0249",
+      "type": "paragraph",
+      "text": "Elas vão até o banco, para a pausa de um minuto, e Eduarda pega sua garrafinha, se virando pra Paulinho, que estava ali observando a partida."
+    },
+    {
+      "id": "cap-09-0250",
+      "type": "paragraph",
+      "text": "– Paulinho, me fala. - Ela pede. - O que eu preciso fazer de diferente?"
+    },
+    {
+      "id": "cap-09-0251",
+      "type": "paragraph",
+      "text": "Paulinho franze o cenho pra ela."
+    },
+    {
+      "id": "cap-09-0252",
+      "type": "paragraph",
+      "text": "– Juquinha, é uma exibição. - Ele diz. - Talvez o que você precise fazer de diferente é relaxar. Você tá muito pilhada.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Juquinha, é uma exibição. - Ele diz. - Talvez o que você precise fazer de diferente é "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "relaxar"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Você tá muito pilhada."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0253",
+      "type": "paragraph",
+      "text": "Se mais uma unidade de pessoa mandasse ela relaxar, Eduarda ia gritar no microfone e tacar uma bolinha na cara de alguém."
+    },
+    {
+      "id": "cap-09-0254",
+      "type": "paragraph",
+      "text": "– Mas, se você quer mesmo saber… - Paulinho se aproxima, falando mais baixo. - Você tá insistindo em sacar aberto na Celina, sendo que ela já tá esperando o saque por ali. Saca no corpo, ela vai ter mais dificuldade de devolver. Quando a Lorena sobe pra rede, ela tá cobrindo mais a cruzada, porque a maioria das bolas tão vindo por ali. Se vocês tiverem a chance, mandem na paralela dela. - Ele fala, e Chiara também se vira pra ele, prestando atenção. - Elas tão mais cansadas que vocês, porque jogaram logo antes… Tenta fazer elas correrem, joga mais bolas curtas, lobs… Você sabe que é ótima nisso, vai dar certo."
+    },
+    {
+      "id": "cap-09-0255",
+      "type": "paragraph",
+      "text": "– É pra isso que eu te pago. - Eduarda fala, batendo uma mão no ombro dele. - Obrigada.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– É "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pra isso"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que eu te pago. - Eduarda fala, batendo uma mão no ombro dele. - Obrigada."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0256",
+      "type": "paragraph",
+      "text": "O tempo acaba, e elas voltam pra quadra para o início do próximo game. Celina está sacando agora, e Eduarda tenta se concentrar, determinada a quebrar o saque delas de volta."
+    },
+    {
+      "id": "cap-09-0257",
+      "type": "paragraph",
+      "text": "Celina saca bem os primeiros pontos, e logo está 30x0. Eduarda respira fundo, já ficando irritada novamente. No próximo ponto, ela consegue encaixar uma boa devolução, e Celina manda a bola novamente em sua direção, elas fazendo trocas de bolas na cruzada. Chiara estava na rede, e ela entra em uma das bolas que Celina manda, voleando, obrigando Celina a correr pra frente para devolver. Ela chega na bola, ficando ao lado de Lorena, que também estava na rede. Sua bola vai na direção de Eduarda, e ela resolve usar o conselho de Paulinho, agora que as duas estavam na rede. Eduarda manda um lob por cima da cabeça de Lorena, que corre pra trás, tentando chegar a tempo."
+    },
+    {
+      "id": "cap-09-0258",
+      "type": "paragraph",
+      "text": "O lob de Eduarda é bom, mas Lorena corre o máximo que pode e consegue devolver, enviando uma bola na paralela na direção de Eduarda novamente. Ela rebate, também para Lorena, que devolve com uma pancada de backhand no corredor. Eduarda se esforça para devolver a bola, mas ela não pega como gostaria e a bola chega sem muita força na quadra de Lorena."
+    },
+    {
+      "id": "cap-09-0259",
+      "type": "paragraph",
+      "text": "Lorena vai pra frente, se preparando para bater o aproach. Chiara levanta sua raquete na rede, e Eduarda tenta ler para onde Lorena vai mandar aquela bola, esperando talvez uma pancada no corredor novamente, abrindo a quadra. No entanto, o que Lorena faz é totalmente diferente, porque ela apenas ajusta a posição da raquete de última hora, e manda uma pancada em cima de Chiara.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena vai pra frente, se preparando para bater o aproach. Chiara levanta sua raquete na rede, e Eduarda tenta ler para onde Lorena vai mandar aquela bola, esperando talvez uma pancada no corredor novamente, abrindo a quadra. No entanto, o que Lorena faz é totalmente diferente, porque ela apenas ajusta a posição da raquete de última hora, e "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "manda uma pancada"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "em cima de Chiara."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0260",
+      "type": "paragraph",
+      "text": "A bola voa na direção dela, e Chiara levanta a raquete a tempo de não ser atingida, mas a bola explode pra fora. A plateia grita um ‘uhhhh’ em unisolo, e Lorena levanta sua mão, olhando pra Chiara.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "A bola voa na direção dela, e Chiara levanta a raquete a tempo de não ser atingida, mas a bola explode pra fora. A plateia grita um "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "‘uhhhh’"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " em unisolo, e Lorena levanta sua mão, olhando pra Chiara."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0261",
+      "type": "paragraph",
+      "text": "– Desculpa. - Ela fala, e então se vira e olha diretamente nos olhos de Eduarda. - Não foi a intenção. - Ela fala com um olhar que dizia que definitivamente foi sim a intenção.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Desculpa. - Ela fala, e então se vira e "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "olha diretamente nos olhos de"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eduarda"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". - Não foi a intenção. - Ela fala com um olhar que dizia que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "definitivamente foi sim a intenção."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0262",
+      "type": "paragraph",
+      "text": "Eduarda abre a boca de leve, pensando que puta que pariu, aquela garota era maluca. E Eduarda provavelmente era mais maluca ainda, porque ela solta uma risadinha, abrindo o início de um sorriso. De alguma forma, aquela afronta tinha deixado ela com vontade de puxar Lorena pela mão pra fora da quadra e continuar o que elas tinham feito naquele closet de limpeza.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Eduarda abre a boca de leve, pensando que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "puta que pariu, aquela garota"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "era maluca"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". E Eduarda provavelmente era mais maluca ainda, porque ela solta uma risadinha, abrindo o início de um sorriso. De alguma forma, aquela afronta tinha deixado ela com vontade de puxar Lorena pela mão pra fora da quadra e continuar o que elas tinham feito naquele closet de limpeza."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0263",
+      "type": "paragraph",
+      "text": "Em vez disso, ela limpa a garganta, voltando pro fundo da quadra. Chiara se aproxima dela, seus olhos fulminando de ódio, e levanta seu microfone, abaixando a voz para falar com Eduarda."
+    },
+    {
+      "id": "cap-09-0264",
+      "type": "paragraph",
+      "text": "– Tudo bem, você tem razão. - Ela fala. - Vamos acabar com elas."
+    },
+    {
+      "id": "cap-09-0265",
+      "type": "paragraph",
+      "text": "Eduarda sorri, e aponta um dedo pra sua parceira."
+    },
+    {
+      "id": "cap-09-0266",
+      "type": "paragraph",
+      "text": "– Esse é o espírito."
+    },
+    {
+      "id": "cap-09-0267",
+      "type": "paragraph",
+      "text": "O game já estava 40x0 para Celina e Lorena, mas Eduarda se concentra, não querendo desistir tão fácil assim. Chiara parece também entrar em um novo estado de foco, e elas fazem três pontos seguidos para empatar o game em 40x40. A vantagem na igualdade vai e volta algumas vezes, até que Eduarda e Chiara conseguem fazer dois pontos seguidos - abusando da paralela de Lorena, como Paulinho tinha sugerido - e elas devolvem a quebra."
+    },
+    {
+      "id": "cap-09-0268",
+      "type": "paragraph",
+      "text": "O set oficialmente tinha chegado a metade, e estava 3x3. Lorena olha pra ela do outro lado da quadra, levantando uma sobrancelha. Seu olhar ganha um novo foco, uma determinação, algo que diz game on.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "O set oficialmente tinha chegado a metade, e estava 3x3. Lorena olha pra ela do outro lado da quadra, levantando uma sobrancelha. Seu olhar ganha um novo foco, uma determinação, algo que diz "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "game on"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0269",
+      "type": "paragraph",
+      "text": "O jogo ganha um tom diferente a partir dali, a tensão aumentando, as brincadeiras diminuindo, os pontos ficando mais longos, ninguém realmente querendo abrir mão de vencer. Nenhuma delas consegue outra quebra até que o set chegue no 5x5."
+    },
+    {
+      "id": "cap-09-0270",
+      "type": "paragraph",
+      "text": "Chiara saca agora, e Eduarda encoraja ela, sabendo que era importante confirmar. No entanto, talvez ela nem precisava, porque Chiara encaixa primeiros saques quase perfeitos, não dando nem chance pras adversárias -ela realmente parecia ter levado aquela bola a sério."
+    },
+    {
+      "id": "cap-09-0271",
+      "type": "paragraph",
+      "text": "Então elas trocam de lado da quadra, fazendo mais uma pausa antes de Lorena sacar no 6x5. Elas conversam com Paulinho, que dá mais algumas dicas, e Eduarda olha pro outro banco, onde Lorena estava conversando com Celina."
+    },
+    {
+      "id": "cap-09-0272",
+      "type": "paragraph",
+      "text": "Lorena parece sentir o olhar, se virando na direção de Eduarda. Seus olhos se encontram, e Lorena molha seus lábios, e então morde seu lábio inferior, fazendo Eduarda engolir em seco, o movimento trazendo memórias recentes de volta à sua mente."
+    },
+    {
+      "id": "cap-09-0273",
+      "type": "paragraph",
+      "text": "Ela desvia o olhar, limpando sua garganta e respirando fundo. Você precisa se concentrar, Eduarda. Não é hora de pensar nisso agora.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Ela desvia o olhar, limpando sua garganta e respirando fundo. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Você precisa"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "se concentrar, Eduarda. Não é hora de pensar nisso agora."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0274",
+      "type": "paragraph",
+      "text": "Elas voltam para suas posições, Lorena se preparando pra sacar. O game é intenso desde o início, os dois lados jogando bem, e logo chega no 30x30. Aquele era um ponto importante, se ela e Chiara conseguissem ganhar, elas teriam um set point - que nesse caso, também era um match point."
+    },
+    {
+      "id": "cap-09-0275",
+      "type": "paragraph",
+      "text": "Eduarda entra em posição, se preparando pra receber o saque. Lorena saca aberto, mas ela já está preparada, e devolve a bola na cruzada, na direção de Lorena. Elas começam uma troca de bola na cruzada, mandando cada vez mais forte, tentando angular a bola ainda mais. Chiara e Celina viram meras espectadoras no ponto, tanto Lorena quanto Eduarda se recusando a mudar a direção, a fazer algo diferente - elas queriam ganhar o ponto contra a outra."
+    },
+    {
+      "id": "cap-09-0276",
+      "type": "paragraph",
+      "text": "Eduarda se mantém na troca, mas ela sabe que pancadaria no fundo de quadra com um piso rápido não era o ideal pra ela contra Lorena, que tinha uma certa vantagem naquele tipo de jogo. Talvez variar seria sua melhor chance de ganhar o ponto, mas Eduarda não quer dar o braço a torcer… Então, uma ideia passa por sua cabeça: se ela tinha ficado afetada com os eventos daquela tarde no closet, então talvez, só talvez…",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Eduarda se mantém na troca, mas ela sabe que pancadaria no fundo de quadra com um piso rápido não era o ideal pra ela contra Lorena, que tinha uma certa vantagem naquele tipo de jogo. Talvez variar seria sua melhor chance de ganhar o ponto, mas Eduarda não quer dar o braço a torcer… Então, uma ideia passa por sua cabeça: se ela tinha ficado afetada com os eventos daquela tarde no closet, então talvez, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "só talvez…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0277",
+      "type": "paragraph",
+      "text": "Eduarda não era o tipo de jogadora que costumava fazer muito barulho quando jogava; os famosos grunts, que alguns jogadores faziam quando batiam na bola. No entanto, naquele momento, Eduarda se prepara, esperando a bola de Lorena voltar em sua direção. Ela faz o movimento com a raquete, e assim que ela atinge o ponto de contato com a bola, Eduarda deixa um som sair do fundo de sua garganta - um som propositalmente um tanto parecido com os sons que ela estava emitindo na boca de Lorena horas atrás.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Eduarda não era o tipo de jogadora que costumava fazer muito barulho quando jogava; os famosos "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "grunts"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", que alguns jogadores faziam quando batiam na bola. No entanto, naquele momento, Eduarda se prepara, esperando a bola de Lorena voltar em sua direção. Ela faz o movimento com a raquete, e assim que ela atinge o ponto de contato com a bola, Eduarda deixa um som sair do fundo de sua garganta - um som "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "propositalmente um tanto parecido com os sons que ela estava emitindo na"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "boca de Lorena horas atrás."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0278",
+      "type": "paragraph",
+      "text": "O microfone reverbera o som pela quadra, e Eduarda olha pro outro lado, vendo sua bola ir na direção de Lorena, que parece se desconcertar por um momento. Lorena perde o foco por apenas um milésimo de segundo, mas é suficiente para ela perder o timing da bola, que fica na rede."
+    },
+    {
+      "id": "cap-09-0279",
+      "type": "paragraph",
+      "text": "Ponto pra ela e Chiara, e agora estava 30x40, e elas tinham o set point."
+    },
+    {
+      "id": "cap-09-0280",
+      "type": "paragraph",
+      "text": "Eduarda sorri, e Lorena olha completamente indignada pra ela, ficando mais vermelha do que ela estava segundos atrás. Objetivo cumprido.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Eduarda sorri, e Lorena olha completamente indignada pra ela, ficando mais vermelha do que ela estava segundos atrás. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Objetivo cumprido."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0281",
+      "type": "paragraph",
+      "text": "Ela bate na mão de Chiara, todo o resto do estádio completamente alheio ao que tinha acabado de acontecer. Eduarda então toma seu lugar na rede, se preparando para o próximo ponto."
+    },
+    {
+      "id": "cap-09-0282",
+      "type": "paragraph",
+      "text": "Lorena erra o primeiro saque, parecendo ainda levemente afetada, e Chiara devolve seu segundo saque sem muita dificuldade. Lorena manda a bola de volta na direção delas, e Eduarda entra na frente, angulando sua raquete para executar um voleio perfeito, a bola indo completamente fora do alcance de suas adversárias."
+    },
+    {
+      "id": "cap-09-0283",
+      "type": "paragraph",
+      "text": "Game. Set. Match. Eduarda e Chiara.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Game. Set. Match. Eduarda e Chiara."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0284",
+      "type": "paragraph",
+      "text": "Eduarda ergue seu punho no ar, comemorando. A plateia grita, e Chiara vai até ela, e elas se abraçam. Então Eduarda vai até a rede cumprimentar suas adversárias, um sorriso um tanto convencido em seu rosto. Ela e Lorena não falam nada, mas Eduarda consegue sentir os olhos verdes a perfurando quando suas mãos se encontram."
+    },
+    {
+      "id": "cap-09-0285",
+      "type": "paragraph",
+      "text": "O apresentador volta a falar no microfone, falando sobre como aquilo foi emocionante, agradecendo elas e animando a torcida. Teria mais um set de exibição a seguir com outras pessoas, mas Eduarda segue direto para o vestiário."
+    },
+    {
+      "id": "cap-09-0286",
+      "type": "paragraph",
+      "text": "O vestiário estava movimentado, diversas pessoas entrando e saindo em meio aos eventos do dia, e Eduarda encontra Lorena ali, mexendo em sua bolsa em um dos bancos. Ela vai até ela, colocando sua bolsa do lado, olhando ao redor para ter certeza que ninguém está prestando atenção, e então ela se inclina na direção de Lorena."
+    },
+    {
+      "id": "cap-09-0287",
+      "type": "paragraph",
+      "text": "– Bom jogo, Ferette. - Eduarda fala, um sorriso convencido ainda em seu rosto. - Espero que você não tenha ficado chateada demais com o resultado. - Seu tom é debochado, e Lorena olha de volta pra ela, abrindo um sorriso pouco amigável."
+    },
+    {
+      "id": "cap-09-0288",
+      "type": "paragraph",
+      "text": "– Jamais, Fragoso. - Ela responde. - Eu pretendo vencer quando realmente importa, você pode comemorar sua exibição à vontade."
+    },
+    {
+      "id": "cap-09-0289",
+      "type": "paragraph",
+      "text": "– Ah, eu vou, pode deixar. - Ela fala. - Já disse que é sempre mais divertido ganhar contra você."
+    },
+    {
+      "id": "cap-09-0290",
+      "type": "paragraph",
+      "text": "– Já falei pra você não se acostumar. - Lorena se inclina de leve na sua direção. - Em breve eu vou te colocar no seu devido lugar, Fragoso."
+    },
+    {
+      "id": "cap-09-0291",
+      "type": "paragraph",
+      "text": "– Ah, é? - Eduarda levanta uma sobrancelha, seu olhar indo dos olhos para a boca de Lorena. - Em que sentido?"
+    },
+    {
+      "id": "cap-09-0292",
+      "type": "paragraph",
+      "text": "Lorena molha seus lábios, olhando em volta, como se para ter certeza de que ninguém estava observando. Então, ela se inclina, falando no ouvido de Eduarda."
+    },
+    {
+      "id": "cap-09-0293",
+      "type": "paragraph",
+      "text": "– Isso você vai ter que descobrir. - Ela sussurra, e pega sua bolsa do banco, passando por Eduarda e saindo dali."
+    },
+    {
+      "id": "cap-09-0294",
+      "type": "paragraph",
+      "text": "Eduarda solta o ar pelo nariz, fechando seus olhos. Ela respira fundo, tentando controlar as batidas de seu coração, e a eletricidade que sobe pelo seu corpo. Ela não sabia ao certo onde ela estava se enfiando, mas Eduarda tinha a sensação de que elas estavam começando a jogar um jogo um tanto perigoso; e embora ela soubesse que deveria, Eduarda não tinha a menor intenção de parar."
+    }
+  ],
+  "notes": {
+    "before": [
+      {
+        "id": "cap-09-0001",
+        "type": "paragraph",
+        "text": "Oláaaa, espero que gostem desse, me diverti até demais fazendo hehe"
+      }
+    ],
+    "after": [
+      {
+        "id": "cap-09-0295",
+        "type": "paragraph",
+        "text": "Domingo eu volto com mais! bjssss"
+      }
+    ]
+  }
+}

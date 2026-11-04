@@ -1,6 +1,6 @@
 // Modelo universal de fanfic. "mode" controla a experiência de leitura.
 export type WorkStatus = 'ongoing' | 'completed' | 'unknown';
-export type CoverTone = 'wine' | 'ink' | 'sage' | 'copper';
+export type CoverTone = 'wine' | 'ink' | 'sage' | 'copper' | 'plum' | 'sunrise' | 'court';
 
 export type InlineSegment =
   | { type: 'text'; text: string }
@@ -96,6 +96,7 @@ export interface Chapter {
 export interface Author {
   displayName: string | null;
   ao3Name: string | null;
+  originalName?: string;
   authorLink?: string | undefined;
 }
 
@@ -119,13 +120,13 @@ export interface Fanfic {
   synopsis: string;
   status: WorkStatus;
   language: string;
-  fandom: string;
-  category: string;
+  fandom: string | null;
+  category: string | null;
   classification: { rating: string; archiveWarning: string | null } | null;
   tags: string[];
   contentAdvisories: string[];
   stats: Stats;
-  cover: { variant: 'typographic'; tone: CoverTone; ornament: 'feather' | 'fingerprint' | 'clover' | 'paintbrush' | 'contract'; caption: string };
+  cover: { variant: 'typographic'; tone: CoverTone; ornament: 'feather' | 'fingerprint' | 'clover' | 'paintbrush' | 'contract' | 'bible' | 'sun' | 'tennis-ball'; caption: string; titleCase?: 'lowercase' };
   reading: { mode: 'internal' | 'external'; externalUrl: string | null };
   // Internas enviadas pelas autoras: habilitado por padrão; false desativa explicitamente.
   downloads?: { enabled: boolean };

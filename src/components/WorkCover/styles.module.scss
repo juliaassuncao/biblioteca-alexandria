@@ -1,5 +1,9 @@
 @use '../../styles/tokens' as t;
 .copper { background:radial-gradient(circle at 75% 20%,#a77b62,transparent 44%),linear-gradient(145deg,#79533e,#382a27 90%); color:#fff0d6; }
+.plum { background:radial-gradient(circle at 75% 20%,#96778c,transparent 44%),linear-gradient(145deg,#65405d,#2d2033 90%); color:#f7e8d7; }
+.sunrise { background:radial-gradient(circle at 75% 20%,#fff5cf,transparent 44%),linear-gradient(145deg,#f1d49b,#cf9975 90%); color:#6a452d; }
+.court { background:radial-gradient(circle at 75% 20%,#497568,transparent 44%),linear-gradient(145deg,#214c43,#102d2a 90%); color:#f2f2db; }
+.court .ornament svg { color:#d8ee69; }
 .cover { container-type:inline-size; position:relative; aspect-ratio:3/4; width:100%; display:flex; flex-direction:column; align-items:center; overflow:hidden; padding:0; text-align:center; isolation:isolate; border-radius:4px 9px 9px 4px; box-shadow:inset 5px 0 9px #0002, 3px 6px 12px #0002; }
 .cover::before { content:''; position:absolute; inset:6%; border:1px solid currentColor; opacity:.27; z-index:-1; }
 .cover::after { content:''; position:absolute; height:180%; width:56%; transform:rotate(28deg); background:linear-gradient(to right,transparent,#ffffff14,transparent); z-index:-1; pointer-events:none; }

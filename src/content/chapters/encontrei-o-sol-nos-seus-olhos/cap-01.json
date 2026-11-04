@@ -1,0 +1,780 @@
+{
+  "id": "cap-01",
+  "blocks": [
+    {
+      "id": "cap-01-0001",
+      "type": "paragraph",
+      "text": "Lorena",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0002",
+      "type": "paragraph",
+      "text": "Lorena acordou com a luz do sol batendo em seu rosto pela manhã. Ela aperta os olhos, virando para colocar a cabeça no travesseiro. Maldita hora em que ela esqueceu de fechar as cortinas no dia anterior. Ela se dá mais alguns minutos até abrir os olhos de vez, pegando seu celular da mesa de cabeceira. São 9:20 da manhã, e ela agradece pelo tempo a mais de sono que ela pode se dar ao luxo de ter aos domingos. No dia seguinte, ela teria que acordar cedo de novo para ir à faculdade."
+    },
+    {
+      "id": "cap-01-0003",
+      "type": "paragraph",
+      "text": "No entanto, seu bom humor não dura muito tempo, pois a segunda coisa que ela repara na tela do seu celular é a data: dia 14 de outubro. Outro dia catorze, o que significa que fazem três meses desde o fatídico dia em que ela foi expulsa de casa e veio morar com sua melhor amiga, Maggye."
+    },
+    {
+      "id": "cap-01-0004",
+      "type": "paragraph",
+      "text": "As memórias daquele dia aparecem na sua mente antes que ela consiga evitar. Seu pai confrontando ela, depois de ter ouvido ela falando no telefone com a menina que estava ficando na época. Ela o confrontando de volta, se recusando a mentir e continuar escondendo essa parte dela. A gritaria, sua mãe tentando intervir, seu irmão confuso, tentando argumentar com seu pai."
+    },
+    {
+      "id": "cap-01-0005",
+      "type": "paragraph",
+      "text": "Horas depois, ou minutos, até hoje ela não sabe ao certo, o silêncio invadindo o ambiente, como a calmaria antes da tempestade, segundos de paz antes que seu pai virasse para ela e com a voz mais calma do mundo a mandasse sair da casa dele."
+    },
+    {
+      "id": "cap-01-0006",
+      "type": "paragraph",
+      "text": "Sua mãe havia chorado, implorado para ele, mas não adiantou. Ele disse que ela tinha uma escolha, podia escolher terminar com a menina, prometer nunca mais se envolver com nenhuma mulher, e continuar sob seu teto. Não foi muito difícil pra Lorena escolher a outra opção, arrumando suas malas, ligando desesperada pra Maggye, e aparecendo na porta da amiga no meio da noite, sem saber mais o que fazer."
+    },
+    {
+      "id": "cap-01-0007",
+      "type": "paragraph",
+      "text": "Três meses tinham se passado, mas ainda doía como se fosse hoje. Ela achava que sempre iria doer assim, não imaginava um mundo em que esse pesar que mora sobre ela fosse embora. Até porque, esse sentimento não começou no fatídico dia catorze, mas ela teve ele sua vida toda, pois sempre soube que existia uma parte dela que nunca seria aceita. Mesmo antes de entender que gostava de mulheres, ela nunca se sentiu totalmente acolhida, como se sempre soubesse que nunca seria suficiente pro seu pai. Lorena supunha que a melancolia havia nascido com ela, e provavelmente acompanharia ela até a morte também."
+    },
+    {
+      "id": "cap-01-0008",
+      "type": "paragraph",
+      "text": "Uma batida na porta tira ela de seus pensamentos. Ela grita para a pessoa entrar, e Maggye aparece, um sorriso no rosto, como sempre."
+    },
+    {
+      "id": "cap-01-0009",
+      "type": "paragraph",
+      "text": "– Bom dia, dorminhoca - Ela diz, entrando no quarto de visitas. - Não vai vir tomar café?"
+    },
+    {
+      "id": "cap-01-0010",
+      "type": "paragraph",
+      "text": "– Vou sim - Lorena responde, tentando dar um sorriso."
+    },
+    {
+      "id": "cap-01-0011",
+      "type": "paragraph",
+      "text": "– Que foi, amiga? - Maggye fecha a porta e se aproxima dela, sentando na borda da cama - O dia mal começou e você já ta pra baixo."
+    },
+    {
+      "id": "cap-01-0012",
+      "type": "paragraph",
+      "text": "– Ah, é só… Sei lá, eu tava pensando."
+    },
+    {
+      "id": "cap-01-0013",
+      "type": "paragraph",
+      "text": "– Pensando sobre o que?"
+    },
+    {
+      "id": "cap-01-0014",
+      "type": "paragraph",
+      "text": "– Eu acho que tá na hora deu sair daqui, Maggye - Lorena nem sabia que era isso que ela ia falar até ela ter falado. No entanto, era verdade. Ela já havia abusado demais da boa vontade da amiga e de sua família, e Lorena sentia que precisava dar um rumo pra própria vida, sentir que está tomando controle de alguma coisa de volta. Foram três meses que ela sente que não viveu nada, apenas sentindo pena de si mesma. - Eu agradeço muito por tudo, e eu amo morar com vocês, mas eu preciso resolver minha vida. Não posso ficar aqui a vida toda, dependendo da boa vontade dos seus pais."
+    },
+    {
+      "id": "cap-01-0015",
+      "type": "paragraph",
+      "text": "– Lorena, a gente já teve essa conversa - O tom de Maggye é gentil, como sempre. - Você também é da família, pode ficar aqui o tempo que quiser. Pelo menos até você formar na faculdade."
+    },
+    {
+      "id": "cap-01-0016",
+      "type": "paragraph",
+      "text": "– Ainda falta mais de um ano pra isso, Maggye - Lorena às vezes se odeia por não ter entrado na faculdade assim que saiu do ensino médio. Ela ficou uns anos perdida, tentando entender o que ela queria fazer. Por isso, aqui está ela, com 24 anos e sem um diploma que poderia ajudar muito sua vida no momento."
+    },
+    {
+      "id": "cap-01-0017",
+      "type": "paragraph",
+      "text": "– Não importa quanto tempo falta."
+    },
+    {
+      "id": "cap-01-0018",
+      "type": "paragraph",
+      "text": "– Claro que importa, eu não quero viver de favor tanto tempo. - Lorena argumenta. - Olha, as coisas tão indo bem no estágio, e deu pra juntar um dinheiro nesses meses desde que eu comecei. Talvez não seja o suficiente pra eu morar sozinha, mas eu posso tentar achar alguém pra dividir um apartamento."
+    },
+    {
+      "id": "cap-01-0019",
+      "type": "paragraph",
+      "text": "– Lorena, você tem certeza? - Maggye pergunta, parecendo preocupada - Você sabe que não precisa sair daqui se não quiser."
+    },
+    {
+      "id": "cap-01-0020",
+      "type": "paragraph",
+      "text": "– Eu sei, mas eu preciso parar de ficar aqui chorando pitanga e preciso fazer alguma coisa -Lorena responde. - Nem que seja pra provar pro meu pai que eu consigo me virar, que eu não preciso dele. Eu acho que eu preciso provar isso pra mim mesma, também."
+    },
+    {
+      "id": "cap-01-0021",
+      "type": "paragraph",
+      "text": "– Se você tem certeza absoluta, então acho que não tem muito o que eu fazer pra você mudar de ideia."
+    },
+    {
+      "id": "cap-01-0022",
+      "type": "paragraph",
+      "text": "– Não tem, mesmo - Lorena diz, agradecida por a amiga sempre lhe apoiar. - Mas você pode me ajudar a procurar um apartamento."
+    },
+    {
+      "id": "cap-01-0023",
+      "type": "paragraph",
+      "text": "– Olha, se bem que eu posso te ajudar mesmo - Maggye abre um sorriso - Uma amiga minha postou no instagram esses dias que tava procurando alguém pra dividir o apartamento. Ela é uma fofa, a gente perdeu um pouco o contato, mas acho que vocês iam se dar bem… E eu fico mais confortável se você for morar com alguém que eu conheço."
+    },
+    {
+      "id": "cap-01-0024",
+      "type": "paragraph",
+      "text": "– Não me parece uma má ideia - Lorena já começa a ficar animada com a possibilidade de realmente começar a dar um jeito na sua vida - Por que você não me passa o contato dela, e eu pergunto se ainda tem a vaga?"
+    },
+    {
+      "id": "cap-01-0025",
+      "type": "paragraph",
+      "text": "– Perfeito! Vou mandar mensagem pra ela avisando que você vai falar com ela."
+    },
+    {
+      "id": "cap-01-0026",
+      "type": "paragraph",
+      "text": "– Muito obrigada, Maggye."
+    },
+    {
+      "id": "cap-01-0027",
+      "type": "paragraph",
+      "text": "Maggye sai do seu quarto, animada, e assim que ela fecha a porta Lorena respira fundo. Ela quer se convencer de que dá conta de tudo, mas a verdade é que ela não tem tanta certeza assim. E ela nunca morou com ninguém que não fosse da sua família, será que ia dar certo? E se a menina fosse chata, ou sem noção, ou não gostasse dela? E se desse tudo errado, e elas se odiassem? Ela supunha que não tinha muito o que fazer, a não ser torcer pra dar tudo certo."
+    },
+    {
+      "id": "cap-01-0028",
+      "type": "paragraph",
+      "text": "~~~~~~"
+    },
+    {
+      "id": "cap-01-0029",
+      "type": "paragraph",
+      "text": "Ainda naquele dia Lorena mandou mensagem pra menina, que no contato compartilhado por Maggye tinha o nome de “Juquinha”. Lorena estranhou aquele nome, que tipo de pessoa adulta se chama Juquinha? Bem, ela iria descobrir em breve, se desse tudo certo."
+    },
+    {
+      "id": "cap-01-0030",
+      "type": "paragraph",
+      "text": "Foi só a noite que ela recebeu uma resposta."
+    },
+    {
+      "id": "cap-01-0031",
+      "type": "paragraph",
+      "text": "Lorena: Oi, boa tarde! Eu sou amiga da Maggye, ela me passou seu contato.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Oi, boa tarde! Eu sou amiga da Maggye, ela me passou seu contato."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0032",
+      "type": "paragraph",
+      "text": "Lorena: Ela me disse que você está procurando alguém pra dividir apartamento, é isso mesmo?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ela me disse que você está procurando alguém pra dividir apartamento, é isso"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mesmo?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0033",
+      "type": "paragraph",
+      "text": "Lorena: Eu tenho interesse!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu tenho interesse!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0034",
+      "type": "paragraph",
+      "text": "Juquinha: Oiiii",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Oiiii"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0035",
+      "type": "paragraph",
+      "text": "Juquinha: Ela me falou de você! É isso sim, to procurando alguém pra morar comigo.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ela me falou de você! É isso sim, to procurando alguém pra morar comigo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0036",
+      "type": "paragraph",
+      "text": "Juquinha: Quer vir conhecer o ap?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Quer vir conhecer o ap?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0037",
+      "type": "paragraph",
+      "text": "Lorena: Claro, seria ótimo!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Claro, seria ótimo!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0038",
+      "type": "paragraph",
+      "text": "Juquinha: Top, me fala quando você pode que eu te passo o end.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Top, me fala quando você pode que eu te passo o end."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-01-0039",
+      "type": "paragraph",
+      "text": "Ela parecia animada, pelas mensagens. E bem direta, nem perguntou nada e mesmo assim já chamou ela pra conhecer o lugar. Entre a faculdade de design e seu estágio, Lorena era bem ocupada, mas ela conseguiu combinar de encontrar a garota na quarta-feira de tarde."
+    },
+    {
+      "id": "cap-01-0040",
+      "type": "paragraph",
+      "text": "O apartamento fica a uns 15 minutos da casa de Maggye, que pra São Paulo significa que é perto. Lorena chegou lá direto do estágio, com a mochila da faculdade ainda nas costas, cabelo preso e totalmente exausta do seu dia. Ela fala com o porteiro, que liga para o apartamento 702, que foi o que Juquinha passou, e não muito depois libera a entrada de Lorena e mostra onde é o elevador."
+    },
+    {
+      "id": "cap-01-0041",
+      "type": "paragraph",
+      "text": "Agora que ela está no elevador, prestes a encontrar sua possível nova colega de apartamento, Lorena tem que admitir que seu coração começou a palpitar. Estava ficando tudo muito real, e parte dela sentia como se ela estivesse em uma montanha russa, naquele momento logo antes da queda, sem ter como pedir pra descer."
+    },
+    {
+      "id": "cap-01-0042",
+      "type": "paragraph",
+      "text": "O elevador para no sétimo andar, e Lorena respira fundo antes de sair e entrar no corredor. O prédio como um todo era bem bom, parecia mais ou menos novo, com vários apartamentos por andar. Lorena dá uma olhada para ver pra que lado é o 702, e vira a direita, indo até o fim do corredor. Ela respira mais uma vez e levanta a mão para tocar a campainha, mas antes que ela tenha a chance, a porta se abre por dentro."
+    },
+    {
+      "id": "cap-01-0043",
+      "type": "paragraph",
+      "text": "Assim que a porta abre, a primeira coisa que invade Lorena é um mar alaranjado de cabelos ruivos, caindo no ombro da menina à sua frente. Depois, são seus olhos, castanhos como jabuticabas, grandes ao olharem para ela, como se guardassem o segredo do universo. Então, a menina sorri, e Lorena acredita nunca ter visto um sorriso tão genuíno em toda sua vida. Era o tipo de sorriso que poderia iluminar um cômodo inteiro, sem nem se esforçar. E é aí que Lorena percebe: Juquinha era absolutamente linda. Mas um tipo de beleza que vai além do clássico, como se parte viesse de dentro, do brilho dos seus olhos e da sinceridade do seu sorriso, o tipo de beleza que mexe com você."
+    },
+    {
+      "id": "cap-01-0044",
+      "type": "paragraph",
+      "text": "– Oii - É a Juquinha que quebra o silêncio. - Lorena?"
+    },
+    {
+      "id": "cap-01-0045",
+      "type": "paragraph",
+      "text": "– Oi, sim. - Lorena finalmente se mexe, sacudindo de leve a cabeça para retornar a realidade. - Juquinha?"
+    },
+    {
+      "id": "cap-01-0046",
+      "type": "paragraph",
+      "text": "– Eduarda, na verdade. - A garota explica. - Juquinha é só apelido."
+    },
+    {
+      "id": "cap-01-0047",
+      "type": "paragraph",
+      "text": "– Imaginei. - Lorena estende sua mão. - Muito prazer, Eduarda."
+    },
+    {
+      "id": "cap-01-0048",
+      "type": "paragraph",
+      "text": "Juquinha ri de leve, como se o gesto fosse engraçado, mas aperta a mão de Lorena."
+    },
+    {
+      "id": "cap-01-0049",
+      "type": "paragraph",
+      "text": "– Quer entrar?"
+    },
+    {
+      "id": "cap-01-0050",
+      "type": "paragraph",
+      "text": "Lorena aceita, passando pela porta e entrando no apartamento. Ela gosta imediatamente do lugar, está longe de ser grande igual à sua antiga casa, mas é aconchegante. Tem uma pequena sala de estar, com um sofá e uma poltrona, uma TV e uma mesinha de centro. Tem uma manta jogada no sofá, como se Juquinha estivesse deitada ali logo antes de atender a porta. Tem um livro semiaberto na mesinha de centro, e alguns outros espalhados pelo ambiente. Tem também um ambiente com uma mesa de jantar, uma estante com mais livros e alguns enfeites, alguns quadros pendurados."
+    },
+    {
+      "id": "cap-01-0051",
+      "type": "paragraph",
+      "text": "Lorena percebe imediatamente que não foi um decorador que decorou o lugar, mas sim alguém que mora ali, que foi decorando aos poucos. Nem todos os enfeites casavam um com o outro, nem todos os móveis combinavam perfeitamente, mas dava pra ver que era uma casa cheia de vida. Lorena acha que nunca sentiu isso em sua própria casa."
+    },
+    {
+      "id": "cap-01-0052",
+      "type": "paragraph",
+      "text": "– Não é nenhum hotel cinco estrelas, mas dá pro gasto - Juquinha fala ao seu lado. - Desculpa se ta um pouco bagunçado."
+    },
+    {
+      "id": "cap-01-0053",
+      "type": "paragraph",
+      "text": "– Não, eu adorei. - Lorena fala com sinceridade. - De verdade."
+    },
+    {
+      "id": "cap-01-0054",
+      "type": "paragraph",
+      "text": "O sorriso de Juquinha aumenta ainda mais, se é que isso é possível."
+    },
+    {
+      "id": "cap-01-0055",
+      "type": "paragraph",
+      "text": "– Bem, esse é o ap. - Ela fala. - Tem dois quartos, o meu, e o que seria seu. Só um é suíte, mas você teria o banheiro do corredor só pra você. O quarto já tem armário, uma cama e um móvel, mas você pode tirar e trazer suas coisas se quiser. - Ela começa a andar em direção ao quarto, e Lorena vai atrás. O tamanho do quarto é bom, e Lorena fica feliz que já tem alguns móveis, já que ela não tem nada. Depois, Juquinha vai em direção a cozinha, mostrando o lugar para Lorena. - Aqui é a cozinha, e tem também uma área com máquina de lavar e um tanque. Nada muito fora do normal."
+    },
+    {
+      "id": "cap-01-0056",
+      "type": "paragraph",
+      "text": "– O apartamento é ótimo, de verdade. - Lorena diz a ela. Era mesmo, não era grande mas também não era pequeno demais, parecia novo, já tinha praticamente todos os móveis e a localização era ótima."
+    },
+    {
+      "id": "cap-01-0057",
+      "type": "paragraph",
+      "text": "– Fico feliz que gostou - Juquinha fala pra ela. - Se te interessou, por que a gente não senta pra conversar melhor?"
+    },
+    {
+      "id": "cap-01-0058",
+      "type": "paragraph",
+      "text": "– Você vai me entrevistar, é? - Lorena pergunta, sorrindo, mas segue a deixa e senta na mesa de jantar, na cadeira oposta a que Juquinha sentou."
+    },
+    {
+      "id": "cap-01-0059",
+      "type": "paragraph",
+      "text": "– Não exatamente. - Juquinha solta uma risada. - Mas se a gente vai morar junta, acho que tem umas coisas que a gente precisa saber. Não sei o que a Maggye te falou de mim, mas vai que você não gosta do que descobrir."
+    },
+    {
+      "id": "cap-01-0060",
+      "type": "paragraph",
+      "text": "– Ela não falou nada, na verdade - Lorena responde, curiosa. - Só que achou que a gente ia se dar bem. Ela disse alguma coisa de mim?"
+    },
+    {
+      "id": "cap-01-0061",
+      "type": "paragraph",
+      "text": "– A mesma coisa. - Juquinha lhe diz. - Então deixa eu te contar um pouco mais. Tenho 25 anos, sou policial, trabalho bastante então não fico muito em casa, então pode relaxar que você teria muito da casa só pra você. Não tenho muitas regras, só manter as coisas mais ou menos arrumadas, e me avisar se for trazer alguém pra cá. No geral não ligo muito, mas como às vezes trabalho no fim de semana, só tomar cuidado com barulho pra eu conseguir dormir."
+    },
+    {
+      "id": "cap-01-0062",
+      "type": "paragraph",
+      "text": "– Policial, é? - Lorena diz sem nem pensar, ela ficou presa nessa informação. - Confesso que não esperava por essa."
+    },
+    {
+      "id": "cap-01-0063",
+      "type": "paragraph",
+      "text": "– Poisé, minha carinha engana, né? Mas olha só, você vai estar super segura se alguém tentar invadir a casa."
+    },
+    {
+      "id": "cap-01-0064",
+      "type": "paragraph",
+      "text": "– Gostei. - Lorena tenta conter seu sorriso. - E posso perguntar por que você ta precisando de alguém agora? A última pessoa que morou com você se mudou?"
+    },
+    {
+      "id": "cap-01-0065",
+      "type": "paragraph",
+      "text": "– Ela cometeu um crime, e eu tive que prender ela. - Juquinha fala com toda seriedade do mundo, e Lorena arregala os olhos pra ela. Então, a menina começa a rir. - Ai, to brincando, você devia ver sua cara."
+    },
+    {
+      "id": "cap-01-0066",
+      "type": "paragraph",
+      "text": "Lorena ri também, sem acreditar que ela caiu nessa."
+    },
+    {
+      "id": "cap-01-0067",
+      "type": "paragraph",
+      "text": "– Na verdade eu me mudei tem alguns meses só. - Juquinha explica. - Meu pai foi transferido para Brasília, e eu não queria sair de São Paulo. Minha mãe foi com ele e eu decidi que tava na hora de tomar rumo na minha vida. E você, ta procurando apartamento por que?"
+    },
+    {
+      "id": "cap-01-0068",
+      "type": "paragraph",
+      "text": "A pergunta faz o sorriso morrer na boca de Lorena, sua garganta apertando, fazendo-a engolir em seco."
+    },
+    {
+      "id": "cap-01-0069",
+      "type": "paragraph",
+      "text": "– Ah, também achei que tava na hora de tomar rumo na minha vida, sabe como é. - Ela fala, sem querer contar a verdade pra essa menina que ela acabou de conhecer."
+    },
+    {
+      "id": "cap-01-0070",
+      "type": "paragraph",
+      "text": "Lorena percebe pelo olhar de Juquinha que ela não comprou muito a resposta, mas graças a Deus ela não pressionou."
+    },
+    {
+      "id": "cap-01-0071",
+      "type": "paragraph",
+      "text": "– E você faz o que da vida? - Juquinha pergunta, mudando o assunto."
+    },
+    {
+      "id": "cap-01-0072",
+      "type": "paragraph",
+      "text": "– Eu faço faculdade, de design. - Lorena conta para ela. - Ano que vem vai ser meu último ano, e eu também to fazendo um estágio agora. Então também não vou ficar muito em casa, tirando fim de semana. Mas não preocupa com eu trazer ninguém, que eu não sou muito festeira não, eu nem bebo, na verdade. Tirando isso, não sei… Sou vegana, se isso interessa pra alguma coisa."
+    },
+    {
+      "id": "cap-01-0073",
+      "type": "paragraph",
+      "text": "– Entendi… - Juquinha a observa com os olhos atentos. - E você tem quantos anos?"
+    },
+    {
+      "id": "cap-01-0074",
+      "type": "paragraph",
+      "text": "– Vinte e quatro. - Lorena fala. - Faço vinte e cinco em março."
+    },
+    {
+      "id": "cap-01-0075",
+      "type": "paragraph",
+      "text": "– Pisciana? - Juquinha levanta uma sobrancelha."
+    },
+    {
+      "id": "cap-01-0076",
+      "type": "paragraph",
+      "text": "– Sim. - Lorena confirma. - E você?"
+    },
+    {
+      "id": "cap-01-0077",
+      "type": "paragraph",
+      "text": "– Libra - Juquinha responde. - Mas eu tenho ascendente em sagitário e lua em câncer, então é uma bagunça."
+    },
+    {
+      "id": "cap-01-0078",
+      "type": "paragraph",
+      "text": "– Olha, já me passou o mapa astral inteiro."
+    },
+    {
+      "id": "cap-01-0079",
+      "type": "paragraph",
+      "text": "– Vai que é um impedimento pra você."
+    },
+    {
+      "id": "cap-01-0080",
+      "type": "paragraph",
+      "text": "– Não é não, pode ficar tranquila. - Lorena não diz que àquela altura, ela acha que nada seria um impedimento pra ela."
+    },
+    {
+      "id": "cap-01-0081",
+      "type": "paragraph",
+      "text": "Ela sorri pra Juquinha e a ruiva sorri de volta. Antes que qualquer uma possa falar outra coisa, no entanto, elas são interrompidas por um miado."
+    },
+    {
+      "id": "cap-01-0082",
+      "type": "paragraph",
+      "text": "– Ah, quase esqueci. - Juquinha levanta da cadeira, indo até a porta do corredor de onde surgiu um gatinho laranja, pegando ele no colo. - Esse é o Cadu, meu filho. Ele não é muito sociável, então não repara se ele não gostar de você. Ele gosta de ficar sozinho, o que é ótimo pra quem tem uma dona que é policial."
+    },
+    {
+      "id": "cap-01-0083",
+      "type": "paragraph",
+      "text": "Lorena solta uma risada assim que Juquinha volta pra mesa segurando o gato."
+    },
+    {
+      "id": "cap-01-0084",
+      "type": "paragraph",
+      "text": "– Que foi? - A ruiva pergunta."
+    },
+    {
+      "id": "cap-01-0085",
+      "type": "paragraph",
+      "text": "– Nada não, é que ele parece seu filho mesmo, vocês têm a mesma cor de cabelo."
+    },
+    {
+      "id": "cap-01-0086",
+      "type": "paragraph",
+      "text": "– Ele é meu filho. - Juquinha diz, fazendo carinho no gato. - Eu pari ele e tudo."
+    },
+    {
+      "id": "cap-01-0087",
+      "type": "paragraph",
+      "text": "– Ah sim, entendi. - Lorena ri. Ela acha que riu mais nos últimos vinte minutos do que nos últimos três meses inteiros."
+    },
+    {
+      "id": "cap-01-0088",
+      "type": "paragraph",
+      "text": "– Então… Se isso é tudo - Juquinha diz, deixando o gato pular da mesa, fugindo dali. - O que acha? Eu vou ser sincera, gostei de você. Acho que seria uma ótima colega de apartamento, se quiser."
+    },
+    {
+      "id": "cap-01-0089",
+      "type": "paragraph",
+      "text": "– Eu também gostei. - Lorena confessa. - Só tem uma coisa…"
+    },
+    {
+      "id": "cap-01-0090",
+      "type": "paragraph",
+      "text": "– Que é?"
+    },
+    {
+      "id": "cap-01-0091",
+      "type": "paragraph",
+      "text": "– O preço. - Lorena fala, odiando ter que se preocupar com isso. - Quanto é? Pergunto porque a localização é muito boa, o apartamento também e tudo, e eu só to com o estágio agora, então não sei se cabe no meu orçamento."
+    },
+    {
+      "id": "cap-01-0092",
+      "type": "paragraph",
+      "text": "– Qual seu orçamento? - Juquinha pergunta."
+    },
+    {
+      "id": "cap-01-0093",
+      "type": "paragraph",
+      "text": "Lorena trava por um segundo, mas ela não pode mentir pra menina. Ela diz o valor, com a sensação de que um apartamento desses em São Paulo nunca vai caber no orçamento xereta dela, mas Juquinha apenas sorri."
+    },
+    {
+      "id": "cap-01-0094",
+      "type": "paragraph",
+      "text": "– Ta ótimo. - Ela diz. - Na verdade, a sua metade seria um pouco menos que isso, pra tudo."
+    },
+    {
+      "id": "cap-01-0095",
+      "type": "paragraph",
+      "text": "– Sério? - Lorena pergunta, surpresa."
+    },
+    {
+      "id": "cap-01-0096",
+      "type": "paragraph",
+      "text": "– É… Eu conheço o dono, então ele faz um preço legal, sabe como é. - Juquinha explica. -Então… Podemos deixar combinado? Você topa se mudar?"
+    },
+    {
+      "id": "cap-01-0097",
+      "type": "paragraph",
+      "text": "– Sim! - Lorena responde animada até demais. - Se você ta de acordo, sim."
+    },
+    {
+      "id": "cap-01-0098",
+      "type": "paragraph",
+      "text": "– Perfeito, então. Não sei quanto tempo você precisa pra arrumar suas coisas, mas pode vir a hora que quiser, eu vou fazer uma cópia da chave pra você."
+    },
+    {
+      "id": "cap-01-0099",
+      "type": "paragraph",
+      "text": "Não é como se Lorena tivesse muita coisa pra arrumar."
+    },
+    {
+      "id": "cap-01-0100",
+      "type": "paragraph",
+      "text": "– Que tal esse fim de semana?"
+    },
+    {
+      "id": "cap-01-0101",
+      "type": "paragraph",
+      "text": "– Ótimo! Eu to de folga no sábado, posso te receber. - Juquinha levanta da mesa, e Lorena faz o mesmo. A ruiva então anda até o seu lado, e estende a mão. - Colegas de apartamento?"
+    },
+    {
+      "id": "cap-01-0102",
+      "type": "paragraph",
+      "text": "– Colegas de apartamento. - Lorena diz, apertando sua mão."
+    },
+    {
+      "id": "cap-01-0103",
+      "type": "paragraph",
+      "text": "Ela sente um frio na barriga, sem saber o que viria disso. No entanto, ela gostou de Juquinha, mais do que ela esperava. Talvez esse seja o problema…"
+    }
+  ],
+  "notes": {
+    "before": [],
+    "after": []
+  }
+}

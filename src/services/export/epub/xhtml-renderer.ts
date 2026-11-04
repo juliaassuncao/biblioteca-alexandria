@@ -73,7 +73,7 @@ export function renderCover(book: ExportBook) {
   return xhtml(exportTitle(book), work.language, `<section class="cover" epub:type="cover"><p>Biblioteca de Alexandria</p><h1>${xml(work.title)}</h1>${exportAuthor(book) ? `<p>${xml(exportAuthor(book)!)}</p>` : ''}<p class="credit">Edição para leitura · capa tipográfica editorial</p></section>` +
     `<section><h2>Sinopse</h2><p>${xml(work.synopsis)}</p>` +
     (work.classification ? `<h2>Classificação</h2><p>${xml(work.classification.rating)}</p><p>${xml(work.classification.archiveWarning ?? '')}</p>` : '') +
-    `<p>${xml(work.category)}</p><h2>Avisos de conteúdo</h2>${work.contentAdvisories.map(item => `<p>${xml(item)}</p>`).join('')}` +
+    `<p>${xml(work.category ?? '')}</p><h2>Avisos de conteúdo</h2>${work.contentAdvisories.map(item => `<p>${xml(item)}</p>`).join('')}` +
     (work.tags.length ? `<h2>Tags</h2><p>${xml(work.tags.join(' · '))}</p>` : '') +
     (work.links.original ? `<p><a href="${xml(work.links.original)}">Publicação original</a></p>` : '') + '</section>');
 }

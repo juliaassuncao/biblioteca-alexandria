@@ -1,0 +1,1575 @@
+{
+  "id": "cap-09",
+  "blocks": [
+    {
+      "id": "cap-09-0002",
+      "type": "paragraph",
+      "text": "Lorena",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0003",
+      "type": "paragraph",
+      "text": "Lorena passa o resto da semana na loucura de fazer provas e entregar trabalhos finais, já que o semestre está quase acabando. Ela mal pode esperar para suas aulas finalmente acabarem e ela ter alguma paz nos próximos meses, mesmo que ela continue trabalhando."
+    },
+    {
+      "id": "cap-09-0004",
+      "type": "paragraph",
+      "text": "Na quinta feira ela vai pro estágio cedo, já que a tarde ela combinou de ir pra faculdade terminar um trabalho com seu grupo. Ainda de manhã, ela recebe uma mensagem."
+    },
+    {
+      "id": "cap-09-0005",
+      "type": "paragraph",
+      "text": "Juquinha: To de plantão noturno hoje, chego em casa só amanhã.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "To de plantão noturno hoje, chego em casa só amanhã."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0006",
+      "type": "paragraph",
+      "text": "Juquinha: Só pra você saber.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Só pra você saber."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0007",
+      "type": "paragraph",
+      "text": "Lorena suspira, ficando um pouco triste. Ela odeia quando Juquinha tem plantão noturno, ela não gosta muito de ficar sozinha em casa. Fora que ela nunca dorme muito bem, porque fica preocupada que alguma coisa pode acontecer com a policial enquanto ela está trabalhando."
+    },
+    {
+      "id": "cap-09-0008",
+      "type": "paragraph",
+      "text": "Lorena: Beleza.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Beleza."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0009",
+      "type": "paragraph",
+      "text": "Lorena: Se cuida.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Se cuida."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0010",
+      "type": "paragraph",
+      "text": "Juquinha: Você também.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Você também."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0011",
+      "type": "paragraph",
+      "text": "Juquinha: Não vai inventar de dar uma festa só porque eu to fora.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Não vai inventar de dar uma festa só porque eu to fora."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0012",
+      "type": "paragraph",
+      "text": "Lorena: Tarde demais… Já chamei todo mundo.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tarde demais… Já chamei todo mundo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0013",
+      "type": "paragraph",
+      "text": "Juquinha: Todo mundo quem?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Todo mundo quem?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0014",
+      "type": "paragraph",
+      "text": "Lorena: São Paulo inteira.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "São Paulo inteira."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0015",
+      "type": "paragraph",
+      "text": "Juquinha: Nossa, coitado do nosso apartamento.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Nossa, coitado do nosso apartamento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0016",
+      "type": "paragraph",
+      "text": "Lorena: Prometo limpar tudo!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Prometo limpar tudo!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0017",
+      "type": "paragraph",
+      "text": "Lorena: Mas aqui, se São Paulo inteira for… Então todos os bandidos vão estar lá também.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Mas aqui, se São Paulo inteira for… Então todos os bandidos vão estar lá também."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0018",
+      "type": "paragraph",
+      "text": "Juquinha: HA! Então é só um plano elaborado pra eu voltar pra casa mais cedo?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "HA! Então é só um plano elaborado pra eu voltar pra casa mais cedo?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0019",
+      "type": "paragraph",
+      "text": "Lorena: Talvez…",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Talvez…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0020",
+      "type": "paragraph",
+      "text": "Juquinha: Hm… Entendi…",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Hm… Entendi…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0021",
+      "type": "paragraph",
+      "text": "Lorena olha pro seu celular, sem saber o que mais ela poderia falar. Então ela resolve sair do aparelho e voltar a prestar atenção em seu trabalho. A quantidade de tempo que ela perde com cabelos ruivos e olhos castanhos invadindo seus pensamentos está começando a ficar um pouco preocupante."
+    },
+    {
+      "id": "cap-09-0022",
+      "type": "paragraph",
+      "text": "O resto do dia passa até rápido, e no final da tarde ela finalmente termina o trabalho com alguns de seus colegas de classe. Ela está guardando suas coisas quando um deles, Gabriel, se aproxima dela."
+    },
+    {
+      "id": "cap-09-0023",
+      "type": "paragraph",
+      "text": "– Ei, você vai fazer o que agora? - Ele pergunta."
+    },
+    {
+      "id": "cap-09-0024",
+      "type": "paragraph",
+      "text": "– Devo ir pra casa mesmo, tô morta dessa semana. - Lorena diz, ela já está sonhando com o sofá e um bom livro."
+    },
+    {
+      "id": "cap-09-0025",
+      "type": "paragraph",
+      "text": "– Uma galera da turma tá indo pro bar aqui da frente, se animar. - Gabriel fala. - Comemorar que acabamos os trabalhos e amanhã não tem prova."
+    },
+    {
+      "id": "cap-09-0026",
+      "type": "paragraph",
+      "text": "Lorena até pensa por um segundo… Ela gosta de alguns de seus colegas, de verdade, ela até já saiu com eles algumas vezes e foi divertido. No entanto, ela sabe muito bem como fica o bar da faculdade quando a galera resolve ir pra lá: todo mundo bêbado, música alta, a maior bagunça. Não é exatamente sua praia, e como ela sabe que Juquinha não vai pra casa hoje, ela não quer deixar o Cadu sozinho."
+    },
+    {
+      "id": "cap-09-0027",
+      "type": "paragraph",
+      "text": "– Ai, acho que hoje eu vou passar, mas espero que vocês curtam."
+    },
+    {
+      "id": "cap-09-0028",
+      "type": "paragraph",
+      "text": "– Bem, se mudar de ideia, sabe onde achar a gente. - Ele diz antes de se virar e ir embora."
+    },
+    {
+      "id": "cap-09-0029",
+      "type": "paragraph",
+      "text": "Lorena acaba de arrumar suas coisas e começa a fazer seu caminho até a saída do campus. Quando ela vira um corredor, no entanto, ela para de repente, piscando várias vezes, como se tivesse visto um fantasma. Quem dera fosse um fantasma, mas não, é o seu pai, parado no fim do corredor conversando com alguém."
+    },
+    {
+      "id": "cap-09-0030",
+      "type": "paragraph",
+      "text": "Ela não consegue se mexer por alguns segundos, e quando seu cérebro finalmente volta a funcionar e ela pensa em sair correndo dali, é tarde demais, porque a pessoa com quem seu pai está conversando vai embora e ele olha em sua direção. Agora que ele já viu ela, Lorena é que não vai dar pra ele a satisfação de fugir, ela nunca fugiu dele em toda sua vida."
+    },
+    {
+      "id": "cap-09-0031",
+      "type": "paragraph",
+      "text": "Santiago Ferette também não é o tipo de homem que foge de conflito, então ele apenas a observa enquanto ela anda na sua direção, seu olhar indecifrável."
+    },
+    {
+      "id": "cap-09-0032",
+      "type": "paragraph",
+      "text": "– Lorena. - Ele diz, quando ela chega mais perto. - Você por aqui."
+    },
+    {
+      "id": "cap-09-0033",
+      "type": "paragraph",
+      "text": "– Santiago. - Ela responde, se recusando a chamar ele de pai. - Eu estudo aqui, caso você não se lembre."
+    },
+    {
+      "id": "cap-09-0034",
+      "type": "paragraph",
+      "text": "– Só estou surpreso que você ainda não desistiu, já que você sempre mudava de ideia sobre o que queria fazer com sua vida. - Santiago responde, seu tom cheio de desdém. - Talvez agora você não tenha tanta escolha, não é mesmo? Mas se bem que esse curso inútil que você escolheu, não sei se vai te levar a algum lugar."
+    },
+    {
+      "id": "cap-09-0035",
+      "type": "paragraph",
+      "text": "Lorena sente seu sangue começar a ferver."
+    },
+    {
+      "id": "cap-09-0036",
+      "type": "paragraph",
+      "text": "– Eu não sou o tipo de pessoa que desiste das coisas. - Ela fala, olhando ele no olho. - E eu to muito bem, não que te interesse."
+    },
+    {
+      "id": "cap-09-0037",
+      "type": "paragraph",
+      "text": "– Não interessa mesmo, já que você escolheu sair da nossa vida."
+    },
+    {
+      "id": "cap-09-0038",
+      "type": "paragraph",
+      "text": "– Eu escolhi? - Lorena não consegue nem acreditar que ouviu uma coisa dessas. - Eu preciso mesmo te lembrar o que foi que aconteceu?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Eu "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "escolhi?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " - Lorena não consegue nem acreditar que ouviu uma coisa dessas. - Eu preciso mesmo te lembrar o que foi que aconteceu?"
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0039",
+      "type": "paragraph",
+      "text": "– Sim, você escolheu, quando decidiu que esse seu estilo de vida era mais importante que sua família, eu te dei uma escolha."
+    },
+    {
+      "id": "cap-09-0040",
+      "type": "paragraph",
+      "text": "– Não foi uma escolha pra mim, e você sabe muito bem. - A cada segundo que passa, ela fica mais chocada com a falta de noção e a crueldade de seu pai. - Você veio aqui só pra me irritar?"
+    },
+    {
+      "id": "cap-09-0041",
+      "type": "paragraph",
+      "text": "– Coitada se você acha que eu vim aqui por sua causa. - Ele solta um riso sarcástico. - Eu vim porque eu tenho conexões com a administração da faculdade, e eles querem que eu palestre em um evento semestre que vem. Ou você já esqueceu como você entrou aqui, em primeiro lugar? Você deveria agradecer por eu não mexer uns pauzinhos e fazer eles te expulsarem daqui."
+    },
+    {
+      "id": "cap-09-0042",
+      "type": "paragraph",
+      "text": "– Quão generoso você é, o benfeitor Santiago Ferette. - Seu tom é cheio de sarcasmo. - Se você espera que eu agradeça, vai ficar esperando."
+    },
+    {
+      "id": "cap-09-0043",
+      "type": "paragraph",
+      "text": "– Eu não espero nada de você, Lorena, como eu nunca esperei, em toda minha vida. - Seu olhar pra ela é afiado. - Eu sempre soube que você era uma decepção, eu demorei pra tomar uma atitude, isso sim. - Ele diz. - Mas agora, tudo está melhor desde que você foi embora. Sua mãe, inclusive, está ótima. Ela fica super feliz que não tem mais que aguentar seus chiliques, ou interferir em brigas de família porque você resolveu implicar com qualquer coisa que eu faço. A casa está uma paz, nunca esteve melhor."
+    },
+    {
+      "id": "cap-09-0044",
+      "type": "paragraph",
+      "text": "A menção a sua mãe faz Lorena engolir em seco. Ela sabe que ele está fazendo de propósito, que ele não consegue desconcertar ela por si só, mas que sua mãe sempre foi seu ponto fraco. Mesmo assim, ela se pergunta se ele está falando a verdade."
+    },
+    {
+      "id": "cap-09-0045",
+      "type": "paragraph",
+      "text": "– Eu também estou muito melhor desde que saí de casa. - Ela se força a falar, se recusando a parecer fraca na frente dele. - Agora se você me dá licença, eu tenho mais o que fazer da minha vida do que perder meu tempo falando com você."
+    },
+    {
+      "id": "cap-09-0046",
+      "type": "paragraph",
+      "text": "Lorena continua andando antes mesmo dele responder, se recusando a olhar para trás. Ela vira alguns corredores, seu coração acelerado, até que ela encontra uma sala vazia, e entra sem nem pensar muito. Ela fecha a porta e se apoia na parede, respirando fundo, quando lágrimas involuntariamente começam a escorrer por seus olhos."
+    },
+    {
+      "id": "cap-09-0047",
+      "type": "paragraph",
+      "text": "Ela odeia que seu pai ainda consiga ter esse feito nela, que ela ainda se importe tanto. É mais forte que ela, no entanto, ainda mais quando ele coloca sua mãe no meio. Lorena sabe que Zenilda está tentando recuperar a relação delas, ou pelo menos é isso que parece pelas mensagens que ela volta e meia ainda manda. Algumas Lorena responde, outras não, sem conseguir perdoar a mãe de verdade depois de todos esses meses. Será que sua mãe cansou de esperar, e seguiu em frente, se esqueceu dela? Será que todos eles estão realmente mais felizes sem ela em suas vidas, atrapalhando tudo? Ela sabe que Léo está do seu lado, eles tem até se falado mais ultimamente, mas mesmo assim, os pensamentos giram em espiral na sua cabeça, e ela tem dificuldade para se acalmar."
+    },
+    {
+      "id": "cap-09-0048",
+      "type": "paragraph",
+      "text": "Sem nem pensar, Lorena abre seu celular, indo nos seus contatos e clicando no nome de Juquinha. Ela tem a impressão que só a voz da ruiva vai ser capaz de fazer ela se sentir melhor naquele momento."
+    },
+    {
+      "id": "cap-09-0049",
+      "type": "paragraph",
+      "text": "O telefone toca por algum tempo, porém ninguém atende. Ela respira fundo, chorando mais, sem conseguir evitar. Uns cinco minutos devem se passar antes do telefone apitar."
+    },
+    {
+      "id": "cap-09-0050",
+      "type": "paragraph",
+      "text": "Juquinha: Não consigo atender agora.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Não consigo atender agora."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0051",
+      "type": "paragraph",
+      "text": "Juquinha: Tá tudo bem?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tá tudo bem?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0052",
+      "type": "paragraph",
+      "text": "Claro que ela não consegue, Juquinha está trabalhando, lidando com seus próprios problemas, e Lorena não devia ter ligado em primeiro lugar. Ela não queria fazer a policial se preocupar, ainda mais quando ela está no meio de seu plantão. Então Lorena se obriga a digitar uma resposta."
+    },
+    {
+      "id": "cap-09-0053",
+      "type": "paragraph",
+      "text": "Lorena: Tá sim, não preocupa.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tá sim, não preocupa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0054",
+      "type": "paragraph",
+      "text": "Lorena: Era coisa boba.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Era coisa boba."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0055",
+      "type": "paragraph",
+      "text": "Juquinha: Tá bem, se você diz.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tá bem, se você diz."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0056",
+      "type": "paragraph",
+      "text": "Juquinha: Mais tarde a gente se fala.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Mais tarde a gente se fala."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0057",
+      "type": "paragraph",
+      "text": "Lorena desliga o aparelho, sem saber o que fazer. De repente ela não quer ir pra casa, que vai parecer impossivelmente vazia e fazer ela se sentir mais sozinha ainda. Ela também não quer ligar para Maggye, cansada de preocupar a amiga. Ela quer muito menos falar com Léo, porque ela sabe que ia fazer ele se sentir ainda mais culpado, e ela não queria arriscar um de seus pais saber que ela conversou com ele sobre isso."
+    },
+    {
+      "id": "cap-09-0058",
+      "type": "paragraph",
+      "text": "No fim, tudo que Lorena queria era sumir."
+    },
+    {
+      "id": "cap-09-0059",
+      "type": "paragraph",
+      "text": "Juquinha",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Juquinha"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0060",
+      "type": "paragraph",
+      "text": "Juquinha estava de volta em sua mesa na delegacia, depois de passar um tempo na rua atendendo a alguns chamados. Quando ela senta em sua cadeira, ela tenta ligar para Lorena, pra saber o que a garota queria quando ligou pra ela algumas horas antes. O telefone toca algumas vezes, porém sua colega de apartamento não atende. Ela pensa que talvez Lorena estivesse ocupada, ou ela apenas deixou seu celular no quarto enquanto ia fazer alguma coisa. Então Juquinha deixa pra lá e volta a focar nos processos que ela tem que dar andamento."
+    },
+    {
+      "id": "cap-09-0061",
+      "type": "paragraph",
+      "text": "Mais uma hora deve se passar quando seu telefone toca novamente, o nome de Lorena na tela."
+    },
+    {
+      "id": "cap-09-0062",
+      "type": "paragraph",
+      "text": "– Oii. - Ela atende, mal conseguindo conter seu sorriso antes mesmo de Lorena falar nada. -Como você tá?"
+    },
+    {
+      "id": "cap-09-0063",
+      "type": "paragraph",
+      "text": "– Alô? - Assim que Juquinha ouve aquela voz, seu sorriso morre em seu rosto, porque aquela definitivamente não é a voz de Lorena. - Você que mora com a Lorena?"
+    },
+    {
+      "id": "cap-09-0064",
+      "type": "paragraph",
+      "text": "– Sou eu, sim. - Seu coração começa a acelerar, e ela sente que tem alguma coisa muito errada. - Quem fala?"
+    },
+    {
+      "id": "cap-09-0065",
+      "type": "paragraph",
+      "text": "– Eu sou o Gabriel, colega dela na faculdade. - O menino responde. - A gente tá no bar aqui da frente, e eu acho que a Lorena bebeu demais."
+    },
+    {
+      "id": "cap-09-0066",
+      "type": "paragraph",
+      "text": "– Como assim??? - Juquinha fica confusa. - A Lorena não bebe."
+    },
+    {
+      "id": "cap-09-0067",
+      "type": "paragraph",
+      "text": "– Hoje ela definitivamente bebeu. - O menino diz. - Olha, eu até levaria ela pra casa, mas eu também não tô sóbrio e eu não sei onde ela mora. Você consegue vir buscar ela?"
+    },
+    {
+      "id": "cap-09-0068",
+      "type": "paragraph",
+      "text": "– Sim, eu to indo aí agora. - Juquinha já começa a se levantar, pegando sua bolsa e a chave do carro. - Me fala exatamente onde vocês tão."
+    },
+    {
+      "id": "cap-09-0069",
+      "type": "paragraph",
+      "text": "O menino explica onde é o bar, e Juquinha desliga. Ela olha pra Paulinho, que está olhando confuso para ela."
+    },
+    {
+      "id": "cap-09-0070",
+      "type": "paragraph",
+      "text": "– Tá tudo bem? - Ele pergunta, vendo a preocupação em seu olhar."
+    },
+    {
+      "id": "cap-09-0071",
+      "type": "paragraph",
+      "text": "– Não sei ainda. - Ela responde. - Mas eu preciso ir. Me cobre, por favor?"
+    },
+    {
+      "id": "cap-09-0072",
+      "type": "paragraph",
+      "text": "– Pode deixar. - Paulinho aceita, e ela dá graças a deus de ter ele como colega de trabalho. -Vai lá."
+    },
+    {
+      "id": "cap-09-0073",
+      "type": "paragraph",
+      "text": "Ele nem precisa falar duas vezes para ela sair pela porta, praticamente correndo até seu carro. Juquinha sai da garagem da delegacia e coloca a sirene no teto do carro, para conseguir chegar mais rápido. Eles não deveriam utilizar a sirene em seus carros pessoais a não ser que fosse uma emergência, mas Juquinha não se importava naquele momento, aquilo era emergência o suficiente pra ela."
+    },
+    {
+      "id": "cap-09-0074",
+      "type": "paragraph",
+      "text": "No caminho, Juquinha não consegue não se sentir culpada por não ter atendido a ligação de Lorena mais cedo. Ela realmente estava no meio de uma chamada, mas se ela soubesse que tinha acontecido alguma coisa, ela tinha dado um jeito. O que será que aconteceu com Lorena, pra ela parar em um bar, bêbada?"
+    },
+    {
+      "id": "cap-09-0075",
+      "type": "paragraph",
+      "text": "O trânsito de São Paulo já tinha diminuído àquela hora, e isso somado a Juquinha usando a sirene fez com que ela chegasse rápido na frente do bar, pro seu alívio. Ela para no primeiro lugar que encontra, em um lugar onde é definitivamente proibido estacionar, mas privilégios de policial, né?"
+    },
+    {
+      "id": "cap-09-0076",
+      "type": "paragraph",
+      "text": "Juquinha desce do carro e olha pro bar, que está lotado. Tem música alta e mais gente em pé do que sentado, bebendo, conversando, se pegando. Típico de um bar de faculdade."
+    },
+    {
+      "id": "cap-09-0077",
+      "type": "paragraph",
+      "text": "Ela entra na multidão, procurando por Lorena. Não demora muito para ela ver a menina sentada em uma mesa no fundo, na parte de fora do bar. Ela está com a cabeça deitada em cima da mesa, praticamente desmaiada. Juquinha corre até chegar ao seu lado."
+    },
+    {
+      "id": "cap-09-0078",
+      "type": "paragraph",
+      "text": "Ela se agacha ao lado de Lorena, e coloca as mãos em seus ombros, a sacudindo de leve."
+    },
+    {
+      "id": "cap-09-0079",
+      "type": "paragraph",
+      "text": "– Lorena. - Ela chama, e a morena permanece deitada, seus olhos fechados. - Lorena, acorda."
+    },
+    {
+      "id": "cap-09-0080",
+      "type": "paragraph",
+      "text": "Ela sacode mais um pouco até Lorena finalmente abrir os olhos, resmungando antes de olhar pra ela."
+    },
+    {
+      "id": "cap-09-0081",
+      "type": "paragraph",
+      "text": "– Juquinha? - Ela pergunta, confusa. - Você tá mesmo aqui? - Lorena estende sua mão, colocando ela no rosto de Juquinha."
+    },
+    {
+      "id": "cap-09-0082",
+      "type": "paragraph",
+      "text": "– Sim, sou eu, eu tô aqui. - Ela responde, aliviada por a outra menina ter acordado. - O que foi que aconteceu?"
+    },
+    {
+      "id": "cap-09-0083",
+      "type": "paragraph",
+      "text": "Para sua surpresa, Lorena começa a rir, ainda passando a mão pelo seu rosto."
+    },
+    {
+      "id": "cap-09-0084",
+      "type": "paragraph",
+      "text": "– Eu devo tá muito doida mesmo. - Ela fala, antes de deitar a cabeça de novo, fechando seus olhos mais uma vez."
+    },
+    {
+      "id": "cap-09-0085",
+      "type": "paragraph",
+      "text": "– Lorena. - Juquinha chama novamente."
+    },
+    {
+      "id": "cap-09-0086",
+      "type": "paragraph",
+      "text": "Então, um menino aparece ao seu lado, e Juquinha nem tinha reparado que ele estava ali antes."
+    },
+    {
+      "id": "cap-09-0087",
+      "type": "paragraph",
+      "text": "– Juquinha? - Ele pergunta. - Foi com você que eu falei no telefone?"
+    },
+    {
+      "id": "cap-09-0088",
+      "type": "paragraph",
+      "text": "– Foi sim. - Ela olha rapidamente pra ele, sem querer tirar seus olhos de Lorena. - Foi você que me ligou, então? O que foi que aconteceu?"
+    },
+    {
+      "id": "cap-09-0089",
+      "type": "paragraph",
+      "text": "– Fui eu. - Gabriel responde, e Juquinha consegue perceber que ele não mentiu quando disse que não estava sóbrio. - Não sei te falar, ela só apareceu aqui um tempo depois e falou que precisava distrair a cabeça. Então, ela começou a dar shot, e no início tava todo mundo nessa vibe, mas aí acho que ela exagerou. Ela desmaiou aí na mesa e tava difícil de acordar ela, eu falei que ia ligar pros pais dela, mas ela falou que não, que ela não morava com eles, que ela morava com uma tal de Juquinha, que ela queria ver a Juquinha. Consegui desbloquear o celular dela e te liguei."
+    },
+    {
+      "id": "cap-09-0090",
+      "type": "paragraph",
+      "text": "– Você fez bem. - Juquinha fala pro menino, agradecida que pelo menos alguém ali se preocupou com a Lorena. - Pode deixar comigo, que eu vou levar ela pra casa, mas obrigada, viu?"
+    },
+    {
+      "id": "cap-09-0091",
+      "type": "paragraph",
+      "text": "– Sem problemas, acontece com todo mundo alguma hora. - O menino responde. - E aqui, toma o celular dela."
+    },
+    {
+      "id": "cap-09-0092",
+      "type": "paragraph",
+      "text": "Juquinha pega o aparelho e guarda em sua bolsa. Ela aproveita e pega sua carteira, tirando um dinheiro e entregando pro Gabriel."
+    },
+    {
+      "id": "cap-09-0093",
+      "type": "paragraph",
+      "text": "– Aqui, usa isso pra pagar o que ela bebeu."
+    },
+    {
+      "id": "cap-09-0094",
+      "type": "paragraph",
+      "text": "Ele pega o dinheiro, parecendo surpreso. Juquinha tinha dado provavelmente um pouco mais que o necessário, só pra garantir."
+    },
+    {
+      "id": "cap-09-0095",
+      "type": "paragraph",
+      "text": "– Opa, valeu. - Ele fala pra ela antes de se virar, seguindo seu rumo."
+    },
+    {
+      "id": "cap-09-0096",
+      "type": "paragraph",
+      "text": "Juquinha volta toda sua atenção para Lorena, que continua dormindo."
+    },
+    {
+      "id": "cap-09-0097",
+      "type": "paragraph",
+      "text": "– Lo, eu preciso que você acorde. - Ela diz, sacudindo a menina mais uma vez. - Eu vou te levar pra casa."
+    },
+    {
+      "id": "cap-09-0098",
+      "type": "paragraph",
+      "text": "Com algum custo, Lorena abre seus olhos novamente."
+    },
+    {
+      "id": "cap-09-0099",
+      "type": "paragraph",
+      "text": "– Você ainda tá aqui? - Ela diz, olhando para Juquinha. - Eu achei que tinha te imaginado."
+    },
+    {
+      "id": "cap-09-0100",
+      "type": "paragraph",
+      "text": "– Eu to mesmo aqui. - Juquinha diz, seu tom gentil. - Por favor, deixa eu te levar pra casa. Você só precisa se apoiar em mim, e a gente vai levantar, tá bom?"
+    },
+    {
+      "id": "cap-09-0101",
+      "type": "paragraph",
+      "text": "Lorena assente com a cabeça, e Juquinha espera que ela tenha mesmo entendido. Então, ela coloca os braços em volta da morena, e levanta ela com algum esforço. Lorena balança um pouco, mas se apoia em Juquinha, tentando retomar seu equilíbrio. Juquinha agradece por seu treinamento policial a fazer ser mais forte do que deveria, enquanto leva Lorena até seu carro."
+    },
+    {
+      "id": "cap-09-0102",
+      "type": "paragraph",
+      "text": "O carro não tá longe, e assim que elas chegam, ela abre a porta do carona, colocando Lorena lá dentro. Então ela coloca o cinto de segurança na garota, e fecha a porta, indo pro lado do motorista."
+    },
+    {
+      "id": "cap-09-0103",
+      "type": "paragraph",
+      "text": "Quando ela entra no carro, Lorena está com a cabeça apoiada na janela, e ela dá a partida, saindo dali. Ela liga a sirene de novo, para conseguir chegar mais rápido mais uma vez."
+    },
+    {
+      "id": "cap-09-0104",
+      "type": "paragraph",
+      "text": "Nenhuma delas fala nada por algum tempo, Lorena olhando pela janela, e Juquinha alternando entre olhar pra frente e olhar para sua colega de apartamento."
+    },
+    {
+      "id": "cap-09-0105",
+      "type": "paragraph",
+      "text": "– Eduarda? - Lorena chama depois de algum tempo, e Juquinha fica surpresa de ouvir seu verdadeiro nome nos lábios de Lorena, ainda mais com ela nesse estado."
+    },
+    {
+      "id": "cap-09-0106",
+      "type": "paragraph",
+      "text": "– Oi, eu to aqui. - A ruiva diz, olhando de lado pra ela."
+    },
+    {
+      "id": "cap-09-0107",
+      "type": "paragraph",
+      "text": "– Eu não to me sentindo muito bem. - Lorena diz, fechando seus olhos e engolindo em seco."
+    },
+    {
+      "id": "cap-09-0108",
+      "type": "paragraph",
+      "text": "– É, eu imagino. - Juquinha diz, então olha para a outra garota, colocando uma mão em sua perna. - Ei, tenta respirar fundo, a gente já tá quase em casa. Aguenta só mais um pouquinho, tá bom?"
+    },
+    {
+      "id": "cap-09-0109",
+      "type": "paragraph",
+      "text": "Lorena não abre os olhos, mas ela segura a mão que está em sua perna."
+    },
+    {
+      "id": "cap-09-0110",
+      "type": "paragraph",
+      "text": "– Tá bom. - Ela murmura."
+    },
+    {
+      "id": "cap-09-0111",
+      "type": "paragraph",
+      "text": "Em menos de dez minutos Juquinha estaciona o carro no estacionamento de seu prédio, antes que Lorena pudesse vomitar em todo seu carro, o que ela considera uma vitória. Ela tira seu cinto, se inclinando em direção a outra menina, que parece ter dormido de novo."
+    },
+    {
+      "id": "cap-09-0112",
+      "type": "paragraph",
+      "text": "– Ei, Lo. - Ela chama, tirando um fio de cabelo de seu rosto. - A gente chegou em casa."
+    },
+    {
+      "id": "cap-09-0113",
+      "type": "paragraph",
+      "text": "Lorena não abre os olhos, sua voz ainda sonolenta."
+    },
+    {
+      "id": "cap-09-0114",
+      "type": "paragraph",
+      "text": "– Eu não posso ir pra casa. - Ela diz. - A Eduarda vai ficar brava comigo se me ver assim."
+    },
+    {
+      "id": "cap-09-0115",
+      "type": "paragraph",
+      "text": "Juquinha não consegue não rir, como ela podia ser tão adorável mesmo nesse estado?"
+    },
+    {
+      "id": "cap-09-0116",
+      "type": "paragraph",
+      "text": "– A Eduarda tá aqui, e eu não to brava com você. - Juquinha diz, passando a mão por seu rosto. - Tá tudo bem, olha pra mim."
+    },
+    {
+      "id": "cap-09-0117",
+      "type": "paragraph",
+      "text": "Lorena abre os olhos devagar, piscando algumas vezes, como se estivesse tentando focar sua visão."
+    },
+    {
+      "id": "cap-09-0118",
+      "type": "paragraph",
+      "text": "– Duda. - Lorena diz, e abre um sorriso. Fazia tempo que Juquinha não escutava esse apelido."
+    },
+    {
+      "id": "cap-09-0119",
+      "type": "paragraph",
+      "text": "– Sim, sou eu. - Juquinha sorri de volta, sem conseguir evitar. - Vamo pra casa?"
+    },
+    {
+      "id": "cap-09-0120",
+      "type": "paragraph",
+      "text": "– Tá bom."
+    },
+    {
+      "id": "cap-09-0121",
+      "type": "paragraph",
+      "text": "Juquinha então tira o cinto de Lorena, e abre sua porta devagar, para a garota não cair do carro. Ela sai pela sua porta e vai até o lado de Lorena, ajudando ela a descer. Então ela tranca o carro e leva Lorena até o elevador."
+    },
+    {
+      "id": "cap-09-0122",
+      "type": "paragraph",
+      "text": "Elas chegam no sétimo andar, e Juquinha consegue levar ela até a porta, abrindo a casa delas. Elas entram, e Lorena se apoia na parede enquanto Juquinha tranca a porta. Cadu olha para elas, se aproximando."
+    },
+    {
+      "id": "cap-09-0123",
+      "type": "paragraph",
+      "text": "– Eu já te dou atenção, me dá um tempinho. - Juquinha diz pro gato, que mia em protesto, antes de voltar sua atenção para Lorena."
+    },
+    {
+      "id": "cap-09-0124",
+      "type": "paragraph",
+      "text": "– Eu to cansada. - Lorena diz, abrindo e fechando seus olhos. - Tá tudo girando."
+    },
+    {
+      "id": "cap-09-0125",
+      "type": "paragraph",
+      "text": "– Eu sei. - Juquinha segura ela pelos braços de novo, guiando a menina pela casa. - Eu vou te deixar dormir, a gente só vai no banheiro primeiro, porque eu to com medo de você deitar e vomitar enquanto dorme."
+    },
+    {
+      "id": "cap-09-0126",
+      "type": "paragraph",
+      "text": "– Eu não vou vomitar. - Lorena diz enquanto elas andam. - Eu acho."
+    },
+    {
+      "id": "cap-09-0127",
+      "type": "paragraph",
+      "text": "– É, esse é o problema. - Juquinha passa pela porta do banheiro do corredor, levando Lorena consigo. - Vai te fazer sentir melhor, acredita em mim."
+    },
+    {
+      "id": "cap-09-0128",
+      "type": "paragraph",
+      "text": "Quando chega nesse nível, é melhor ela já tirar parte do álcool de uma vez, se não ela vai acordar bêbada ainda no dia seguinte."
+    },
+    {
+      "id": "cap-09-0129",
+      "type": "paragraph",
+      "text": "Juquinha leva Lorena até a frente da privada, sentando ela no chão. Lorena apoia a cabeça na parede, e Juquinha senta ao seu lado."
+    },
+    {
+      "id": "cap-09-0130",
+      "type": "paragraph",
+      "text": "– A gente fica aqui um tempinho só, ta bom? - Juquinha tira os cabelos do rosto de Lorena. -Se você tiver se sentindo bem, a gente vai pro quarto."
+    },
+    {
+      "id": "cap-09-0131",
+      "type": "paragraph",
+      "text": "Lorena só assente, seus olhos ainda fechados. Juquinha segura sua mão, a acariciando de leve."
+    },
+    {
+      "id": "cap-09-0132",
+      "type": "paragraph",
+      "text": "Não devem ter se passado nem dez minutos quando Lorena fala novamente."
+    },
+    {
+      "id": "cap-09-0133",
+      "type": "paragraph",
+      "text": "– Duda? - Ela chama, e Juquinha olha pra ela. - Eu acho que eu vou-"
+    },
+    {
+      "id": "cap-09-0134",
+      "type": "paragraph",
+      "text": "Antes mesmo dela completar, Lorena se inclina para frente, segurando a borda da privada, vomitando lá dentro."
+    },
+    {
+      "id": "cap-09-0135",
+      "type": "paragraph",
+      "text": "É, era o que Juquinha imaginava."
+    },
+    {
+      "id": "cap-09-0136",
+      "type": "paragraph",
+      "text": "Ela se move, indo para trás de Lorena, puxando seus cabelos e prendendo eles com um elástico que ela tinha no braço. Então ela senta atrás da garota, segurando Lorena para ela não se desequilibrar."
+    },
+    {
+      "id": "cap-09-0137",
+      "type": "paragraph",
+      "text": "Elas ficam ali por algum tempo, e Juquinha sussurra para Lorena que vai ficar tudo bem, acariciando suas costas ou segurando sua cabeça, para ela não cair com a cara na privada."
+    },
+    {
+      "id": "cap-09-0138",
+      "type": "paragraph",
+      "text": "Eventualmente, Lorena parece se estabilizar, e ela apoia a cabeça nos ombros de Juquinha, seus olhos fechados."
+    },
+    {
+      "id": "cap-09-0139",
+      "type": "paragraph",
+      "text": "– Eu tô me sentindo melhor. - Ela diz, abrindo seus olhos. - Minha cabeça ta até girando menos."
+    },
+    {
+      "id": "cap-09-0140",
+      "type": "paragraph",
+      "text": "– É porque você tirou parte do álcool do seu corpo. - Juquinha fala, colocando uma mão em seu rosto. - Você quer ir pro quarto?"
+    },
+    {
+      "id": "cap-09-0141",
+      "type": "paragraph",
+      "text": "Lorena assente, e Juquinha se move, segurando bem a outra menina."
+    },
+    {
+      "id": "cap-09-0142",
+      "type": "paragraph",
+      "text": "– Eu vou te levantar, tá bom? - Ela diz, antes de se mover, levantando."
+    },
+    {
+      "id": "cap-09-0143",
+      "type": "paragraph",
+      "text": "Lorena parece ter um pouco mais de equilíbrio agora, e é mais fácil levar ela pro seu quarto, fazendo ela sentar na cama."
+    },
+    {
+      "id": "cap-09-0144",
+      "type": "paragraph",
+      "text": "– Lorena. - Juquinha diz, e Lorena olha pra ela. - Você se importa deu te ajudar a trocar de roupa?"
+    },
+    {
+      "id": "cap-09-0145",
+      "type": "paragraph",
+      "text": "Ela não quer invadir a privacidade de Lorena, mas ela também não quer deixar ela dormir com as roupas que estava usando o dia todo. Lorena olha nos seus olhos, e balança a cabeça de leve, indicando que ela não se importa. Juquinha sorri de leve pra ela antes de se levantar, indo até o armário de Lorena e pegando um pijama."
+    },
+    {
+      "id": "cap-09-0146",
+      "type": "paragraph",
+      "text": "Ela volta para onde Lorena está, sentando na borda da cama."
+    },
+    {
+      "id": "cap-09-0147",
+      "type": "paragraph",
+      "text": "– Levanta seus braços. - Juquinha pede, e Lorena obedece, enquanto ela passa sua blusa por cima de sua cabeça. Juquinha faz o máximo para não olhar, até porque ela percebe que Lorena está sem sutiã, e com cuidado ela passa a blusa do pijama por cima da cabeça de Lorena. - Pronto."
+    },
+    {
+      "id": "cap-09-0148",
+      "type": "paragraph",
+      "text": "Então, ela se move, se agachando para tirar os sapatos de Lorena."
+    },
+    {
+      "id": "cap-09-0149",
+      "type": "paragraph",
+      "text": "– Eu vou puxar sua calça agora, tá bom? - Juquinha diz, ajudando Lorena a tirar sua calça e a colocar o short de pijama."
+    },
+    {
+      "id": "cap-09-0150",
+      "type": "paragraph",
+      "text": "Depois, Lorena senta de volta na cama, se apoiando na cabeceira, e Juquinha coloca o cobertor sobre suas pernas."
+    },
+    {
+      "id": "cap-09-0151",
+      "type": "paragraph",
+      "text": "– Eu vou buscar água pra você. - Juquinha diz. - Me espera aqui."
+    },
+    {
+      "id": "cap-09-0152",
+      "type": "paragraph",
+      "text": "Ela então sai do quarto de Lorena, indo até a cozinha. Ela aproveita e coloca comida pro Cadu, que não deve ter jantado até agora, já que Lorena nunca voltou pra casa. Ela pede desculpa pro gato, se sentindo culpada. Ele mia pra ela, com certeza ele não está muito feliz."
+    },
+    {
+      "id": "cap-09-0153",
+      "type": "paragraph",
+      "text": "Então Juquinha volta pro quarto de Lorena, com um copo cheio de água na mão, e uma garrafinha também cheia, para deixar lá durante a noite. Ela aproveita e pega um remédio de dor de cabeça, que ela suspeita que a outra garota vai precisar no dia seguinte. Quando ela entra no quarto, Lorena olha para ela."
+    },
+    {
+      "id": "cap-09-0154",
+      "type": "paragraph",
+      "text": "– Você voltou mesmo. - Ela diz, e seus olhos parecem brilhar."
+    },
+    {
+      "id": "cap-09-0155",
+      "type": "paragraph",
+      "text": "– Claro que eu voltei. - Juquinha responde. - Você precisa beber água."
+    },
+    {
+      "id": "cap-09-0156",
+      "type": "paragraph",
+      "text": "Lorena aceita o copo, e Juquinha ajuda ela a beber. Ela toma o copo quase todo, com certeza desidratada."
+    },
+    {
+      "id": "cap-09-0157",
+      "type": "paragraph",
+      "text": "– Tem mais aqui, se você quiser. - Juquinha diz pra ela, e coloca o copo no criado mudo. -Você devia dormir."
+    },
+    {
+      "id": "cap-09-0158",
+      "type": "paragraph",
+      "text": "– Você fica comigo? - Lorena pergunta. - Eu não quero dormir sozinha."
+    },
+    {
+      "id": "cap-09-0159",
+      "type": "paragraph",
+      "text": "– Claro que eu fico com você. - Juquinha coloca uma mão em sua bochecha. - Eu não vou pra lugar nenhum. Deixa só eu trocar de roupa, pode ser?"
+    },
+    {
+      "id": "cap-09-0160",
+      "type": "paragraph",
+      "text": "Lorena assente, e Juquinha vai pro seu próprio quarto, colocando um pijama, escovando os dentes e mandando uma mensagem pro Paulinho, avisando que ela só vai conseguir voltar pra delegacia no dia seguinte, que depois ela explica direito. Não tem a menor condição dela deixar a Lorena aqui sozinha, e nenhuma chance dela fazer isso, mesmo que custasse seu emprego. Mas ela sabia que Paulinho ia cobrir pra ela, e o delegado Jairo não ia chegar na delegacia até de manhã, de toda forma."
+    },
+    {
+      "id": "cap-09-0161",
+      "type": "paragraph",
+      "text": "Ela volta pro quarto de Lorena, e apaga a luz, deixando apenas a luz da lua, que vem da janela, iluminando o ambiente. Ela senta na cama da morena, ao seu lado, e Lorena olha para ela."
+    },
+    {
+      "id": "cap-09-0162",
+      "type": "paragraph",
+      "text": "– Como você me achou? - Lorena pergunta de repente."
+    },
+    {
+      "id": "cap-09-0163",
+      "type": "paragraph",
+      "text": "– Seu amigo me ligou. - Juquinha explica. - Me pediu pra buscar você."
+    },
+    {
+      "id": "cap-09-0164",
+      "type": "paragraph",
+      "text": "– Eu nem acreditei quando te vi. - Lorena levanta sua mão, levando ela até os cabelos de Juquinha, brincando com eles. - Achei até que eu tinha morrido, e tinha ido parar no céu."
+    },
+    {
+      "id": "cap-09-0165",
+      "type": "paragraph",
+      "text": "Juquinha não consegue conter uma risada, ela acha engraçado que foi isso que passou na cabeça de Lorena."
+    },
+    {
+      "id": "cap-09-0166",
+      "type": "paragraph",
+      "text": "– Não, você tá bem viva ainda. - Ela diz. - E você tá segura agora, tá tudo bem."
+    },
+    {
+      "id": "cap-09-0167",
+      "type": "paragraph",
+      "text": "– Você me salvou, igual um príncipe encantado. - Lorena fala, movendo a mão de seus cabelos pro seu rosto. - Você é o príncipe mais bonito que eu já vi."
+    },
+    {
+      "id": "cap-09-0168",
+      "type": "paragraph",
+      "text": "Juquinha suspira, cerrando seus olhos pra Lorena."
+    },
+    {
+      "id": "cap-09-0169",
+      "type": "paragraph",
+      "text": "– Você não vai lembrar nada disso amanhã, vai?"
+    },
+    {
+      "id": "cap-09-0170",
+      "type": "paragraph",
+      "text": "Lorena se inclina, chegando mais perto."
+    },
+    {
+      "id": "cap-09-0171",
+      "type": "paragraph",
+      "text": "– Eu nunca vou te esquecer. - Ela fala, e Eduarda sente seu coração acelerar."
+    },
+    {
+      "id": "cap-09-0172",
+      "type": "paragraph",
+      "text": "Ela move sua mão, colocando parte do cabelo de Lorena atrás de sua orelha."
+    },
+    {
+      "id": "cap-09-0173",
+      "type": "paragraph",
+      "text": "– Eu também não. - Ela confessa. Eduarda não esqueceria de Lorena nem que a outra garota sumisse do mundo e milhares de anos se passassem. Ela achava que mesmo em outras reencarnações, outros universos, outras realidades, uma parte dela ainda saberia quem era Lorena."
+    },
+    {
+      "id": "cap-09-0174",
+      "type": "paragraph",
+      "text": "De repente, os olhos de Lorena ficam mareados, e lágrimas começam a escorrer por suas bochechas. Eduarda chega mais perto, limpando elas com cuidado."
+    },
+    {
+      "id": "cap-09-0175",
+      "type": "paragraph",
+      "text": "– Que foi? - Ela pergunta."
+    },
+    {
+      "id": "cap-09-0176",
+      "type": "paragraph",
+      "text": "– É só que… - Lorena para, fechando seus olhos por um segundo, antes de olhar para Eduarda de novo, as lágrimas ainda caindo. - A minha vida toda, eu sempre me senti tão sozinha. Como se eu fosse um desperdício de espaço, como se ninguém me quisesse aqui de verdade… Como se eu nunca fosse ser a pessoa que eu deveria ser. - Ela fala, e Eduarda sente lágrimas se formando em seus próprios olhos, ao ver Lorena falar assim. - Mas desde que eu te conheci… Não sei, eu não me sinto assim com você. - Lorena confessa. - Eu não me sinto sozinha quando eu to com você."
+    },
+    {
+      "id": "cap-09-0177",
+      "type": "paragraph",
+      "text": "Eduarda respira fundo, contendo suas lágrimas. Ela continua acariciando o rosto de Lorena. – Você não tá sozinha, Lorena, nunca. - Ela diz. - Eu sempre vou estar aqui pra você, eu prometo, não importa o que acontecer. Eu quero você aqui, tá bom? Mais do que qualquer outra coisa, mais do que qualquer outra pessoa nesse mundo, eu quero você aqui, do jeito que você é."
+    },
+    {
+      "id": "cap-09-0178",
+      "type": "paragraph",
+      "text": "Lorena só olha pra ela, e então ela fecha seus olhos, chorando ainda mais."
+    },
+    {
+      "id": "cap-09-0179",
+      "type": "paragraph",
+      "text": "– Vem cá. - Eduarda a puxa para perto, abraçando Lorena. - Eu to aqui com você. - Ela diz, acariciando os cabelos de Lorena, enquanto ela chora em seus braços."
+    },
+    {
+      "id": "cap-09-0180",
+      "type": "paragraph",
+      "text": "Eduarda a abraça por um bom tempo, deixando Lorena colocar tudo pra fora, todas as suas dores. Seu choro diminui depois de um tempo, e com cuidado, Juquinha deita, levando Lorena consigo. A morena deita em seus braços, apoiando a cabeça em seu peito."
+    },
+    {
+      "id": "cap-09-0181",
+      "type": "paragraph",
+      "text": "Ela sente a respiração de Lorena se estabilizar, e sabe que a garota dormiu. Então, Eduarda dá um beijo em sua testa."
+    },
+    {
+      "id": "cap-09-0182",
+      "type": "paragraph",
+      "text": "– Vai ficar tudo bem, eu não vou deixar ninguém te machucar. - Ela diz. - Eu prometo."
+    },
+    {
+      "id": "cap-09-0183",
+      "type": "paragraph",
+      "text": "Então, Eduarda fecha seus olhos, abraçando Lorena um pouco mais forte, e deixa o sono a levar também, com Lorena em seus braços."
+    }
+  ],
+  "notes": {
+    "before": [
+      {
+        "id": "cap-09-0001",
+        "type": "paragraph",
+        "text": "Acho que eu criei certa expectativa pra esse capítulo, então se não corresponder vocês fingem que gostaram pra não me deixar triste."
+      }
+    ],
+    "after": []
+  }
+}

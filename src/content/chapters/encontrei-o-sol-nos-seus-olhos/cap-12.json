@@ -1,0 +1,2242 @@
+{
+  "id": "cap-12",
+  "blocks": [
+    {
+      "id": "cap-12-0001",
+      "type": "paragraph",
+      "text": "Lorena",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0002",
+      "type": "paragraph",
+      "text": "Lorena acorda um pouco confusa por alguns segundos, sem entender porque ela não estava em seu quarto. Então, ela se lembra da noite anterior, de ter acabado dormindo na cama de Eduarda. Ainda de olhos fechados, sem nem pensar, ela estende seu braço, procurando pela outra garota. Lorena fica um pouco decepcionada quando ela percebe que o outro lado da cama está vazio."
+    },
+    {
+      "id": "cap-12-0003",
+      "type": "paragraph",
+      "text": "Ela abre seus olhos devagar, até que a porta do banheiro se abre, e Eduarda sai lá de dentro."
+    },
+    {
+      "id": "cap-12-0004",
+      "type": "paragraph",
+      "text": "– Bom dia. - Ela fala, vendo que Lorena estava acordada. - Eu tentei não fazer muito barulho, pra não te acordar."
+    },
+    {
+      "id": "cap-12-0005",
+      "type": "paragraph",
+      "text": "– Bom dia. - Lorena diz, se levantando um pouco na cama. - Você não me acordou não. -Então, ela repara que Eduarda está vestida pra sair. - Você vai sair?"
+    },
+    {
+      "id": "cap-12-0006",
+      "type": "paragraph",
+      "text": "– Sim, eu vou ter que dar uma passada na delegacia. - Ela fala, terminando de pegar suas coisas. - Mas eu não demoro."
+    },
+    {
+      "id": "cap-12-0007",
+      "type": "paragraph",
+      "text": "– Ta bem. - Lorena geralmente gosta do fato de Eduarda ser policial, mas ela odeia que exige que as vezes a outra garota trabalhe fim de semana. - Pode deixar que eu arrumo sua cama."
+    },
+    {
+      "id": "cap-12-0008",
+      "type": "paragraph",
+      "text": "– Fica a vontade, nem preocupa. - A ruiva diz, indo pra porta. - A gente se vê mais tarde?"
+    },
+    {
+      "id": "cap-12-0009",
+      "type": "paragraph",
+      "text": "– Sim, eu vou ficar por aqui. - Lorena fala. - É minha última semana de provas, então vou ter que estudar."
+    },
+    {
+      "id": "cap-12-0010",
+      "type": "paragraph",
+      "text": "Lorena estava doida para finalmente acabar o semestre, e ficar com sua rotina um pouco mais tranquila."
+    },
+    {
+      "id": "cap-12-0011",
+      "type": "paragraph",
+      "text": "– Boa sorte com isso. - Eduarda diz, e então ela olha para Lorena por um momento, como se ela quisesse dizer alguma coisa. Então, ela solta sua respiração. - Até mais, então."
+    },
+    {
+      "id": "cap-12-0012",
+      "type": "paragraph",
+      "text": "– Até. - Lorena fala assim que Eduarda sai pela porta."
+    },
+    {
+      "id": "cap-12-0013",
+      "type": "paragraph",
+      "text": "Ela se deita de novo, com preguiça de levantar, e também querendo passar um pouco mais de tempo no quarto de Eduarda. É só que a cama tem o cheiro dela, e é um pouco intoxicante da melhor maneira possível. Lorena acha que tinha um tempo que ela não dormia tão bem."
+    },
+    {
+      "id": "cap-12-0014",
+      "type": "paragraph",
+      "text": "Ela pensa no dia anterior, em como foi tudo tão bom. Tinha sido o dia perfeito, vendo arte, tirando fotos, indo na sua livraria favorita, comendo comida boa. E claro, a companhia de Eduarda deixava tudo mil vezes melhor. Era como se Lorena fosse quase incapaz de ficar triste na presença da outra garota, como se Eduarda fosse seu sol particular, que iluminasse tudo sempre que ela está perto. Lorena amava descobrir mais sobre a ruiva, descobrir que tipo de livros ela gosta, o que ela pede nos restaurantes, qual seu tipo de café favorito, como sua cabeça funciona. Era como mergulhar em um oceano, do tipo que dá um frio na barriga mas a água te renova quando você entra."
+    },
+    {
+      "id": "cap-12-0015",
+      "type": "paragraph",
+      "text": "Lorena tenta não pensar demais sobre o que mora no fundo desses pensamentos, querendo apenas se permitir sentir feliz depois do dia horrível quando ela viu seu pai."
+    },
+    {
+      "id": "cap-12-0016",
+      "type": "paragraph",
+      "text": "Eventualmente ela pega o seu celular, e vê que tem uma DM de Maggye no Instagram, respondendo um story que ela havia postado no parque no dia anterior."
+    },
+    {
+      "id": "cap-12-0017",
+      "type": "paragraph",
+      "text": "Maggye: Nossa, você nem me chama mais, né.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Maggye:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Nossa, você nem me chama mais, né."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0018",
+      "type": "paragraph",
+      "text": "Maggye: Você sabe que eu amo esse parque!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Maggye:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Você sabe que eu amo esse parque!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0019",
+      "type": "paragraph",
+      "text": "Lorena se sente levemente culpada, ela realmente nem tinha pensado em chamar a amiga."
+    },
+    {
+      "id": "cap-12-0020",
+      "type": "paragraph",
+      "text": "Lorena: Desculpa!!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Desculpa!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0021",
+      "type": "paragraph",
+      "text": "Lorena: Não foi nada planejado, na real, foi só eu e a Eduarda.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Não foi nada planejado, na real, foi só eu e a Eduarda."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0022",
+      "type": "paragraph",
+      "text": "Maggye: Eduarda?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Maggye:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eduarda?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0023",
+      "type": "paragraph",
+      "text": "Lorena: É, a Juquinha.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "É, a Juquinha."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0024",
+      "type": "paragraph",
+      "text": "Maggye: Eu sei, mas desde quando você chama ela assim?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Maggye:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu sei, mas desde quando você chama ela assim?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0025",
+      "type": "paragraph",
+      "text": "A pergunta faz Lorena parar pra pensar, porque ela não sabe ao certo quando foi que Eduarda parou de ser Juquinha na sua cabeça, ela só sabe que em algum momento chamar a outra menina de Juquinha não parecia mais certo… Como se fosse impessoal demais. Eduarda fazia muito mais sentido pra ela."
+    },
+    {
+      "id": "cap-12-0026",
+      "type": "paragraph",
+      "text": "Lorena: Nem eu sei.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Nem eu sei."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0027",
+      "type": "paragraph",
+      "text": "Lorena: Eu contei pra ela que eu fui expulsa de casa.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu contei pra ela que eu fui expulsa de casa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0028",
+      "type": "paragraph",
+      "text": "Lorena já queria mesmo falar pra Maggye que ela finalmente contou, então ela aproveita a deixa."
+    },
+    {
+      "id": "cap-12-0029",
+      "type": "paragraph",
+      "text": "Maggye: Contou? Finalmente?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Maggye:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Contou? Finalmente?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0030",
+      "type": "paragraph",
+      "text": "Lorena: Sim.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Sim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0031",
+      "type": "paragraph",
+      "text": "Lorena: Eu vi meu pai na faculdade outro dia, foi uma confusão depois te conto direito.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu vi meu pai na faculdade outro dia, foi uma confusão depois te conto direito."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0032",
+      "type": "paragraph",
+      "text": "Lorena: Mas não teve jeito, tive que contar.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Mas não teve jeito, tive que contar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0033",
+      "type": "paragraph",
+      "text": "Maggye: E como foi?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Maggye:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "E como foi?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0034",
+      "type": "paragraph",
+      "text": "Lorena: Não sei o que eu esperava, mas foi definitivamente melhor.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Não sei o que eu esperava, mas foi definitivamente melhor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0035",
+      "type": "paragraph",
+      "text": "Lorena: Ela me ajudou muito, parecia que ela sabia exatamente o que falar.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ela me ajudou muito, parecia que ela sabia exatamente o que falar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0036",
+      "type": "paragraph",
+      "text": "Lorena: Tirou um peso das minhas costas.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tirou um peso das minhas costas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0037",
+      "type": "paragraph",
+      "text": "Lorena ainda não tinha palavras pra descrever tudo que Eduarda fez e continuava fazendo por ela."
+    },
+    {
+      "id": "cap-12-0038",
+      "type": "paragraph",
+      "text": "Maggye: Ai amiga, que bom!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Maggye:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ai amiga, que bom!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0039",
+      "type": "paragraph",
+      "text": "Maggye: Eu sabia que ia ser tranquilo, mas fico feliz por você.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Maggye:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu sabia que ia ser tranquilo, mas fico feliz por você."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0040",
+      "type": "paragraph",
+      "text": "Lorena: Sim, eu também.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Sim, eu também."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0041",
+      "type": "paragraph",
+      "text": "Lorena: Acho que aproximou a gente.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Acho que aproximou a gente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0042",
+      "type": "paragraph",
+      "text": "Maggye: Ainda mais?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Maggye:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ainda mais?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0043",
+      "type": "paragraph",
+      "text": "Lorena: Você tá com ciúmes?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Você tá com ciúmes?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0044",
+      "type": "paragraph",
+      "text": "Maggye: Confia em mim Lorena, quando eu digo que não.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Maggye:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Confia em mim Lorena, quando eu digo que não."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0045",
+      "type": "paragraph",
+      "text": "Lorena: Nossaaa, então tá então.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Nossaaa, então tá então."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0046",
+      "type": "paragraph",
+      "text": "Maggye: Para de se fazer de boba.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Maggye:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Para de se fazer de boba."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0047",
+      "type": "paragraph",
+      "text": "Lorena cerra os olhos para a mensagem, se perguntando o que Maggye quer dizer. Antes que ela possa perguntar, no entanto, sua amiga manda outra mensagem."
+    },
+    {
+      "id": "cap-12-0048",
+      "type": "paragraph",
+      "text": "Maggye: Mas aqui, como você ta?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Maggye:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Mas aqui, como você ta?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0049",
+      "type": "paragraph",
+      "text": "Maggye: Com essa história de ver seu pai.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Maggye:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Com essa história de ver seu pai."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0050",
+      "type": "paragraph",
+      "text": "Lorena suspira, pensando sobre."
+    },
+    {
+      "id": "cap-12-0051",
+      "type": "paragraph",
+      "text": "Lorena: Eu fiquei bem mal, no dia.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu fiquei bem mal, no dia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0052",
+      "type": "paragraph",
+      "text": "Lorena: Foi a primeira vez que eu vi ele, e ele como sempre falou algumas coisas nada agradáveis.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Foi a primeira vez que eu vi ele, e ele como sempre falou algumas coisas nada"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "agradáveis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0053",
+      "type": "paragraph",
+      "text": "Lorena: Mas agora eu to bem melhor, de verdade!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Mas agora eu to bem melhor, de verdade!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0054",
+      "type": "paragraph",
+      "text": "Lorena: Consegui tirar isso da cabeça.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Consegui tirar isso da cabeça."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0055",
+      "type": "paragraph",
+      "text": "Maggye: Depois de ir no parque com a Eduarda?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Maggye:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Depois de ir no parque com a"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Eduarda"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0056",
+      "type": "paragraph",
+      "text": "Lorena revira os olhos."
+    },
+    {
+      "id": "cap-12-0057",
+      "type": "paragraph",
+      "text": "Lorena: Algo assim.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Algo assim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0058",
+      "type": "paragraph",
+      "text": "Lorena: Na próxima prometo que te chamo.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Na próxima prometo que te chamo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0059",
+      "type": "paragraph",
+      "text": "Maggye: Aham, sei.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Maggye:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Aham, sei."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0060",
+      "type": "paragraph",
+      "text": "Maggye: Mais tarde eu te ligo, pra você me contar essa história do seu pai direito.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Maggye:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Mais tarde eu te ligo, pra você me contar essa história do seu pai direito."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0061",
+      "type": "paragraph",
+      "text": "Lorena: Ta bem, combinado.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ta bem, combinado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0062",
+      "type": "paragraph",
+      "text": "Lorena deixa seu celular de lado, feliz de ter conversado um pouco com Maggye. Ela devia levantar, tomar café da manhã, trocar de roupa, ir pro seu quarto estudar. No entanto, tudo que ela quer fazer é continuar deitada ali, se afogando no oceano que é Eduarda Fragoso."
+    },
+    {
+      "id": "cap-12-0063",
+      "type": "paragraph",
+      "text": "~~~~~~"
+    },
+    {
+      "id": "cap-12-0064",
+      "type": "paragraph",
+      "text": "O início daquela semana é mais caótico do que Lorena gostaria, porém já era esperado. O único lado bom da semana de provas finais, é que algumas não são tão longas e ela consegue chegar em casa mais cedo, como foi na quarta feira. Naquele dia, ela sabia que Eduarda estava de folga, já que ela teria que ficar de plantão no final de semana."
+    },
+    {
+      "id": "cap-12-0065",
+      "type": "paragraph",
+      "text": "Lorena chega em casa e se depara com diversas caixas espalhadas pela sala. Ela acha aquilo curioso, e olha pra dentro de uma delas, vendo que são enfeites de natal. Então Eduarda finalmente tinha comprado os enfeites, igual ela falou que faria. Lorena tinha até esquecido disso."
+    },
+    {
+      "id": "cap-12-0066",
+      "type": "paragraph",
+      "text": "– Duda? - Ela chama, indo até o corredor. Cadu aparece, e Lorena cumprimenta o gato. -Cadê sua mãe, hein?"
+    },
+    {
+      "id": "cap-12-0067",
+      "type": "paragraph",
+      "text": "Quando Lorena se aproxima do quarto de Eduarda, ela ouve o barulho de água correndo, e conclui que ela está no banho. Então ela vai pro seu quarto, deixa suas coisas e vai pra sala, quando de repente a campainha toca."
+    },
+    {
+      "id": "cap-12-0068",
+      "type": "paragraph",
+      "text": "Lorena acha esquisito, já que não anunciaram ninguém no interfone. De toda forma, ela vai até a porta, e quando abre, ela encontra o vizinho delas do apartamento do lado. Eduarda tinha apresentado eles uma vez, era ele que colocava comida pro Cadu antes de Lorena morar ali, quando ela ficava presa na delegacia."
+    },
+    {
+      "id": "cap-12-0069",
+      "type": "paragraph",
+      "text": "– Ei. - Lorena diz assim que abre a porta."
+    },
+    {
+      "id": "cap-12-0070",
+      "type": "paragraph",
+      "text": "– Oi, desculpa tocar assim do nada. - Ele fala. - O porteiro colocou umas correspondências de vocês na minha caixa de correio. Ele não enxerga direito e faz isso às vezes."
+    },
+    {
+      "id": "cap-12-0071",
+      "type": "paragraph",
+      "text": "O menino estende um punhado de envelopes para Lorena, que pega da mão dele."
+    },
+    {
+      "id": "cap-12-0072",
+      "type": "paragraph",
+      "text": "– Ah, obrigada."
+    },
+    {
+      "id": "cap-12-0073",
+      "type": "paragraph",
+      "text": "– Por nada. - Ele fala. - Vou lá, boa tarde pra você."
+    },
+    {
+      "id": "cap-12-0074",
+      "type": "paragraph",
+      "text": "– Pra você também. - Lorena responde antes de fechar a porta."
+    },
+    {
+      "id": "cap-12-0075",
+      "type": "paragraph",
+      "text": "Ela olha para os envelopes, vendo o que é que está ali. Ela nem tem a chave da caixa de correio, é sempre Eduarda que pega as correspondências e entrega pra Lorena se tem alguma coisa dela - que geralmente não tem."
+    },
+    {
+      "id": "cap-12-0076",
+      "type": "paragraph",
+      "text": "No geral, não é nada demais, algumas contas que elas tem que pagar. Lorena começa a dar uma olhada, e ela fica confusa, porque aquilo não faz muito sentido. Uma das contas é o aluguel delas, e se aquele valor está certo, então o que Lorena combinou de pagar pra Eduarda mal daria para cobrir sua metade do aluguel. Fora o condomínio, as contas de água, luz, internet…"
+    },
+    {
+      "id": "cap-12-0077",
+      "type": "paragraph",
+      "text": "Ela olha de novo, ainda sem entender, quando Eduarda entra na sala, seus cabelos molhados depois dela ter saído do banho."
+    },
+    {
+      "id": "cap-12-0078",
+      "type": "paragraph",
+      "text": "– Oii, que bom que você chegou. - A ruiva sorri pra ela, se aproximando. - Você viu que eu comprei as decorações de natal? A gente podia-"
+    },
+    {
+      "id": "cap-12-0079",
+      "type": "paragraph",
+      "text": "– Eduarda. - Lorena a interrompe. - Desculpa, mas espera um pouco. - O tom de Lorena é sério, e Eduarda olha um pouco assustada pra ela. - Você pode me explicar o que é isso aqui?"
+    },
+    {
+      "id": "cap-12-0080",
+      "type": "paragraph",
+      "text": "– O que é isso o que? - Ela pergunta, chegando mais perto, e Lorena entrega o envelope pra ela."
+    },
+    {
+      "id": "cap-12-0081",
+      "type": "paragraph",
+      "text": "– O vizinho veio deixar umas correspondências que o porteiro colocou pra ele por engano. -Lorena explica. - E tem algumas das nossas contas… Isso tá certo?"
+    },
+    {
+      "id": "cap-12-0082",
+      "type": "paragraph",
+      "text": "Eduarda olha pro papel, depois olha pra ela, abre a boca, fecha, olha pro papel de novo, morde o lábio e parece pensar no que falar."
+    },
+    {
+      "id": "cap-12-0083",
+      "type": "paragraph",
+      "text": "– Por que é que você tá perdendo seu tempo olhando isso, hein? - Ela fala eventualmente. -Deixa isso pra lá, depois eu vejo."
+    },
+    {
+      "id": "cap-12-0084",
+      "type": "paragraph",
+      "text": "– Eduarda. - Lorena cruza os braços, olhando pra ela. - Você mentiu pra mim?"
+    },
+    {
+      "id": "cap-12-0085",
+      "type": "paragraph",
+      "text": "– Menti pra você sobre o que? - Eduarda pergunta, e pra uma policial, Lorena achava que ela saberia mentir melhor do que isso."
+    },
+    {
+      "id": "cap-12-0086",
+      "type": "paragraph",
+      "text": "– Meu Deus, você realmente mentiu pra mim. - Ela estende seus braços, sem acreditar. -Quando você disse que o que eu podia pagar era o suficiente, você não tava falando a verdade, tava? Meu deus Eduarda, você me disse que conhecia o dono!"
+    },
+    {
+      "id": "cap-12-0087",
+      "type": "paragraph",
+      "text": "– Mas eu conheço o dono. - A ruiva fala, tentando argumentar. - Ele é amigo do meu pai."
+    },
+    {
+      "id": "cap-12-0088",
+      "type": "paragraph",
+      "text": "– Você ainda não respondeu a minha pergunta."
+    },
+    {
+      "id": "cap-12-0089",
+      "type": "paragraph",
+      "text": "Eduarda suspira, fechando os olhos por um momento."
+    },
+    {
+      "id": "cap-12-0090",
+      "type": "paragraph",
+      "text": "– Talvez eu não tenha te falado exatamente qual era a porcentagem das contas que você tá pagando."
+    },
+    {
+      "id": "cap-12-0091",
+      "type": "paragraph",
+      "text": "Lorena passa a mão por seu rosto, ainda sem acreditar."
+    },
+    {
+      "id": "cap-12-0092",
+      "type": "paragraph",
+      "text": "– Eduarda, você tá cobrindo parte da minha metade? - Ela pergunta. - Por que diabos você tá fazendo isso?"
+    },
+    {
+      "id": "cap-12-0093",
+      "type": "paragraph",
+      "text": "– Olha, se você for parar pra pensar, o meu quarto é maior, então é totalmente justo."
+    },
+    {
+      "id": "cap-12-0094",
+      "type": "paragraph",
+      "text": "– Cada vez que você abre a boca você só piora a situação. - Lorena fala, mexendo suas mãos, nervosa. - A gente nem se conhecia, isso não faz sentido nenhum. - Ela continua. - A Maggye falou com você?"
+    },
+    {
+      "id": "cap-12-0095",
+      "type": "paragraph",
+      "text": "– Claro que não! - Eduarda diz, e Lorena acha que essa parte pelo menos é verdade. A ruiva para, respirando fundo. - Olha, Lorena, eu não tive a intenção de mentir pra você, é só que… Não sei, quando você apareceu aqui aquele dia, a gente se deu tão bem, e eu percebi que você tava passando por alguma coisa, que talvez você estivesse precisando de ajuda… O dinheiro não faz diferença pra mim, de verdade."
+    },
+    {
+      "id": "cap-12-0096",
+      "type": "paragraph",
+      "text": "– Então você ficou com pena de mim, é isso?"
+    },
+    {
+      "id": "cap-12-0097",
+      "type": "paragraph",
+      "text": "– Pelo amor de deus, não foi isso que eu falei."
+    },
+    {
+      "id": "cap-12-0098",
+      "type": "paragraph",
+      "text": "– Foi isso que pareceu. - Lorena passa as mãos pelo seu cabelo, estressada. - Eu não acredito nisso. - Ela solta um riso seco. - Eu vou ter que me mudar."
+    },
+    {
+      "id": "cap-12-0099",
+      "type": "paragraph",
+      "text": "– Lorena, pera aí, do que você ta falando? - A voz de Eduarda fica mais aguda. - Você não vai se mudar!"
+    },
+    {
+      "id": "cap-12-0100",
+      "type": "paragraph",
+      "text": "– Ou eu vou me mudar, ou eu vou ter que arranjar dinheiro não sei de onde pra te pagar."
+    },
+    {
+      "id": "cap-12-0101",
+      "type": "paragraph",
+      "text": "– Você não vai fazer nem um nem outro. - Eduarda chega mais perto. - Será que a gente pode só se acalmar, e conversar direito sobre isso?"
+    },
+    {
+      "id": "cap-12-0102",
+      "type": "paragraph",
+      "text": "Lorena olha pra ela, e ela fica tão linda com cara de preocupada que só faz Lorena ficar com mais raiva, não só de Eduarda mas dela mesma também."
+    },
+    {
+      "id": "cap-12-0103",
+      "type": "paragraph",
+      "text": "– Eu não consigo lidar com isso agora. - Ela fala, pegando sua bolsa e indo pra porta da frente."
+    },
+    {
+      "id": "cap-12-0104",
+      "type": "paragraph",
+      "text": "– Onde você tá indo? - Eduarda pergunta."
+    },
+    {
+      "id": "cap-12-0105",
+      "type": "paragraph",
+      "text": "– Eu preciso de um tempo. - Lorena responde antes de fechar a porta atrás de si."
+    },
+    {
+      "id": "cap-12-0106",
+      "type": "paragraph",
+      "text": "Ela sai do apartamento, indo até o elevador. Lorena sabe que Eduarda provavelmente teve a melhor das intenções, mas é que pela primeira vez na vida dela, ela achou que estava fazendo alguma coisa por conta própria. Sem depender de seu pai, sem depender da Maggye, sem depender de ninguém. Sendo que na verdade, ela acabou dependendo de uma menina que na época ela nem conhecia, sem nem saber. Talvez ela fosse mesmo inútil igual seu pai falava."
+    },
+    {
+      "id": "cap-12-0107",
+      "type": "paragraph",
+      "text": "Ela chega na portaria do prédio, sem saber o que fazer. Ela até pensa em ir até a galeria, mas ela tem a sensação de que Maggye não entenderia o lado dela nessa situação. Então, Lorena tira seu celular do bolso, mandando uma mensagem."
+    },
+    {
+      "id": "cap-12-0108",
+      "type": "paragraph",
+      "text": "Lorena: Você ta fazendo o que agora?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Você ta fazendo o que agora?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0109",
+      "type": "paragraph",
+      "text": "Lorena: Preciso desabafar com alguém.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Preciso desabafar com alguém."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0110",
+      "type": "paragraph",
+      "text": "Não demora muito pra resposta chegar."
+    },
+    {
+      "id": "cap-12-0111",
+      "type": "paragraph",
+      "text": "Leo: Opa, o que rolou?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Leo:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Opa, o que rolou?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0112",
+      "type": "paragraph",
+      "text": "Leo: To na fundação mas consigo sair.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Leo:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "To na fundação mas consigo sair."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0113",
+      "type": "paragraph",
+      "text": "Lorena: Me encontra naquele barzinho que a gente gosta perto da sua casa?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Me encontra naquele barzinho que a gente gosta perto da sua casa?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0114",
+      "type": "paragraph",
+      "text": "Leo: Beleza.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Leo:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Beleza."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-12-0115",
+      "type": "paragraph",
+      "text": "Ela respira aliviada, feliz que seu irmão respondeu. Meia hora depois, ela está sentada no bar, Leonardo na sua frente. Ela pede um suco, e ele pede um whiskey."
+    },
+    {
+      "id": "cap-12-0116",
+      "type": "paragraph",
+      "text": "– Você vai beber whiskey agora? - Lorena pergunta. - Tal pai tal filho?"
+    },
+    {
+      "id": "cap-12-0117",
+      "type": "paragraph",
+      "text": "– Ai Lorena, a gente veio aqui pra você encher meu saco ou pra você me falar o que tá acontecendo? - Léo responde. - Eu também to precisando desestressar. - Ele se inclina um pouco na mesa. - Sabe, acho que você seria mais feliz se você bebesse, ia te fazer bem."
+    },
+    {
+      "id": "cap-12-0118",
+      "type": "paragraph",
+      "text": "Lorena lembra do que aconteceu na última e única vez que ela inventou de beber, e solta uma risada. Se ele soubesse…"
+    },
+    {
+      "id": "cap-12-0119",
+      "type": "paragraph",
+      "text": "– Tá bom, você tá certo. - Ela fala. - Eu não te chamei aqui só pra encher seu saco."
+    },
+    {
+      "id": "cap-12-0120",
+      "type": "paragraph",
+      "text": "– Então o que foi?"
+    },
+    {
+      "id": "cap-12-0121",
+      "type": "paragraph",
+      "text": "Lorena respira fundo, e conta pra ele o que aconteceu. Ela começa com a conversa que ela e Eduarda tiveram no dia que Lorena combinou de se mudar, quando Lorena disse que não saberia se conseguiria pagar pra morar ali e Eduarda disse que era o suficiente. Então ela conta da discussão que elas acabaram de ter, antes de Lorena mandar mensagem pra ele. No final, Léo começa a rir."
+    },
+    {
+      "id": "cap-12-0122",
+      "type": "paragraph",
+      "text": "– Você tá puta desse jeito porque ela tá te dando dinheiro, é isso? - Ele pergunta. - Ai Lorena, você tá precisando de problema de verdade."
+    },
+    {
+      "id": "cap-12-0123",
+      "type": "paragraph",
+      "text": "– Você, dentre todas as pessoas, quer falar comigo sobre problema de verdade? - Ela pergunta de volta, indignada. - E não é só sobre o dinheiro. Primeiro que ela mentiu, e segundo que… Sei lá, eu to me sentindo completamente patética."
+    },
+    {
+      "id": "cap-12-0124",
+      "type": "paragraph",
+      "text": "– Por que? - Seu irmão pergunta. - Você nem pediu pra ela, pediu?"
+    },
+    {
+      "id": "cap-12-0125",
+      "type": "paragraph",
+      "text": "– Não, mas isso só piora tudo. - Ela fala. - Léo, pela primeira vez na vida, eu achei que tava conseguindo fazer alguma coisa por mim mesma, sem depender do pai. E aí eu descubro que nem isso eu to fazendo? Fala sério, é meio ridículo."
+    },
+    {
+      "id": "cap-12-0126",
+      "type": "paragraph",
+      "text": "– Olha, eu entendo o seu ponto de vista, de verdade. - Léo responde. - Mas eu acho que você tá exagerando. Pra começar, que não é como se ela tivesse bancando tudo pra você, é só uma parte. E além disso, você ainda taria morando sozinha independente disso, não taria? Talvez só não seria num lugar tão bom."
+    },
+    {
+      "id": "cap-12-0127",
+      "type": "paragraph",
+      "text": "– É, eu acho que sim… Mas de toda forma, eu não quero ter que depender de ninguém. Já é o suficiente eu ter que aceitar você pagando minha faculdade. - Lorena bebe um gole de seu suco, pensando. - Mas agora eu não sei o que fazer."
+    },
+    {
+      "id": "cap-12-0128",
+      "type": "paragraph",
+      "text": "– Você gosta de morar lá?"
+    },
+    {
+      "id": "cap-12-0129",
+      "type": "paragraph",
+      "text": "– Muito. - Lorena responde sem nem pensar. - Nossa Léo, pela primeira vez na vida eu sinto como se eu realmente pertencesse a um lugar, sabe? Sei lá, eu me sinto mais confortável lá do que eu senti a minha vida toda na nossa casa."
+    },
+    {
+      "id": "cap-12-0130",
+      "type": "paragraph",
+      "text": "– E você confia nessa Eduarda?"
+    },
+    {
+      "id": "cap-12-0131",
+      "type": "paragraph",
+      "text": "– Sim. - Independente dessa situação, Lorena confiaria em Eduarda com sua vida, se precisasse. - Confio muito."
+    },
+    {
+      "id": "cap-12-0132",
+      "type": "paragraph",
+      "text": "– Se a situação fosse o contrário, você faria a mesma coisa por ela? - Léo pergunta, e ela abre a boca pra responder, mas fecha de novo, cerrando os olhos."
+    },
+    {
+      "id": "cap-12-0133",
+      "type": "paragraph",
+      "text": "– Essa pergunta é golpe baixo."
+    },
+    {
+      "id": "cap-12-0134",
+      "type": "paragraph",
+      "text": "– Eu só to tentando te mostrar outra perspectiva."
+    },
+    {
+      "id": "cap-12-0135",
+      "type": "paragraph",
+      "text": "– Tá, já entendi. - Ela passa uma mão por seus cabelos. - Eu ainda não gosto que ela mentiu pra mim."
+    },
+    {
+      "id": "cap-12-0136",
+      "type": "paragraph",
+      "text": "– Se ela tivesse te falado a verdade, você teria aceitado?"
+    },
+    {
+      "id": "cap-12-0137",
+      "type": "paragraph",
+      "text": "– Claro que não."
+    },
+    {
+      "id": "cap-12-0138",
+      "type": "paragraph",
+      "text": "– Tá vendo? - Léo aponta uma mão pra ela. - Você vai odiar que eu fale isso, mas você é orgulhosa igual o pai, Lorena. Tá tudo bem deixar as pessoas te ajudarem, não é o fim do mundo. Eu sei que o pai te traumatizou porque ele jogava as coisas na sua cara, igual ele faz comigo, mas nem todo mundo por aí são pessoas igual a ele."
+    },
+    {
+      "id": "cap-12-0139",
+      "type": "paragraph",
+      "text": "– Graças a Deus, né. - Ela fala, pensando no que Léo falou. - Eu encontrei ele outro dia, inclusive."
+    },
+    {
+      "id": "cap-12-0140",
+      "type": "paragraph",
+      "text": "– Encontrou? - Ele parece surpreso. - Aonde?"
+    },
+    {
+      "id": "cap-12-0141",
+      "type": "paragraph",
+      "text": "– Na faculdade. - Lorena conta. - Ele tava indo falar com a administração, sei lá. Vi ele no corredor."
+    },
+    {
+      "id": "cap-12-0142",
+      "type": "paragraph",
+      "text": "– E como foi?"
+    },
+    {
+      "id": "cap-12-0143",
+      "type": "paragraph",
+      "text": "– Uma merda, né. - Ela solta um riso sarcástico. - Ele falou um monte, igual sempre. Disse que a mãe nunca esteve tão bem desde que eu saí de casa, que a casa tá uma paz sem mim."
+    },
+    {
+      "id": "cap-12-0144",
+      "type": "paragraph",
+      "text": "Dessa vez, é Leonardo quem ri."
+    },
+    {
+      "id": "cap-12-0145",
+      "type": "paragraph",
+      "text": "– Até parece. - Ele fala, e Lorena franze o cenho pra ele. - Ah, Lo, se você quer saber, o clima lá em casa tá uma merda desde que você se mudou. A mãe chora quase todos os dias, fica me pedindo notícia de você sempre que ela pode. Os dois brigam dia sim dia não, e eu fico lá, tentando intermediar."
+    },
+    {
+      "id": "cap-12-0146",
+      "type": "paragraph",
+      "text": "– Por que você não me falou isso antes? - Ela pergunta, um pouco surpresa."
+    },
+    {
+      "id": "cap-12-0147",
+      "type": "paragraph",
+      "text": "– Você falava que era melhor não saber deles. - Léo diz. - E se eu te contasse, ia fazer você se sentir melhor? Eu achei que talvez só fosse fazer você se sentir culpada."
+    },
+    {
+      "id": "cap-12-0148",
+      "type": "paragraph",
+      "text": "O pior é que ele não estava errado. Lorena não achava ruim o casamento de seus pais estar na pior, era seu sonho que eles se divorciassem. No entanto, ela se sente mal de saber que sua mãe está sofrendo, ainda mais considerando que ela continua sem corresponder completamente suas tentativas de aproximação. Ela queria muito já estar lá, mas é mais complicado que isso."
+    },
+    {
+      "id": "cap-12-0149",
+      "type": "paragraph",
+      "text": "– Você tá certo. - Ela fala."
+    },
+    {
+      "id": "cap-12-0150",
+      "type": "paragraph",
+      "text": "– Olha, que milagre."
+    },
+    {
+      "id": "cap-12-0151",
+      "type": "paragraph",
+      "text": "Lorena revira os olhos pra ele."
+    },
+    {
+      "id": "cap-12-0152",
+      "type": "paragraph",
+      "text": "– E você, como tá?"
+    },
+    {
+      "id": "cap-12-0153",
+      "type": "paragraph",
+      "text": "– Sei lá, to com a cabeça a mil. - Léo responde. - Eu vou levar a Vivi pra conhecer nossos pais."
+    },
+    {
+      "id": "cap-12-0154",
+      "type": "paragraph",
+      "text": "– Ah, vai? - Ela fica surpresa. - Quando?"
+    },
+    {
+      "id": "cap-12-0155",
+      "type": "paragraph",
+      "text": "– Na festa de fim de ano da fundação, semana que vem. - Ele responde. - Eu achei melhor o primeiro contato ser em público, para conter a língua do nosso querido pai. Eles já sabem que eu to com ela, e ele já ta surtando pelo fato dela ser da Chacrinha."
+    },
+    {
+      "id": "cap-12-0156",
+      "type": "paragraph",
+      "text": "– E ele não sabe de tudo?"
+    },
+    {
+      "id": "cap-12-0157",
+      "type": "paragraph",
+      "text": "– Você diz sobre ela ser trans? - Léo pergunta. - Não, a gente achou melhor eles se conhecerem antes de contar. Dependendo de como for, vou esperar o fim de ano, natal e tal passar, pra não piorar tudo ainda mais."
+    },
+    {
+      "id": "cap-12-0158",
+      "type": "paragraph",
+      "text": "– É, já se prepara pra lidar com a fera. - Lorena se sente mal pelo irmão ter que passar por algo parecido com o que ela passou. - Mas se bem que você sempre foi o filho preferido, o herdeiro perfeito dele. Capaz dele não te expulsar, só vai encher sua cabeça todo dia até você mudar de ideia."
+    },
+    {
+      "id": "cap-12-0159",
+      "type": "paragraph",
+      "text": "– Nossa Lorena, isso parece muito melhor mesmo. - Ele fala sarcasticamente, e depois toma um gole de seu whiskey. - Sabe, às vezes eu queria só sair da fundação, arrumar outro emprego, sair de casa de uma vez."
+    },
+    {
+      "id": "cap-12-0160",
+      "type": "paragraph",
+      "text": "– E por que você não faz isso?"
+    },
+    {
+      "id": "cap-12-0161",
+      "type": "paragraph",
+      "text": "Ele para, respirando fundo antes de responder."
+    },
+    {
+      "id": "cap-12-0162",
+      "type": "paragraph",
+      "text": "– Sinceramente? - Léo olha pra baixo, não olhando pra ela enquanto fala. - Eu não sei se sou bom mesmo no meu trabalho, ou se só tenho uma posição porque sou filho do chefe. Acho que eu tenho medo de tentar descobrir e quebrar a cara."
+    },
+    {
+      "id": "cap-12-0163",
+      "type": "paragraph",
+      "text": "Lorena sorri pra ele."
+    },
+    {
+      "id": "cap-12-0164",
+      "type": "paragraph",
+      "text": "– Tá vendo? - Ela fala. - É exatamente por isso que eu te chamei pra conversar hoje. Só você entende o que é ter sua autoconfiança completamente destruída por anos de convivência com Santiago Ferette."
+    },
+    {
+      "id": "cap-12-0165",
+      "type": "paragraph",
+      "text": "Léo ri, balançando a cabeça."
+    },
+    {
+      "id": "cap-12-0166",
+      "type": "paragraph",
+      "text": "– É, não é pros fracos. - Ele parece pensativo por um momento. - Sabe, você devia ir."
+    },
+    {
+      "id": "cap-12-0167",
+      "type": "paragraph",
+      "text": "– Ir aonde? - Lorena fica confusa."
+    },
+    {
+      "id": "cap-12-0168",
+      "type": "paragraph",
+      "text": "– Na festa de fim de ano da fundação. - Léo clarifica. - Ia ser ótimo ter você lá, na real. Ia ao menos tirar um pouco a atenção do pai de mim."
+    },
+    {
+      "id": "cap-12-0169",
+      "type": "paragraph",
+      "text": "– Leonardo, e em que mundo você acha que o pai ia me convidar pra ir na festa de fim de ano da fundação?"
+    },
+    {
+      "id": "cap-12-0170",
+      "type": "paragraph",
+      "text": "– Ele não precisa te convidar, ué. Ninguém vai barrar a filha do dono, a maioria das pessoas nem sabe que ele te expulsou, muito menos que você é gay. O pai sabe muito bem preservar a imagem dele."
+    },
+    {
+      "id": "cap-12-0171",
+      "type": "paragraph",
+      "text": "Lorena pensa como seria, só aparecer lá, como quem não quer nada."
+    },
+    {
+      "id": "cap-12-0172",
+      "type": "paragraph",
+      "text": "– Olha, ele ia ter um treco. - Ela dá uma risada. - Ainda mais se as pessoas não sabem do que aconteceu, acho que era capaz deu matar ele ali mesmo."
+    },
+    {
+      "id": "cap-12-0173",
+      "type": "paragraph",
+      "text": "– Tá vendo? - Leonardo diz. - Você ia se divertir, irritar o pai sempre foi seu passatempo favorito. E outra, se você for eu fico te devendo uma pra sempre."
+    },
+    {
+      "id": "cap-12-0174",
+      "type": "paragraph",
+      "text": "– Eu vou pensar, mas não prometo nada. - Ela fala pra ele. - Não sei se eu deveria ir atrás de mais problema."
+    },
+    {
+      "id": "cap-12-0175",
+      "type": "paragraph",
+      "text": "– E o que você vai fazer sobre seu atual problema?"
+    },
+    {
+      "id": "cap-12-0176",
+      "type": "paragraph",
+      "text": "– Ta aí uma boa pergunta. - Lorena suspira, pensando em Eduarda. - Voltar pra casa e conversar com ela, eu acho."
+    },
+    {
+      "id": "cap-12-0177",
+      "type": "paragraph",
+      "text": "– E você vai aceitar o que ela tá fazendo, ou vai surtar fazer as malas e ir embora?"
+    },
+    {
+      "id": "cap-12-0178",
+      "type": "paragraph",
+      "text": "– Eu não vou me mudar. - Lorena balança a cabeça. - Eu finalmente encontrei um lugar que parece um lar, eu não quero ter que abrir mão disso."
+    },
+    {
+      "id": "cap-12-0179",
+      "type": "paragraph",
+      "text": "– É o que eu acho. - Ele diz."
+    },
+    {
+      "id": "cap-12-0180",
+      "type": "paragraph",
+      "text": "Lorena sabe que esse sentimento engloba mais do que só o seu apartamento, em si. A verdade é que ela encontrou um lar em Eduarda, e não importa o quão irritada ela ficasse, Lorena faria o que fosse preciso pra não perder isso."
+    }
+  ],
+  "notes": {
+    "before": [],
+    "after": [
+      {
+        "id": "cap-12-0181",
+        "type": "paragraph",
+        "text": "Não me odeiem eu prometo que tá quase"
+      }
+    ]
+  }
+}

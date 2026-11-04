@@ -1,0 +1,3445 @@
+{
+  "id": "cap-20",
+  "blocks": [
+    {
+      "id": "cap-20-0003",
+      "type": "paragraph",
+      "text": "Juquinha",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Juquinha"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0004",
+      "type": "paragraph",
+      "text": "Eduarda almoça com seus pais, e depois passa em casa para buscar o Cadu, porque ela não quer deixar ele passar o natal sozinho. Não que ele estivesse muito animado em ir pra bagunça da casa de sua tia, mas ele também era parte da família, então ele que lide com isso."
+    },
+    {
+      "id": "cap-20-0005",
+      "type": "paragraph",
+      "text": "Quando ela chega, Lorena já tinha saído pra Maggye, e Eduarda suspira, porque tem sido impossível não pensar em Lorena em todos os minutos de seu dia. Desde que elas se beijaram, aquilo era tudo que ela pensava, ela ficava sorrindo igual boba só de lembrar, sem conseguir se conter. Então, ela lembrava de Lorena toda preocupada com ela no dia seguinte, dela dizendo pra Lorena que não se arrependia do beijo, de Lorena respondendo ‘Eu também não’, seguido de ‘Eu também não me arrependi da primeira vez.’",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Quando ela chega, Lorena já tinha saído pra Maggye, e Eduarda suspira, porque tem sido impossível não pensar em Lorena em todos os minutos de seu dia. Desde que elas se beijaram, aquilo era tudo que ela pensava, ela ficava sorrindo igual boba só de lembrar, sem conseguir se conter. Então, ela lembrava de Lorena toda preocupada com ela no dia seguinte, dela dizendo pra Lorena que não se arrependia do beijo, de Lorena respondendo "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "‘Eu também"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "não’"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", seguido de "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "‘Eu também não me arrependi da primeira vez.’"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0006",
+      "type": "paragraph",
+      "text": "Então Eduarda estava nas nuvens, ao mesmo tempo que ela estava levemente apavorada em pensar como as coisas iam desenvolver a partir dali. Ela não queria correr com nada, ela queria que elas fossem no tempo delas, descobrindo esse novo sentimento e essa nova parte da relação das duas aos poucos. Embora ela tenha que admitir que era muito difícil se segurar para não beijar Lorena toda vez que ela olha pra outra garota."
+    },
+    {
+      "id": "cap-20-0007",
+      "type": "paragraph",
+      "text": "Eduarda chega na casa de sua tia no final da tarde, seus pais já estão lá, e o resto de sua família está começando a chegar. Conhecendo eles, a noite seria longa, e todos estariam certamente bêbados até o final dela."
+    },
+    {
+      "id": "cap-20-0008",
+      "type": "paragraph",
+      "text": "Ela se serve de vinho, conversa um pouco com seus primos, e depois vai atrás de Cadu, para ver como está o gato. Ele está distraído brincando com um enfeite de natal que ele roubou da árvore - oops - e Eduarda tira uma foto."
+    },
+    {
+      "id": "cap-20-0009",
+      "type": "paragraph",
+      "text": "Juquinha: Olha quem também veio pro natal *foto anexada*",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Olha quem também veio pro natal"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "*foto anexada*"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0010",
+      "type": "paragraph",
+      "text": "Ela vai até o sofá, se sentando. A resposta chega depois de alguns minutos."
+    },
+    {
+      "id": "cap-20-0011",
+      "type": "paragraph",
+      "text": "Lorena: Aiiii não acredito que você levou ele!!!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Aiiii não acredito que você levou ele!!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0012",
+      "type": "paragraph",
+      "text": "Lorena: Coisa linda, to com saudades já.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Coisa linda, to com saudades já."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0013",
+      "type": "paragraph",
+      "text": "Juquinha: Ele também tá com saudades de você.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ele também tá com saudades de você."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0014",
+      "type": "paragraph",
+      "text": "Definitivamente não era só ele."
+    },
+    {
+      "id": "cap-20-0015",
+      "type": "paragraph",
+      "text": "Juquinha: E como ta aí na Maggye?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "E como ta aí na Maggye?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0016",
+      "type": "paragraph",
+      "text": "Lorena: Tudo ótimo *foto anexada*",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tudo ótimo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "*foto anexada*"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0017",
+      "type": "paragraph",
+      "text": "Juquinha abre a foto, vendo que era Lorena, Maggye e Junior juntos, sorrindo enquanto eles usavam touquinhas de natal. Lorena estava adorável, e Eduarda sorri."
+    },
+    {
+      "id": "cap-20-0018",
+      "type": "paragraph",
+      "text": "Lorena: A Maggye tá falando que você devia ter vindo.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "A Maggye tá falando que você devia ter vindo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0019",
+      "type": "paragraph",
+      "text": "Juquinha: Bem que eu queria.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Bem que eu queria."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0020",
+      "type": "paragraph",
+      "text": "Juquinha: No próximo ano, vamos passar todos juntos.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "No próximo ano, vamos passar todos juntos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0021",
+      "type": "paragraph",
+      "text": "Lorena: Eu gosto dessa ideia.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu gosto dessa ideia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0022",
+      "type": "paragraph",
+      "text": "Lorena: Podemos fazer lá em casa.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Podemos fazer lá em casa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0023",
+      "type": "paragraph",
+      "text": "Pensar que daqui há um ano ela e Lorena ainda estariam morando juntas faz Eduarda sorrir ainda mais."
+    },
+    {
+      "id": "cap-20-0024",
+      "type": "paragraph",
+      "text": "Juquinha: Já pode deixar marcado.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Já pode deixar marcado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0025",
+      "type": "paragraph",
+      "text": "Antes que Lorena pudesse responder, no entanto, Eduarda é distraída por alguém aparecendo atrás dela."
+    },
+    {
+      "id": "cap-20-0026",
+      "type": "paragraph",
+      "text": "– Com quem você tá conversando com esse sorriso bobo, hein? - Violeta, sua mãe, pergunta pra ela."
+    },
+    {
+      "id": "cap-20-0027",
+      "type": "paragraph",
+      "text": "Juquinha imediatamente bloqueia seu celular, sentindo que foi pega no pulo."
+    },
+    {
+      "id": "cap-20-0028",
+      "type": "paragraph",
+      "text": "– Com ninguém. - Ela fala, tentando disfarçar. - Era só a Lorena."
+    },
+    {
+      "id": "cap-20-0029",
+      "type": "paragraph",
+      "text": "Seus pais sabiam que Lorena era a menina que estava morando com ela, claro. Sua mãe tinha apoiado ela a procurar uma colega de apartamento, pois disse que se sentia melhor sabendo que Eduarda teria outra pessoa em casa caso ela precisasse de alguma coisa."
+    },
+    {
+      "id": "cap-20-0030",
+      "type": "paragraph",
+      "text": "– Ah, a famosa Lorena. - Sua mãe se senta no sofá ao lado dela. - E quando a gente vai conhecer ela?"
+    },
+    {
+      "id": "cap-20-0031",
+      "type": "paragraph",
+      "text": "– Por que você quer conhecer ela? - A voz de Eduarda fica um pouco aguda."
+    },
+    {
+      "id": "cap-20-0032",
+      "type": "paragraph",
+      "text": "– Porque ela tá morando com minha filha, claro. - Sua mãe responde. - Eu quero saber quem é a menina que tá dividindo casa com meu bebe."
+    },
+    {
+      "id": "cap-20-0033",
+      "type": "paragraph",
+      "text": "Eduarda revira os olhos."
+    },
+    {
+      "id": "cap-20-0034",
+      "type": "paragraph",
+      "text": "– Não sei, às vezes a gente tenta marcar alguma coisa."
+    },
+    {
+      "id": "cap-20-0035",
+      "type": "paragraph",
+      "text": "– Eu ia adorar. - Sua mãe fala. - Ela tá passando natal com a família dela?"
+    },
+    {
+      "id": "cap-20-0036",
+      "type": "paragraph",
+      "text": "Eduarda abre a boca pra responder, depois fecha, não sabendo ao certo o que falar."
+    },
+    {
+      "id": "cap-20-0037",
+      "type": "paragraph",
+      "text": "– Com a família de uma amiga, na verdade. - Ela acaba dizendo. - A família da Lorena… É complicado. - Ela fala, e sua mãe franze o cenho pra ela. Eduarda solta um suspiro. - Sabe, nem todos os pais são tão amorosos e cabeça aberta quanto você e papai."
+    },
+    {
+      "id": "cap-20-0038",
+      "type": "paragraph",
+      "text": "O olhar de sua mãe fica um pouco triste, e Eduarda sabe que ela entendeu."
+    },
+    {
+      "id": "cap-20-0039",
+      "type": "paragraph",
+      "text": "– Eu sei. - Ela estende uma mão, fazendo carinho no cabelo de Eduarda. - Você sabe que eu e seu pai fazemos de tudo por você."
+    },
+    {
+      "id": "cap-20-0040",
+      "type": "paragraph",
+      "text": "– Sim, eu sei. - Eduarda diz. - E eu sei que eu não falo muito, porque sempre foi assim, mas eu sou muito grata por você e papai sempre terem me aceitado."
+    },
+    {
+      "id": "cap-20-0041",
+      "type": "paragraph",
+      "text": "– Você não tem que agradecer a gente por isso. - Sua mãe sorri. - Sabe, eu nem tive escolha. Você devia ter uns cinco anos quando chegou em casa e me contou sobre uma amiguinha sua da escola, que você gostava mais do que todas as outras. Ali eu já tinha entendido. - Ela conta e Eduarda sorri, era mesmo a cara dela ter feito isso. - Na verdade, eu fiquei foi aliviada, que não ia ter que me preocupar com você se envolvendo com homem."
+    },
+    {
+      "id": "cap-20-0042",
+      "type": "paragraph",
+      "text": "Ela solta uma risada."
+    },
+    {
+      "id": "cap-20-0043",
+      "type": "paragraph",
+      "text": "– Ai mãe, eu também."
+    },
+    {
+      "id": "cap-20-0044",
+      "type": "paragraph",
+      "text": "– É, só que você gosta de me dar trabalho né, e agora eu tenho que me preocupar com você na polícia. - Sua mãe não tinha reagido muito bem aos machucados de Eduarda."
+    },
+    {
+      "id": "cap-20-0045",
+      "type": "paragraph",
+      "text": "– Eu achei que a gente tinha concordado em deixar isso pra lá. - Elas já tinham tido essa discussão no dia anterior."
+    },
+    {
+      "id": "cap-20-0046",
+      "type": "paragraph",
+      "text": "– Tá bom, tá bom. - Violeta aceita. - Mudando de assunto, então…"
+    },
+    {
+      "id": "cap-20-0047",
+      "type": "paragraph",
+      "text": "– Diga."
+    },
+    {
+      "id": "cap-20-0048",
+      "type": "paragraph",
+      "text": "– Pelo que você tá me falando, quer dizer que essa Lorena também gosta de meninas?"
+    },
+    {
+      "id": "cap-20-0049",
+      "type": "paragraph",
+      "text": "Eduarda arregala os olhos, engolindo em seco."
+    },
+    {
+      "id": "cap-20-0050",
+      "type": "paragraph",
+      "text": "– E por que você quer saber disso? - Ela pergunta, bebendo um gole de seu vinho."
+    },
+    {
+      "id": "cap-20-0051",
+      "type": "paragraph",
+      "text": "– Nada, não… - Sua mãe olha desconfiada pra ela. - Só curiosidade, mesmo."
+    },
+    {
+      "id": "cap-20-0052",
+      "type": "paragraph",
+      "text": "– Então tá. - Eduarda se levanta do sofá, querendo se livrar dessa conversa. - Eu vou pegar mais vinho."
+    },
+    {
+      "id": "cap-20-0053",
+      "type": "paragraph",
+      "text": "Ela vai até a cozinha, e chegando lá seu celular treme novamente em seu bolso. Ela já começa a sorrir, esperando ver o nome de Lorena, mas fica um pouco decepcionada quando é só o Paulinho."
+    },
+    {
+      "id": "cap-20-0054",
+      "type": "paragraph",
+      "text": "Paulinho: Feliz natal. *foto anexada*",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Paulinho:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Feliz natal."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "*foto anexada*"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0055",
+      "type": "paragraph",
+      "text": "Ela abre a foto, que mostrava Paulinho na delegacia."
+    },
+    {
+      "id": "cap-20-0056",
+      "type": "paragraph",
+      "text": "Juquinha: Meu deus, você tá dando plantão no natal??",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Meu deus, você tá dando plantão no natal??"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0057",
+      "type": "paragraph",
+      "text": "Paulinho: Alguém tem que dar, né princesa.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Paulinho:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Alguém tem que dar, né princesa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0058",
+      "type": "paragraph",
+      "text": "Paulinho: Amanhã eu vou na casa da Gerluce.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Paulinho:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Amanhã eu vou na casa da Gerluce."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0059",
+      "type": "paragraph",
+      "text": "Juquinha: Bem, amanhã à noite eu to aí.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Bem, amanhã à noite eu to aí."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0060",
+      "type": "paragraph",
+      "text": "Paulinho: E você tá recuperada?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Paulinho:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "E você tá recuperada?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0061",
+      "type": "paragraph",
+      "text": "Juquinha: Eu te falei que eu to ótima.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu te falei que eu to ótima."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0062",
+      "type": "paragraph",
+      "text": "Juquinha: Eu sou cascuda, Paulinho.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu sou cascuda, Paulinho."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0063",
+      "type": "paragraph",
+      "text": "Paulinho: Aham, sei…",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Paulinho:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Aham, sei…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0064",
+      "type": "paragraph",
+      "text": "Paulinho: E como tá seu natal?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Paulinho:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "E como tá seu natal?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0065",
+      "type": "paragraph",
+      "text": "Juquinha: Tá ótimo.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tá ótimo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0066",
+      "type": "paragraph",
+      "text": "Juquinha: Eu tenho umas coisas pra te contar…",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu tenho umas coisas pra te contar…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0067",
+      "type": "paragraph",
+      "text": "Na correria da operação e tudo que rolou, ela nem tinha tido oportunidade de falar pro Paulinho sobre ter beijado a Lorena."
+    },
+    {
+      "id": "cap-20-0068",
+      "type": "paragraph",
+      "text": "Paulinho: Ah, é?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Paulinho:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ah, é?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0069",
+      "type": "paragraph",
+      "text": "Paulinho: É sobre quem eu to pensando?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Paulinho:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "É sobre quem eu to pensando?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0070",
+      "type": "paragraph",
+      "text": "Juquinha: Talvez.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Talvez."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0071",
+      "type": "paragraph",
+      "text": "Paulinho: Agora você precisa me falar!!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Paulinho:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Agora você precisa me falar!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0072",
+      "type": "paragraph",
+      "text": "Juquinha: Amanhã.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Amanhã."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0073",
+      "type": "paragraph",
+      "text": "Paulinho: Chata.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Paulinho:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Chata."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0074",
+      "type": "paragraph",
+      "text": "Paulinho: Mas tá bom.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Paulinho:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Mas tá bom."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0075",
+      "type": "paragraph",
+      "text": "Paulinho: Feliz natal, cenourinha.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Paulinho:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Feliz natal, cenourinha."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0076",
+      "type": "paragraph",
+      "text": "Ela revira os olhos pro apelido."
+    },
+    {
+      "id": "cap-20-0077",
+      "type": "paragraph",
+      "text": "Juquinha: Feliz natal.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Feliz natal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0078",
+      "type": "paragraph",
+      "text": "Ela desliga o aparelho, finalmente pegando mais vinho e voltando para conversar com sua família. Eduarda aproveita o resto da noite, tem a ceia, eles fazem um amigo oculto, todo mundo está se divertindo, bebendo, e ela está feliz de passar esse tempo com eles."
+    },
+    {
+      "id": "cap-20-0079",
+      "type": "paragraph",
+      "text": "No final, já de madrugada, seu pai deixa ela em casa, já que ela tinha bebido. Ela teria que voltar no dia seguinte pra buscar o carro dela, mas tudo bem. Chegando em casa, a primeira coisa que ela pensa é em como ela queria que Lorena estivesse ali, e não dormindo na casa da Maggye."
+    },
+    {
+      "id": "cap-20-0080",
+      "type": "paragraph",
+      "text": "Eduarda vai até seu quarto, colocando um pijama, escovando os dentes e deitando em sua cama. Àquela altura, ela está levemente bêbada, e pega seu celular, enviando uma mensagem."
+    },
+    {
+      "id": "cap-20-0081",
+      "type": "paragraph",
+      "text": "Juquinha: Cheguei em cwsa.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Cheguei em cwsa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0082",
+      "type": "paragraph",
+      "text": "Juquinha: Boa noitr.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Boa noitr."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0083",
+      "type": "paragraph",
+      "text": "A resposta chega quase imediatamente."
+    },
+    {
+      "id": "cap-20-0084",
+      "type": "paragraph",
+      "text": "Lorena: Que bom.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Que bom."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0085",
+      "type": "paragraph",
+      "text": "Lorena: Você tá bêbada?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Você tá bêbada?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0086",
+      "type": "paragraph",
+      "text": "Juquinha: Talvez.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Talvez."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0087",
+      "type": "paragraph",
+      "text": "Lorena: Mas é claro.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Mas é claro."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0088",
+      "type": "paragraph",
+      "text": "Lorena: Espero que você não tenha dirigido.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Espero que você não tenha dirigido."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0089",
+      "type": "paragraph",
+      "text": "Juquinha: Nyncw",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Nyncw"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0090",
+      "type": "paragraph",
+      "text": "Juquinha: Nunca.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Nunca."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0091",
+      "type": "paragraph",
+      "text": "Lorena: Você devia dormir.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Você devia dormir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0092",
+      "type": "paragraph",
+      "text": "Juquinha: Eu vou.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu vou."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0093",
+      "type": "paragraph",
+      "text": "Juquinha: Cpmo foi seu natal?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Cpmo foi seu natal?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0094",
+      "type": "paragraph",
+      "text": "Lorena: Foi ótimo.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Foi ótimo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0095",
+      "type": "paragraph",
+      "text": "Lorena: E o seu?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "E o seu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0096",
+      "type": "paragraph",
+      "text": "Juquinha: Também.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Também."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0097",
+      "type": "paragraph",
+      "text": "Juquinha: Mas eu odeio dormir em casa sem voce.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Mas eu odeio dormir em casa sem voce."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0098",
+      "type": "paragraph",
+      "text": "Lorena: Agora você sabe como eu me sinto quando você tá de plantão.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Agora você sabe como eu me sinto quando você tá de plantão."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0099",
+      "type": "paragraph",
+      "text": "Juquinha: Não gosteu.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Não gosteu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0100",
+      "type": "paragraph",
+      "text": "Lorena: Eu também odeio toda vez.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu também odeio toda vez."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0101",
+      "type": "paragraph",
+      "text": "Juquinha: Vou me demitir, então.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vou me demitir, então."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0102",
+      "type": "paragraph",
+      "text": "Lorena: Eu sei que você não ta falando sério, mas eu não ia reclamar…",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu sei que você não ta falando sério, mas eu não ia reclamar…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0103",
+      "type": "paragraph",
+      "text": "Lorena: Eu continuo preocupada com você.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu continuo preocupada com você."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0104",
+      "type": "paragraph",
+      "text": "Juquinha: Eu axho muito fofo.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu axho muito fofo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0105",
+      "type": "paragraph",
+      "text": "Juquinha: Mas eu sou cascuda.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Mas eu sou cascuda."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0106",
+      "type": "paragraph",
+      "text": "Lorena: Não me faz rir, a Maggye já tá dormindo.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Não me faz rir, a Maggye já tá dormindo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0107",
+      "type": "paragraph",
+      "text": "Juquinha: EU SOU MESMO.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "EU SOU MESMO."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0108",
+      "type": "paragraph",
+      "text": "Lorena: Se você diz…",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Se você diz…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0109",
+      "type": "paragraph",
+      "text": "Juquinha: E você não ta dormindo pq?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "E você não ta dormindo pq?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0110",
+      "type": "paragraph",
+      "text": "Lorena: Queria esperar você chegar em casa.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Queria esperar você chegar em casa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0111",
+      "type": "paragraph",
+      "text": "Juquinha: Isso tudo é saudade?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Isso tudo é saudade?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0112",
+      "type": "paragraph",
+      "text": "Lorena: Talvez seja.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Talvez seja."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0113",
+      "type": "paragraph",
+      "text": "Lorena: Vai dormir, Duda.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vai dormir, Duda."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0114",
+      "type": "paragraph",
+      "text": "Lorena: Amanhã a gente se fala.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Amanhã a gente se fala."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0115",
+      "type": "paragraph",
+      "text": "Juquinha: Tá bom.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tá bom."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0116",
+      "type": "paragraph",
+      "text": "Juquinha: Boa noite.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Juquinha:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Boa noite."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0117",
+      "type": "paragraph",
+      "text": "Lorena: Boa noite.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lorena:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Boa noite."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0118",
+      "type": "paragraph",
+      "text": "Àquela altura, Eduarda já está realmente quase caindo no sono. Ela desliga seu celular e se ajeita na cama."
+    },
+    {
+      "id": "cap-20-0119",
+      "type": "paragraph",
+      "text": "– Eu também tô com saudade, Lorena… - Ela sussurra pra si mesma, antes de fechar seus olhos, se deixando levar pelo cansaço."
+    },
+    {
+      "id": "cap-20-0120",
+      "type": "paragraph",
+      "text": "Lorena",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0121",
+      "type": "paragraph",
+      "text": "O natal de Lorena foi melhor do que ela esperava. Antes, ela realmente queria que o feriado não chegasse, achando que seria um dia muito difícil pra ela. No entanto, apesar dela ter ficado emocionada com o presente de sua mãe, tinha sido bom passar natal em um lugar em que ela se sentia acolhida de verdade, em que ela podia ser ela mesma e tudo bem. Na sua casa, Lorena sempre odiava ter que lidar com seu pai e o resto da família dele, que dividiam o mesmo pensamento retrógrado. Na galeria, eles eram uma família de fato, e ela não precisava se preocupar em falar alguma coisa errada ou se segurar para não brigar com as pessoas logo no natal. Tirando a Lucélia e seus comentários desnecessários, mas Lorena já tinha aprendido a relevar essa parte."
+    },
+    {
+      "id": "cap-20-0122",
+      "type": "paragraph",
+      "text": "Ela também tinha gostado de receber as mensagens de Eduarda, a verdade é que mesmo elas passando só um dia longe uma da outra, Lorena já estava com saudades, o que era um pouco patético. Era mais forte que ela, no entanto. Lorena queria estar com Eduarda por quanto tempo ela conseguisse."
+    },
+    {
+      "id": "cap-20-0123",
+      "type": "paragraph",
+      "text": "No dia 25, depois de dormir na Maggye, Lorena passou o dia lá. Eles fizeram um almoço de natal todos juntos e foi tão bom quanto a ceia no dia anterior. Ela chegou em casa no final da tarde, abrindo a porta para encontrar a casa vazia. Eduarda tinha avisado que ia passar o dia na casa de sua avó, então já era esperado. Lorena esperava que não demorasse muito para a ruiva chegar."
+    },
+    {
+      "id": "cap-20-0124",
+      "type": "paragraph",
+      "text": "Ela vai até seu quarto, e assim que ela entra, a primeira coisa que Lorena nota é que tem uma caixa em cima de sua cama, com embrulho de natal. Ela supõe que não seja outro presente misterioso de sua mãe, então ela se aproxima, um pouco curiosa."
+    },
+    {
+      "id": "cap-20-0125",
+      "type": "paragraph",
+      "text": "Assim que Lorena chega mais perto, ela vê que tem um bilhete pregado na caixa."
+    },
+    {
+      "id": "cap-20-0126",
+      "type": "paragraph",
+      "text": "‘Feliz natal!!!",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "‘Feliz natal!!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0127",
+      "type": "paragraph",
+      "text": "Eu sei que você disse que não era pra te dar nada, mas foi mais forte do que eu. Espero que você goste :)",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu sei que você disse que não era pra te dar nada, mas foi mais forte do que eu."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Espero que você goste :)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0128",
+      "type": "paragraph",
+      "text": "Duda’",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Duda’"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0129",
+      "type": "paragraph",
+      "text": "Lorena morde seu lábio, jogando seu cabelo pra trás, já sentindo seu coração acelerar antes mesmo de abrir o presente. É claro que Eduarda ia fazer alguma coisa do tipo, ela nunca se cansa de surpreender Lorena de todas as formas possíveis."
+    },
+    {
+      "id": "cap-20-0130",
+      "type": "paragraph",
+      "text": "Ela abre com cuidado, não querendo estragar o embrulho. A primeira coisa que ela vê é um suéter listrado, amarelo e preto. Lorena solta uma risada, balançando sua cabeça. Claro que Eduarda não ia deixar a história das roupas listradas pra trás."
+    },
+    {
+      "id": "cap-20-0131",
+      "type": "paragraph",
+      "text": "Lorena segura o suéter, olhando melhor pra ele. E não é que ele era mesmo lindo? E super macio, Lorena tinha certeza que ia se tornar uma de suas peças de roupa favoritas."
+    },
+    {
+      "id": "cap-20-0132",
+      "type": "paragraph",
+      "text": "Então, ela olha de volta pra caixa, vendo que tem outro presente dentro: um livro de poesias. Lorena segura ele em suas mãos, sentando no canto da cama e lendo o que está escrito na parte de trás. É um livro com diversas poesias de autores brasileiros, juntando as melhores obras de poetas conhecidos. Ela já ama o presente imediatamente, até porque ele é tão Eduarda, que não tem como ela não amar. Então, Lorena repara que tem um marcador de livro em uma das páginas. Ela acha aquilo curioso, e abre para encontrar um poema sublinhado por Eduarda, de Cora Coralina."
+    },
+    {
+      "id": "cap-20-0133",
+      "type": "paragraph",
+      "text": "Meu destino",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Meu destino"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0134",
+      "type": "paragraph",
+      "text": "Nas palmas de tuas mãos\nleio as linhas da minha vida.\nLinhas cruzadas, sinuosas,\ninterferindo no teu destino.\nNão te procurei, não me procurastes –\níamos sozinhos por estradas diferentes.\nIndiferentes, cruzamos\nPassavas com o fardo da vida…\nCorri ao teu encontro.\nSorri. Falamos.\nEsse dia foi marcado\ncom a pedra branca\nda cabeça de um peixe.\nE, desde então, caminhamos\njuntos pela vida…",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Nas palmas de tuas mãos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "leio as linhas da minha vida."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Linhas cruzadas, sinuosas,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "interferindo no teu destino."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Não te procurei, não me procurastes –"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "íamos sozinhos por estradas diferentes."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Indiferentes, cruzamos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Passavas com o fardo da vida…"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Corri ao teu encontro."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Sorri. Falamos."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Esse dia foi marcado"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "com a pedra branca"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "da cabeça de um peixe."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "E, desde então, caminhamos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "juntos pela vida…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0135",
+      "type": "paragraph",
+      "text": "Cora Coralina",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "emphasis",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Cora Coralina"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0136",
+      "type": "paragraph",
+      "text": "Ao acabar de ler, Lorena sente um aperto na sua garganta, já ficando um pouco emocionada. Então, ela percebe que tem mais escrito no canto da página, de caneta, com a letra de Eduarda:"
+    },
+    {
+      "id": "cap-20-0137",
+      "type": "paragraph",
+      "text": "‘Lorena,",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "‘Lorena,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0138",
+      "type": "paragraph",
+      "text": "Desde que te conheci, acordo e agradeço todos os dias ao destino por ter te colocado na minha vida. Você chegou como o sol da manhã, iluminando e aquecendo tudo que toca. Não foi só esse apartamento que você iluminou, mas a minha vida inteira. Espero que esses meses sejam apenas o começo da nossa história.’",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Desde que te conheci, acordo e agradeço todos os dias ao destino por ter te colocado na"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "minha vida. Você chegou como o sol da manhã, iluminando e aquecendo tudo que toca. Não"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "foi só esse apartamento que você iluminou, mas a minha vida inteira. Espero que esses meses"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sejam apenas o começo da nossa história.’"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-20-0139",
+      "type": "paragraph",
+      "text": "Antes que Lorena perceba, tem lágrimas escorrendo por seu rosto. Ela fecha seus olhos, apertando o livro no peito, como se abraçar ele fosse o mesmo de abraçar Eduarda. Parece surreal que alguém tenha de fato escrito aquilo sobre ela, ainda mais a pessoa mais maravilhosa que ela já conheceu."
+    },
+    {
+      "id": "cap-20-0140",
+      "type": "paragraph",
+      "text": "Ela fica tão atordoada, que ela não percebe a chave na porta da frente, nem que Eduarda chegou em casa até que a garota esteja na porta de seu quarto."
+    },
+    {
+      "id": "cap-20-0141",
+      "type": "paragraph",
+      "text": "– Lo? - Eduarda chama, e Lorena fica um pouco surpresa, olhando na direção dela. O olhar de Eduarda muda imediatamente quando ela percebe as lágrimas no rosto de Lorena. Ela praticamente corre até Lorena, sentando ao seu lado na borda da cama. - Lorena, o que foi que aconteceu? - Eduarda coloca as mãos em seu rosto, secando suas lágrimas."
+    },
+    {
+      "id": "cap-20-0142",
+      "type": "paragraph",
+      "text": "– Nada, é só… - Lorena respira fundo, tentando se explicar. - O seu presente. - Ela fala, mostrando o livro pra ela."
+    },
+    {
+      "id": "cap-20-0143",
+      "type": "paragraph",
+      "text": "Eduarda franze o cenho, parecendo confusa."
+    },
+    {
+      "id": "cap-20-0144",
+      "type": "paragraph",
+      "text": "– O meu presente? - Ela pergunta. - Mas não era pra te fazer chorar."
+    },
+    {
+      "id": "cap-20-0145",
+      "type": "paragraph",
+      "text": "Lorena solta uma risada, achando ela adorável, como sempre."
+    },
+    {
+      "id": "cap-20-0146",
+      "type": "paragraph",
+      "text": "– Não são lágrimas de tristeza. - Ela explica. - Eu só… Eu fiquei emocionada, com o que você escreveu."
+    },
+    {
+      "id": "cap-20-0147",
+      "type": "paragraph",
+      "text": "Os olhos de Eduarda brilham, e ela abre um sorriso, uma mão ainda no rosto de Lorena."
+    },
+    {
+      "id": "cap-20-0148",
+      "type": "paragraph",
+      "text": "– É sério?"
+    },
+    {
+      "id": "cap-20-0149",
+      "type": "paragraph",
+      "text": "– Sim. - Lorena responde. - Não sei, Duda, é só que… - Lorena pausa, tentando encontrar as palavras. - Acho que eu nunca me senti tão… Desejada, talvez? Como se eu realmente tivesse melhorado a vida de alguém, como se você realmente me quisesse aqui."
+    },
+    {
+      "id": "cap-20-0150",
+      "type": "paragraph",
+      "text": "– Lorena, você melhorou minha vida desde o momento que você pisou por aquela porta. -Eduarda fala, sem nem titubear. Lorena consegue enxergar a emoção em seus olhos, como se ela também quisesse chorar. - É claro que eu te quero aqui. Eu odeio que outras pessoas na sua vida fizeram você se sentir como se você fosse um fardo, porque você nunca foi um fardo pra mim."
+    },
+    {
+      "id": "cap-20-0151",
+      "type": "paragraph",
+      "text": "Lorena sente mais lágrimas se formarem em seus olhos. Dizendo aquilo, é como se Eduarda estivesse apaziguando todas as suas inseguranças, todos os medos de que Lorena não era boa o suficiente pra ela, que ela não era boa o suficiente pra ninguém."
+    },
+    {
+      "id": "cap-20-0152",
+      "type": "paragraph",
+      "text": "– Você não faz ideia do que significa ouvir isso."
+    },
+    {
+      "id": "cap-20-0153",
+      "type": "paragraph",
+      "text": "Eduarda apenas olha pra ela, então, ela se aproxima, beijando as lágrimas de Lorena. Ela beija todo seu rosto, até que Lorena tenha parado de chorar, seu coração quase pulando pra fora do peito. Então, Eduarda se inclina um pouco pra trás, olhando pra Lorena novamente. Elas trocam um olhar por um segundo, antes das duas se aproximarem, sem nem pensar, e quando Lorena vê seus lábios estão se encostando."
+    },
+    {
+      "id": "cap-20-0154",
+      "type": "paragraph",
+      "text": "O beijo é mais intenso do que o último, como se elas não pudessem mais esperar por aquilo, como se com aquele beijo elas estivessem tentando dizer todos os sentimentos que elas ainda não tinham dito em voz alta. Lorena sabia que ainda tinha tanto para explorar, tanto para elas conversarem e descobrirem juntas, mas naquele momento, tudo que ela queria era sentir os lábios de Eduarda nos seus, o gosto da ruiva em sua boca, a confirmação física de tudo que ela vinha sentindo fazia semanas."
+    },
+    {
+      "id": "cap-20-0155",
+      "type": "paragraph",
+      "text": "Lorena coloca a mão no rosto de Eduarda, que por sua vez leva sua mão ao pescoço de Lorena, emaranhando-a em seus cabelos, intensificando o beijo. Lorena não sabe ao certo quanto tempo dura, as duas seguindo o ritmo uma da outra, virando o rosto a medida que ajustam o encaixe, uma puxada de lábio aqui e ali."
+    },
+    {
+      "id": "cap-20-0156",
+      "type": "paragraph",
+      "text": "Eventualmente, quando Lorena já está um pouco sem ar, elas partem, se movendo um pouco pra trás e olhando uma pra outra. Lorena não sabe muito bem o que dizer, mas então Eduarda sorri, aquele sorriso que ilumina o mundo inteiro, e se aproxima, dando um selinho em Lorena."
+    },
+    {
+      "id": "cap-20-0157",
+      "type": "paragraph",
+      "text": "Quando Eduarda se afasta novamente, Lorena tem um sorriso em seu próprio rosto, sem conseguir e sem querer se conter, se permitindo sentir todos os sentimentos dentro dela."
+    },
+    {
+      "id": "cap-20-0158",
+      "type": "paragraph",
+      "text": "Ela morde seu lábio, e elas se olham por mais um momento."
+    },
+    {
+      "id": "cap-20-0159",
+      "type": "paragraph",
+      "text": "– Eu também… - Lorena quebra o silêncio, limpando sua garganta. - Eu também tenho um presente pra você."
+    },
+    {
+      "id": "cap-20-0160",
+      "type": "paragraph",
+      "text": "– Sério? - Eduarda arqueia suas sobrancelhas. - Você não precisava me dar nada."
+    },
+    {
+      "id": "cap-20-0161",
+      "type": "paragraph",
+      "text": "– Nem você, mas você deu mesmo assim. - Lorena se levanta da cama, indo até seu armário, onde ela tinha deixado o presente. - Não é nada demais, é só… Uma coisa que eu fiz."
+    },
+    {
+      "id": "cap-20-0162",
+      "type": "paragraph",
+      "text": "– Que você fez? - Eduarda pergunta, curiosa."
+    },
+    {
+      "id": "cap-20-0163",
+      "type": "paragraph",
+      "text": "Lorena pega o pacote e volta para onde a ruiva estava, entregando pra ela. Também estava embalado com embrulho de natal."
+    },
+    {
+      "id": "cap-20-0164",
+      "type": "paragraph",
+      "text": "– É, mas sério, não é nada demais. - Lorena repete. - Eu até queria te dar outra coisa, mas eu fiquei pensando, e eu não sabia o qu-"
+    },
+    {
+      "id": "cap-20-0165",
+      "type": "paragraph",
+      "text": "– Lorena. - Eduarda a interrompe, colocando uma mão em seu braço. - Eu tenho certeza que eu vou amar. - Ela diz, então ela pega o presente, abrindo com cuidado."
+    },
+    {
+      "id": "cap-20-0166",
+      "type": "paragraph",
+      "text": "Assim que Eduarda olha pro que tem dentro, ela arregala os olhos, parecendo um pouco surpresa. Era um álbum de fotos, e então ela abre ele, começando a passar as páginas. Dentro, havia diversas fotos que Lorena tinha tirado desde que ela tinha ido morar ali, com sua câmera, mas também com seu celular. Tinha fotos delas juntas, nas vezes que elas saíram para passear, ou fotos delas com seus amigos, fotos de Cadu, fotos delas juntas no apartamento. Também tinham muitas fotos de Eduarda, mais até do que Lorena se lembrava de ter tirado. Talvez ela já estava encantada pela outra garota bem antes e bem mais do que ela percebeu."
+    },
+    {
+      "id": "cap-20-0167",
+      "type": "paragraph",
+      "text": "Eduarda olha pro álbum, e depois olha de volta pra ela, seus olhos brilhando como os de uma criança que ganhou o presente que ela queria no natal."
+    },
+    {
+      "id": "cap-20-0168",
+      "type": "paragraph",
+      "text": "– Lo, eu… Eu amei. - Ela sorri. - Sério, eu nem sabia que você tinha tirado todas essas fotos."
+    },
+    {
+      "id": "cap-20-0169",
+      "type": "paragraph",
+      "text": "Lorena abre um sorriso tímido."
+    },
+    {
+      "id": "cap-20-0170",
+      "type": "paragraph",
+      "text": "– Na verdade eu também só fui perceber depois. - Ela se aproxima um pouco mais de Eduarda, ainda em pé, ao lado da cama. - Você gostou mesmo?"
+    },
+    {
+      "id": "cap-20-0171",
+      "type": "paragraph",
+      "text": "– Sim. - Eduarda olha pra ela. - É perfeito."
+    },
+    {
+      "id": "cap-20-0172",
+      "type": "paragraph",
+      "text": "– Não tá completo. - Lorena fala. - Não tá nem na metade ainda, na verdade. Mas eu achei que a gente podia-"
+    },
+    {
+      "id": "cap-20-0173",
+      "type": "paragraph",
+      "text": "– Completar aos poucos? - Eduarda completa."
+    },
+    {
+      "id": "cap-20-0174",
+      "type": "paragraph",
+      "text": "– Sim. - Lorena sorri."
+    },
+    {
+      "id": "cap-20-0175",
+      "type": "paragraph",
+      "text": "Então, Eduarda se levanta da cama, deixando o álbum ali, e parando na frente de Lorena."
+    },
+    {
+      "id": "cap-20-0176",
+      "type": "paragraph",
+      "text": "– Eu adoro essa ideia. - Ela segura a mão de Lorena. - A gente ainda vai viver muita coisa, né?"
+    },
+    {
+      "id": "cap-20-0177",
+      "type": "paragraph",
+      "text": "– Eu espero que sim. - Com sua mão livre, Lorena leva uma mão até o cabelo de Eduarda, colocando um fio atrás de sua orelha."
+    },
+    {
+      "id": "cap-20-0178",
+      "type": "paragraph",
+      "text": "A policial olha pra ela, seus olhos impossivelmente grandes, e então ela se aproxima um pouco mais de Lorena, levando uma mão ao seu rosto."
+    },
+    {
+      "id": "cap-20-0179",
+      "type": "paragraph",
+      "text": "– Obrigada. - Ela fala. - Pelo presente, e… Por tudo."
+    },
+    {
+      "id": "cap-20-0180",
+      "type": "paragraph",
+      "text": "Lorena sorri. Então, ela se aproxima, beijando Eduarda mais uma vez."
+    },
+    {
+      "id": "cap-20-0181",
+      "type": "paragraph",
+      "text": "Assim que seus lábios se encontram, Eduarda move suas mãos pra cintura de Lorena, puxando ela mais para perto. Lorena por sua vez, leva uma mão ao seu rosto e a outra ao pescoço da ruiva, também intensificando o beijo. Beijar Eduarda ainda parece mágico, quase como se não fosse real, como se Lorena fosse acordar e descobrir que nada passou de um sonho. Ela queria morar naquele beijo, passar o resto de sua vida ali."
+    },
+    {
+      "id": "cap-20-0182",
+      "type": "paragraph",
+      "text": "Esse dura um pouco menos que o anterior, e quando elas se afastam, Lorena dá alguns beijinhos no canto da boca de Eduarda, que sorri."
+    },
+    {
+      "id": "cap-20-0183",
+      "type": "paragraph",
+      "text": "– Olha, eu realmente tô amando tá aqui com você. - Eduarda fala. - Mas-"
+    },
+    {
+      "id": "cap-20-0184",
+      "type": "paragraph",
+      "text": "– Você precisa ir pra delegacia? - Lorena lembrava que Eduarda tinha falado que teria plantão hoje."
+    },
+    {
+      "id": "cap-20-0185",
+      "type": "paragraph",
+      "text": "– Sim. - Ela confirma, enrugando o nariz. - Eu realmente queria poder ficar."
+    },
+    {
+      "id": "cap-20-0186",
+      "type": "paragraph",
+      "text": "– Não é justo você já ter que trabalhar de novo. - Lorena leva uma mão ao rosto de Eduarda, passando ela por seus machucados. Eles já estavam começando a melhorar."
+    },
+    {
+      "id": "cap-20-0187",
+      "type": "paragraph",
+      "text": "– É, e eu vou ter que trabalhar muito nos próximos dias. - Ela conta. - Pra compensar os dias que eu vou tirar pra nossa viagem de ano novo."
+    },
+    {
+      "id": "cap-20-0188",
+      "type": "paragraph",
+      "text": "Elas iriam viajar no dia 29, e agora que as coisas entre ela e Eduarda tinham se acertado, Lorena mal podia esperar."
+    },
+    {
+      "id": "cap-20-0189",
+      "type": "paragraph",
+      "text": "– Eu odeio isso. - Lorena fala, querendo que Eduarda pudesse ficar ali com ela todos os dias."
+    },
+    {
+      "id": "cap-20-0190",
+      "type": "paragraph",
+      "text": "– Vai sentir saudades? - Eduarda pergunta, abrindo um meio sorriso."
+    },
+    {
+      "id": "cap-20-0191",
+      "type": "paragraph",
+      "text": "– Se eu disser que sim, você vai me achar maluca?"
+    },
+    {
+      "id": "cap-20-0192",
+      "type": "paragraph",
+      "text": "– Não. - Eduarda balança a cabeça de leve. - Eu também vou."
+    },
+    {
+      "id": "cap-20-0193",
+      "type": "paragraph",
+      "text": "Então, Eduarda se aproxima, dando um beijo rápido em Lorena."
+    },
+    {
+      "id": "cap-20-0194",
+      "type": "paragraph",
+      "text": "– Eu tenho que ir me arrumar. - Ela fala. - Mas eu venho me despedir antes de sair."
+    },
+    {
+      "id": "cap-20-0195",
+      "type": "paragraph",
+      "text": "– Tá bom. - Lorena diz, e Eduarda dá mais um beijo nela antes de finalmente se virar, saindo de seu quarto."
+    },
+    {
+      "id": "cap-20-0196",
+      "type": "paragraph",
+      "text": "Lorena passa as mãos pelo seu cabelo, se abanando. É impossível manter um sorriso fora de seu rosto. Ela não sabia ao certo como as coisas com Eduarda iam ficar, mas aquilo definitivamente tinha sido um passo na direção certa."
+    },
+    {
+      "id": "cap-20-0197",
+      "type": "paragraph",
+      "text": "Pela primeira vez em muito tempo, Lorena estava esperançosa pro futuro."
+    }
+  ],
+  "notes": {
+    "before": [
+      {
+        "id": "cap-20-0001",
+        "type": "paragraph",
+        "text": "caso alguém esteja lendo na posteridade, quando eu postei ainda não sabíamos nada sobre a família fragoso (em breve amém) então eu tive que inventar..."
+      },
+      {
+        "id": "cap-20-0002",
+        "type": "paragraph",
+        "text": "AH e eu fiz uma playlist pra fic se alguém quiser:\nhttps://open.spotify.com/playlist/7hnE6km3lrBXh3qOOuL1pI?\nsi=B9AYBGgDSy22zq43WYQddA&pi=QeasEtCSRWu2H"
+      }
+    ],
+    "after": []
+  }
+}

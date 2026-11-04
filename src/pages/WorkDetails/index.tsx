@@ -63,9 +63,12 @@ export default function WorkDetails() {
               {work.author.ao3Name && <span>({work.author.ao3Name})</span>}
             </p>
           )}
-          <p className={styles.author}>{work.fandom} · {work.language === 'pt-BR' ? 'Português brasileiro' : work.language}</p>
+          <p className={styles.author}>{work.fandom && <>{work.fandom} · </>}{work.language === 'pt-BR' ? 'Português brasileiro' : work.language}</p>
           {work.status === "ongoing" && (
             <span className={styles.status}>● Em andamento</span>
+          )}
+          {work.status === "completed" && (
+            <span className={styles.status}>● Concluída</span>
           )}
           <div className={styles.summary}>
             <span className="eyebrow">SINOPSE</span>
@@ -88,7 +91,7 @@ export default function WorkDetails() {
             {date && (
               <span>
                 <CalendarDays size={16} />
-                Atualizada em {date}
+                {work.status === 'completed' ? 'Concluída em' : 'Atualizada em'} {date}
               </span>
             )}
           </div>
@@ -151,7 +154,7 @@ export default function WorkDetails() {
           </h2>
           <div className={styles.labels}>
             {work.classification && <span>{work.classification.rating}</span>}
-            <span>{work.category}</span>
+            {work.category && <span>{work.category}</span>}
             {work.classification?.archiveWarning && <span>{work.classification.archiveWarning}</span>}
           </div>
           {work.contentAdvisories.length > 0 && (

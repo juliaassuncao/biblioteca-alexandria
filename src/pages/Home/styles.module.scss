@@ -11,10 +11,15 @@
 .signature { display:block; color:#887f75; font:italic 18px 'Cormorant Garamond',Georgia,serif; margin-top:23px; }
 .spotlight { align-self:stretch; display:flex; flex-direction:column; justify-content:center; align-items:center; background:linear-gradient(125deg,#ddd1c1,#b99d89); position:relative; min-height:530px; padding:24px; }
 .spotlight::before { content:''; position:absolute; inset:19px; border:1px solid #fff6; pointer-events:none; }
-.labelTop { color:#62524e; letter-spacing:3px; font-size:9px; font-weight:700; margin-bottom:35px; }
+.labelTop { color:#62524e; letter-spacing:3px; font-size:9px; font-weight:700; margin-bottom:35px; max-width:100%; text-align:center; line-height:1.5; }
 .spotlightCover { width:235px; margin:6px 12px 27px; }
 .heroBookTitle { width:100%; text-align:center; font:600 28px 'Cormorant Garamond',Georgia,serif; color:#382b2d; margin-bottom:1px; }
 .heroBookAuthor {font-size:11px;color:#685856;}
+.alsoAdded { width:100%; margin-top:20px; padding-top:15px; border-top:1px solid #fff6; text-align:center; color:#685856; }
+.alsoAdded > span { display:block; font-size:10px; margin-bottom:7px; }
+.alsoAdded a { display:inline-flex; align-items:center; justify-content:center; gap:7px; color:#552f39; font:600 18px/1.25 'Cormorant Garamond',Georgia,serif; text-decoration:none; }
+.alsoAdded a:hover { text-decoration:underline; text-underline-offset:3px; }
+.alsoAdded svg { flex-shrink:0; }
 .featureLink { display:flex; align-items:center; gap:10px; margin-top:15px; text-decoration:none; color:#552f39; font-size:11px; font-weight:800; border-bottom:1px solid #552f39;padding-bottom:5px; }
 .heroFooter { display:flex; align-items:center; justify-content:space-between; background:t.$wine; padding:11px max(28px, calc((100vw - 1120px)/2)); color:#ead8ce; font-size:9px; letter-spacing:2px; gap:20px; }
 .heroFooter svg {flex-shrink:0;}

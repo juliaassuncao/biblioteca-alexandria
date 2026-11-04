@@ -1406,5 +1406,1059 @@
         "blocks": []
       }
     ]
+  },
+  {
+    "id": "brat",
+    "slug": "brat",
+    "title": "BRAT",
+    "author": {
+      "displayName": "Bia 🥕",
+      "ao3Name": null,
+      "originalName": "ultrasapphic",
+      "authorLink": "https://x.com/biadesainer"
+    },
+    "synopsis": "Elas são melhores amigas há anos quando Lorena faz uma proposta que Eduarda não consegue (ou não quer?) recusar.",
+    "status": "ongoing",
+    "language": "pt-BR",
+    "fandom": null,
+    "category": null,
+    "classification": {
+      "rating": "+18",
+      "archiveWarning": null
+    },
+    "tags": [
+      "Friends to Lovers",
+      "Friends to Friends With Benefits to Lovers",
+      "Porn with Plot",
+      "Shameless Smut",
+      "Lesbian Sex",
+      "elas são melhores amigas íntimas de anos, e vão fuder gostoso",
+      "Lorena é loba",
+      "Eduarda é meio patética",
+      "Light BDSM",
+      "gente é uma fic de putaria ok"
+    ],
+    "contentAdvisories": [],
+    "stats": {
+      "words": null,
+      "publishedChapters": null,
+      "plannedChapters": null,
+      "publishedAt": null,
+      "updatedAt": null
+    },
+    "cover": {
+      "variant": "typographic",
+      "tone": "plum",
+      "ornament": "bible",
+      "caption": ""
+    },
+    "reading": {
+      "mode": "external",
+      "externalUrl": "https://brat-fic.vercel.app/"
+    },
+    "links": {
+      "original": null
+    },
+    "editorial": {
+      "submittedByAuthor": true,
+      "contentReady": true,
+      "sourceFile": null,
+      "sourceUpdatedAt": null,
+      "coverOfficial": false
+    },
+    "chapters": []
+  },
+  {
+    "id": "encontrei-o-sol-nos-seus-olhos",
+    "slug": "encontrei-o-sol-nos-seus-olhos",
+    "title": "Encontrei o sol nos seus olhos",
+    "author": {
+      "displayName": "Paula",
+      "ao3Name": "wildshoni",
+      "authorLink": "https://x.com/folkshoni"
+    },
+    "synopsis": "Depois de ser expulsa de casa, Lorena precisa de um lugar pra morar, não querendo incomodar mais a família de Maggye. Sua amiga então lhe apresenta Juquinha, uma policial que está precisando de uma colega de apartamento. O que Lorena não espera, é que ao se mudar com Juquinha, ela começaria a descobrir o verdadeiro significado de felicidade.",
+    "status": "completed",
+    "language": "pt-BR",
+    "fandom": "Três Graças; Loquinha",
+    "category": "F/F",
+    "classification": {
+      "rating": "Explicit (+18)",
+      "archiveWarning": "Creator Chose Not To Use Archive Warnings"
+    },
+    "relationships": [
+      "Lorena Ferette/Eduarda \"Juquinha\" Fragoso"
+    ],
+    "characters": [
+      "Lorena Ferette",
+      "Eduarda \"Juquinha\" Fragoso"
+    ],
+    "tags": [
+      "loquinha - Freeform",
+      "Roommates",
+      "Slow Burn",
+      "Mutual Pining",
+      "Jealousy",
+      "Lorena precisa de um abraço",
+      "Juquinha está em negação profunda",
+      "As duas cuidam uma da outra",
+      "Idiotas apaixonadas",
+      "and they were ROOMMATES",
+      "Strangers to Friends to Lovers"
+    ],
+    "contentAdvisories": [],
+    "stats": {
+      "words": 157393,
+      "publishedChapters": 33,
+      "plannedChapters": 33,
+      "publishedAt": "2025-12-22",
+      "updatedAt": "2026-05-09"
+    },
+    "cover": {
+      "variant": "typographic",
+      "tone": "sunrise",
+      "ornament": "sun",
+      "caption": ""
+    },
+    "reading": {
+      "mode": "internal",
+      "externalUrl": "https://loqfic.github.io/encontrei-o-sol-nos-seus-olhos/#inicio"
+    },
+    "links": {
+      "original": "https://archiveofourown.org/works/76167671"
+    },
+    "editorial": {
+      "submittedByAuthor": true,
+      "contentReady": false,
+      "sourceFile": "Encontrei_o_sol_nos_seus.pdf",
+      "sourceUpdatedAt": "2026-05-09",
+      "coverOfficial": false
+    },
+    "chapters": [
+      {
+        "id": "cap-01",
+        "number": 1,
+        "title": "Capítulo 1",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-02",
+        "number": 2,
+        "title": "Capítulo 2",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-03",
+        "number": 3,
+        "title": "Capítulo 3",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-04",
+        "number": 4,
+        "title": "Capítulo 4",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-05",
+        "number": 5,
+        "title": "Capítulo 5",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-06",
+        "number": 6,
+        "title": "Capítulo 6",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-07",
+        "number": 7,
+        "title": "Capítulo 7",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-08",
+        "number": 8,
+        "title": "Capítulo 8",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-09",
+        "number": 9,
+        "title": "Capítulo 9",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-10",
+        "number": 10,
+        "title": "Capítulo 10",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-11",
+        "number": 11,
+        "title": "Capítulo 11",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-12",
+        "number": 12,
+        "title": "Capítulo 12",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-13",
+        "number": 13,
+        "title": "Capítulo 13",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-14",
+        "number": 14,
+        "title": "Capítulo 14",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-15",
+        "number": 15,
+        "title": "Capítulo 15",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-16",
+        "number": 16,
+        "title": "Capítulo 16",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-17",
+        "number": 17,
+        "title": "Capítulo 17",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-18",
+        "number": 18,
+        "title": "Capítulo 18",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-19",
+        "number": 19,
+        "title": "Capítulo 19",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-20",
+        "number": 20,
+        "title": "Capítulo 20",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-21",
+        "number": 21,
+        "title": "Capítulo 21",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-22",
+        "number": 22,
+        "title": "Capítulo 22",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-23",
+        "number": 23,
+        "title": "Capítulo 23",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-24",
+        "number": 24,
+        "title": "Capítulo 24",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-25",
+        "number": 25,
+        "title": "Capítulo 25",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-26",
+        "number": 26,
+        "title": "Capítulo 26",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-27",
+        "number": 27,
+        "title": "Capítulo 27",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-28",
+        "number": 28,
+        "title": "Capítulo 28",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-29",
+        "number": 29,
+        "title": "Capítulo 29",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-30",
+        "number": 30,
+        "title": "Capítulo 30",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-31",
+        "number": 31,
+        "title": "Capítulo 31",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-32",
+        "number": 32,
+        "title": "Chapter 32",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-33",
+        "number": 33,
+        "title": "Capítulo 33",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      }
+    ],
+    "workNotes": [
+      {
+        "id": "work-note-0001",
+        "type": "paragraph",
+        "text": "Oii"
+      },
+      {
+        "id": "work-note-0002",
+        "type": "paragraph",
+        "text": "Tive que escrever porque estou obcecada... Já escrevi alguns capítulos, mas vou postar aos poucos, pra dar tempo de ir escrevendo mais. A fic deve ter mais ou menos uns 20 capítulos, eu acho. Mantive vários elementos da novela, mas acabei mudando algumas coisas pra fazer sentido."
+      },
+      {
+        "id": "work-note-0003",
+        "type": "paragraph",
+        "text": "Espero que gostem, e comentários são sempre muito bem vindos, porque ai eu sei o que vocês estão achando :))"
+      }
+    ]
+  },
+  {
+    "id": "close-call",
+    "slug": "close-call",
+    "title": "close call",
+    "author": {
+      "displayName": "Paula",
+      "ao3Name": "wildshoni",
+      "authorLink": "https://x.com/folkshoni"
+    },
+    "synopsis": "Lorena Ferette era um prodígio do tênis mundial. Com 23 anos já tinha 5 grand slams e acumulava mais de 100 semanas no topo do ranking.\n\nSeu reinado parecia intocável, até que uma de suas competidoras tem um ano espetacular e pela primeira vez Lorena parece ter uma ameaça ao posto de melhor da geração. Seria menos pior se fosse qualquer pessoa que não Eduarda Fragoso, que além de sua rival nas quadras, tinha uma relação um tanto hostil com Lorena fora delas.\n\nÀ medida que as tensões aumentam e a rivalidade fica cada vez mais acirrada, as duas vão descobrir que talvez exista algo a mais escondido por baixo de todo o ódio que sentem uma pela outra. Será que é possível navegar a nova natureza dessa relação quando se tem tudo a perder?",
+    "status": "ongoing",
+    "language": "pt-BR",
+    "fandom": "Três Graças (TV)",
+    "category": "F/F",
+    "classification": {
+      "rating": "Explicit (+18)",
+      "archiveWarning": "Creator Chose Not To Use Archive Warnings"
+    },
+    "relationships": [
+      "Lorena Ferette/Eduarda \"Juquinha\" Fragoso"
+    ],
+    "characters": [
+      "Lorena Ferette",
+      "Eduarda \"Juquinha\" Fragoso"
+    ],
+    "tags": [
+      "Enemies to Lovers",
+      "Slow Burn",
+      "Angst",
+      "Enemies With Benefits",
+      "Hate Sex",
+      "Jealousy",
+      "Angst with a Happy Ending",
+      "Eventual Fluff",
+      "Alternate Universe - Tennis",
+      "Hurt/Comfort",
+      "Forbidden Love"
+    ],
+    "contentAdvisories": [],
+    "stats": {
+      "words": 267329,
+      "publishedChapters": 27,
+      "plannedChapters": null,
+      "publishedAt": "2026-05-24",
+      "updatedAt": "2026-10-24"
+    },
+    "cover": {
+      "variant": "typographic",
+      "tone": "court",
+      "ornament": "tennis-ball",
+      "caption": "",
+      "titleCase": "lowercase"
+    },
+    "reading": {
+      "mode": "internal",
+      "externalUrl": "https://wildshoni.github.io/close-call/#homemade"
+    },
+    "links": {
+      "original": "https://archiveofourown.org/works/85459436"
+    },
+    "editorial": {
+      "submittedByAuthor": true,
+      "contentReady": false,
+      "sourceFile": "close_call.pdf",
+      "sourceUpdatedAt": "2026-10-24",
+      "coverOfficial": false
+    },
+    "chapters": [
+      {
+        "id": "cap-01",
+        "number": 1,
+        "title": "Capítulo 1",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-02",
+        "number": 2,
+        "title": "Capítulo 2",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-03",
+        "number": 3,
+        "title": "Capítulo 3",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-04",
+        "number": 4,
+        "title": "Capítulo 4",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-05",
+        "number": 5,
+        "title": "Capítulo 5",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-06",
+        "number": 6,
+        "title": "Capítulo 6",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-07",
+        "number": 7,
+        "title": "Capítulo 7",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-08",
+        "number": 8,
+        "title": "Capítulo 8",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-09",
+        "number": 9,
+        "title": "Capítulo 9",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-10",
+        "number": 10,
+        "title": "Capítulo 10",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-11",
+        "number": 11,
+        "title": "Capítulo 11",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-12",
+        "number": 12,
+        "title": "Capítulo 12",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-13",
+        "number": 13,
+        "title": "Capítulo 13",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-14",
+        "number": 14,
+        "title": "Capítulo 14",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-15",
+        "number": 15,
+        "title": "Capítulo 15",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-16",
+        "number": 16,
+        "title": "Capítulo 16",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-17",
+        "number": 17,
+        "title": "Capítulo 17",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-18",
+        "number": 18,
+        "title": "Capitulo 18",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-19",
+        "number": 19,
+        "title": "Capítulo 19",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-20",
+        "number": 20,
+        "title": "Capítulo 20",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-21",
+        "number": 21,
+        "title": "Capítulo 21",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-22",
+        "number": 22,
+        "title": "Capítulo 22",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-23",
+        "number": 23,
+        "title": "Capítulo 23",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-24",
+        "number": 24,
+        "title": "Capitulo 24",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-25",
+        "number": 25,
+        "title": "Capítulo 25",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-26",
+        "number": 26,
+        "title": "Capítulo 26",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-27",
+        "number": 27,
+        "title": "Capítulo 27",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      }
+    ],
+    "workNotes": [
+      {
+        "id": "work-note-0001",
+        "type": "paragraph",
+        "text": "Oláaaaaa! Estou de volta com mais uma história pra vocês!"
+      },
+      {
+        "id": "work-note-0002",
+        "type": "paragraph",
+        "text": "Não sei ao certo quantos capítulos vai ter, mas já adianto que deve ser uma fic longa - eu nem começo a escrever se não for slow burn né?"
+      },
+      {
+        "id": "work-note-0003",
+        "type": "paragraph",
+        "text": "Espero que gostem, é uma proposta totalmente diferente de encontrei o sol nos seus olhos, mas nada melhor que um bom enemies to lovers!"
+      },
+      {
+        "id": "work-note-0004",
+        "type": "paragraph",
+        "text": "Ah, e se você não sabe NADA de tênis, vou colocar abaixo algumas explicações gerais pra vocês não se perderem nos acontecimentos da fic:"
+      },
+      {
+        "id": "work-note-0005",
+        "type": "paragraph",
+        "text": "- O esporte é jogado em três superfícies: quadra dura, saibro (mais lento) e grama (mais rápida)"
+      },
+      {
+        "id": "work-note-0006",
+        "type": "paragraph",
+        "text": "- Os torneios mais importantes são os Grand Slams, que acontecem 4 vezes ao ano:"
+      },
+      {
+        "id": "work-note-0007",
+        "type": "paragraph",
+        "text": "Australian Open: jogado na quadra dura, em Melbourne. Roland Garros: jogado no saibro, em Paris.\nWimbledon: jogado na grama, em Londres.\nUS Open: jogado na quadra dura, em Nova York."
+      },
+      {
+        "id": "work-note-0008",
+        "type": "paragraph",
+        "text": "- Além dos Grand Slams, os outros torneios mais importantes são os que chamamos de WTA 1000, ou masters. Tem vários ao longo do ano. Ao fim de cada temporada tem o WTA finals, que é o torneio final do ano, apenas com as 8 melhores tenistas do ranking."
+      },
+      {
+        "id": "work-note-0009",
+        "type": "paragraph",
+        "text": "- O ranking funciona por pontos, distribuídos pelas rodadas que você alcança em cada torneio. Os pontos de cada torneio 'resetam' quando o torneio acontece novamente no ano anterior, de forma que o ranking sempre reflete os últimos 12 meses jogados."
+      },
+      {
+        "id": "work-note-0010",
+        "type": "paragraph",
+        "text": "É isso, se quiserem saber mais alguma coisa se sintam a vontade pra perguntar nos comentários!"
+      },
+      {
+        "id": "work-note-0011",
+        "type": "paragraph",
+        "text": "Boa leitura :)"
+      }
+    ]
   }
 ]

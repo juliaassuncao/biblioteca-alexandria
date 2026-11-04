@@ -1,0 +1,1032 @@
+{
+  "id": "cap-08",
+  "blocks": [
+    {
+      "id": "cap-08-0002",
+      "type": "paragraph",
+      "text": "Juquinha",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Juquinha"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-08-0003",
+      "type": "paragraph",
+      "text": "Juquinha está terminando de pôr a mesa quando o interfone toca. Ela vai pra cozinha atender, liberando a entrada de Maggye. Lorena ainda está em seu quarto, provavelmente se arrumando."
+    },
+    {
+      "id": "cap-08-0004",
+      "type": "paragraph",
+      "text": "Ela abre a porta antes mesmo da amiga tocar a campainha, e assim que ela vira o corredor depois de sair do elevador, Maggye sorri pra ruiva."
+    },
+    {
+      "id": "cap-08-0005",
+      "type": "paragraph",
+      "text": "– Oiii. - Ela diz, chegando na porta. - Que bom te ver."
+    },
+    {
+      "id": "cap-08-0006",
+      "type": "paragraph",
+      "text": "– Sim, que bom que você veio. - Juquinha abraça ela. - Entra."
+    },
+    {
+      "id": "cap-08-0007",
+      "type": "paragraph",
+      "text": "– Licença. - Maggye fala, entrando no apartamento. - Cadê a Lorena?"
+    },
+    {
+      "id": "cap-08-0008",
+      "type": "paragraph",
+      "text": "– Ela ta-"
+    },
+    {
+      "id": "cap-08-0009",
+      "type": "paragraph",
+      "text": "– Aqui! - Lorena interrompe ela, entrando na sala. - Ai Maggye, tô tão feliz que você finalmente tá aqui."
+    },
+    {
+      "id": "cap-08-0010",
+      "type": "paragraph",
+      "text": "– Tava na hora, né? - Maggye abraça a amiga. Depois, ela olha em volta. - O apartamento é lindo, viu? Eu adorei."
+    },
+    {
+      "id": "cap-08-0011",
+      "type": "paragraph",
+      "text": "– Não é tão chique quanto sua galeria, mas dá pro gasto. - Juquinha diz. - Vamo sentar?"
+    },
+    {
+      "id": "cap-08-0012",
+      "type": "paragraph",
+      "text": "– Vamos. - Maggye responde. - Nossa, a mesa tá linda."
+    },
+    {
+      "id": "cap-08-0013",
+      "type": "paragraph",
+      "text": "Lorena e Maggye se sentam, mas Juquinha aproveita para ir na cozinha."
+    },
+    {
+      "id": "cap-08-0014",
+      "type": "paragraph",
+      "text": "– Quer um vinho, Maggye? - Ela pergunta, buscando na geladeira."
+    },
+    {
+      "id": "cap-08-0015",
+      "type": "paragraph",
+      "text": "– Ai, eu aceito. - A amiga diz. - Você bebe comigo, né?"
+    },
+    {
+      "id": "cap-08-0016",
+      "type": "paragraph",
+      "text": "Juquinha pega duas taças, servindo a bebida."
+    },
+    {
+      "id": "cap-08-0017",
+      "type": "paragraph",
+      "text": "– Só um pouco, que eu devo ter que ir na delegacia amanhã."
+    },
+    {
+      "id": "cap-08-0018",
+      "type": "paragraph",
+      "text": "Ela volta com as taças, entregando uma para Maggye e colocando a outra no seu lugar. Depois, ela volta na cozinha, pegando a bebida de Lorena."
+    },
+    {
+      "id": "cap-08-0019",
+      "type": "paragraph",
+      "text": "– E um drink sem álcool pra senhorita. - Ela diz, entregando para sua colega de apartamento."
+    },
+    {
+      "id": "cap-08-0020",
+      "type": "paragraph",
+      "text": "– Muito obrigada. - Lorena sorri pra ela, e ela sorri de volta."
+    },
+    {
+      "id": "cap-08-0021",
+      "type": "paragraph",
+      "text": "Juquinha finalmente se senta, ao lado de Lorena. Ela colocou alguns tira gostos na mesa pra elas comerem antes do prato principal."
+    },
+    {
+      "id": "cap-08-0022",
+      "type": "paragraph",
+      "text": "– Mas Maggye, me diz, como estão as coisas lá na galeria?"
+    },
+    {
+      "id": "cap-08-0023",
+      "type": "paragraph",
+      "text": "– Ai tá tudo indo bem, estamos com muitos clientes ultimamente, então meus pais ficam felizes."
+    },
+    {
+      "id": "cap-08-0024",
+      "type": "paragraph",
+      "text": "– Que ótimo, tô com saudade deles. - Lorena responde. - E a Lucélia hein, como que ela tá?"
+    },
+    {
+      "id": "cap-08-0025",
+      "type": "paragraph",
+      "text": "Maggye revira os olhos imediatamente."
+    },
+    {
+      "id": "cap-08-0026",
+      "type": "paragraph",
+      "text": "– Insuportável como sempre, né? - Ela diz. - Nossa, acho que nem meus pais aguentam mais, de verdade."
+    },
+    {
+      "id": "cap-08-0027",
+      "type": "paragraph",
+      "text": "Juquinha ri, ela não tinha conhecido Lucélia oficialmente, mas já tinha ouvido Maggye reclamar da prima."
+    },
+    {
+      "id": "cap-08-0028",
+      "type": "paragraph",
+      "text": "– Ai, ela é mesmo… Algo. - Lorena fala, e Juquinha acha adorável ela tentando não usar uma palavra pior pra falar da garota."
+    },
+    {
+      "id": "cap-08-0029",
+      "type": "paragraph",
+      "text": "– Ai Lo, sério, você faz tanta falta lá, pra me ajudar a lidar com ela. - Maggye fala, e Juquinha nem pensa nada sobre o comentário, até que ela percebe Lorena chutando Maggye por baixo da mesa. Ela franze o cenho, confusa, e as duas trocam um olhar que Juquinha não consegue entender. - É que a Lorena ia sempre lá em casa. - Maggye explica, e Juquinha toma um gole do seu vinho, ainda desconfiada. - Mas desde que mudou pra cá, acho que ela só quer ficar com você, até me esqueceu."
+    },
+    {
+      "id": "cap-08-0030",
+      "type": "paragraph",
+      "text": "O comentário faz Juquinha esquecer completamente seja lá o que aconteceu antes. Ela tenta conter seu sorriso."
+    },
+    {
+      "id": "cap-08-0031",
+      "type": "paragraph",
+      "text": "– Ah, sei não. - Ela fala, olhando pra Lorena. - Às vezes acho que é só porque ela não tem muita escolha, mesmo."
+    },
+    {
+      "id": "cap-08-0032",
+      "type": "paragraph",
+      "text": "– Ai, até parece. - Lorena diz, sorrindo, e elas trocam um olhar. Por um momento, ela acha que Lorena vai falar mais alguma coisa, mas a garota se vira, olhando para Maggye. - Mas eu não te esqueci não viu Maggye, fica tranquila. Tava com muita saudade, inclusive."
+    },
+    {
+      "id": "cap-08-0033",
+      "type": "paragraph",
+      "text": "– Vou fingir que acredito. - Maggye responde."
+    },
+    {
+      "id": "cap-08-0034",
+      "type": "paragraph",
+      "text": "Elas jogam conversa fora por um tempo, até Juquinha finalmente ir na cozinha pegar o prato principal. Elas se servem, e ela fica tensa por um momento, esperando que tivesse dado tudo certo. Quando ela coloca uma garfada na boca, no entanto, ela até respira aliviada, porque ficou uma delícia."
+    },
+    {
+      "id": "cap-08-0035",
+      "type": "paragraph",
+      "text": "Ela olha para Lorena, que tem exatamente a mesma expressão em seu rosto, e elas começam a rir."
+    },
+    {
+      "id": "cap-08-0036",
+      "type": "paragraph",
+      "text": "– Que foi? - Maggye pergunta, sem entender."
+    },
+    {
+      "id": "cap-08-0037",
+      "type": "paragraph",
+      "text": "– Nada, não. - Juquinha fala. - Gostou?"
+    },
+    {
+      "id": "cap-08-0038",
+      "type": "paragraph",
+      "text": "– Nossa, muito. - Maggye responde, e parece ter sido sincera. - Qual o nome desse prato?"
+    },
+    {
+      "id": "cap-08-0039",
+      "type": "paragraph",
+      "text": "– É um Tartiflette. - Juquinha conta. - A versão vegana, claro."
+    },
+    {
+      "id": "cap-08-0040",
+      "type": "paragraph",
+      "text": "– Que chique, hein."
+    },
+    {
+      "id": "cap-08-0041",
+      "type": "paragraph",
+      "text": "– Foi a Juquinha que fez. - Lorena olha pra ela. - Tudo ideia dela."
+    },
+    {
+      "id": "cap-08-0042",
+      "type": "paragraph",
+      "text": "– Ah, mas eu tive ajuda, né. - Ela sorri pra sua colega de apartamento, que sorri de volta."
+    },
+    {
+      "id": "cap-08-0043",
+      "type": "paragraph",
+      "text": "– Depois eu quero a receita, que meu pai vai gostar. - Maggye fala. - Quem sabe eu não peço pra ele fazer pra mim e pro Júnior um dia."
+    },
+    {
+      "id": "cap-08-0044",
+      "type": "paragraph",
+      "text": "– Ih, toda apaixonada, pensando em jantar romântico. - Juquinha comenta."
+    },
+    {
+      "id": "cap-08-0045",
+      "type": "paragraph",
+      "text": "– Ai, eu to mesmo, não consigo nem negar. - Maggye ri."
+    },
+    {
+      "id": "cap-08-0046",
+      "type": "paragraph",
+      "text": "– Eu amo te ver assim, amiga. - Lorena diz pra ela."
+    },
+    {
+      "id": "cap-08-0047",
+      "type": "paragraph",
+      "text": "– Mas e você, hein Lorena? - Maggye pergunta. - Não tá interessada em ninguém?"
+    },
+    {
+      "id": "cap-08-0048",
+      "type": "paragraph",
+      "text": "A pergunta faz a comida ficar seca na boca de Juquinha de repente. Ela bebe um gole d’água, tentando engolir."
+    },
+    {
+      "id": "cap-08-0049",
+      "type": "paragraph",
+      "text": "– Que isso, Maggye? - Lorena solta um riso nervoso. - Eu ia tá interessada em quem?"
+    },
+    {
+      "id": "cap-08-0050",
+      "type": "paragraph",
+      "text": "– Não sei, ué, vai que tem alguma menina por aí."
+    },
+    {
+      "id": "cap-08-0051",
+      "type": "paragraph",
+      "text": "– Não tem ninguém, não. - Lorena fala e Juquinha sente que consegue respirar de novo."
+    },
+    {
+      "id": "cap-08-0052",
+      "type": "paragraph",
+      "text": "– Ah, mas eu acho que devia ter. - Maggye insiste no assunto. - Você não fica com ninguém desde a Alice, não acha que tá na hora de tentar conhecer alguém de novo?"
+    },
+    {
+      "id": "cap-08-0053",
+      "type": "paragraph",
+      "text": "– Alice é a menina do bar? - Juquinha não consegue segurar a pergunta."
+    },
+    {
+      "id": "cap-08-0054",
+      "type": "paragraph",
+      "text": "– Sim. - Lorena olha rapidamente pra ela antes de olhar de novo pra Maggye. - Ai Maggye, esquece essa história, não sei se to afim."
+    },
+    {
+      "id": "cap-08-0055",
+      "type": "paragraph",
+      "text": "– Eu acho que ia te fazer bem, não precisa ser nada sério, pode ser uma coisa casual. -Maggye responde. - Pra Juquinha eu nem falo nada, porque do jeito que é, aposto que deve ter alguma menina por aí."
+    },
+    {
+      "id": "cap-08-0056",
+      "type": "paragraph",
+      "text": "Juquinha olha boquiaberta pra sua amiga, ela tinha mesmo essa reputação?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Juquinha olha boquiaberta pra sua amiga, ela tinha "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mesmo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " essa reputação?"
+        }
+      ]
+    },
+    {
+      "id": "cap-08-0057",
+      "type": "paragraph",
+      "text": "– Ih, a Juquinha tá cada dia com uma menina nova. - Lorena fala, olhando pra ela de lado, e Juquinha olha de volta, confusa."
+    },
+    {
+      "id": "cap-08-0058",
+      "type": "paragraph",
+      "text": "– Como assim? - Ela pergunta. - Eu trouxe uma menina pra cá desde que você se mudou.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Como assim? - Ela pergunta. - Eu trouxe "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "uma"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " menina pra cá desde que você se mudou."
+        }
+      ]
+    },
+    {
+      "id": "cap-08-0059",
+      "type": "paragraph",
+      "text": "Lorena só dá de ombros, e Maggye ri."
+    },
+    {
+      "id": "cap-08-0060",
+      "type": "paragraph",
+      "text": "– Sabia, eu te conheço. - Ela fala pra ruiva. - Falando nisso, às vezes você pode ajudar a Lorena, hein? Você não tem nenhuma amiga pra apresentar pra ela?"
+    },
+    {
+      "id": "cap-08-0061",
+      "type": "paragraph",
+      "text": "A pergunta faz Juquinha engasgar com sua comida, tossindo. Ela bebe água para se recompor, limpando sua garganta."
+    },
+    {
+      "id": "cap-08-0062",
+      "type": "paragraph",
+      "text": "– Alguém pra apresentar pra Lorena?"
+    },
+    {
+      "id": "cap-08-0063",
+      "type": "paragraph",
+      "text": "– É, ué. - Maggye confirma, e Lorena parece querer se enfiar em um buraco, ficando vermelha. - E aquela sua amiga, da época de colégio, a Clara? Eu adorava ela, e ela é lésbica também, não é?"
+    },
+    {
+      "id": "cap-08-0064",
+      "type": "paragraph",
+      "text": "– A Clara? - Juquinha tenta não gaguejar. - Ela não tá mais morando em São Paulo, acredita? Se mudou."
+    },
+    {
+      "id": "cap-08-0065",
+      "type": "paragraph",
+      "text": "Juquinha talvez estivesse falando a verdade, afinal, ela não falava com a menina fazia uns 2 anos. Era totalmente possível ela ter se mudado de cidade."
+    },
+    {
+      "id": "cap-08-0066",
+      "type": "paragraph",
+      "text": "Ela não sabe ao certo porquê ela falou isso, mas a ideia de apresentar alguém pra Lorena fazia ela querer vomitar tudo que tinha acabado de comer."
+    },
+    {
+      "id": "cap-08-0067",
+      "type": "paragraph",
+      "text": "– Ta vendo? - Lorena fala de novo. - A Juquinha nem conhece ninguém, e eu nem sei onde que eu ia encontrar alguém pra sair."
+    },
+    {
+      "id": "cap-08-0068",
+      "type": "paragraph",
+      "text": "– Ah amiga, se você quiser, claro que acha! - Maggye a contradiz. - Você pode usar Tinder, por exemplo."
+    },
+    {
+      "id": "cap-08-0069",
+      "type": "paragraph",
+      "text": "– Tinder?? Maggye, pelo amor de deus."
+    },
+    {
+      "id": "cap-08-0070",
+      "type": "paragraph",
+      "text": "– Que foi? Nós somos a geração da internet, a Juquinha com certeza usa Tinder."
+    },
+    {
+      "id": "cap-08-0071",
+      "type": "paragraph",
+      "text": "Juquinha vira toda sua taça de vinho antes de responder."
+    },
+    {
+      "id": "cap-08-0072",
+      "type": "paragraph",
+      "text": "– Bumble, na verdade. - Ela admite. - Tinder é uma merda."
+    },
+    {
+      "id": "cap-08-0073",
+      "type": "paragraph",
+      "text": "– Bumble, então. - Maggye fala com a Lorena."
+    },
+    {
+      "id": "cap-08-0074",
+      "type": "paragraph",
+      "text": "– Eu nem sei flertar pra usar essas coisas. - Lorena fala, e Juquinha solta uma risada sarcástica sem conseguir se segurar. - Que foi? - Lorena olha confusa pra ela."
+    },
+    {
+      "id": "cap-08-0075",
+      "type": "paragraph",
+      "text": "– Nada, é só que… Ah, com certeza você sabe flertar."
+    },
+    {
+      "id": "cap-08-0076",
+      "type": "paragraph",
+      "text": "A questão é que imediatamente veio na cabeça dela a mensagem que Lorena tinha mandado no dia anterior, depois de Juquinha brincar que seria até divertido prender ela: 'Não sei se eu acharia de todo ruim'. Ela tinha passado o resto do plantão com aquele diacho de mensagem na cabeça, porque o que diabos aquilo queria dizer??? Juquinha tinha mil respostas que ela queria dar, porém todas inapropriadas demais pro tipo de relação que ela tinha com a Lorena, e que queria continuar tendo.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "A questão é que imediatamente veio na cabeça dela a mensagem que Lorena tinha mandado no dia anterior, depois de Juquinha brincar que seria até divertido prender ela: "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "'Não sei se eu"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "acharia de todo ruim'"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Ela tinha passado o resto do plantão com aquele diacho de mensagem na cabeça, porque o que diabos aquilo queria dizer??? Juquinha tinha mil respostas que ela queria dar, porém todas inapropriadas demais pro tipo de relação que ela tinha com a Lorena, e que queria continuar tendo."
+        }
+      ]
+    },
+    {
+      "id": "cap-08-0077",
+      "type": "paragraph",
+      "text": "Ela se pergunta se Lorena realmente tinha falado na inocência, vai ver ela não tinha ideia mesmo do que tava fazendo."
+    },
+    {
+      "id": "cap-08-0078",
+      "type": "paragraph",
+      "text": "– Não sei do que você tá falando. - Lorena parece ficar mais vermelha ainda."
+    },
+    {
+      "id": "cap-08-0079",
+      "type": "paragraph",
+      "text": "– Sabe, a Maggye tem razão, não seria uma má ideia. - Juquinha fala de repente, sem nem saber porquê. Ela só precisava que a conversa não fosse para aquele lado. - Às vezes você devia baixar Bumble, mesmo."
+    },
+    {
+      "id": "cap-08-0080",
+      "type": "paragraph",
+      "text": "Lorena cerra os olhos para ela, uma expressão que Juquinha não consegue decifrar."
+    },
+    {
+      "id": "cap-08-0081",
+      "type": "paragraph",
+      "text": "– Se você acha, quem sabe eu não baixo, então."
+    },
+    {
+      "id": "cap-08-0082",
+      "type": "paragraph",
+      "text": "– Ótimo. - Juquinha sorri sem os dentes pra Lorena. - Se quiser eu te ajudo a montar seu perfil."
+    },
+    {
+      "id": "cap-08-0083",
+      "type": "paragraph",
+      "text": "Eduarda cala a boca pelo amor de deus para de falar.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eduarda cala a boca pelo amor de deus para de falar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-08-0084",
+      "type": "paragraph",
+      "text": "– Ótimo. - Lorena olha pra ela, e de repente fica uma tensão meio esquisita no ar."
+    },
+    {
+      "id": "cap-08-0085",
+      "type": "paragraph",
+      "text": "Maggye alterna seu olhar entre as duas, tentando entender."
+    },
+    {
+      "id": "cap-08-0086",
+      "type": "paragraph",
+      "text": "– Quem quer sobremesa? - Juquinha pergunta, levantando da mesa antes que ela comece a beber o vinho do bico."
+    },
+    {
+      "id": "cap-08-0087",
+      "type": "paragraph",
+      "text": "Ela começa a tirar os pratos."
+    },
+    {
+      "id": "cap-08-0088",
+      "type": "paragraph",
+      "text": "– Eu te ajudo. - Lorena fala, e levanta também."
+    },
+    {
+      "id": "cap-08-0089",
+      "type": "paragraph",
+      "text": "Elas levam os pratos para a cozinha, e Juquinha pega a travessa com os brownies. Quando ela se vira pra sair, no entanto, ela dá de cara com a Lorena."
+    },
+    {
+      "id": "cap-08-0090",
+      "type": "paragraph",
+      "text": "– Desculpa. - Lorena fala, e se move pra ela passar, mas Juquinha acaba se movendo pro mesmo lado. Elas se olham, e Juquinha solta um riso nervoso."
+    },
+    {
+      "id": "cap-08-0091",
+      "type": "paragraph",
+      "text": "Lorena vira de lado, estendendo a mão."
+    },
+    {
+      "id": "cap-08-0092",
+      "type": "paragraph",
+      "text": "– Você primeiro, detetive."
+    },
+    {
+      "id": "cap-08-0093",
+      "type": "paragraph",
+      "text": "Juquinha passa por ela, ignorando o fato de Lorena chamar ela de detetive fazer sua cabeça girar. Talvez ela devesse parar com o vinho."
+    },
+    {
+      "id": "cap-08-0094",
+      "type": "paragraph",
+      "text": "Para o seu alívio, quando elas voltam pra mesa, elas começam a falar de outras coisas e o clima volta ao normal."
+    },
+    {
+      "id": "cap-08-0095",
+      "type": "paragraph",
+      "text": "Algum tempo depois Maggye vai embora, e ela vai pra cozinha lavar a louça. Lorena aparece ao seu lado."
+    },
+    {
+      "id": "cap-08-0096",
+      "type": "paragraph",
+      "text": "– Deixa que eu lavo. - Ela fala. - Você fez quase tudo hoje."
+    },
+    {
+      "id": "cap-08-0097",
+      "type": "paragraph",
+      "text": "– Eu que convidei pro jantar, não foi? - Juquinha olha pra ela. - Então pode deixar."
+    },
+    {
+      "id": "cap-08-0098",
+      "type": "paragraph",
+      "text": "– Deixa pelo menos eu te ajudar. - Ela insiste. - Por favor."
+    },
+    {
+      "id": "cap-08-0099",
+      "type": "paragraph",
+      "text": "– Ta bom. - A ruiva aceita. - Eu lavo, e você seca."
+    },
+    {
+      "id": "cap-08-0100",
+      "type": "paragraph",
+      "text": "– Combinado. - Lorena sorri pra ela."
+    },
+    {
+      "id": "cap-08-0101",
+      "type": "paragraph",
+      "text": "– Você gostou? - Juquinha pergunta, enquanto lava os pratos. - Do jantar, eu digo."
+    },
+    {
+      "id": "cap-08-0102",
+      "type": "paragraph",
+      "text": "– Sim, gostei bastante. - A morena responde. - Fiquei feliz que a Maggye veio, a gente devia chamar ela mais vezes."
+    },
+    {
+      "id": "cap-08-0103",
+      "type": "paragraph",
+      "text": "– Eu também acho. - Juquinha concorda. - E no fim a comida deu certo, né?"
+    },
+    {
+      "id": "cap-08-0104",
+      "type": "paragraph",
+      "text": "– Nossa, sim! - Lorena solta uma risada. - Quem diria, né? A gente já pode virar chef de cozinha."
+    },
+    {
+      "id": "cap-08-0105",
+      "type": "paragraph",
+      "text": "– Não é uma má ideia. - Juquinha fala. - Eu posso me demitir da polícia, você larga a faculdade e a gente abre um restaurante."
+    },
+    {
+      "id": "cap-08-0106",
+      "type": "paragraph",
+      "text": "Juquinha não consegue evitar de pensar que em um universo paralelo, ela não acharia ruim se essa fosse sua vida."
+    },
+    {
+      "id": "cap-08-0107",
+      "type": "paragraph",
+      "text": "– Ah, mas eu também não sei se eu quero que você saia da polícia. - Lorena fala, olhando pros pratos que ela está secando. - Quem iria proteger essa casa?"
+    },
+    {
+      "id": "cap-08-0108",
+      "type": "paragraph",
+      "text": "Juquinha levanta uma sobrancelha pra ela."
+    },
+    {
+      "id": "cap-08-0109",
+      "type": "paragraph",
+      "text": "– Proteger de todos os criminosos que estão tentando invadir aqui?"
+    },
+    {
+      "id": "cap-08-0110",
+      "type": "paragraph",
+      "text": "– Sim, exatamente. - Lorena dá de ombros. - Eu tenho certeza que eles só não invadem porque sabem que uma policial mora aqui."
+    },
+    {
+      "id": "cap-08-0111",
+      "type": "paragraph",
+      "text": "– Com certeza. - Juquinha morde o seu lábio, olhando Lorena por mais um momento. Depois, ela volta a prestar atenção na louça. - Mas relaxa, o Cadu pode proteger a gente."
+    },
+    {
+      "id": "cap-08-0112",
+      "type": "paragraph",
+      "text": "Lorena começa a rir."
+    },
+    {
+      "id": "cap-08-0113",
+      "type": "paragraph",
+      "text": "– É verdade, né? Ele é uma onça perigosa mesmo. - Ela diz, e Juquinha ri também. - Cadê ele, falando nisso?"
+    },
+    {
+      "id": "cap-08-0114",
+      "type": "paragraph",
+      "text": "– Deve tá escondido em algum canto. - Juquinha fala. - Às vezes até no seu quarto… Eu percebi que ele tá gostando até demais de ficar com você, viu?"
+    },
+    {
+      "id": "cap-08-0115",
+      "type": "paragraph",
+      "text": "– Só quando você não tá em casa."
+    },
+    {
+      "id": "cap-08-0116",
+      "type": "paragraph",
+      "text": "– Sei não… Acho que você tá tentando roubar meu gato de mim."
+    },
+    {
+      "id": "cap-08-0117",
+      "type": "paragraph",
+      "text": "– Não seria muito inteligente da minha parte, né? - Lorena diz. - Roubar de uma policial."
+    },
+    {
+      "id": "cap-08-0118",
+      "type": "paragraph",
+      "text": "– Se ele te escolher, não tem muito o que eu possa fazer."
+    },
+    {
+      "id": "cap-08-0119",
+      "type": "paragraph",
+      "text": "Juquinha não julgaria Cadu por escolher ficar com Lorena, ela também escolheria ficar com Lorena se fosse ele."
+    },
+    {
+      "id": "cap-08-0120",
+      "type": "paragraph",
+      "text": "– Me escolher? - Lorena ri. - Igual uma criança, quando os pais divorciam?"
+    },
+    {
+      "id": "cap-08-0121",
+      "type": "paragraph",
+      "text": "– Tipo isso. - Juquinha responde. - O juiz ia ter que perguntar com quem ele quer ficar, e tudo."
+    },
+    {
+      "id": "cap-08-0122",
+      "type": "paragraph",
+      "text": "– Mas pera lá. - Lorena inclina a cabeça, olhando pra ela. - Pra isso eu teria que me mudar. Eu cheguei mal faz um mês, e você já ta tentando me expulsar?"
+    },
+    {
+      "id": "cap-08-0123",
+      "type": "paragraph",
+      "text": "– Jamais. - Juquinha olha pra ela de volta. - Eu nem lembro mais de como era essa casa sem você."
+    },
+    {
+      "id": "cap-08-0124",
+      "type": "paragraph",
+      "text": "Ela fala sem nem pensar, mas Lorena para, olhando pra ela. Juquinha consegue ver um brilho em seu olhar, e a outra garota olha pra baixo, abrindo um pequeno sorriso."
+    },
+    {
+      "id": "cap-08-0125",
+      "type": "paragraph",
+      "text": "– Tem momentos que parece que eu moro aqui a vida toda. - Ela diz, sua voz baixa. - Quem dera fosse verdade."
+    },
+    {
+      "id": "cap-08-0126",
+      "type": "paragraph",
+      "text": "Juquinha sente que tem algo por trás dessa frase, e parte dela quer perguntar o que. Em vez disso, ela se inclina levemente na direção de Lorena."
+    },
+    {
+      "id": "cap-08-0127",
+      "type": "paragraph",
+      "text": "– Pode morar o resto da vida, se quiser. - Ela diz, e por um momento quase se arrepende, por todas as coisas implícitas que essa frase pode carregar. Mas quando Lorena olha de novo pra ela, seus olhos brilham, e ela sorri."
+    },
+    {
+      "id": "cap-08-0128",
+      "type": "paragraph",
+      "text": "– Tá bom. - Ela fala, e segura o olhar de Juquinha por um momento antes de desviar. - É melhor assim, porque aí o Cadu não ia ter que quebrar seu coração quando ele escolhesse vir morar comigo."
+    },
+    {
+      "id": "cap-08-0129",
+      "type": "paragraph",
+      "text": "Juquinha ri, balançando a cabeça."
+    },
+    {
+      "id": "cap-08-0130",
+      "type": "paragraph",
+      "text": "– É, melhor assim mesmo."
+    },
+    {
+      "id": "cap-08-0131",
+      "type": "paragraph",
+      "text": "Elas acabam de lavar a louça, depois arrumam a cozinha e a sala. Juquinha já está morta quando vai pro seu quarto trocar de roupa, colocando um pijama. Antes dela ter a chance de ir dar boa noite pra Lorena, ela escuta uma batida na sua porta."
+    },
+    {
+      "id": "cap-08-0132",
+      "type": "paragraph",
+      "text": "– Pode abrir. - Ela fala, olhando para a porta."
+    },
+    {
+      "id": "cap-08-0133",
+      "type": "paragraph",
+      "text": "Lorena abre um momento depois, dando um passo pra dentro do quarto de Juquinha."
+    },
+    {
+      "id": "cap-08-0134",
+      "type": "paragraph",
+      "text": "– Só vim te dar boa noite. - Ela fala. - Obrigada pelo jantar, chef Eduarda."
+    },
+    {
+      "id": "cap-08-0135",
+      "type": "paragraph",
+      "text": "É a segunda vez no dia que Lorena chama ela de Eduarda, e a segunda vez que seu coração quase pula do peito."
+    },
+    {
+      "id": "cap-08-0136",
+      "type": "paragraph",
+      "text": "– Obrigada pela ajuda, sous chef Lorena. - Juquinha responde, e Lorena sorri. - Boa noite, dorme bem."
+    },
+    {
+      "id": "cap-08-0137",
+      "type": "paragraph",
+      "text": "– Você também. - Lorena olha pra ela por mais um segundo, antes de sair, fechando a porta."
+    },
+    {
+      "id": "cap-08-0138",
+      "type": "paragraph",
+      "text": "Juquinha tinha uma leve sensação de que seus sonhos seriam repletos de cabelos castanhos e olhos verdes."
+    },
+    {
+      "id": "cap-08-0139",
+      "type": "paragraph",
+      "text": "Lorena",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-08-0140",
+      "type": "paragraph",
+      "text": "Lorena acorda no dia seguinte no meio da manhã. Finalmente ela teve uma boa noite de sono, e acordou de bom humor. Ela não consegue evitar, uma das primeiras coisas vindo na sua cabeça sendo Juquinha falando com ela ‘Pode morar o resto da vida, se quiser’.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena acorda no dia seguinte no meio da manhã. Finalmente ela teve uma boa noite de sono, e acordou de bom humor. Ela não consegue evitar, uma das primeiras coisas vindo na sua cabeça sendo Juquinha falando com ela "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "‘Pode morar o resto da vida, se quiser’"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-08-0141",
+      "type": "paragraph",
+      "text": "Aquela frase tinha deixado ela boba, mesmo que talvez Juquinha não estivesse falando sério de verdade. A ideia de morar a vida toda com a ruiva não lhe parecia tão ruim assim."
+    },
+    {
+      "id": "cap-08-0142",
+      "type": "paragraph",
+      "text": "Além disso, ela ficou feliz com o jantar, que foi um sucesso, tirando a parte que Maggye quis se meter demais na vida dela, falando que ela devia achar alguém pra ficar. Ela tenta não pensar em como ela queria se enfiar embaixo da mesa, e em como Juquinha falar pra ela que talvez ela deveria mesmo baixar Bumble afetou ela mais do que deveria. Não tinha motivo pra isso, afinal, elas eram amigas, e apenas isso. Lorena não queria ser mais nada além disso. Ela só não tava muito no clima de procurar alguém agora, só isso. A última vez já tinha trazido dor de cabeça demais."
+    },
+    {
+      "id": "cap-08-0143",
+      "type": "paragraph",
+      "text": "Não demora muito pra ela ouvir uma batida na sua porta. Ela grita para a pessoa abrir, e Juquinha aparece um segundo depois."
+    },
+    {
+      "id": "cap-08-0144",
+      "type": "paragraph",
+      "text": "– Vou ter que ir na delegacia. - Ela fala. - Não devo voltar tarde hoje, se quiser pego comida na volta e a gente janta juntas."
+    },
+    {
+      "id": "cap-08-0145",
+      "type": "paragraph",
+      "text": "– Por mim tá ótimo. - Lorena sorri pra ela."
+    },
+    {
+      "id": "cap-08-0146",
+      "type": "paragraph",
+      "text": "– Combinado, então. - Juquinha sorri de volta. - Beijos."
+    },
+    {
+      "id": "cap-08-0147",
+      "type": "paragraph",
+      "text": "– Beijos. - Lorena fala antes de a outra garota sair de seu quarto."
+    },
+    {
+      "id": "cap-08-0148",
+      "type": "paragraph",
+      "text": "Ela suspira, e levanta, indo tomar seu café. Ela está quase acabando quando seu telefone toca."
+    },
+    {
+      "id": "cap-08-0149",
+      "type": "paragraph",
+      "text": "– Alo. - Ela atende o aparelho. - Ei, Maggye."
+    },
+    {
+      "id": "cap-08-0150",
+      "type": "paragraph",
+      "text": "– Oi amiga. - Maggye fala do outro lado da linha. - Tudo bem?"
+    },
+    {
+      "id": "cap-08-0151",
+      "type": "paragraph",
+      "text": "– Tudo ótimo, e você? - Lorena pergunta. - Gostou do jantar?"
+    },
+    {
+      "id": "cap-08-0152",
+      "type": "paragraph",
+      "text": "– Gostei demais! To ligando mesmo pra agradecer, foi ótimo."
+    },
+    {
+      "id": "cap-08-0153",
+      "type": "paragraph",
+      "text": "– Foi mesmo, você tem que vir mais vezes agora."
+    },
+    {
+      "id": "cap-08-0154",
+      "type": "paragraph",
+      "text": "– Pode deixar. - Maggye diz. - E aqui… Queria falar com você, como estão as coisas aí? Com a Juquinha, como vocês tão?"
+    },
+    {
+      "id": "cap-08-0155",
+      "type": "paragraph",
+      "text": "Lorena estranha um pouco a pergunta."
+    },
+    {
+      "id": "cap-08-0156",
+      "type": "paragraph",
+      "text": "– Tá tudo bem, eu acho. - Ela responde. - Por que?"
+    },
+    {
+      "id": "cap-08-0157",
+      "type": "paragraph",
+      "text": "– Nada não, só queria saber como tá sendo morar juntas. - Maggye fala. - Vocês pareceram próximas, ontem."
+    },
+    {
+      "id": "cap-08-0158",
+      "type": "paragraph",
+      "text": "– Sim, tá sendo tudo ótimo. - Lorena conta. - Eu to gostando muito de morar com ela, a gente se dá bem."
+    },
+    {
+      "id": "cap-08-0159",
+      "type": "paragraph",
+      "text": "– Mas é só isso?"
+    },
+    {
+      "id": "cap-08-0160",
+      "type": "paragraph",
+      "text": "Lorena não consegue decifrar o tom de Maggye, e franze o cenho, confusa."
+    },
+    {
+      "id": "cap-08-0161",
+      "type": "paragraph",
+      "text": "– Como assim, só isso?"
+    },
+    {
+      "id": "cap-08-0162",
+      "type": "paragraph",
+      "text": "– Quero dizer, entre vocês, se não tem mais nada."
+    },
+    {
+      "id": "cap-08-0163",
+      "type": "paragraph",
+      "text": "Lorena começa a ficar ansiosa."
+    },
+    {
+      "id": "cap-08-0164",
+      "type": "paragraph",
+      "text": "– Mais nada tipo o que? - Ela não entende muito bem o que isso quer dizer, será que tem alguma coisa errada? - Ela te falou alguma coisa?"
+    },
+    {
+      "id": "cap-08-0165",
+      "type": "paragraph",
+      "text": "– Não, relaxa, eu nem falei com ela desde ontem."
+    },
+    {
+      "id": "cap-08-0166",
+      "type": "paragraph",
+      "text": "– Ah, que bom. - Lorena respira aliviada. - Às vezes eu fico com medo dela cansar de mim."
+    },
+    {
+      "id": "cap-08-0167",
+      "type": "paragraph",
+      "text": "– Ai, Lorena. - Maggye solta uma risada. - Eu realmente não acho que você precisa se preocupar com isso.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "– Ai, Lorena. - Maggye solta uma risada. - Eu "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "realmente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " não acho que você precisa se preocupar com isso."
+        }
+      ]
+    },
+    {
+      "id": "cap-08-0168",
+      "type": "paragraph",
+      "text": "– Espero que você esteja certa."
+    },
+    {
+      "id": "cap-08-0169",
+      "type": "paragraph",
+      "text": "– É, eu apostaria que sim. - Maggye fala. - Mas aqui, qualquer coisa você sabe que pode falar comigo, né? To aqui."
+    },
+    {
+      "id": "cap-08-0170",
+      "type": "paragraph",
+      "text": "– Sim, eu sei. - Lorena responde. - Eu também to aqui pra você, sempre."
+    },
+    {
+      "id": "cap-08-0171",
+      "type": "paragraph",
+      "text": "– Eu sei também. - Maggye fala, e ela sorri. - Eu tenho que ir, mas depois a gente se fala."
+    },
+    {
+      "id": "cap-08-0172",
+      "type": "paragraph",
+      "text": "– Tá bom, amiga, beijos."
+    },
+    {
+      "id": "cap-08-0173",
+      "type": "paragraph",
+      "text": "– Beijos."
+    },
+    {
+      "id": "cap-08-0174",
+      "type": "paragraph",
+      "text": "Maggye desliga o telefone, e Lorena olha para o seu aparelho um pouco encucada com aquela conversa. Será que Maggye percebeu alguma tensão entre as duas? Ela tenta não pensar demais, falando pra si mesma que tá tudo bem. A Juquinha tá agindo normal com ela, elas se dão bem morando juntas e a ruiva virou uma grande amiga sua. E isso é tudo que Lorena quer, tudo que ela pode pedir."
+    },
+    {
+      "id": "cap-08-0175",
+      "type": "paragraph",
+      "text": "Ao menos é isso que ela fala pra si mesma."
+    }
+  ],
+  "notes": {
+    "before": [
+      {
+        "id": "cap-08-0001",
+        "type": "paragraph",
+        "text": "cap novo pra comemorar que hoje tem loquinha!! (pelo menos nos proximos capitulos)"
+      }
+    ],
+    "after": [
+      {
+        "id": "cap-08-0176",
+        "type": "paragraph",
+        "text": "espero que estejam gostando!! não é exatamente um spoiler mas posso dizer que to animada pra postar os proximos 2 caps hehe"
+      }
+    ]
+  }
+}
