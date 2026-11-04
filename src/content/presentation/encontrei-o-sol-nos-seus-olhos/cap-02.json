@@ -1,0 +1,64 @@
+{
+  "chapterId": "cap-02",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-02-0039",
+      "end": "cap-02-0055",
+      "inlineSenders": [
+        "Paulinho",
+        "Juquinha"
+      ],
+      "rightSenders": [
+        "Juquinha"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-02-0076",
+      "end": "cap-02-0077",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-02-0079",
+      "end": "cap-02-0085",
+      "inlineSenders": [
+        "Juquinha",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-02-0104",
+      "end": "cap-02-0110",
+      "inlineSenders": [
+        "Juquinha",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-02-0112",
+      "end": "cap-02-0113",
+      "inlineSenders": [
+        "Lorena",
+        "Juquinha"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    }
+  ]
+}

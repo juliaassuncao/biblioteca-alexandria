@@ -1,0 +1,26 @@
+{
+  "chapterId": "cap-25",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-25-0085",
+      "end": "cap-25-0090",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0092",
+      "end": "cap-25-0093",
+      "inlineSenders": [
+        "Eduarda"
+      ],
+      "rightSenders": []
+    }
+  ]
+}

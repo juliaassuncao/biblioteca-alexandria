@@ -1,0 +1,90 @@
+{
+  "chapterId": "cap-13",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-13-0185",
+      "end": "cap-13-0185",
+      "inlineSenders": [
+        "Eduarda"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-13-0187",
+      "end": "cap-13-0187",
+      "inlineSenders": [
+        "L.F. (número #2)"
+      ],
+      "rightSenders": [
+        "L.F. (número #2)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-13-0189",
+      "end": "cap-13-0193",
+      "inlineSenders": [
+        "Eduarda",
+        "L.F. (número #2)"
+      ],
+      "rightSenders": [
+        "L.F. (número #2)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-13-0195",
+      "end": "cap-13-0199",
+      "inlineSenders": [
+        "Eduarda",
+        "L.F. (número #2)"
+      ],
+      "rightSenders": [
+        "L.F. (número #2)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-13-0201",
+      "end": "cap-13-0233",
+      "inlineSenders": [
+        "L.F. (número #2)",
+        "Eduarda"
+      ],
+      "rightSenders": [
+        "L.F. (número #2)"
+      ]
+    },
+    {
+      "type": "tweet",
+      "start": "cap-13-0301",
+      "end": "cap-13-0313"
+    },
+    {
+      "type": "chat",
+      "start": "cap-13-0315",
+      "end": "cap-13-0317",
+      "inlineSenders": [
+        "Eduarda",
+        "L.F. (número #2)"
+      ],
+      "rightSenders": [
+        "L.F. (número #2)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-13-0319",
+      "end": "cap-13-0335",
+      "inlineSenders": [
+        "L.F. (número #2)",
+        "Eduarda"
+      ],
+      "rightSenders": [
+        "L.F. (número #2)"
+      ]
+    }
+  ]
+}

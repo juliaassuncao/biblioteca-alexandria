@@ -1,4 +1,4 @@
-import type { ChapterBlock, Fanfic, FormattedText } from '../../types/fanfic.ts';
+import type { ChapterBlock, Fanfic, FormattedText, TweetPublication } from '../../types/fanfic.ts';
 import { assertChapterContent } from '../chapter-content.ts';
 import type { ExportBook, ExportLoader, ExportNode, ExportRequest } from './export-types.ts';
 
@@ -10,6 +10,16 @@ const formatted = (id: string, value: FormattedText): ExportNode => ({ id, kind:
 const identification = (id: string, value: FormattedText): ExportNode => formatted(id, {
   ...value, segments: [{ type: 'strong', children: value.segments ?? [{ type: 'text', text: value.text }] }],
 });
+
+function exportPost(post: TweetPublication): ExportNode {
+  return { id: post.id, kind: 'section', role: 'tweet', children: [
+    identification(`${post.id}-author`, { text: [post.author.name, post.author.username, post.replyTo ? `replying to ${post.replyTo}` : undefined].filter(Boolean).join(' ') + ':' }),
+    ...(post.date ? [paragraph(`${post.id}-date`, post.date)] : []),
+    ...transformBlocks(post.body),
+    ...(post.quoted ? [exportPost(post.quoted)] : []),
+    ...Object.entries(post.metrics ?? {}).map(([key, value]) => paragraph(`${post.id}-${key}`, `${key}: ${value}`)),
+  ] };
+}
 
 export function transformBlocks(blocks: ChapterBlock[], narrative = false): ExportNode[] {
   return blocks.map((block): ExportNode => {
@@ -23,6 +33,7 @@ export function transformBlocks(blocks: ChapterBlock[], narrative = false): Expo
       case 'divider': return { id: block.id, kind: 'divider' };
       case 'image': return { ...block, kind: 'image' };
       case 'external-link': return { id: block.id, kind: 'link', href: block.href, label: block.label };
+      case 'tweet': return { id: block.id, kind: 'section', role: 'tweet', children: block.posts.map(exportPost) };
       case 'document': case 'notice': case 'excerpt': return {
         id: block.id, kind: 'section', role: block.type,
         title: block.type === 'excerpt' ? undefined : block.title,
@@ -37,10 +48,10 @@ export function transformBlocks(blocks: ChapterBlock[], narrative = false): Expo
       case 'chat': {
         const participants = block.participants ?? [];
         const participantsById = new Map(participants.map(person => [person.id, person]));
-        const children: ExportNode[] = participants.flatMap(person => [
+        const children: ExportNode[] = [...transformBlocks(block.introduction ? [block.introduction] : []), ...(block.sourceBlocks ? [] : participants).flatMap(person => [
           ...(person.name ? [identification(`${block.id}-${person.id}-name`, { text: person.name })] : []),
           ...(person.avatar ? [{ id: `${block.id}-${person.id}-avatar`, kind: 'image' as const, ...person.avatar }] : []),
-        ]);
+        ])];
         if (block.entries) children.push(...block.entries.map((entry): ExportNode => {
           if (entry.kind !== 'message') return { id: entry.id, kind: 'section', role: entry.kind, children: [identification(`${entry.id}-text`, entry.content)] };
           const person = entry.participantId ? participantsById.get(entry.participantId) : undefined;

@@ -1,0 +1,362 @@
+{
+  "chapterId": "cap-20",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-20-0014",
+      "end": "cap-20-0014",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0041",
+      "end": "cap-20-0041",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0044",
+      "end": "cap-20-0045",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0047",
+      "end": "cap-20-0048",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0050",
+      "end": "cap-20-0051",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0053",
+      "end": "cap-20-0056",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0058",
+      "end": "cap-20-0061",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0063",
+      "end": "cap-20-0071",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0073",
+      "end": "cap-20-0074",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0076",
+      "end": "cap-20-0076",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0079",
+      "end": "cap-20-0079",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0081",
+      "end": "cap-20-0083",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0085",
+      "end": "cap-20-0086",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0088",
+      "end": "cap-20-0093",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0095",
+      "end": "cap-20-0098",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0100",
+      "end": "cap-20-0108",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0110",
+      "end": "cap-20-0111",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0113",
+      "end": "cap-20-0119",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0121",
+      "end": "cap-20-0126",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0128",
+      "end": "cap-20-0135",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0137",
+      "end": "cap-20-0155",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0157",
+      "end": "cap-20-0164",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0166",
+      "end": "cap-20-0178",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0180",
+      "end": "cap-20-0184",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0186",
+      "end": "cap-20-0188",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0190",
+      "end": "cap-20-0192",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0194",
+      "end": "cap-20-0194",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0196",
+      "end": "cap-20-0198",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0200",
+      "end": "cap-20-0205",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0207",
+      "end": "cap-20-0210",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0212",
+      "end": "cap-20-0217",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0219",
+      "end": "cap-20-0224",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0514",
+      "end": "cap-20-0534",
+      "inlineSenders": [
+        "Eduarda",
+        "Lorena (anjo caído)"
+      ],
+      "rightSenders": [
+        "Lorena (anjo caído)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "chapterId": "cap-18",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-18-0137",
+      "end": "cap-18-0139",
+      "inlineSenders": [
+        "E.F. (pinscher raivoso)"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-18-0141",
+      "end": "cap-18-0157",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-18-0159",
+      "end": "cap-18-0168",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-18-0170",
+      "end": "cap-18-0176",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-18-0178",
+      "end": "cap-18-0186",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-18-0188",
+      "end": "cap-18-0203",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-18-0205",
+      "end": "cap-18-0211",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-18-0281",
+      "end": "cap-18-0281",
+      "inlineSenders": [
+        "Lorena (anjo caído)"
+      ],
+      "rightSenders": [
+        "Lorena (anjo caído)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-18-0283",
+      "end": "cap-18-0286",
+      "inlineSenders": [
+        "Eduarda",
+        "Lorena (anjo caído)"
+      ],
+      "rightSenders": [
+        "Lorena (anjo caído)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-18-0288",
+      "end": "cap-18-0294",
+      "inlineSenders": [
+        "Eduarda",
+        "Lorena (anjo caído)"
+      ],
+      "rightSenders": [
+        "Lorena (anjo caído)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-18-0296",
+      "end": "cap-18-0298",
+      "inlineSenders": [
+        "Eduarda",
+        "Lorena (anjo caído)"
+      ],
+      "rightSenders": [
+        "Lorena (anjo caído)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-18-0300",
+      "end": "cap-18-0304",
+      "inlineSenders": [
+        "Eduarda",
+        "Lorena (anjo caído)"
+      ],
+      "rightSenders": [
+        "Lorena (anjo caído)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-18-0306",
+      "end": "cap-18-0309",
+      "inlineSenders": [
+        "Eduarda",
+        "Lorena (anjo caído)"
+      ],
+      "rightSenders": [
+        "Lorena (anjo caído)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-18-0311",
+      "end": "cap-18-0314",
+      "inlineSenders": [
+        "Eduarda",
+        "Lorena (anjo caído)"
+      ],
+      "rightSenders": [
+        "Lorena (anjo caído)"
+      ]
+    }
+  ]
+}

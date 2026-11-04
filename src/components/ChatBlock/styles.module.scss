@@ -10,5 +10,6 @@
 .sender { --reader-font-size: 14px; p, h2, h3 { font: 600 .75rem/1.5 'DM Sans', system-ui, sans-serif; margin: 0; text-align: left; } }
 .time { display: block; font: 400 .65rem/1.5 'DM Sans', system-ui, sans-serif; color: var(--reader-muted); text-align: right; margin-top: .4rem; }
 .avatar { width: 2rem; height: 2rem; object-fit: cover; border-radius: 50%; flex-shrink: 0; }
+.message[data-grouped='true'] { margin-top: -.35rem; }
 .system { width: fit-content; max-width: 100%; margin: 1rem auto; padding: .4rem .75rem; border-radius: .3rem; background: var(--reader-surface); text-align: center; font: 400 .75rem/1.6 'DM Sans', system-ui, sans-serif; }
 @media(max-width: 420px) { .message { max-width: 95%; } .bubble { padding: .6rem .7rem; } }

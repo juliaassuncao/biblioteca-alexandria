@@ -1,0 +1,79 @@
+{
+  "chapterId": "cap-16",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-16-0069",
+      "end": "cap-16-0070",
+      "inlineSenders": [
+        "Maggye"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-16-0072",
+      "end": "cap-16-0081",
+      "inlineSenders": [
+        "Lorena",
+        "Maggye"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-16-0083",
+      "end": "cap-16-0083",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-16-0086",
+      "end": "cap-16-0088",
+      "inlineSenders": [
+        "Maggye"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-16-0090",
+      "end": "cap-16-0091",
+      "inlineSenders": [
+        "Juquinha"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-16-0093",
+      "end": "cap-16-0094",
+      "inlineSenders": [
+        "Lorena",
+        "Maggye"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-16-0096",
+      "end": "cap-16-0098",
+      "inlineSenders": [
+        "Maggye",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "chapterId": "cap-07",
+  "groups": [
+    {
+      "type": "tweet",
+      "start": "cap-07-0139",
+      "end": "cap-07-0146"
+    },
+    {
+      "type": "chat",
+      "start": "cap-07-0148",
+      "end": "cap-07-0149",
+      "inlineSenders": [
+        "Santiago Ferette"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-07-0153",
+      "end": "cap-07-0154",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    }
+  ]
+}

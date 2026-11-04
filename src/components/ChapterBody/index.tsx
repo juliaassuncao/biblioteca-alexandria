@@ -7,6 +7,7 @@ import EmailBlock from '../EmailBlock';
 import ExcerptBlock from '../ExcerptBlock';
 import NoticeBlock from '../NoticeBlock';
 import SceneDivider from '../SceneDivider';
+import TweetBlock from '../TweetBlock';
 import type { ChapterBodyContext, ChapterBodyProps } from './props';
 import { inlineContent } from './inline';
 import styles from './styles.module.scss';
@@ -29,7 +30,8 @@ function renderBlock(block: ChapterBlock, context: ChapterBodyContext, signature
       {block.caption && <figcaption>{block.caption}</figcaption>}
     </figure>;
     case 'external-link': return <p>{isSafeReaderLink(block.href) ? <a href={block.href} target="_blank" rel="noopener noreferrer">{block.label}</a> : block.label}</p>;
-    case 'chat': return <ChatBlock block={block} />;
+    case 'chat': return <>{block.introduction && renderBlock(block.introduction, context)}<ChatBlock block={block} /></>;
+    case 'tweet': return <TweetBlock block={block} />;
     case 'email': return <EmailBlock block={block} />;
     case 'document': return <DocumentBlock block={block} />;
     case 'notice': return <NoticeBlock block={block} />;

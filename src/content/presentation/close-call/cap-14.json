@@ -1,0 +1,48 @@
+{
+  "chapterId": "cap-14",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-14-0013",
+      "end": "cap-14-0014",
+      "inlineSenders": [
+        "L.F. (demônio na terra)"
+      ],
+      "rightSenders": [
+        "L.F. (demônio na terra)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-14-0016",
+      "end": "cap-14-0025",
+      "inlineSenders": [
+        "Eduarda",
+        "L.F. (demônio na terra)"
+      ],
+      "rightSenders": [
+        "L.F. (demônio na terra)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-14-0122",
+      "end": "cap-14-0125",
+      "inlineSenders": [
+        "E.F. (pinscher raivoso)"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-14-0136",
+      "end": "cap-14-0136",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    }
+  ]
+}

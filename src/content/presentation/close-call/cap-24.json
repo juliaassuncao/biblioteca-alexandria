@@ -1,0 +1,133 @@
+{
+  "chapterId": "cap-24",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-24-0121",
+      "end": "cap-24-0122",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-24-0125",
+      "end": "cap-24-0134",
+      "inlineSenders": [
+        "Maggye",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-24-0136",
+      "end": "cap-24-0137",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-24-0139",
+      "end": "cap-24-0157",
+      "inlineSenders": [
+        "Maggye",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-24-0160",
+      "end": "cap-24-0161",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-24-0163",
+      "end": "cap-24-0190",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-24-0192",
+      "end": "cap-24-0194",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-24-0196",
+      "end": "cap-24-0196",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-24-0198",
+      "end": "cap-24-0199",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-24-0201",
+      "end": "cap-24-0201",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-24-0298",
+      "end": "cap-24-0302",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "tweet",
+      "start": "cap-24-0305",
+      "end": "cap-24-0319"
+    }
+  ]
+}

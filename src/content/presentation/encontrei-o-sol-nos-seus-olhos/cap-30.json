@@ -1,0 +1,40 @@
+{
+  "chapterId": "cap-30",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-30-0129",
+      "end": "cap-30-0129",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-30-0131",
+      "end": "cap-30-0160",
+      "inlineSenders": [
+        "Eduarda",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-30-0228",
+      "end": "cap-30-0268",
+      "inlineSenders": [
+        "Eduarda",
+        "Maggye"
+      ],
+      "rightSenders": [
+        "Eduarda"
+      ]
+    }
+  ]
+}

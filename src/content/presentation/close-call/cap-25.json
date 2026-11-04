@@ -1,0 +1,212 @@
+{
+  "chapterId": "cap-25",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-25-0133",
+      "end": "cap-25-0133",
+      "inlineSenders": [
+        "Eduarda (pinscher adestrado)"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0136",
+      "end": "cap-25-0144",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0146",
+      "end": "cap-25-0182",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0184",
+      "end": "cap-25-0191",
+      "inlineSenders": [
+        "Eduarda",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0192",
+      "end": "cap-25-0195",
+      "inlineSenders": [
+        "Eduarda",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ],
+      "leadingNarrativeLength": 142
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0198",
+      "end": "cap-25-0210",
+      "inlineSenders": [
+        "Eduarda",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0212",
+      "end": "cap-25-0213",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0219",
+      "end": "cap-25-0220",
+      "inlineSenders": [
+        "Eduarda"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0222",
+      "end": "cap-25-0230",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0232",
+      "end": "cap-25-0253",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0255",
+      "end": "cap-25-0263",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0265",
+      "end": "cap-25-0265",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0377",
+      "end": "cap-25-0381",
+      "inlineSenders": [
+        "Lorena",
+        "Eduarda"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0383",
+      "end": "cap-25-0395",
+      "inlineSenders": [
+        "Eduarda",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0397",
+      "end": "cap-25-0407",
+      "inlineSenders": [
+        "Eduarda",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0410",
+      "end": "cap-25-0410",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0412",
+      "end": "cap-25-0414",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-25-0416",
+      "end": "cap-25-0433",
+      "inlineSenders": [
+        "Maggye",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    }
+  ]
+}

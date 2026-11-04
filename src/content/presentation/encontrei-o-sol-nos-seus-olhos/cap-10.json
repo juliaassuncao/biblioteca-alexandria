@@ -1,0 +1,38 @@
+{
+  "chapterId": "cap-10",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-10-0159",
+      "end": "cap-10-0160",
+      "inlineSenders": [
+        "Juquinha"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-10-0162",
+      "end": "cap-10-0165",
+      "inlineSenders": [
+        "Lorena",
+        "Juquinha"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-10-0167",
+      "end": "cap-10-0175",
+      "inlineSenders": [
+        "Juquinha",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    }
+  ]
+}

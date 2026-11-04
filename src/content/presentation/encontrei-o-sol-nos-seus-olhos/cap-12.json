@@ -1,0 +1,117 @@
+{
+  "chapterId": "cap-12",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-12-0017",
+      "end": "cap-12-0018",
+      "inlineSenders": [
+        "Maggye"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0020",
+      "end": "cap-12-0024",
+      "inlineSenders": [
+        "Lorena",
+        "Maggye"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0026",
+      "end": "cap-12-0027",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0029",
+      "end": "cap-12-0036",
+      "inlineSenders": [
+        "Maggye",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0038",
+      "end": "cap-12-0046",
+      "inlineSenders": [
+        "Maggye",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0048",
+      "end": "cap-12-0049",
+      "inlineSenders": [
+        "Maggye"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0051",
+      "end": "cap-12-0055",
+      "inlineSenders": [
+        "Lorena",
+        "Maggye"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0057",
+      "end": "cap-12-0061",
+      "inlineSenders": [
+        "Lorena",
+        "Maggye"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0108",
+      "end": "cap-12-0109",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0111",
+      "end": "cap-12-0114",
+      "inlineSenders": [
+        "Leo",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "chapterId": "cap-21",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-21-0148",
+      "end": "cap-21-0150",
+      "inlineSenders": [
+        "Maggye"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "tweet",
+      "start": "cap-21-0152",
+      "end": "cap-21-0152"
+    },
+    {
+      "type": "tweet",
+      "start": "cap-21-0156",
+      "end": "cap-21-0175"
+    },
+    {
+      "type": "chat",
+      "start": "cap-21-0177",
+      "end": "cap-21-0178",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-21-0180",
+      "end": "cap-21-0183",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    }
+  ]
+}

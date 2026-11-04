@@ -1,0 +1,107 @@
+{
+  "chapterId": "cap-07",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-07-0029",
+      "end": "cap-07-0033",
+      "inlineSenders": [
+        "Maggye",
+        "Juquinha"
+      ],
+      "rightSenders": [
+        "Juquinha"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-07-0076",
+      "end": "cap-07-0077",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-07-0079",
+      "end": "cap-07-0084",
+      "inlineSenders": [
+        "Juquinha",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-07-0086",
+      "end": "cap-07-0086",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-07-0088",
+      "end": "cap-07-0088",
+      "inlineSenders": [
+        "Juquinha"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-07-0091",
+      "end": "cap-07-0094",
+      "inlineSenders": [
+        "Juquinha",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-07-0096",
+      "end": "cap-07-0098",
+      "inlineSenders": [
+        "Lorena",
+        "Juquinha"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-07-0100",
+      "end": "cap-07-0100",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-07-0102",
+      "end": "cap-07-0109",
+      "inlineSenders": [
+        "Juquinha",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    }
+  ]
+}

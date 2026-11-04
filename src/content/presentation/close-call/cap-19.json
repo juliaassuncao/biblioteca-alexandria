@@ -1,0 +1,33 @@
+{
+  "chapterId": "cap-19",
+  "groups": [
+    {
+      "type": "tweet",
+      "start": "cap-19-0013",
+      "end": "cap-19-0032"
+    },
+    {
+      "type": "chat",
+      "start": "cap-19-0268",
+      "end": "cap-19-0308",
+      "inlineSenders": [
+        "Eduarda",
+        "Gerluce"
+      ],
+      "rightSenders": [
+        "Eduarda"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-19-0383",
+      "end": "cap-19-0385",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    }
+  ]
+}

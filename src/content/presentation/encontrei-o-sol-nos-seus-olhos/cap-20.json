@@ -1,0 +1,124 @@
+{
+  "chapterId": "cap-20",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-20-0009",
+      "end": "cap-20-0009",
+      "inlineSenders": [
+        "Juquinha"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0011",
+      "end": "cap-20-0013",
+      "inlineSenders": [
+        "Lorena",
+        "Juquinha"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0015",
+      "end": "cap-20-0016",
+      "inlineSenders": [
+        "Juquinha",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0018",
+      "end": "cap-20-0022",
+      "inlineSenders": [
+        "Lorena",
+        "Juquinha"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0024",
+      "end": "cap-20-0024",
+      "inlineSenders": [
+        "Juquinha"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0054",
+      "end": "cap-20-0054",
+      "inlineSenders": [
+        "Paulinho"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0056",
+      "end": "cap-20-0066",
+      "inlineSenders": [
+        "Juquinha",
+        "Paulinho"
+      ],
+      "rightSenders": [
+        "Juquinha"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0068",
+      "end": "cap-20-0075",
+      "inlineSenders": [
+        "Paulinho",
+        "Juquinha"
+      ],
+      "rightSenders": [
+        "Juquinha"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0077",
+      "end": "cap-20-0077",
+      "inlineSenders": [
+        "Juquinha"
+      ],
+      "rightSenders": [
+        "Juquinha"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0081",
+      "end": "cap-20-0082",
+      "inlineSenders": [
+        "Juquinha"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-20-0084",
+      "end": "cap-20-0117",
+      "inlineSenders": [
+        "Lorena",
+        "Juquinha"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    }
+  ]
+}

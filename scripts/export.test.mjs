@@ -193,6 +193,7 @@ test('blocos especiais: todos os tipos, segmentos, remetentes, horários, datas 
     { id: 'document', type: 'document', kind: 'form', title: 'Formulário original', body: [p('field', 'Campo: valor')] },
     { id: 'notice', type: 'notice', kind: 'alert', title: 'Aviso original', body: [p('notice-body', 'Corpo do aviso')] },
     { id: 'excerpt', type: 'excerpt', attribution: 'Autoria do trecho', body: [p('excerpt-body', 'Trecho original')] },
+    { id: 'tweet', type: 'tweet', posts: [{ id: 'post', author: { username: '@perfil' }, replyTo: '@origem', body: [{ ...p('post-body', 'Publicação original'), segments: [{ type: 'emphasis', children: [{ type: 'text', text: 'Publicação original' }] }] }] }] },
     { id: 'link', type: 'external-link', href: 'https://example.com', label: 'Referência original' },
   ];
   const chapter = { ...work.chapters[0], notes: { hasBefore: true, hasAfter: true, before: [], after: [] } };

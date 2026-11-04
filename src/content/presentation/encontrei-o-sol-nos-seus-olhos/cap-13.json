@@ -1,0 +1,37 @@
+{
+  "chapterId": "cap-13",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-13-0008",
+      "end": "cap-13-0010",
+      "inlineSenders": [
+        "Juquinha"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-13-0012",
+      "end": "cap-13-0012",
+      "inlineSenders": [
+        "Juquinha"
+      ],
+      "rightSenders": [
+        "Juquinha"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-13-0014",
+      "end": "cap-13-0026",
+      "inlineSenders": [
+        "Maggye",
+        "Juquinha"
+      ],
+      "rightSenders": [
+        "Juquinha"
+      ]
+    }
+  ]
+}

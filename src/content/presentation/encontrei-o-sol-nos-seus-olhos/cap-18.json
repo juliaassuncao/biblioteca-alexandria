@@ -1,0 +1,28 @@
+{
+  "chapterId": "cap-18",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-18-0007",
+      "end": "cap-18-0008",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-18-0010",
+      "end": "cap-18-0032",
+      "inlineSenders": [
+        "Maggye",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    }
+  ]
+}

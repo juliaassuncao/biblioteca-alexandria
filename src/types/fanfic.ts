@@ -41,6 +41,26 @@ export interface ChatBlockData {
   participants?: ChatParticipant[];
   entries?: ChatEntry[];
   messages?: ChatMessage[];
+  sourceBlocks?: ChapterBlock[];
+  introduction?: TextBlock;
+}
+
+export interface TweetPublication {
+  id: string;
+  author: { name?: string; username?: string; initials?: string };
+  date?: string;
+  replyTo?: string;
+  replyToId?: string;
+  body: ChapterBlock[];
+  metrics?: { replies?: string; reposts?: string; likes?: string; views?: string };
+  quoted?: TweetPublication;
+}
+
+export interface TweetBlockData {
+  id: string;
+  type: 'tweet';
+  posts: TweetPublication[];
+  sourceBlocks?: ChapterBlock[];
 }
 
 export interface EmailBlockData {
@@ -67,7 +87,7 @@ export type ChapterBlock =
   | ({ id: string; type: 'aside' } & FormattedText)
   | { id: string; type: 'image'; src: string; alt: string; caption?: string; alignment?: 'left' | 'center' | 'right' }
   | { id: string; type: 'external-link'; href: string; label: string }
-  | ChatBlockData | EmailBlockData | DocumentBlockData | NoticeBlockData | ExcerptBlockData;
+  | ChatBlockData | TweetBlockData | EmailBlockData | DocumentBlockData | NoticeBlockData | ExcerptBlockData;
 
 // O título, a numeração e os avisos já cadastrados pertencem ao catálogo.
 export interface ChapterContent {

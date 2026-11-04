@@ -1,0 +1,30 @@
+{
+  "chapterId": "cap-08",
+  "groups": [
+    {
+      "type": "tweet",
+      "start": "cap-08-0065",
+      "end": "cap-08-0069"
+    },
+    {
+      "type": "chat",
+      "start": "cap-08-0073",
+      "end": "cap-08-0074",
+      "inlineSenders": [
+        "Maggye"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-08-0076",
+      "end": "cap-08-0076",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    }
+  ]
+}

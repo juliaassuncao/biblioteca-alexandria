@@ -1,0 +1,16 @@
+{
+  "chapterId": "cap-28",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-28-0138",
+      "end": "cap-28-0140",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    }
+  ]
+}

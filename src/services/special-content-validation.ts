@@ -19,7 +19,32 @@ export function validateSpecialContent(
     errors.push(...nested(value, label));
   };
   optionalText(block, 'title');
+  if (block.type === 'tweet') {
+    const postIds = new Set<string>();
+    const publication = (post: unknown, depth = 0) => {
+      if (depth > 4 || !object(post) || !nonempty(post.id) || postIds.has(post.id)) { errors.push(`${where}: publicação inválida`); return; }
+      if (post.replyToId !== undefined && (!nonempty(post.replyToId) || !postIds.has(post.replyToId))) errors.push(`${where}: resposta sem publicação anterior correspondente`);
+      postIds.add(post.id);
+      if (!object(post.author) || (!nonempty(post.author.name) && !nonempty(post.author.username))) errors.push(`${where}: publicação sem autoria`);
+      else for (const key of ['name', 'username', 'initials']) optionalText(post.author, key);
+      optionalText(post, 'date');
+      optionalText(post, 'replyTo');
+      body(post.body, `${where}, publicação`);
+      if (post.metrics !== undefined) {
+        if (!object(post.metrics)) errors.push(`${where}: métricas inválidas`);
+        else for (const key of ['replies', 'reposts', 'likes', 'views']) optionalText(post.metrics, key);
+      }
+      if (post.quoted !== undefined) publication(post.quoted, depth + 1);
+    };
+    if (!Array.isArray(block.posts) || !block.posts.length) errors.push(`${where}: sequência de publicações vazia`);
+    else block.posts.forEach(post => publication(post));
+    return errors;
+  }
   if (block.type === 'chat') {
+    if (block.introduction !== undefined) {
+      if (!object(block.introduction) || !['paragraph', 'heading'].includes(String(block.introduction.type))) errors.push(`${where}: narrativa anterior à conversa inválida`);
+      else errors.push(...nested([block.introduction], `${where}, narrativa anterior`));
+    }
     if (!nonempty(block.chatId)) errors.push(`${where}: identificação da conversa inválida`);
     const participants = new Set<string>();
     if (block.participants !== undefined) {

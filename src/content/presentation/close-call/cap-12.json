@@ -1,0 +1,41 @@
+{
+  "chapterId": "cap-12",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-12-0127",
+      "end": "cap-12-0131",
+      "inlineSenders": [
+        "Lorena",
+        "E.F. (pinscher raivoso)"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0133",
+      "end": "cap-12-0140",
+      "inlineSenders": [
+        "Lorena",
+        "E.F. (pinscher raivoso)"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-12-0142",
+      "end": "cap-12-0152",
+      "inlineSenders": [
+        "E.F. (pinscher raivoso)",
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    }
+  ]
+}

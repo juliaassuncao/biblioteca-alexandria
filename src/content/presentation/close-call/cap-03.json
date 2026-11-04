@@ -1,0 +1,65 @@
+{
+  "chapterId": "cap-03",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-03-0007",
+      "end": "cap-03-0008",
+      "inlineSenders": [
+        "Chiara M."
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-03-0018",
+      "end": "cap-03-0018",
+      "inlineSenders": [
+        "Eduarda"
+      ],
+      "rightSenders": [
+        "Eduarda"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-03-0020",
+      "end": "cap-03-0020",
+      "inlineSenders": [
+        "Chiara M."
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "tweet",
+      "start": "cap-03-0023",
+      "end": "cap-03-0028"
+    },
+    {
+      "type": "tweet",
+      "start": "cap-03-0146",
+      "end": "cap-03-0154"
+    },
+    {
+      "type": "chat",
+      "start": "cap-03-0156",
+      "end": "cap-03-0157",
+      "inlineSenders": [
+        "Maggye"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-03-0160",
+      "end": "cap-03-0163",
+      "inlineSenders": [
+        "Lorena",
+        "Maggye"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    }
+  ]
+}

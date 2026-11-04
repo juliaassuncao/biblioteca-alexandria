@@ -1,0 +1,36 @@
+{
+  "chapterId": "cap-04",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-04-0097",
+      "end": "cap-04-0098",
+      "inlineSenders": [
+        "Juquinha"
+      ],
+      "rightSenders": [
+        "Juquinha"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-04-0117",
+      "end": "cap-04-0118",
+      "inlineSenders": [
+        "Juquinha"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-04-0120",
+      "end": "cap-04-0120",
+      "inlineSenders": [
+        "Lorena"
+      ],
+      "rightSenders": [
+        "Lorena"
+      ]
+    }
+  ]
+}

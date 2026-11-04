@@ -6,6 +6,13 @@ import { inlineContent } from '../ChapterBody/inline';
 import type { ChatBlockProps } from './props';
 import styles from './styles.module.scss';
 
+function sameSender(first?: ChatEntry, second?: ChatEntry): boolean {
+  if (first?.kind !== 'message' || second?.kind !== 'message' || first.side !== second.side) return false;
+  const firstSender = first.participantId ?? first.sender?.text;
+  const secondSender = second.participantId ?? second.sender?.text;
+  return !!firstSender && firstSender === secondSender;
+}
+
 export default function ChatBlock({ block }: ChatBlockProps) {
   const entries: ChatEntry[] = block.entries ?? (block.messages ?? []).map(message => ({
     id: message.id, kind: 'message', side: 'left', time: message.time,
@@ -20,9 +27,9 @@ export default function ChatBlock({ block }: ChatBlockProps) {
       if (entry.kind !== 'message') return <li key={entry.id} className={styles.system} data-kind={entry.kind}>{inlineContent(entry.content)}</li>;
       const participant = block.participants?.find(item => item.id === entry.participantId);
       const next = entries[index + 1];
-      const lastInGroup = next?.kind !== 'message' || next.side !== entry.side || !!next.sender;
-      return <li className={styles.message} data-side={entry.side} data-tail={lastInGroup} key={entry.id}>
-        {participant?.avatar && isSafeReaderImage(participant.avatar.src) && <img className={styles.avatar} src={participant.avatar.src} alt={participant.avatar.alt} loading="lazy" />}
+      const lastInGroup = !sameSender(entry, next);
+      return <li className={styles.message} data-side={entry.side} data-tail={lastInGroup} data-grouped={sameSender(entries[index - 1], entry)} key={entry.id}>
+        {!block.sourceBlocks && participant?.avatar && isSafeReaderImage(participant.avatar.src) && <img className={styles.avatar} src={participant.avatar.src} alt={participant.avatar.alt} loading="lazy" />}
         <div className={styles.bubble}>
           {entry.sender ? <div className={styles.sender}><ChapterBody blocks={[entry.sender]} context="message" /></div> : participant?.name && <p className={styles.participant}>{participant.name}</p>}
           <ChapterBody blocks={entry.body} context="message" />

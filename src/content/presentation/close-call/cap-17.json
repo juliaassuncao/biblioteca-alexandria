@@ -1,0 +1,114 @@
+{
+  "chapterId": "cap-17",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-17-0016",
+      "end": "cap-17-0016",
+      "inlineSenders": [
+        "L.F. (demônio na terra)"
+      ],
+      "rightSenders": [
+        "L.F. (demônio na terra)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-17-0022",
+      "end": "cap-17-0026",
+      "inlineSenders": [
+        "Eduarda",
+        "L.F. (demônio na terra)"
+      ],
+      "rightSenders": [
+        "L.F. (demônio na terra)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-17-0028",
+      "end": "cap-17-0029",
+      "inlineSenders": [
+        "Eduarda"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-17-0031",
+      "end": "cap-17-0036",
+      "inlineSenders": [
+        "L.F. (demônio na terra)",
+        "Eduarda"
+      ],
+      "rightSenders": [
+        "L.F. (demônio na terra)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-17-0038",
+      "end": "cap-17-0047",
+      "inlineSenders": [
+        "Eduarda",
+        "L.F. (demônio na terra)"
+      ],
+      "rightSenders": [
+        "L.F. (demônio na terra)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-17-0049",
+      "end": "cap-17-0071",
+      "inlineSenders": [
+        "Eduarda",
+        "L.F. (demônio na terra)"
+      ],
+      "rightSenders": [
+        "L.F. (demônio na terra)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-17-0073",
+      "end": "cap-17-0114",
+      "inlineSenders": [
+        "Eduarda",
+        "L.F. (demônio na terra)"
+      ],
+      "rightSenders": [
+        "L.F. (demônio na terra)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-17-0121",
+      "end": "cap-17-0123",
+      "inlineSenders": [
+        "Eduarda"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-17-0125",
+      "end": "cap-17-0127",
+      "inlineSenders": [
+        "L.F. (demônio na terra)"
+      ],
+      "rightSenders": [
+        "L.F. (demônio na terra)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-17-0129",
+      "end": "cap-17-0129",
+      "inlineSenders": [
+        "Eduarda"
+      ],
+      "rightSenders": []
+    }
+  ]
+}

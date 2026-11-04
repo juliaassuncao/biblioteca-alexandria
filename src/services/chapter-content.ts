@@ -47,6 +47,7 @@ export function validateBlocks(value: unknown, where = 'Blocos', ids = new Set<s
       (children, childLabel) => validateBlocks(children, childLabel, ids, depth + 1),
       (formatted, formattedLabel) => { const result: string[] = []; validateText(formatted, result, formattedLabel); return result; },
     );
+    if ((block.type === 'chat' || block.type === 'tweet') && block.sourceBlocks !== undefined) errors.push(...validateBlocks(block.sourceBlocks, `${label}, origem`, new Set(), depth + 1));
     switch (block.type) {
       case 'paragraph': case 'aside': case 'quote': case 'heading':
         validateText(block, errors, label);
@@ -81,7 +82,7 @@ export function validateBlocks(value: unknown, where = 'Blocos', ids = new Set<s
         }
         break;
       }
-      case 'email': case 'document': case 'notice': case 'excerpt': errors.push(...special()); break;
+      case 'tweet': case 'email': case 'document': case 'notice': case 'excerpt': errors.push(...special()); break;
       default: errors.push(`${label}: tipo de bloco desconhecido`);
     }
   }

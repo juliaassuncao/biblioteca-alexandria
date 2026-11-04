@@ -1,0 +1,78 @@
+{
+  "chapterId": "cap-11",
+  "groups": [
+    {
+      "type": "chat",
+      "start": "cap-11-0245",
+      "end": "cap-11-0246",
+      "inlineSenders": [
+        "Eduarda"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-11-0248",
+      "end": "cap-11-0248",
+      "inlineSenders": [
+        "L.F. - dona de 5 grand slams (2 a mais do que você)"
+      ],
+      "rightSenders": [
+        "L.F. - dona de 5 grand slams (2 a mais do que você)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-11-0250",
+      "end": "cap-11-0258",
+      "inlineSenders": [
+        "Eduarda",
+        "L.F. (número #2)"
+      ],
+      "rightSenders": [
+        "L.F. (número #2)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-11-0260",
+      "end": "cap-11-0271",
+      "inlineSenders": [
+        "L.F. (número #2)",
+        "Eduarda"
+      ],
+      "rightSenders": [
+        "L.F. (número #2)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-11-0273",
+      "end": "cap-11-0273",
+      "inlineSenders": [
+        "Eduarda"
+      ],
+      "rightSenders": []
+    },
+    {
+      "type": "chat",
+      "start": "cap-11-0275",
+      "end": "cap-11-0275",
+      "inlineSenders": [
+        "L.F. (número #2)"
+      ],
+      "rightSenders": [
+        "L.F. (número #2)"
+      ]
+    },
+    {
+      "type": "chat",
+      "start": "cap-11-0317",
+      "end": "cap-11-0317",
+      "inlineSenders": [
+        "E.F. (pinscher raivoso)"
+      ],
+      "rightSenders": []
+    }
+  ]
+}
