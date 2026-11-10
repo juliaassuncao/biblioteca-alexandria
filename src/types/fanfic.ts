@@ -146,7 +146,7 @@ export interface Fanfic {
   tags: string[];
   contentAdvisories: string[];
   stats: Stats;
-  cover: { variant: 'typographic'; tone: CoverTone; ornament: 'feather' | 'fingerprint' | 'clover' | 'paintbrush' | 'contract' | 'bible' | 'sun' | 'tennis-ball' | 'stars'; caption: string; titleCase?: 'lowercase' };
+  cover: { variant: 'typographic'; tone: CoverTone; ornament: 'feather' | 'fingerprint' | 'clover' | 'paintbrush' | 'contract' | 'bible' | 'sun' | 'tennis-ball' | 'stars' | 'ghost'; caption: string; titleCase?: 'lowercase' };
   reading: { mode: 'internal' | 'external'; externalUrl: string | null };
   // Internas enviadas pelas autoras: habilitado por padrão; false desativa explicitamente.
   downloads?: { enabled: boolean };

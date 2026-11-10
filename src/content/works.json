@@ -2752,5 +2752,97 @@
         "text": "VALE NOTAR: favor considerar tudo que aconteceu na novela até a vernissage de Bagdá (que foi quando eu comecei a escrever). O evento em si nunca aconteceu aqui."
       }
     ]
+  },
+  {
+    "id": "omg-i-think-i-might-love-you",
+    "slug": "omg-i-think-i-might-love-you",
+    "title": "OMG (i think i might love you)",
+    "author": {
+      "displayName": "nonielb",
+      "ao3Name": "nonielb",
+      "authorLink": "https://x.com/noniel_b"
+    },
+    "ao3Authors": [
+      "nonielb"
+    ],
+    "relationships": [
+      "Lorena Ferette/Eduarda \"Juquinha\" Fragoso"
+    ],
+    "characters": [
+      "Eduarda \"Juquinha\" Fragoso",
+      "Lorena Ferette",
+      "Paulo \"Paulinho\" Reitz",
+      "Gerluce Maria das Graças"
+    ],
+    "synopsis": "Aos 28 anos de idade, Eduarda Fragoso, uma talentosíssima paisagista, curtia sua vida em BH entre projetos grandiosos e mulheres lindas até que de uma hora para outra tudo parece perder sentido e ela se vê forçada a ir para SP em busca de respostas.\n\nOU\n\nPaulinho convence Eduarda a se mudar para SP em busca de inspiração e se reconectar com seu ofício e ela ganha muito mais do que barganhou em sua moradia temporária.\n\nOU\n\nE Se Fosse Verdade!AU com um toque de fio vermelho",
+    "status": "ongoing",
+    "language": "pt-BR",
+    "fandom": "Três Graças (TV) — Loquinha",
+    "category": null,
+    "classification": {
+      "rating": "Mature (M)",
+      "archiveWarning": null
+    },
+    "tags": [
+      "haunted to lovers",
+      "roommates – freeform",
+      "soulmates – freeform",
+      "alternate universe",
+      "anti-paulistismo",
+      "eduarda é mineira",
+      "linguagem de amor: atos de tormento",
+      "abstinência de pão de queijo",
+      "carly rae jepsen tem uma música sobre isso",
+      "tudo posso no lúdico que abraço",
+      "romcom"
+    ],
+    "contentAdvisories": [
+      "Avisos de conteúdo não informados pela autoria."
+    ],
+    "stats": {
+      "words": null,
+      "publishedChapters": 1,
+      "plannedChapters": null,
+      "publishedAt": null,
+      "updatedAt": "2026-10-31"
+    },
+    "cover": {
+      "variant": "typographic",
+      "tone": "violet",
+      "ornament": "ghost",
+      "caption": ""
+    },
+    "reading": {
+      "mode": "internal",
+      "externalUrl": null
+    },
+    "downloads": {
+      "enabled": true
+    },
+    "links": {
+      "original": null
+    },
+    "editorial": {
+      "submittedByAuthor": true,
+      "contentReady": false,
+      "sourceFile": "OMG (i think i might love you).pdf",
+      "sourceUpdatedAt": "2026-10-31",
+      "coverOfficial": false
+    },
+    "chapters": [
+      {
+        "id": "cap-01",
+        "number": 1,
+        "title": "Capítulo 1",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      }
+    ]
   }
 ]

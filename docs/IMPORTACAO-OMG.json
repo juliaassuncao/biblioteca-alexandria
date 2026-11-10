@@ -1,0 +1,237 @@
+{
+  "source": {
+    "file": "OMG (i think i might love you).pdf",
+    "localFile": "omg-i-think-i-might-love-you.pdf",
+    "sha256": "fca8cdccf30affa6035fdb003ab8a12387eb62c94ba8b0a3d18dbf412c5596c3",
+    "pages": 20
+  },
+  "chapterCount": 1,
+  "chapters": [
+    {
+      "id": "cap-01",
+      "number": 1,
+      "title": "Capítulo 1",
+      "startPage": 1,
+      "endPage": 19,
+      "bodyBlocks": 194,
+      "notesBefore": 0,
+      "notesAfter": 0,
+      "nonWhitespaceCharacters": 44728,
+      "sourceGlyphSha256": "25b0af76758bc7cf9a0d5311851d928e714d9ec4232fededbe741fba7ab903f0",
+      "importedGlyphSha256": "25b0af76758bc7cf9a0d5311851d928e714d9ec4232fededbe741fba7ab903f0",
+      "independentGlyphSha256": "25b0af76758bc7cf9a0d5311851d928e714d9ec4232fededbe741fba7ab903f0",
+      "structuredTextSha256": "aee7b85f1551f865ab5c90d00af0851772a7eb7e62bd453ebe547b90dea6b0a3",
+      "fileSha256": "9b64a58184996a914bbe3d25c829430cf08d07fe522ad64f7bcc0ef411f8111e",
+      "italicCharacters": 454,
+      "boldCharacters": 0
+    }
+  ],
+  "vectorDividers": [
+    {
+      "page": 5,
+      "top": 338.9999858750001,
+      "id": "cap-01-0041"
+    },
+    {
+      "page": 5,
+      "top": 554.24997690625,
+      "id": "cap-01-0043"
+    },
+    {
+      "page": 6,
+      "top": 730.4999695624996,
+      "id": "cap-01-0055"
+    },
+    {
+      "page": 10,
+      "top": 187.49999218749997,
+      "id": "cap-01-0094"
+    },
+    {
+      "page": 12,
+      "top": 609.7499745937488,
+      "id": "cap-01-0122"
+    },
+    {
+      "page": 13,
+      "top": 491.99997949999795,
+      "id": "cap-01-0129"
+    },
+    {
+      "page": 15,
+      "top": 86.24999640624935,
+      "id": "cap-01-0139"
+    },
+    {
+      "page": 15,
+      "top": 690.7499712187504,
+      "id": "cap-01-0145"
+    },
+    {
+      "page": 18,
+      "top": 68.99999712499937,
+      "id": "cap-01-0177"
+    },
+    {
+      "page": 18,
+      "top": 625.4999739374992,
+      "id": "cap-01-0184"
+    }
+  ],
+  "pageBoundaries": [
+    {
+      "nextPage": 2,
+      "joined": true,
+      "previous": "bromélias imperiais e outras plantas nativas da região, na iluminação planejada especialmente para",
+      "following": "transformar aquele canteiro num foco tão grande quanto o pavilhão em si: natureza e civilização"
+    },
+    {
+      "nextPage": 3,
+      "joined": false,
+      "previous": "broas na frente dela antes de se sentar ao seu lado.",
+      "following": "— Obrigada, seu Carlos. No envelope que tem toda a documentação do projeto tem também uma"
+    },
+    {
+      "nextPage": 4,
+      "joined": false,
+      "previous": "Precisava mesmo falar de futebol?",
+      "following": "O homem ri, encantado com ela apesar do cutucão no time cuja torcida – e desânimo futebolístico –"
+    },
+    {
+      "nextPage": 5,
+      "joined": true,
+      "previous": "igualmente escuros e amendoados; lábios desenhados que ela sabe ser macios pelos incontáveis",
+      "following": "beijos no canto de sua boca que a moça distribuiu ao longo dos últimos meses; os dentes"
+    },
+    {
+      "nextPage": 6,
+      "joined": true,
+      "previous": "sabe fazer com que sua companhia se sinta vista, desejada. Seja jantar num restaurante exclusivo",
+      "following": "ou uma balada na Savassi, Eduarda sabe como tratar uma mulher: como tocar, o que dizer, como"
+    },
+    {
+      "nextPage": 7,
+      "joined": false,
+      "previous": "estão tranquilamente tomando café da manhã.",
+      "following": "— A noite de alguém foi longa. — Henrique comenta com uma risada mal contida direcionada à"
+    },
+    {
+      "nextPage": 8,
+      "joined": true,
+      "previous": "uma hora na academia de nada adiantou; depois, achou que pudesse ser excesso de café. Passou a",
+      "following": "limitar o consumo tanto em quantidade quanto em horários e aumentou consideravelmente seu"
+    },
+    {
+      "nextPage": 9,
+      "joined": false,
+      "previous": "amoroso não possa florescer.",
+      "following": "— E se eu quiser que seja? E se eu quiser um relacionamento assim como o de vocês?"
+    },
+    {
+      "nextPage": 10,
+      "joined": false,
+      "previous": "gritando meu nome desesperada. Eu consigo ouvir!",
+      "following": "— Pode deixar. — seu pai responde em meio a uma risada. — Precisa de um reboque pra te levar até"
+    },
+    {
+      "nextPage": 11,
+      "joined": true,
+      "previous": "descobriu quão talentosa e esforçada Eduarda realmente é – pediu desculpas por sua atitude e pela",
+      "following": "imagem errada que criou dela baseado exclusivamente em aparências; eles se tornaram grandes"
+    },
+    {
+      "nextPage": 12,
+      "joined": true,
+      "previous": "entende que existem várias mini-cidades em cada região; entende a riqueza financeira e cultural;",
+      "following": "entende que é a “terra das oportunidades” no país; entende tudo isso. Mas qual o problema em não"
+    },
+    {
+      "nextPage": 13,
+      "joined": true,
+      "previous": "garrafa que reabastece com água gelada e passa a trabalhar na lista de características do imóvel em",
+      "following": "si. O que precisa: mobiliado, totalmente funcional, seguro, conservado, vaga de garagem, ar-"
+    },
+    {
+      "nextPage": 14,
+      "joined": true,
+      "previous": "necessidade, já que ela receberia o código da fechadura através de sua conta na plataforma de",
+      "following": "aluguel por temporada e seu cadastro no prédio em si seria realizado diretamente na portaria, seus"
+    },
+    {
+      "nextPage": 15,
+      "joined": true,
+      "previous": "em qualquer outro momento ela teria deixado perfeitamente clara a ofensa em ter homem flertando",
+      "following": "com ela. A mensagem parece chegar ao sujeito, porém. Ele limpa a garganta antes de começar a"
+    },
+    {
+      "nextPage": 16,
+      "joined": true,
+      "previous": "acesso à garagem colado no parabrisa do carro e cadastro realizado no sistema do prédio – manda",
+      "following": "uma mensagem ao melhor amigo informando que oficialmente está em terras paulistas e ele logo se"
+    },
+    {
+      "nextPage": 17,
+      "joined": false,
+      "previous": "pesadíssimo.",
+      "following": "— Nesse caso, seria “queijin bão”, mas eu te dou uma nota seis."
+    },
+    {
+      "nextPage": 18,
+      "joined": false,
+      "previous": "humano apto a viver em sociedade!",
+      "following": "Ela consegue desviar da bolinha de papel que ele joga em sua direção."
+    },
+    {
+      "nextPage": 19,
+      "joined": false,
+      "previous": "alívio de que não vai desperdiçar preciosos grãos tentando achar a combinação pó-água perfeita.",
+      "following": "Ela meticulosamente pesa os grãos já torrados que tira do pacote que Paulinho julgou e os mói"
+    }
+  ],
+  "excluded": [
+    {
+      "page": 1,
+      "kind": "work-title",
+      "text": "OMG (i think i might love you)"
+    },
+    {
+      "page": 1,
+      "kind": "author",
+      "text": "nonielb"
+    },
+    {
+      "page": 1,
+      "kind": "chapter-title",
+      "text": "Capítulo 1"
+    },
+    {
+      "page": 20,
+      "kind": "blank-page"
+    }
+  ],
+  "formatting": {
+    "font": "AAAAAA+Inter-Regular",
+    "italicTextMatrix": [
+      0.75,
+      0,
+      0.1875,
+      0.75
+    ]
+  },
+  "unknownMetadata": [
+    "links.original",
+    "stats.words",
+    "stats.plannedChapters",
+    "stats.publishedAt",
+    "category",
+    "classification.archiveWarning"
+  ],
+  "warnings": {
+    "form": "Não informados",
+    "pdf": "Não há seção de avisos no exemplar; ausência não declara inexistência de temas sensíveis."
+  },
+  "limitations": [
+    "PDF sem estrutura semântica de parágrafos: espaços e quebras reconstituídos pela geometria.",
+    "Revisão editorial humana da disposição dos parágrafos permanece pendente."
+  ]
+}

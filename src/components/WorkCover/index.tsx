@@ -1,4 +1,4 @@
-import { Brush, Clover, Feather, Fingerprint, FileSignature, Sun } from 'lucide-react';
+import { Brush, Clover, Feather, Fingerprint, FileSignature, Ghost, Sun } from 'lucide-react';
 import type { WorkCoverProps } from './props';
 import styles from './styles.module.scss';
 
@@ -9,7 +9,9 @@ export default function WorkCover({ work, featured = false }: WorkCoverProps) {
     <span className={styles.lineTop}>BIBLIOTECA DE ALEXANDRIA</span>
     <div className={styles.composition}>
     <span className={styles.ornament}>
-      {work.cover.ornament === 'stars' ? (
+      {work.cover.ornament === 'ghost' ? (
+        <Ghost size={45} strokeWidth={0.7} />
+      ) : work.cover.ornament === 'stars' ? (
         <svg width={45} height={45} viewBox="0 0 48 48" fill="none" stroke="currentColor" strokeWidth={0.7} strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
           <path d="m24 5 4.5 13.5L42 23l-13.5 4.5L24 41l-4.5-13.5L6 23l13.5-4.5Z" />
           <path d="m39 3 1.5 4.5L45 9l-4.5 1.5L39 15l-1.5-4.5L33 9l4.5-1.5ZM9 34l1.5 4.5L15 40l-4.5 1.5L9 46l-1.5-4.5L3 40l4.5-1.5Z" />
