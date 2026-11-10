@@ -14,12 +14,18 @@
     {
       "type": "chat",
       "start": "cap-06-0064",
-      "end": "cap-06-0064"
+      "end": "cap-06-0064",
+      "messageSides": {
+        "cap-06-0064": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-06-0078",
-      "end": "cap-06-0078"
+      "end": "cap-06-0078",
+      "messageSides": {
+        "cap-06-0078": "right"
+      }
     }
   ]
 }

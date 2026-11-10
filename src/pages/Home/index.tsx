@@ -23,7 +23,7 @@ const filters: { value: CatalogFilter; label: string }[] = [
 ];
 
 export default function Home() {
-  const recentAddition = works[1];
+  const featuredChapter = featuredWork?.chapters.at(-1);
   const { query, setQuery, filter, setFilter, filtered } =
     useCatalogFilter(works);
   return (
@@ -49,28 +49,27 @@ export default function Home() {
               Com carinho, de Loquinha para Loquinha ♡
             </span>
           </div>
-          {featuredWork && (
+          {featuredWork && featuredChapter && (
             <div className={styles.spotlight}>
-              <span className={styles.labelTop}>NOVAS HISTÓRIAS NA BIBLIOTECA</span>
+              <span className={styles.labelTop}>NOVO CAPÍTULO DISPONÍVEL</span>
               <div className={styles.spotlightCover}>
                 <WorkCover work={featuredWork} featured />
               </div>
-              <span className={styles.heroBookTitle}>{featuredWork.title}</span>
+              <span className={styles.heroChapterNumber}>
+                Capítulo {featuredChapter.number}
+              </span>
+              <span className={styles.heroChapterTitle}>
+                {featuredChapter.title}
+              </span>
               <span className={styles.heroBookAuthor}>
                 por <AuthorLink author={featuredWork.author} />
               </span>
               <Link
                 className={styles.featureLink}
-                to={`/obra/${featuredWork.slug}`}
+                to={`/obra/${featuredWork.slug}/capitulo/${featuredChapter.number}`}
               >
-                Conhecer a obra <ArrowRight size={15} />
+                Ler novo capítulo <ArrowRight size={15} />
               </Link>
-              {recentAddition && (
-                <div className={styles.alsoAdded}>
-                  <span>Também chegou ao acervo</span>
-                  <Link to={`/obra/${recentAddition.slug}`}>{recentAddition.title} <ArrowRight size={14} aria-hidden="true" /></Link>
-                </div>
-              )}
             </div>
           )}
         </div>

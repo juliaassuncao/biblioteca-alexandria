@@ -5,6 +5,8 @@ export interface PresentationGroup {
   end: string;
   kind?: DocumentKind | 'notice' | 'notification' | 'alert';
   senderIds?: string[];
+  // Lados conferidos no contexto da conversa, sem alterar o alinhamento da fonte.
+  messageSides?: Record<string, 'left' | 'right'>;
   inlineSenders?: string[];
   rightSenders?: string[];
   leadingNarrativeLength?: number;

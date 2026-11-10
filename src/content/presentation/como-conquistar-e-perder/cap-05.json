@@ -4,97 +4,119 @@
     {
       "type": "chat",
       "start": "cap-05-0036",
-      "end": "cap-05-0036"
+      "end": "cap-05-0036",
+      "messageSides": {
+        "cap-05-0036": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-05-0082",
-      "end": "cap-05-0082"
+      "end": "cap-05-0082",
+      "messageSides": {
+        "cap-05-0082": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-05-0085",
-      "end": "cap-05-0085"
+      "end": "cap-05-0085",
+      "messageSides": {
+        "cap-05-0085": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-05-0089",
-      "end": "cap-05-0089"
+      "end": "cap-05-0089",
+      "messageSides": {
+        "cap-05-0089": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-05-0096",
-      "end": "cap-05-0096"
+      "end": "cap-05-0096",
+      "messageSides": {
+        "cap-05-0096": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-05-0098",
-      "end": "cap-05-0098"
+      "end": "cap-05-0098",
+      "messageSides": {
+        "cap-05-0098": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-05-0100",
-      "end": "cap-05-0100"
+      "end": "cap-05-0100",
+      "messageSides": {
+        "cap-05-0100": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-05-0102",
-      "end": "cap-05-0102"
+      "end": "cap-05-0102",
+      "messageSides": {
+        "cap-05-0102": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-05-0162",
-      "end": "cap-05-0162"
-    },
-    {
-      "type": "chat",
-      "start": "cap-05-0163",
-      "end": "cap-05-0163"
+      "end": "cap-05-0163",
+      "messageSides": {
+        "cap-05-0162": "left",
+        "cap-05-0163": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-05-0165",
-      "end": "cap-05-0165"
-    },
-    {
-      "type": "chat",
-      "start": "cap-05-0166",
-      "end": "cap-05-0166"
-    },
-    {
-      "type": "chat",
-      "start": "cap-05-0167",
-      "end": "cap-05-0167"
-    },
-    {
-      "type": "chat",
-      "start": "cap-05-0168",
-      "end": "cap-05-0168"
+      "end": "cap-05-0168",
+      "messageSides": {
+        "cap-05-0165": "left",
+        "cap-05-0166": "right",
+        "cap-05-0167": "left",
+        "cap-05-0168": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-05-0170",
-      "end": "cap-05-0170"
+      "end": "cap-05-0170",
+      "messageSides": {
+        "cap-05-0170": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-05-0178",
-      "end": "cap-05-0178"
-    },
-    {
-      "type": "chat",
-      "start": "cap-05-0179",
-      "end": "cap-05-0179"
+      "end": "cap-05-0179",
+      "messageSides": {
+        "cap-05-0178": "left",
+        "cap-05-0179": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-05-0182",
-      "end": "cap-05-0182"
+      "end": "cap-05-0182",
+      "messageSides": {
+        "cap-05-0182": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-05-0184",
-      "end": "cap-05-0184"
+      "end": "cap-05-0184",
+      "messageSides": {
+        "cap-05-0184": "left"
+      }
     }
   ]
 }

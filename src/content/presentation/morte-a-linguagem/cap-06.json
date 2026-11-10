@@ -13,7 +13,13 @@
       "type": "chat",
       "start": "cap-06-0030",
       "end": "cap-06-0033",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-06-0030": "right",
+        "cap-06-0031": "right",
+        "cap-06-0032": "right",
+        "cap-06-0033": "right"
+      }
     },
     {
       "type": "chat",

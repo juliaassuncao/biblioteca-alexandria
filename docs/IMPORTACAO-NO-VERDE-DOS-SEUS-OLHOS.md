@@ -1,5 +1,40 @@
 # No verde dos seus olhos — importação local
 
+## Atualização do acervo em 10/11/2026 — capítulo 33
+
+Importado integralmente **pleasure heaven - parte II**, do PDF avulso fornecido
+`sources/nvdso 33 - pleasure heaven - parte II.pdf` (62 páginas, sem imagens
+incorporadas ou notas da autora). Os 32 capítulos e manifestos anteriores foram
+preservados. O índice agora tem 33 capítulos, até `/capitulo/33`, disponíveis
+pelo carregador dinâmico, navegação, progresso local e exportações existentes.
+
+O [relatório complementar](./IMPORTACAO-NO-VERDE-DOS-SEUS-OLHOS-CAP-33.json)
+registra hashes, continuidade entre páginas e contagem: 155.973 caracteres não
+brancos conferidos em ordem entre pdfplumber, pypdf e o JSON; 12.630 glifos em
+itálico e 109 em negrito. São 502 blocos, com quatro separadores de cena e três
+intervalos de conversa entre Buby P. e Gabriela Medvedovsky no manifesto
+`src/content/presentation/no-verde-dos-seus-olhos/cap-33.json`. Diálogos e relatos
+indiretos de mensagens permanecem narrativos; repetições foram preservadas.
+
+A estatística continua em `stats.words`: às 242.334 palavras anteriormente
+informadas pela fonte foram acrescentadas 32.890 do novo capítulo, totalizando
+275.224. Como o PDF avulso não informa uma estatística oficial, o acréscimo local
+conta tokens separados por espaço que contenham letras ou números, excluindo
+separadores; não é uma nova contagem oficial atribuída à autora.
+`stats.updatedAt` registra a atualização **do acervo** em 2026-11-10;
+`editorial.sourceUpdatedAt` e `stats.publishedAt` permanecem inalterados. Não foi
+atribuída data de publicação ao capítulo.
+
+A hero destaca a atualização com “NOVO CAPÍTULO DISPONÍVEL”, o título da obra,
+“Capítulo 33 — pleasure heaven - parte II”, Nat e o CTA “Ler novo capítulo”
+apontando diretamente para o capítulo 33. A capa foi preservada.
+
+O validador de catálogo aceitou os dados e a reconstrução sem perda dos
+manifestos. Não foram executados lint, testes, typecheck ou build nesta atualização.
+A revisão editorial humana da disposição dos parágrafos permanece pendente.
+
+## Registro da importação original dos capítulos 1–32
+
 Obra cadastrada em `src/content/works.json`, com os 32 capítulos publicados em
 `src/content/chapters/no-verde-dos-seus-olhos/cap-01.json` até `cap-32.json`.
 Reutiliza o catálogo, a página de detalhes, o leitor universal, o carregamento

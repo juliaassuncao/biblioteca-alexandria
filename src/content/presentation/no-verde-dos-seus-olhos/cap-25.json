@@ -4,26 +4,22 @@
     {
       "type": "chat",
       "start": "cap-25-0066",
-      "end": "cap-25-0066",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-25-0067",
-      "end": "cap-25-0067",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-25-0068",
       "end": "cap-25-0068",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-25-0066": "left",
+        "cap-25-0067": "right",
+        "cap-25-0068": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-25-0091",
       "end": "cap-25-0091",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-25-0091": "left"
+      }
     }
   ]
 }

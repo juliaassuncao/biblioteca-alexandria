@@ -10,140 +10,113 @@
     {
       "type": "chat",
       "start": "cap-29-0052",
-      "end": "cap-29-0052",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-29-0053",
-      "end": "cap-29-0053",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-29-0054",
-      "end": "cap-29-0054",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-29-0055",
-      "end": "cap-29-0055",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-29-0056",
-      "end": "cap-29-0056",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-29-0057",
       "end": "cap-29-0057",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-29-0052": "right",
+        "cap-29-0053": "left",
+        "cap-29-0054": "right",
+        "cap-29-0055": "left",
+        "cap-29-0056": "right",
+        "cap-29-0057": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-29-0059",
       "end": "cap-29-0059",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-29-0059": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-29-0061",
       "end": "cap-29-0061",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-29-0061": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-29-0064",
       "end": "cap-29-0064",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-29-0064": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-29-0066",
       "end": "cap-29-0066",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-29-0066": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-29-0069",
       "end": "cap-29-0069",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-29-0069": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-29-0073",
       "end": "cap-29-0073",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-29-0073": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-29-0155",
-      "end": "cap-29-0155",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-29-0156",
-      "end": "cap-29-0156",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-29-0157",
-      "end": "cap-29-0157",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-29-0158",
       "end": "cap-29-0158",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-29-0155": "left",
+        "cap-29-0156": "right",
+        "cap-29-0157": "left",
+        "cap-29-0158": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-29-0160",
-      "end": "cap-29-0160",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-29-0161",
-      "end": "cap-29-0161",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-29-0162",
-      "end": "cap-29-0162",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-29-0163",
       "end": "cap-29-0163",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-29-0160": "left",
+        "cap-29-0161": "right",
+        "cap-29-0162": "left",
+        "cap-29-0163": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-29-0165",
-      "end": "cap-29-0165",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-29-0166",
       "end": "cap-29-0166",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-29-0165": "right",
+        "cap-29-0166": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-29-0168",
       "end": "cap-29-0168",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-29-0168": "right"
+      }
     }
   ]
 }

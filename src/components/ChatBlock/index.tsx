@@ -10,7 +10,8 @@ function sameSender(first?: ChatEntry, second?: ChatEntry): boolean {
   if (first?.kind !== 'message' || second?.kind !== 'message' || first.side !== second.side) return false;
   const firstSender = first.participantId ?? first.sender?.text;
   const secondSender = second.participantId ?? second.sender?.text;
-  return !!firstSender && firstSender === secondSender;
+  // Nas conversas sem rótulo em cada linha, o lado preserva a autoria do turno.
+  return firstSender && secondSender ? firstSender === secondSender : true;
 }
 
 export default function ChatBlock({ block }: ChatBlockProps) {

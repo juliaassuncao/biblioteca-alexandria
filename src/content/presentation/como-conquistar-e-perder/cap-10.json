@@ -69,7 +69,10 @@
     {
       "type": "chat",
       "start": "cap-10-0077",
-      "end": "cap-10-0077"
+      "end": "cap-10-0077",
+      "messageSides": {
+        "cap-10-0077": "right"
+      }
     }
   ]
 }

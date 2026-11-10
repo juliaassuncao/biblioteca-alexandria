@@ -5,91 +5,80 @@
       "type": "chat",
       "start": "cap-08-0094",
       "end": "cap-08-0094",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-08-0094": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-08-0096",
-      "end": "cap-08-0096",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-08-0097",
-      "end": "cap-08-0097",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-08-0098",
-      "end": "cap-08-0098",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-08-0099",
       "end": "cap-08-0099",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-08-0096": "left",
+        "cap-08-0097": "right",
+        "cap-08-0098": "left",
+        "cap-08-0099": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-08-0101",
       "end": "cap-08-0101",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-08-0101": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-08-0103",
-      "end": "cap-08-0103",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-08-0104",
       "end": "cap-08-0104",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-08-0103": "right",
+        "cap-08-0104": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-08-0109",
       "end": "cap-08-0109",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-08-0109": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-08-0112",
       "end": "cap-08-0112",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-08-0112": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-08-0121",
       "end": "cap-08-0121",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-08-0121": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-08-0131",
-      "end": "cap-08-0131",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-08-0132",
-      "end": "cap-08-0132",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-08-0133",
-      "end": "cap-08-0133",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-08-0134",
       "end": "cap-08-0134",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-08-0131": "right",
+        "cap-08-0132": "left",
+        "cap-08-0133": "right",
+        "cap-08-0134": "left"
+      }
     }
   ]
 }

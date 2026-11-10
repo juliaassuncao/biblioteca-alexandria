@@ -5,13 +5,19 @@
       "type": "chat",
       "start": "cap-10-0065",
       "end": "cap-10-0065",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-10-0065": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-10-0090",
       "end": "cap-10-0090",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-10-0090": "left"
+      }
     }
   ]
 }

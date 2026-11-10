@@ -25,11 +25,17 @@ export function validatePresentation(value: unknown, chapterId: string, blocks: 
     if (group.signatureIds !== undefined && (group.type !== 'document' || group.kind !== 'contract' || !Array.isArray(group.signatureIds) || !group.signatureIds.every((id: unknown) => typeof id === 'string' && blocks.slice(start, end + 1).some(block => block.id === id && block.type === 'paragraph')))) errors.push('Assinaturas exigem parágrafos do próprio contrato');
     if (group.type === 'notice' && !['notice', 'notification', 'alert'].includes(group.kind)) errors.push('Tipo de comunicado inválido');
     if (group.senderIds !== undefined && (group.type !== 'chat' || !Array.isArray(group.senderIds) || !group.senderIds.every((id: unknown) => typeof id === 'string' && blocks.slice(start, end + 1).some(block => block.id === id && (block.type === 'paragraph' || block.type === 'heading'))))) errors.push('Identificação de remetente inválida');
+    if (group.messageSides !== undefined) {
+      const senderIds = Array.isArray(group.senderIds) ? group.senderIds : [];
+      const messages = blocks.slice(start, end + 1).filter(block => !senderIds.includes(block.id));
+      if (group.type !== 'chat' || group.inlineSenders !== undefined || !group.messageSides || typeof group.messageSides !== 'object' || Array.isArray(group.messageSides)
+        || !Object.entries(group.messageSides).every(([id, side]) => messages.some(block => block.id === id) && (side === 'left' || side === 'right'))) errors.push('Lados das mensagens inválidos');
+    }
   }
   return errors;
 }
 
-function chatEntries(blocks: ChapterBlock[], senderIds: string[]): ChatEntry[] {
+function chatEntries(blocks: ChapterBlock[], senderIds: string[], messageSides: Record<string, 'left' | 'right'> = {}): ChatEntry[] {
   const entries: ChatEntry[] = [];
   let sender: TextBlock | undefined;
   for (const block of blocks) {
@@ -38,7 +44,7 @@ function chatEntries(blocks: ChapterBlock[], senderIds: string[]): ChatEntry[] {
       sender = block;
       continue;
     }
-    const side = 'alignment' in block && block.alignment === 'right' ? 'right' : 'left';
+    const side = messageSides[block.id] ?? ('alignment' in block && block.alignment === 'right' ? 'right' : 'left');
     entries.push({ id: `${block.id}-message`, kind: 'message', side, ...(sender ? { sender } : {}), body: [block] });
     sender = undefined;
   }
@@ -49,7 +55,7 @@ function chatEntries(blocks: ChapterBlock[], senderIds: string[]): ChatEntry[] {
 function wrapGroup(group: PresentationGroup, blocks: ChapterBlock[]): ChapterBlock {
   const id = `${group.start}-presentation`;
   switch (group.type) {
-    case 'chat': return group.inlineSenders ? presentConversation(id, blocks, group.inlineSenders, group.rightSenders, group.leadingNarrativeLength) : { id, type: 'chat', chatId: id, entries: chatEntries(blocks, group.senderIds ?? []) };
+    case 'chat': return group.inlineSenders ? presentConversation(id, blocks, group.inlineSenders, group.rightSenders, group.leadingNarrativeLength) : { id, type: 'chat', chatId: id, entries: chatEntries(blocks, group.senderIds ?? [], group.messageSides) };
     case 'tweet': return presentTweets(id, blocks);
     case 'email': return { id, type: 'email', body: blocks };
     case 'document': return { id, type: 'document', kind: group.kind as DocumentKind, body: blocks, ...(group.signatureIds ? { signatureIds: group.signatureIds } : {}) };

@@ -454,11 +454,11 @@
     ],
     "contentAdvisories": [],
     "stats": {
-      "words": 242334,
-      "publishedChapters": 32,
+      "words": 275224,
+      "publishedChapters": 33,
       "plannedChapters": null,
       "publishedAt": "2026-03-27",
-      "updatedAt": "2026-10-21"
+      "updatedAt": "2026-11-10"
     },
     "cover": {
       "variant": "typographic",
@@ -894,6 +894,19 @@
         "notes": {
           "hasBefore": false,
           "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-33",
+        "number": 33,
+        "title": "pleasure heaven - parte II",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
           "before": [],
           "after": []
         },

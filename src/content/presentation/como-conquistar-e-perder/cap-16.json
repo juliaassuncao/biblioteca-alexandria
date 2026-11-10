@@ -4,7 +4,10 @@
     {
       "type": "chat",
       "start": "cap-16-0016",
-      "end": "cap-16-0016"
+      "end": "cap-16-0016",
+      "messageSides": {
+        "cap-16-0016": "right"
+      }
     },
     {
       "type": "chat",

@@ -5,55 +5,66 @@
       "type": "chat",
       "start": "cap-16-0004",
       "end": "cap-16-0004",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-16-0004": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-16-0006",
       "end": "cap-16-0006",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-16-0006": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-16-0009",
       "end": "cap-16-0009",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-16-0009": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-16-0011",
-      "end": "cap-16-0011",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-16-0012",
       "end": "cap-16-0012",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-16-0011": "right",
+        "cap-16-0012": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-16-0014",
-      "end": "cap-16-0014",
-      "senderIds": []
-    },
-    {
-      "type": "chat",
-      "start": "cap-16-0015",
       "end": "cap-16-0015",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-16-0014": "left",
+        "cap-16-0015": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-16-0124",
       "end": "cap-16-0124",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-16-0124": "left"
+      }
     },
     {
       "type": "chat",
       "start": "cap-16-0126",
       "end": "cap-16-0126",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-16-0126": "right"
+      }
     }
   ]
 }

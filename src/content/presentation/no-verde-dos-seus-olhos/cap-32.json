@@ -5,7 +5,10 @@
       "type": "chat",
       "start": "cap-32-0165",
       "end": "cap-32-0165",
-      "senderIds": []
+      "senderIds": [],
+      "messageSides": {
+        "cap-32-0165": "left"
+      }
     }
   ]
 }

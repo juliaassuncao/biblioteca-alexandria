@@ -9,12 +9,18 @@
     {
       "type": "chat",
       "start": "cap-25-0162",
-      "end": "cap-25-0162"
+      "end": "cap-25-0162",
+      "messageSides": {
+        "cap-25-0162": "right"
+      }
     },
     {
       "type": "chat",
       "start": "cap-25-0208",
-      "end": "cap-25-0208"
+      "end": "cap-25-0208",
+      "messageSides": {
+        "cap-25-0208": "left"
+      }
     }
   ]
 }
