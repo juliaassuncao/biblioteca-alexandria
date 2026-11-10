@@ -1,0 +1,1645 @@
+{
+  "id": "cap-03",
+  "blocks": [
+    {
+      "id": "cap-03-0001",
+      "type": "paragraph",
+      "text": "Eduarda luta contra o pânico. Ela precisa focar, muitas coisas acontecendo ao mesmo tempo. Usa o ardor que sobe do ombro ao pescoço causado pelo cinto como guia. A dor é nova, nunca se envolveu em acidentes antes. Nunca houve necessidade de lutar contra um mecanismo feito para salvar vidas, evitar problemas maiores, impedir que ela chegasse a tempo."
+    },
+    {
+      "id": "cap-03-0002",
+      "type": "paragraph",
+      "text": "Fecha os olhos, tenta respirar fundo, tenta achar alguma paz, algo que ajude mais do que atrapalhe. Abre os olhos e os direciona para Lorena, que, por sua vez, ainda olha para frente, para a marca do que poderia ser o fim de tudo, mas que não foi. Não foi e é nisso que ela tenta segurar com mãos trêmulas."
+    },
+    {
+      "id": "cap-03-0003",
+      "type": "paragraph",
+      "text": "Tanto por si quanto por ela, Eduarda leva a mão até Lorena, mas não a toca, não imediatamente."
+    },
+    {
+      "id": "cap-03-0004",
+      "type": "paragraph",
+      "text": "“Amor. Amor, eu vou encostar em você, ok?”, diz em voz baixa. Não quer assustar Lorena, não quer piorar uma situação que ambas nunca viveram, um campo desconhecido, reações imprevisíveis. Ela sente borbulhar em si um sentimento novo, algo que nunca sentiu antes, não nessa intensidade, ardendo, expandindo. Ela tenta segurar o movimento, mas sabe que é questão de tempo. E isso a assusta."
+    },
+    {
+      "id": "cap-03-0005",
+      "type": "paragraph",
+      "text": "Lorena ainda assim se assusta levemente, como se saísse de um transe, voltasse à consciência rápido demais. Seus olhos ainda estão vidrados, um tanto desfocados quando ela vira o rosto. Arregalados demais, incrédulos. Mas reconhece Eduarda, processa o que foi dito. E quando o faz, assente com a cabeça."
+    },
+    {
+      "id": "cap-03-0006",
+      "type": "paragraph",
+      "text": "O contato serve de âncora. As traz de volta ao mundo real, ajuda a focar no que precisa ser feito ao invés do que aconteceu."
+    },
+    {
+      "id": "cap-03-0007",
+      "type": "paragraph",
+      "text": "Meio sem jeito por usar a mão esquerda, Eduarda solta o cinto, aciona o freio de mão, ativa o pisca-alerta e desliga o carro, mão direita firmemente entrelaçada com a de Lorena."
+    },
+    {
+      "id": "cap-03-0008",
+      "type": "paragraph",
+      "text": "Uma vez livre, se vira para ela, solta o cinto dela, a puxa para si e, como já é natural para elas, tocam as testas, apenas por um momento respirando o mesmo ar."
+    },
+    {
+      "id": "cap-03-0009",
+      "type": "paragraph",
+      "text": "“Você tá bem? Não se machucou?”"
+    },
+    {
+      "id": "cap-03-0010",
+      "type": "paragraph",
+      "text": "“Ele atirou… Eu… Eu não achei que ele fosse ati–”, sua voz falha e o peso da traição que Lorena sente também pesa no coração de Eduarda. Com a mão livre, ela toca o rosto de Lorena, mais uma âncora."
+    },
+    {
+      "id": "cap-03-0011",
+      "type": "paragraph",
+      "text": "“Shh, eu sei. Eu sei, meu amor. Eu sinto muito.”"
+    },
+    {
+      "id": "cap-03-0012",
+      "type": "paragraph",
+      "text": "“Por que eu estou tão surpresa? Sabendo tudo que eu sei agora, tudo que eu sempre soube no meu coração. Por que eu ainda estou tão surpresa?”"
+    },
+    {
+      "id": "cap-03-0013",
+      "type": "paragraph",
+      "text": "“Porque ele é seu pai. Não, espera, me deixa terminar”, completa, quando Lorena reage indignada, “eu não digo isso no sentido de que você deveria relevar ou colocar ele acima de tudo. Eu digo isso no sentido de que ele deveria ser diferente. Ele deveria ter afeto por você. Eu sinto muito que não seja o caso. Você não merece isso.” O ardor dentro de si reage às palavras e ela precisa se forçar a controlar, respira fundo, aperta a mandíbula. Ainda não. Não com ela na zona de impacto. Eduarda beija a sobrancelha dela, uma de suas mãos acariciando a bochecha dela, mais uma âncora, mais uma trava na porta que tenta manter fechada. “Eu odeio perguntar isso, eu odeio sentir que eu estou apressando você e seus sentimentos, mas eu preciso muito ligar pro delegado. A gente precisa sair daqui. Tudo bem se eu fizer isso?”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Porque ele é seu pai. Não, espera, me deixa terminar”, completa, quando Lorena reage indignada, “eu não digo isso no sentido de que você deveria relevar ou colocar ele acima de tudo. Eu digo isso no sentido de que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ele"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " deveria ser diferente. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ele"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " deveria ter afeto por você. Eu sinto muito que não seja o caso. Você não merece isso.” O ardor dentro de si reage às palavras e ela precisa se forçar a controlar, respira fundo, aperta a mandíbula. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ainda"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "não. Não com ela na zona de impacto"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Eduarda beija a sobrancelha dela, uma de suas mãos acariciando a bochecha dela, mais uma âncora, mais uma trava na porta que tenta manter fechada. “Eu odeio perguntar isso, eu odeio sentir que eu estou apressando você e seus sentimentos, mas eu preciso muito ligar pro delegado. A gente precisa sair daqui. Tudo bem se eu fizer isso?”"
+        }
+      ]
+    },
+    {
+      "id": "cap-03-0014",
+      "type": "paragraph",
+      "text": "“Claro. Sim, tudo bem, mas… Me desculpa, mas você pode continuar encostando em mim? Eu não quero atrapalhar, mas–”"
+    },
+    {
+      "id": "cap-03-0015",
+      "type": "paragraph",
+      "text": "“Claro que sim! Não precisa se explicar. Eu to aqui, ok? Nós duas estamos aqui e estamos bem. Vai ficar tudo bem. A gente vai sair daqui a pouco”, aperta a mão dela e se afasta só o necessário para pegar o celular. Jairo atende no segundo toque."
+    },
+    {
+      "id": "cap-03-0016",
+      "type": "paragraph",
+      "text": "“Juquinha. Você está atrasada.”"
+    },
+    {
+      "id": "cap-03-0017",
+      "type": "paragraph",
+      "text": "“Ele atirou.”"
+    },
+    {
+      "id": "cap-03-0018",
+      "type": "paragraph",
+      "text": "“Como é?! Onde cê tá?? Tá tudo bem??”"
+    },
+    {
+      "id": "cap-03-0019",
+      "type": "paragraph",
+      "text": "“Parou no vidro. Eu preciso de um blindado pra buscar a gente. Eu não posso sair do carro, mas pelo que eu consegui notar, o atirador não parece estar aqui mais. Só que eu não posso arriscar abrir a porta.”"
+    },
+    {
+      "id": "cap-03-0020",
+      "type": "paragraph",
+      "text": "“Não. Você tem razão. Fique aí, estou mandando duas viaturas. A bala está alojada?”"
+    },
+    {
+      "id": "cap-03-0021",
+      "type": "paragraph",
+      "text": "“Não, mas deve estar ou no capô ou no chão, foi uma pistola. Delegado, não deixe Paulinho vir”, ao fundo, ela consegue reconhecer a voz dele, argumentando indignado, “me coloca em viva-voz”, ela segue quando ele obedece, “Paulinho, a última coisa que eu preciso agora é você, que também tem um alvo do tamanho do Cristo Redentor no meio da testa trançando pela rua onde acabou de acontecer um atentado!”"
+    },
+    {
+      "id": "cap-03-0022",
+      "type": "paragraph",
+      "text": "“Juquinha, eu sei me cuidar. Esse vagabundo não vai me derrubar fácil!”"
+    },
+    {
+      "id": "cap-03-0023",
+      "type": "paragraph",
+      "text": "“E eu não to com cabeça pra ter que me preocupar com você agora!!”, fecha os olhos, respira fundo, tenta se centrar de novo. Lorena aperta sua mão em apoio e o ardor retrocede um pouco mais, “agora, se pudermos parar de perder tempo com discussões inúteis que não vão levar a nada além de mais estresse, eu adoraria tirar Lorena daqui.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“E eu não to com "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "cabeça"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " pra ter que me preocupar com você agora!!”, fecha os olhos, respira fundo, tenta se centrar de novo. Lorena aperta sua mão em apoio e o ardor retrocede um pouco mais, “agora, se pudermos parar de perder tempo com discussões inúteis que não vão levar a nada além de mais estresse, eu adoraria tirar Lorena daqui.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-03-0024",
+      "type": "paragraph",
+      "text": "Alguns segundos de silêncio e então, “merda. Desculpa. Desculpa. Você tá certa. As viaturas já saíram daqui e não devem demorar muito, baseado na sua localização que puxamos aqui no sistema. Os peritos vão trazer seu carro pra delegacia quando terminarem. A hora que Aníbal considerar seguro, ele te avisa pra trocar de veículos. Como você está? Como Lorena está?”"
+    },
+    {
+      "id": "cap-03-0025",
+      "type": "paragraph",
+      "text": "Meu mundo virou de ponta cabeça e eu não sei se nado para cima ou para baixo. Sinto que alguma coisa dentro de mim está prestes a explodir e eu não consigo segurar por muito mais tempo. Eu não sei se vou conseguir entrar num carro de novo ou se só vou me sentir segura dentro de um. Eu não sei o que fazer. Eu nunca senti tanta coisa que eu não sei nomear de uma só vez e isso me sufoca. A presença dela é a única coisa que está me mantendo inteira e eu não sei o que vai acontecer no momento que eu desmoronar. Eu não sei a pessoa que eu vou me tornar quando isso acontecer. Eu nunca senti tanto medo.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Meu mundo virou de ponta cabeça e eu não sei se nado para cima ou para"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "baixo. Sinto que alguma coisa dentro de mim está prestes a explodir e eu"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "não consigo segurar por muito mais tempo. Eu não sei se vou conseguir"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "entrar num carro de novo ou se só vou me sentir segura dentro de um. Eu"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "não sei o que fazer. Eu nunca senti tanta coisa que eu não sei nomear de"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "uma só vez e isso me sufoca. A presença dela é a única coisa que está me"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mantendo inteira e eu não sei o que vai acontecer no momento que eu"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "desmoronar. Eu não sei a pessoa que eu vou me tornar quando isso"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "acontecer. Eu nunca senti tanto medo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-03-0026",
+      "type": "paragraph",
+      "text": "“Assustadas, mas em segurança”, ela leva a mão de Lorena até os lábios. Lorena, por sua vez, beija sua testa. E por ora, isso basta. À distância e se aproximando, ela consegue ouvir as sirenes, “eles estão chegando. Daqui a pouco a gente chega na delegacia. Esperem um instante”, ela abaixa o celular um pouco, “amor, cê quer ligar pra sua mãe ou prefere que o delegado faça isso? Ou que nem liguem?”"
+    },
+    {
+      "id": "cap-03-0027",
+      "type": "paragraph",
+      "text": "“Eu ligo, obrigada. Seria muito pior pra ela se fosse qualquer outra pessoa ligando.”"
+    },
+    {
+      "id": "cap-03-0028",
+      "type": "paragraph",
+      "text": "“É, concordo”, volta o celular para o ouvido quando as viaturas chegam. Uma para atrás do carro dela e a outra à frente e as luzes a prendem por um momento de hipnose que abafa todos os sons ao seu redor. No telefone, alguém parece estar falando alguma coisa, mas ela não registra, um mar de vermelho piscante, pulsante. A mão de Lorena em seu rosto é o que quebra o transe que ela nem notou ter entrado, seus olhos preocupados, a boca numa linha fina, “desculpa”, pigarreia quando a voz sai mais fraca do que esperava, “eu não sei o que aconteceu.”"
+    },
+    {
+      "id": "cap-03-0029",
+      "type": "paragraph",
+      "text": "“Você tá bem?”"
+    },
+    {
+      "id": "cap-03-0030",
+      "type": "paragraph",
+      "text": "“Eu acho que é o estresse, me desculpa. E obrigada. Por me trazer de volta”, o sorriso é fraco, mas sincero, “desculpa, delegado. Pode repetir?”"
+    },
+    {
+      "id": "cap-03-0031",
+      "type": "paragraph",
+      "text": "“Quando chegarem, venham pra minha sala. Se estiverem de acordo, a gente já pega a declaração de vocês e anexa ao inquérito.”"
+    },
+    {
+      "id": "cap-03-0032",
+      "type": "paragraph",
+      "text": "“Chegando na delegacia a gente trata desse assunto, delegado. Aníbal tá sinalizando pra troca. Preciso ir”, desliga o telefone e vira para Lorena, “eu vou sair primeiro e dar a volta. Ok? Você precisa de mais tempo? A gente vai no seu ritmo, não tem pressa nenhuma.”"
+    },
+    {
+      "id": "cap-03-0033",
+      "type": "paragraph",
+      "text": "“Não, tudo bem. Pode ir”, os olhos dela ainda mostram preocupação, resguardo, um certo receio, mas não medo. Satisfeita, ela sai do carro."
+    },
+    {
+      "id": "cap-03-0034",
+      "type": "paragraph",
+      "text": "Apesar do clima abafado típico do verão que promete tempestade ao fim de tarde após um dia inteiro que nos segura pelo pescoço, dificultando a respiração e fazendo o suor descer pegajosamente pelas têmporas e costas, ela respira fundo mais aliviada, mais livre. Quando abre os olhos, eles estão mais focados, mãos mais firmes, mente mais afiada. Não perde tempo dando a volta no carro, Aníbal o tempo todo ao seu lado."
+    },
+    {
+      "id": "cap-03-0035",
+      "type": "paragraph",
+      "text": "“Sandro vai ficar com o pessoal da perícia, mas já confirmamos que o atirador não tá aqui mais e que ninguém se machucou ou foi levado como refém. Alguns populares confirmaram que viram um carro sair sem grandes alardes depois do tiro. Vamos ver se algumas pessoas concordam em tentar fazer um retrato falado”, Eduarda abre a porta e oferece sua mão para Lorena, que aceita e, ao sair, tem a mesma reação que Eduarda teve. Seguem de mãos dadas até a porta traseira da viatura à frente do carro delas, “quando se trata de retrato falado, quanto mais cedo, mais detalhes podemos conseguir. Sandro vai cuidar dessa parte também enquanto eu levo vocês.”"
+    },
+    {
+      "id": "cap-03-0036",
+      "type": "paragraph",
+      "text": "Lorena entra primeiro quando ele abre a porta, seguida imediatamente por Eduarda. Segundos depois, Aníbal arranca com o carro em direção à delegacia."
+    },
+    {
+      "id": "cap-03-0037",
+      "type": "paragraph",
+      "text": "Eduarda nota com certo alívio que, ao entrar no carro, não há pânico arranhando sua garganta, sua respiração não falha, suas mãos não suam nem tremem. Ao seu lado, Lorena também parece estar com os nervos sob controle. Uma pequena vitória muito celebrada. A última coisa que precisam agora é um adicional de estresse pós-traumático toda vez que entrarem num carro."
+    },
+    {
+      "id": "cap-03-0038",
+      "type": "paragraph",
+      "text": "Lorena pega o celular e fica olhando para o contato na tela, dedo parado sobre o ícone de ligação, mas sem tocar a tela, incapaz de se mover. Porque se mover significa encarar a realidade, significa externalizar o que aconteceu, significa a incógnita que se tornou contar para Zenilda mais uma faceta do homem com quem foi casada por tanto tempo. Se mover significa quebrar uma ilusão de que talvez ainda exista alguma coisa em Santiago Ferette na qual se apegar; alguma esperança, mesmo que ínfima, de que talvez ele tenha alguma salvação, alguma coisa boa no meio de tanta podridão e desprezo por todos que não sejam de alguma forma úteis para ele."
+    },
+    {
+      "id": "cap-03-0039",
+      "type": "paragraph",
+      "text": "Lorena respira poesia, a mais humana das artes escritas. Ela sente como poucos sentem, absorve o mundo ao seu redor de um jeito que ninguém mais é capaz de absorver. Ela olha para o mundo e escuta suas cores, sente o gosto dos cheiros, tudo corre mais devagar sob seus olhos, mais demorado, sem pressa de acontecer; porque a vida e cada um de seus minúsculos pedaços existe num ritmo próprio que vai além dos relógios e rotinas e obrigações inventadas por uma sociedade doente e decadente."
+    },
+    {
+      "id": "cap-03-0040",
+      "type": "paragraph",
+      "text": "Lorena pinta o mundo com palavras e, mesmo quando os tons são tristes ou raivosos, eles vêm de um lugar de amor. Se ela se mover, as palavras que pintar serão sobre uma representação de tudo que ela entende como ruim, cruel, anti-vida. Se ela se mover, as palavras serão sobre medo e traição e dor. Palavras são entidades poderosas para poetas, saem de suas veias, de suas almas, de seus órgãos mais vitais. Palavras de poetas possuem poder equivalente ao de feiticeiros: elas concretizam o sentimento, tornam real o que antes existia apenas no imaginário."
+    },
+    {
+      "id": "cap-03-0041",
+      "type": "paragraph",
+      "text": "Se ela se mover, o pânico contra o qual ela está lutando pode lhe sufocar com uma mão que ela mesma terá materializado."
+    },
+    {
+      "id": "cap-03-0042",
+      "type": "paragraph",
+      "text": "Mas a mão que a traz de volta ao mundo real é a de Eduarda entrelaçada à dela, dando um pequeno apertão."
+    },
+    {
+      "id": "cap-03-0043",
+      "type": "paragraph",
+      "text": "“Se você preferir, eu posso ligar pra ela”, ela diz em voz baixa, apenas para ela ouvir. Sem julgamentos, sem menosprezo, sem condescendência, mas com amor, companheirismo. Você está com dificuldades, ela diz sem emitir som algum, me deixe carregar o peso com você, divida a carga. Como se ela mesma não estivesse lutando uma batalha própria no momento.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Se você preferir, eu posso ligar pra ela”, ela diz em voz baixa, apenas para ela ouvir. Sem julgamentos, sem menosprezo, sem condescendência, mas com amor, companheirismo. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Você está com dificuldades"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", ela diz sem emitir som algum, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "me deixe carregar o peso com você, divida a carga"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Como se ela mesma não estivesse lutando uma batalha própria no momento."
+        }
+      ]
+    },
+    {
+      "id": "cap-03-0044",
+      "type": "paragraph",
+      "text": "Lorena sente vontade de chorar. Pelo que aconteceu, pela criança que foi, pela forma que cresceu e que culminou naquele momento. Por ter uma pessoa tão altruísta ao seu lado, lhe amando aos berros e aos sussurros e em todos os tons e notas entre os extremos. Uma lágrima se liberta da barreira que ela tenta manter levantada e corre silenciosamente por seu rosto."
+    },
+    {
+      "id": "cap-03-0045",
+      "type": "paragraph",
+      "text": "“Eu acho que é melhor eu ligar. Acho que ela ficaria mais preocupada ainda se não me ouvir.”"
+    },
+    {
+      "id": "cap-03-0046",
+      "type": "paragraph",
+      "text": "“Tudo bem. Mas ó… Eu to aqui, ok? Pra qualquer coisa que cê quiser ou precisar”, Eduarda toca a testa com ela, um beijo de esquimó, um beijo na maçã do rosto por onde a lágrima desceu. E Lorena nunca se sentiu tão amada."
+    },
+    {
+      "id": "cap-03-0047",
+      "type": "paragraph",
+      "text": "Respira fundo e toca a tela."
+    },
+    {
+      "id": "cap-03-0048",
+      "type": "paragraph",
+      "text": "“Oi, meu amor!”"
+    },
+    {
+      "id": "cap-03-0049",
+      "type": "paragraph",
+      "text": "“Oi, mãe.”"
+    },
+    {
+      "id": "cap-03-0050",
+      "type": "paragraph",
+      "text": "“Que voz é essa? Aconteceu alguma coisa?”, Lorena fecha os olhos, busca forças, se ancora na presença de Eduarda, no contato de seus corpos lado a lado."
+    },
+    {
+      "id": "cap-03-0051",
+      "type": "paragraph",
+      "text": "“Aconteceu sim. Eu to bem, Juquinha tá bem. Mas tem como você ir até a delegacia? Eu não quero falar por telefone.”"
+    },
+    {
+      "id": "cap-03-0052",
+      "type": "paragraph",
+      "text": "“Como assim? Claro, claro que posso ir sim. Você tá bem, Lorena? O que aconteceu?”"
+    },
+    {
+      "id": "cap-03-0053",
+      "type": "paragraph",
+      "text": "“Eu to sim, mãe. Só… Eu te conto tudo na delegacia”, ao fundo, ela escuta a voz de Leonardo, mas não reconhece suas palavras, “traz o Leo. Assim eu conto tudo de uma vez pra vocês dois.”"
+    },
+    {
+      "id": "cap-03-0054",
+      "type": "paragraph",
+      "text": "“Foi seu pai, né? Eu sabia que ele ia aprontar alguma coisa! Aquele saf–”"
+    },
+    {
+      "id": "cap-03-0055",
+      "type": "paragraph",
+      "text": "“Mãe! Por favor…”"
+    },
+    {
+      "id": "cap-03-0056",
+      "type": "paragraph",
+      "text": "“Desculpa, meu amor. Desculpa. Eu já to indo, ok? Eu te encontro lá. Juquinha tá com você?”"
+    },
+    {
+      "id": "cap-03-0057",
+      "type": "paragraph",
+      "text": "“Tá sim. A gente já tá chegando na delegacia. Te espero.”"
+    },
+    {
+      "id": "cap-03-0058",
+      "type": "paragraph",
+      "text": "“Ok, eu já to saindo. Até daqui a pouco. Eu te amo, viu?”"
+    },
+    {
+      "id": "cap-03-0059",
+      "type": "paragraph",
+      "text": "“Também te amo, mãe. Beijo.”"
+    },
+    {
+      "id": "cap-03-0060",
+      "type": "paragraph",
+      "text": "“Eu sei que não foi fácil não contar imediatamente”, Eduarda diz após alguns segundos sentadas em silêncio, Aníbal sendo mais cuidadoso no trânsito que o normal, dando a elas tempo de se recompor, “como você tá se sentindo?”"
+    },
+    {
+      "id": "cap-03-0061",
+      "type": "paragraph",
+      "text": "“Exausta. Eu acho que eu to sentindo tanta coisa que não to sentindo nada além de exaustão.”"
+    },
+    {
+      "id": "cap-03-0062",
+      "type": "paragraph",
+      "text": "“Eu diria que é um mecanismo de defesa. Assim que a gente conseguir resolver essa parte burocrática a gente vai pra casa processar tudo isso. Juntas. Ou, se você preferir ficar com sua mãe e Leonard–”"
+    },
+    {
+      "id": "cap-03-0063",
+      "type": "paragraph",
+      "text": "“Não. É com você que eu quero ficar. Duda, é você que faz com que eu me sinta segura de verdade. Com eles… Eu amo os dois. Muito. Mas com eles eu sinto que eu tenho que medir minhas palavras, tomar cuidado o tempo todo. Não sei, é como se eu sempre que tivesse que me diminuir pra me encaixar no afeto deles.”"
+    },
+    {
+      "id": "cap-03-0064",
+      "type": "paragraph",
+      "text": "Eduarda engole a raiva e as palavras que queimam em seu peito. Lorena não precisa disso, não precisa dos sentimentos dela pesando em seus ombros, não precisa que Eduarda aja exatamente como eles, mesmo se por causa deles. Seus dedos entrelaçados, ela corre os dedos da outra mão pelo antebraço dela, traça caminhos, escreve promessas."
+    },
+    {
+      "id": "cap-03-0065",
+      "type": "paragraph",
+      "text": "“Você é maior que a vida”, diz, simplesmente, “não é possível te diminuir. E cada vez que tentam, seja quem e como for, você só se torna maior. Você não cabe numa caixinha, Lorena. Você transborda tudo”, levanta a cabeça, seus olhos se encontram e é como se estivessem na galeria de novo. Sempre é como aquela vez. Porque nem aquela nem esta foi a primeira, “você é este mundo e, como cada elemento que a natureza esculpiu e soprou a vida, você é livre. Tentar te prender, te diminuir, te domar, te controlar, é impossível. Você transcende. E eu sinto muito que tentem te convencer do contrário”, o beijo é casto, mas cheio de sentimento, a mão de Lorena quente em sua bochecha.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Você é maior que a vida”, diz, simplesmente, “não é possível te diminuir. E cada vez que tentam, seja quem e como for, você só se torna maior. Você não cabe numa caixinha, Lorena. Você transborda tudo”, levanta a cabeça, seus olhos se encontram e é como se estivessem na galeria de novo. Sempre é como aquela vez. Porque nem aquela nem esta foi a primeira, “você "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "é"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " este mundo e, como cada elemento que a natureza esculpiu e soprou a vida, você é livre. Tentar te prender, te diminuir, te domar, te controlar, é impossível. Você transcende. E eu sinto muito que tentem te convencer do contrário”, o beijo é casto, mas cheio de sentimento, a mão de Lorena quente em sua bochecha."
+        }
+      ]
+    },
+    {
+      "id": "cap-03-0066",
+      "type": "paragraph",
+      "text": "“Onde você esteve minha vida toda?”"
+    },
+    {
+      "id": "cap-03-0067",
+      "type": "paragraph",
+      "text": "“Te procurando.”"
+    },
+    {
+      "id": "cap-03-0068",
+      "type": "paragraph",
+      "text": "“E graças a Deus você achou.”"
+    },
+    {
+      "id": "cap-03-0069",
+      "type": "paragraph",
+      "text": "“Vou falar pra Maggye que o apelido dela agora é ‘Deus’”, a risada dela tira um pouco mais de peso de seus ombros. Respirar se torna um pouco mais fácil. Aníbal diminui ainda mais a velocidade, se prepara para entrar com a viatura no estacionamento subterrâneo da delegacia."
+    },
+    {
+      "id": "cap-03-0070",
+      "type": "paragraph",
+      "text": "“Ela não precisa desse afago no ego. E ela já sabe que foi tudo graças a ela, nossa autointitulada madrinha.”"
+    },
+    {
+      "id": "cap-03-0071",
+      "type": "paragraph",
+      "text": "“Eu paguei por todos os almoços dela e todos as saídas dela com Junior por dois meses inteiros depois daquele jantar.”"
+    },
+    {
+      "id": "cap-03-0072",
+      "type": "paragraph",
+      "text": "“Sério??”"
+    },
+    {
+      "id": "cap-03-0073",
+      "type": "paragraph",
+      "text": "“Uhum. E mandei flores pra ela. E pros pais dela. E pra cozinheira. Até pra Lucélia”, faz uma careta como se fosse uma criança fazendo bagunça, “mas essa última eu me arrependo.”"
+    },
+    {
+      "id": "cap-03-0074",
+      "type": "paragraph",
+      "text": "“Emocionada??”"
+    },
+    {
+      "id": "cap-03-0075",
+      "type": "paragraph",
+      "text": "“A garota mais linda do universo terminou a noite flertando descaradamente comigo depois de virar minha vida de cabeça pra baixo. Mas é claro que eu emocionei!!”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“A garota mais linda do universo terminou a noite flertando descaradamente comigo depois de virar minha vida de cabeça pra baixo. Mas "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "é claro"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que eu emocionei!!”"
+        }
+      ]
+    },
+    {
+      "id": "cap-03-0076",
+      "type": "paragraph",
+      "text": "“Olha, eu poderia deixar a conversa por isso mesmo, mas eu vou admitir: eu já tinha pegado seu número com a Maggye antes da gente ir embora”, ela diz num falso sussurro."
+    },
+    {
+      "id": "cap-03-0077",
+      "type": "paragraph",
+      "text": "“Espera um instante… Você flertou comigo daquele jeito e já tinha meu número??”"
+    },
+    {
+      "id": "cap-03-0078",
+      "type": "paragraph",
+      "text": "Lorena dá de ombros, sorriso lindo nos lábios esculpidos por Deus num dia de especial inspiração, covinhas marcadas, olhos brilhando."
+    },
+    {
+      "id": "cap-03-0079",
+      "type": "paragraph",
+      "text": "“O que eu posso dizer? Quando eu quero algo, eu não fico esperando.”"
+    },
+    {
+      "id": "cap-03-0080",
+      "type": "paragraph",
+      "text": "Eduarda ri, balançando a cabeça, “você é de outro mundo, Lorena Esteves”, um selinho meio atrapalhado pelos sorrisos – uma marca registrada delas – e Eduarda se prepara para sair do carro que Aníbal finalmente estaciona."
+    },
+    {
+      "id": "cap-03-0081",
+      "type": "paragraph",
+      "text": "Eduarda sai, mantém a porta aberta, estica a mão, que Lorena aceita. Eduarda leva a mão dela aos lábios e os encosta nos nós dos dedos dela, olhos sempre focados nos dela."
+    },
+    {
+      "id": "cap-03-0082",
+      "type": "paragraph",
+      "text": "Aníbal se aproxima delas sorrindo. Juquinha é a princesinha folgada da delegacia, não existe um policial sequer que não goste dela. A pessoa começa rindo das brincadeirinhas dela e sem nem perceber já passa a orbitar ao redor de um sol de um metro e meio de altura. O sorriso dele se torna mais leve, mais admirador, quando olha, verdadeiramente olha para o rosto dela. A forma que olha para a namorada, todas as suas defesas descartadas, desnecessárias. Ele até pensa em contar pros outros sobre a cena, zoar Juquinha. Mas, conhecendo a peça, ela não se ofenderia nem de brincadeira. Veste nos olhos um orgulho tão grande quanto a vulnerabilidade e a admiração. Meio complicado zoar alguém tão confortável em sua pele e sentimentos."
+    },
+    {
+      "id": "cap-03-0083",
+      "type": "paragraph",
+      "text": "“Obrigada pelo resgate, Aníbal. Depois eu te pago um café. Ah! Quando o pessoal da perícia trouxer meu carro, você pode pedir pra eles levarem direto pra refazer a blindagem?”"
+    },
+    {
+      "id": "cap-03-0084",
+      "type": "paragraph",
+      "text": "“Pode deixar, Juquinha. Eu vou lá fazer o relatório pra anexar ao inquérito, mas se vocês estiverem ok, podem ir direto pra sala do delegado pra tomar o depoimento de vocês.”"
+    },
+    {
+      "id": "cap-03-0085",
+      "type": "paragraph",
+      "text": "“Certo. Obrigada de novo.”"
+    },
+    {
+      "id": "cap-03-0086",
+      "type": "paragraph",
+      "text": "“Obrigada, Aníbal”, Lorena diz com um sorriso educado. Elas acenam para ele em forma de despedida e se encaminham para as portas automáticas que se abrem quando elas se aproximam. Ele chama por Juquinha antes que pudessem entrar."
+    },
+    {
+      "id": "cap-03-0087",
+      "type": "paragraph",
+      "text": "“Eu to muito feliz que vocês não se machucaram. De verdade.”"
+    },
+    {
+      "id": "cap-03-0088",
+      "type": "paragraph",
+      "text": "Elas sorriem. Juquinha assente com a cabeça e mantém contato visual com ele um segundo além do normal, gratidão, companheirismo. Ele não precisa de palavras, a mensagem é clara. Elas se viram e entram, portas fechando silenciosamente atrás delas."
+    },
+    {
+      "id": "cap-03-0089",
+      "type": "divider"
+    },
+    {
+      "id": "cap-03-0090",
+      "type": "paragraph",
+      "text": "A maior prova de que Juquinha não está totalmente bem é que ela aceita o abraço de Paulinho sem reclamar ou relutar, ligando todos os sinais de alerta dele, que passa a observá-la com mais atenção."
+    },
+    {
+      "id": "cap-03-0091",
+      "type": "paragraph",
+      "text": "Quando ela o solta, ele oferece um abraço para Lorena também, que o olha meio estranho, como se não esperasse o gesto. Por ele ser um estranho ou por ela não estar acostumada com carinho gratuito, ele não sabe dizer, mas ela aceita e ele sente como uma vitória."
+    },
+    {
+      "id": "cap-03-0092",
+      "type": "paragraph",
+      "text": "Ele gosta dela. Bem, ele não a conhece, não realmente. Mas ele e Juquinha passam horas falando de suas namoradas: como elas pensam, como elas agem, anedotas, momentos engraçados ou comoventes. Ele não a conhece, mas ele conhece Juquinha e é muito fácil gostar dela quando ela faz tão bem para alguém tão importante para ele."
+    },
+    {
+      "id": "cap-03-0093",
+      "type": "paragraph",
+      "text": "“Você tá bem?”"
+    },
+    {
+      "id": "cap-03-0094",
+      "type": "paragraph",
+      "text": "A forma que ela se surpreende com a pergunta dói nele, e a imagem dela, tão forte e desacostumada com gentilezas, entra para a lista enorme de motivos para odiar Santiago Ferette. Ela se recupera rapidamente, educada acima de tudo, mas com certeza o toque de Juquinha em suas costas deve ter ajudado."
+    },
+    {
+      "id": "cap-03-0095",
+      "type": "paragraph",
+      "text": "“Um tanto assustada, se eu for bem sincera. Mas muito mais revoltada do que assustada.”"
+    },
+    {
+      "id": "cap-03-0096",
+      "type": "paragraph",
+      "text": "“Neste ponto, estamos plenamente de acordo. Cês querem água? Não vou oferecer café – cala a boca, Juquinha”, ele levanta o dedo para ela antes que ela pudesse pegar ar e ela obedece, apesar de fazer bico pra ele. Patricinha mimada, “cês já tão com a adrenalina alta demais. Quero ninguém tendo um ataque do coração por aqui. Se quiserem beber alguma coisa é água. Talvez chá se eu conseguir achar algum sachê perdido.”"
+    },
+    {
+      "id": "cap-03-0097",
+      "type": "paragraph",
+      "text": "“Eu acho que nunca vi uma alma sequer nessa delegacia tomando chá.”"
+    },
+    {
+      "id": "cap-03-0098",
+      "type": "paragraph",
+      "text": "“É porque nunca aconteceu. Mas em algum momento alguém achou que seria uma boa ideia ter a opção, mesmo que completamente ignorada. Talvez alguém tenha levado pro estande de tiro. Enfim! Jairo tá esperando vocês na sala dele. Eu já chego com a água.”"
+    },
+    {
+      "id": "cap-03-0099",
+      "type": "paragraph",
+      "text": "“Obrigada, Paulinho. Ah! Zenilda e Leonardo devem estar chegando. Se puder avisar o pessoal pra encaminhar eles pra cá, por favor.”"
+    },
+    {
+      "id": "cap-03-0100",
+      "type": "paragraph",
+      "text": "“Pode deixar. Já volto, então.”"
+    },
+    {
+      "id": "cap-03-0101",
+      "type": "divider"
+    },
+    {
+      "id": "cap-03-0102",
+      "type": "paragraph",
+      "text": "Paulinho entra na sala seguido de Zenilda e Leonardo e as encontra atrás da mesa do delegado (que está sentado na cadeira de visitante, analisando um relatório, contente em deixá-las vivendo em seu mundinho particular), Juquinha, como sempre, sentada em cima dos armários, Lorena em pé, escorada nela e de olhos fechados aninhada nos braços dela, rosto encostado em seu pescoço. Juquinha parece estar falando algo com ela, ou talvez cantando – ele não sabe dizer ao certo – braços ao redor de sua cintura um porto seguro."
+    },
+    {
+      "id": "cap-03-0103",
+      "type": "paragraph",
+      "text": "Como se sentisse que estava sendo observada, ela levanta os olhos e encontra os dele. Ela não sorri nem para o que está falando, mas esse olhar diz muito, mostra muito: é a primeira vez que ele vê Eduarda Fragoso em toda sua glória."
+    },
+    {
+      "id": "cap-03-0104",
+      "type": "paragraph",
+      "text": "Ser policial exige uma divisão de personas ou eles acabam enlouquecendo e, em algum momento na vida dele, ele perdeu um pouco de Paulo Reitz. Ou talvez ele tenha se deixado ser consumido por Paulinho até Gerluce chegar e ele sentir, pela primeira vez, vontade de se reencontrar."
+    },
+    {
+      "id": "cap-03-0105",
+      "type": "paragraph",
+      "text": "Ele se lembra de todas as vezes que viu Eduarda brilhar nos olhos de Juquinha: quando perguntou se ela já havia se apaixonado; quando ela lhe falou para dar espaço para Gerluce e parar de interrogá-la; quando viu Lorena chegar na delegacia procurando por ela."
+    },
+    {
+      "id": "cap-03-0106",
+      "type": "paragraph",
+      "text": "A questão sobre Eduarda, ele descobre naquele momento, é que ela é muito mais intensa do que Juquinha. Sem o verniz do deboche, com Lorena nos braços, ele duvida que tenha alguma coisa que ela não seja capaz de fazer para certificar que Lorena ficará em segurança. Ele consegue entender o sentimento, mesmo que isso mexa com ele, porque se tem uma coisa que ele aprendeu nesses meses desde que ela entrou em sua vida como um furacão de meio metro de altura e folgada como se medisse dez vezes mais que isso é que nada fica no caminho do que ela quer ou precisa. E até o momento, nada teve o peso que Lorena tem."
+    },
+    {
+      "id": "cap-03-0107",
+      "type": "paragraph",
+      "text": "Lorena abre os olhos quando registra a chegada deles, dá um beijo no pescoço de Juquinha ao mesmo tempo agradecendo pelo conforto e confortando de volta. Como se dissesse que está tudo bem."
+    },
+    {
+      "id": "cap-03-0108",
+      "type": "paragraph",
+      "text": "Fascinado, ele a observa: a postura dela muda quando Lorena sai de seus braços para cumprimentar a mãe e o irmão; as defesas dela sobem lentamente, o brilho nos olhos, sempre presentes, mudam de intensidade; ela sorri para os recém-chegados, os cumprimenta com abraços pergunta como estão. Educada, mas diferente. Tudo nela é diferente – apesar de perfeitamente genuíno – e resguardado. E então ela olha para Leonardo e ele vê. Se não tivesse prestando atenção a todos os movimentos dela ele teria perdido, mas é quando o olhar dela cruza com o dele novamente que ele tem a confirmação: Juquinha inegavelmente detesta Leonardo.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Fascinado, ele a observa: a postura dela muda quando Lorena sai de seus braços para cumprimentar a mãe e o irmão; as defesas dela sobem lentamente, o brilho nos olhos, sempre presentes, mudam de intensidade; ela sorri para os recém-chegados, os cumprimenta com abraços pergunta como estão. Educada, mas diferente. Tudo nela é diferente – apesar de perfeitamente genuíno – e resguardado. E então ela olha para Leonardo e ele vê. Se não tivesse prestando atenção a todos os movimentos dela ele teria perdido, mas é quando o olhar dela cruza com o dele novamente que ele tem a confirmação: Juquinha inegavelmente "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "detesta"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Leonardo."
+        }
+      ]
+    },
+    {
+      "id": "cap-03-0109",
+      "type": "paragraph",
+      "text": "“Obrigado a todos por terem arranjado um tempinho pra vir aqui resolver essa situação”, Jairo se levanta da cadeira para que Leonardo possa sentar ao lado de Lorena, Zenilda do outro lado e vai para sua cadeira atrás da mesa. Juquinha permanece onde está, mãos ao lado das pernas sobre o armário, “Paulinho, meu filho, se puder servir água para todos, por favor. Não quero tomar muito o tempo de vocês. Imagino que todos queiram finalizar essas burocracias logo e seguir com seus dias e afazeres. Lorena, minha querida, quando você estiver pronta.”"
+    },
+    {
+      "id": "cap-03-0110",
+      "type": "paragraph",
+      "text": "“Obrigada, delegado”, ela aceita o copo que Paulinho passa para ela e bebe de uma vez. Ela parece bem mais calma, mas a raiva dela segue latente, evidente na forma como se move, “por onde eu devo começar?”"
+    },
+    {
+      "id": "cap-03-0111",
+      "type": "paragraph",
+      "text": "“Todos estamos cientes do inquérito aberto pela investigadora Eduarda Fragoso, aqui presente, referente a um caso de ameaça à integridade física e psicológica partindo, oficialmente falando, de origem desconhecida.”"
+    },
+    {
+      "id": "cap-03-0112",
+      "type": "paragraph",
+      "text": "“Mas que todos sabemos ter partido do meu pai, Santiago Ferette.”"
+    },
+    {
+      "id": "cap-03-0113",
+      "type": "paragraph",
+      "text": "“O que te leva a crer que ele tem envolvimento neste caso?”"
+    },
+    {
+      "id": "cap-03-0114",
+      "type": "paragraph",
+      "text": "“As palavras usadas nas mensagens, o contexto, o fato de ter sido mandado para minha namorada, o fato de que ele me odeia e não aceita que eu tenha virado as costas para o nome e o dinheiro sujo dele.”"
+    },
+    {
+      "id": "cap-03-0115",
+      "type": "paragraph",
+      "text": "“Virado as costas quando ele a expulsou de casa?”"
+    },
+    {
+      "id": "cap-03-0116",
+      "type": "paragraph",
+      "text": "“Eu já renegava o nome dele antes disso acontecer. Essa atitude dele só foi o último empurrão que eu precisava para sair da inércia que o abuso dele me causou. Se ele não tivesse me expulsado, delegado, eu teria saído mais cedo ou mais tarde. Ele pode enganar muita gente”, a pausa dela carrega um peso diferente. Em sua cadeira, Leonardo está visivelmente desconfortável. Ótimo, “mas a mim ele nunca enganou. Santiago Ferette é um homem mau. O que aconteceu hoje foi apenas mais uma gota no oceano de crueldades dele.”"
+    },
+    {
+      "id": "cap-03-0117",
+      "type": "paragraph",
+      "text": "“Você pode nos dar detalhes do que aconteceu hoje? Do início, por favor. Qualquer coisa fora do normal que você possa ter notado antes e depois do incidente.”"
+    },
+    {
+      "id": "cap-03-0118",
+      "type": "paragraph",
+      "text": "“Nada estava fora do normal. O dia foi como todos os outros: Duda saiu pra trabalhar e eu fiquei em casa – estou temporariamente morando no apartamento que ela vive com os pais, que estão fora do Brasil no momento”, ela esclarece."
+    },
+    {
+      "id": "cap-03-0119",
+      "type": "paragraph",
+      "text": "“O desembargador Henrique Fragoso e a consultora de moda Violeta Fragoso”, Jairo acrescenta."
+    },
+    {
+      "id": "cap-03-0120",
+      "type": "paragraph",
+      "text": "“Isso. Eu trabalho como garçonete até o início da madrugada, normalmente fico dormindo quando ela sai para a delegacia. Ela volta para almoçar comigo e me leva para o trabalho todos os dias por segurança.”"
+    },
+    {
+      "id": "cap-03-0121",
+      "type": "paragraph",
+      "text": "“Por causa das ameaças?”"
+    },
+    {
+      "id": "cap-03-0122",
+      "type": "paragraph",
+      "text": "“Ela já fazia isso antes”, Lorena olha para ela, adoração estampada no rosto, “ela me apoia em tudo e gosta de estar por perto. Não por achar que eu preciso dela, mas por saber que a quero comigo sempre. Nas poucas vezes que ela não teve como me levar, eu fui de carro de aplicativo. Mas desde que recebeu as mensagens, ela tem me levado todos os dias.”"
+    },
+    {
+      "id": "cap-03-0123",
+      "type": "paragraph",
+      "text": "“E hoje não foi diferente. Em nenhum ponto?”"
+    },
+    {
+      "id": "cap-03-0124",
+      "type": "paragraph",
+      "text": "“Não. Ela foi para casa almoçar comigo e depois estava me levando para o bar, o mesmo caminho de sempre. Não notei qualquer movimento diferente, nada. Até pararmos no semáforo…”, ela para. Paulinho rapidamente oferece a ela mais um pouco de água, que ela novamente bebe de uma vez. Olha de novo para Juquinha, que parece lutar contra o instinto de ir até ela, nós dos dedos brancos por se segurar no lugar."
+    },
+    {
+      "id": "cap-03-0125",
+      "type": "paragraph",
+      "text": "“Se quiser, a gente pode dar uma pausa”, Jairo oferece. Mais gentil do que normalmente fala. Paulinho se pergunta se é por ser Lorena ou se é por ser a namorada de Juquinha."
+    },
+    {
+      "id": "cap-03-0126",
+      "type": "paragraph",
+      "text": "“Não, tá tudo bem. Obrigada. Eu tava distraída, trocando mensagens com Maggye, minha amiga. Quando olhei para frente, eu vi um brilho, como se fosse o reflexo de um objeto de metal ou vidro no sol e logo depois a marca da bala no vidro. A marca ficou do meu lado, do lado do passageiro. Assim como a ameaça foi com uma foto minha.”"
+    },
+    {
+      "id": "cap-03-0127",
+      "type": "paragraph",
+      "text": "“O quê?? Bala?? Atiraram em vocês?”, a cadeira onde Leonardo estava tomba para trás quando ele levanta, corpo virado para Lorena."
+    },
+    {
+      "id": "cap-03-0128",
+      "type": "paragraph",
+      "text": "“Leonardo, por favor”, o tom do delegado é de aviso. Do outro lado de Lorena, Zenilda permanece num silêncio raivoso. Coloca a mão no braço dela, oferece apoio. Um pedido silencioso de desculpas."
+    },
+    {
+      "id": "cap-03-0129",
+      "type": "paragraph",
+      "text": "Eduarda trava a mandíbula, se força a ficar em silêncio, a não se mover. Dedos já quase dormentes. Tudo com eles é sempre assim. Apoio silencioso, quase tímido, diante de um ódio estrondoso. No peito, a chama arde cada vez mais forte, suas veias todas em brasa cada vez mais incandescente."
+    },
+    {
+      "id": "cap-03-0130",
+      "type": "paragraph",
+      "text": "“É isso que aconteceu, Lorena? Você tá falando que nosso pai mandou atirar em você?? Isso não faz qualquer sentido!”"
+    },
+    {
+      "id": "cap-03-0131",
+      "type": "paragraph",
+      "text": "“Leonardo, eu vou te avisar apenas mais uma vez: ou você se senta e se controla ou eu vou mandar retirar você da sala!”"
+    },
+    {
+      "id": "cap-03-0132",
+      "type": "paragraph",
+      "text": "“A hora que o carro chegar aqui você pode olhar a marca no vidro por conta própria, Leo”, a voz de Lorena sai resignada. Como se já esperasse por essa reação."
+    },
+    {
+      "id": "cap-03-0133",
+      "type": "paragraph",
+      "text": "“Não é isso, Lorena”, ele leva as mãos à cabeça, enterra os dedos nos cabelos, anda em círculos duas, três vezes, antes de respirar fundo. Levanta a cadeira e se senta na beirada, corpo virado para ela, “eu sei que a gente tem problemas com ele, mas atirar, Lorena? Arma?”"
+    },
+    {
+      "id": "cap-03-0134",
+      "type": "paragraph",
+      "text": "“Seu pai é responsável indireto pela morte de dezenas de pessoas, Leonardo. O que é tão chocante assim neste caso?”, a voz dela sai afiada como facas. Todos os alarmes disparam na cabeça de Paulinho. Ele nunca a viu desse jeito."
+    },
+    {
+      "id": "cap-03-0135",
+      "type": "paragraph",
+      "text": "“Nós estamos falando de família!”"
+    },
+    {
+      "id": "cap-03-0136",
+      "type": "paragraph",
+      "text": "“Então se estivéssemos falando das dezenas de pobres que ele mata diariamente com os remédios falsos que a fundação tão eficientemente produz, estaria tudo ok? Lorena é uma vida como todas as demais. Por que é tão chocante pra você, Leonardo”, ela finalmente se levanta, dá um passo para frente e se força a parar, fecha os punhos com força, unhas, por mais que curtas, enterradas nas palmas de suas mãos, “que um genocida tenha atirado contra uma pessoa?”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Então se estivéssemos falando das dezenas de pobres que ele mata diariamente com os remédios falsos que a fundação "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tão eficientemente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " produz, estaria tudo ok? Lorena é uma vida como todas as demais. Por que é tão chocante pra você, Leonardo”, ela finalmente se levanta, dá um passo para frente e se força a parar, fecha os punhos com força, unhas, por mais que curtas, enterradas nas palmas de suas mãos, “que um genocida tenha atirado contra uma pessoa?”"
+        }
+      ]
+    },
+    {
+      "id": "cap-03-0137",
+      "type": "paragraph",
+      "text": "“Ela é filha dele!”"
+    },
+    {
+      "id": "cap-03-0138",
+      "type": "paragraph",
+      "text": "“Filha que ele expulsou de casa! Filha que ele odeia! Filha que nunca se deixou enganar pela máscara de bom moço que ele usa e que pra certas pessoas parece ser bem cômodo acreditar!”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Filha que ele expulsou de casa! Filha que ele odeia! Filha que nunca se deixou enganar pela máscara de bom moço que ele usa e que pra "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "certas"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pessoas"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " parece ser "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "bem cômodo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " acreditar!”"
+        }
+      ]
+    },
+    {
+      "id": "cap-03-0139",
+      "type": "paragraph",
+      "text": "“Juquinha”, Paulinho não ousa encostar nela. Ele sabe que qualquer movimento errado que ele fizer ela pode explodir, mas não sabe qual é o movimento certo também."
+    },
+    {
+      "id": "cap-03-0140",
+      "type": "paragraph",
+      "text": "“Amor”, a voz de Lorena é baixa, como quem tenta acordar a outra pessoa sem assustá-la. De certa forma, Paulinho pensa, é exatamente isso que está acontecendo ali. E por um momento, parece funcionar. Juquinha volta, olhos nos de Lorena, respiração mais ofegante, mas ela parece estar lutando, “tá tudo bem.”"
+    },
+    {
+      "id": "cap-03-0141",
+      "type": "paragraph",
+      "text": "“Não tá, Lorena. Nunca esteve”, ela abre e fecha as mãos repetidas vezes, balança a cabeça, tenta respirar fundo, seus olhos não parecem conseguir se focar em nada, apenas quando encontram os dela eles ficam um segundo a mais, “depois de tudo que já aconteceu, depois de tudo que nós quatro vimos acontecer com nossos próprios olhos, depois de tudo que ouvimos, depois de tudo! Eu não vou admitir que sua palavra siga valendo menos que a ideia de um homem covarde! Eu não vou admitir mais que você seja taxada de rebelde sem causa quando você foi a única pessoa com compasso moral calibrado pra bater de frente com um assassino, fato que parecem achar banal o suficiente pra ignorar em prol de atacar você!”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Não tá, Lorena. Nunca esteve”, ela abre e fecha as mãos repetidas vezes, balança a cabeça, tenta respirar fundo, seus olhos não parecem conseguir se focar em nada, apenas quando encontram os dela eles ficam um segundo a mais, “depois de tudo que já aconteceu, depois de tudo que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "nós quatro"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " vimos acontecer com nossos próprios olhos, depois de tudo que ouvimos, depois de tudo! Eu não vou admitir que sua palavra siga valendo menos que a "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ideia"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " de um homem covarde! Eu não vou admitir mais que você seja taxada de rebelde sem causa quando você foi a única pessoa com compasso moral calibrado pra bater de frente com um assassino, fato que parecem achar banal o suficiente pra ignorar em prol de atacar você!”"
+        }
+      ]
+    },
+    {
+      "id": "cap-03-0142",
+      "type": "paragraph",
+      "text": "Antes que Leonardo pudesse rebater, Jairo se levanta ao mesmo tempo que Paulinho entra na frente dela, tampando seu campo de visão, forçando ela a olhar para ele e mais ninguém. Ela segue ofegante, energia emanando dela como um reator nuclear falhando, prestes a explodir. Ele precisa tirá-la dali e é exatamente o que faz. A pega pelo braço e, se mantendo sempre na frente da linha de visão dela, a empurra para fora da sala. Ela não esboça reação, nem luta contra ele."
+    },
+    {
+      "id": "cap-03-0143",
+      "type": "paragraph",
+      "text": "“Ok, já chega por hoje! Lorena, minha querida, eu te agradeço muito pelas informações e te garanto que faremos tudo, absolutamente tudo que pudermos para pegar quem cometeu esse atentado, seja ele quem for!”"
+    },
+    {
+      "id": "cap-03-0144",
+      "type": "paragraph",
+      "text": "“Obrigada, delegado. Amo–”"
+    },
+    {
+      "id": "cap-03-0145",
+      "type": "paragraph",
+      "text": "“Lorena, meu amor, eu acho melhor você deixar que Paulinho resolva isso.”"
+    },
+    {
+      "id": "cap-03-0146",
+      "type": "paragraph",
+      "text": "“Mãe?”"
+    },
+    {
+      "id": "cap-03-0147",
+      "type": "paragraph",
+      "text": "“Ela não tá bem, meu amor…”, a voz de Zenilda é baixa, apenas para ela ouvir, “eu tenho certeza que ela vai conversar com você depois, mas agora eu acho melhor você deixar que ele ajude. E acho que você também precisa de um momento para respirar.”"
+    },
+    {
+      "id": "cap-03-0148",
+      "type": "paragraph",
+      "text": "Lorena quer argumentar, acompanha em silêncio enquanto Paulinho a leva para sabe-se lá onde, mas ela sabe que estão certos. Eduarda sempre dá tudo de si quando se trata dela e o faz porque tem muito de si para dar, tão altruísta que nem olha para si e para as suas reservas. Ela entende que, se estivesse presente, Eduarda seguiria tentando focar nela e apenas nela, quando claramente ela mesma precisa de um momento para si."
+    },
+    {
+      "id": "cap-03-0149",
+      "type": "paragraph",
+      "text": "“Delegado, tem algum lugar que a gente possa ir pra respirar um pouco? Algum lugar aberto?”"
+    },
+    {
+      "id": "cap-03-0150",
+      "type": "paragraph",
+      "text": "“Claro. O terraço tem algumas mesas cadeiras, funciona mais ou menos como uma área de descanso não-oficial. Não vou falar que o ar é puro porque estamos em São Paulo, mas pelo menos não é um lugar fechado. Vocês podem ir, o pessoal sabe quem são vocês”, Leonardo ameaça se levantar, mas Jairo coloca a mão em seu ombro, impedindo que ele saia da cadeira, “você não, garoto. Não sei se não ficou claro pra você, mas talvez seja melhor você deixar que elas conversem entre si.”"
+    },
+    {
+      "id": "cap-03-0151",
+      "type": "paragraph",
+      "text": "“A gente não vai demorar, meu amor”, Zenilda diz, sorriso apaziguador no rosto, “o delegado está certo. Eu e Lorena precisamos de um momento de mãe e filha.”"
+    },
+    {
+      "id": "cap-03-0152",
+      "type": "paragraph",
+      "text": "Ele claramente quer rebater, argumentar, talvez até brigar. Mas a forma que Zenilda olha para ele é o suficiente para que ele se cale, “tá. Tudo bem, eu espero aqui, então. Vou só dar uma volta lá fora.”"
+    },
+    {
+      "id": "cap-03-0153",
+      "type": "paragraph",
+      "text": "Jairo observa os três saindo. Anos, décadas na polícia – mais tempo que Juquinha tem de vida – lhe ensinaram muita coisa. Lhe ensinaram a identificar muita coisa, a ver detalhes, tirar conclusões que às vezes não se sustentam num inquérito, mas que são verdades inabaláveis da mesma forma.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Jairo observa os três saindo. Anos, décadas na polícia – mais tempo que Juquinha tem de vida – lhe ensinaram muita coisa. Lhe ensinaram a "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "identificar"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " muita coisa, a ver detalhes, tirar conclusões que às vezes não se sustentam num inquérito, mas que são verdades inabaláveis da mesma forma."
+        }
+      ]
+    },
+    {
+      "id": "cap-03-0154",
+      "type": "paragraph",
+      "text": "Uma interação é o suficiente para ele entender a dinâmica Ferette e o círculo de abuso consciente e inconsciente que formaram. Abuso por crueldade, abuso por omissão, abuso por covardia e idolatria de uma ideia, uma tentativa infantil de receber uma migalha de atenção de um sujeito que não deveria ser jamais colocado num pedestal."
+    },
+    {
+      "id": "cap-03-0155",
+      "type": "paragraph",
+      "text": "Uma interação é o suficiente para ele entender que Leonardo Ferette é um frouxo. Um covarde. E ele espera de todo o coração que a conversa que Lorena terá com Zenilda a faça acordar de verdade. Porque uma interação é o suficiente. E Lorena merece coisa muito melhor."
+    },
+    {
+      "id": "cap-03-0156",
+      "type": "divider"
+    },
+    {
+      "id": "cap-03-0157",
+      "type": "paragraph",
+      "text": "O silêncio dentro do elevador durante a subida é ensurdecedor. Como se Zenilda não soubesse bem o que dizer, ou talvez ela apenas esteja dando a Lorena um tempo para pensar, para se recompor. A verdade é que Lorena não sabe exatamente como interpretar as atitudes dela."
+    },
+    {
+      "id": "cap-03-0158",
+      "type": "paragraph",
+      "text": "Zenilda é uma mulher brilhante que ficou adormecida por muitos anos sob o confortável controle de Santiago Ferette. Lorena viu apenas pequenos lampejos dela durante sua vida adulta, sua mãe sendo para ela uma ideia mais do que uma imagem. Ela sabe que debaixo de tantos anos se apequenando, se moldando aos desejos de um homem que ela jurou a si mesma que amava, se reencontrar é algo que demanda muito tempo e muito trabalho. E ela tem orgulho da mulher que sabe que a mãe é, mas se for sincera consigo mesma, ela não conhece essa mulher.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Zenilda é uma mulher brilhante que ficou adormecida por muitos anos sob o confortável controle de Santiago Ferette. Lorena viu apenas pequenos lampejos dela durante sua vida adulta, sua mãe sendo para ela uma ideia mais do que uma imagem. Ela sabe que debaixo de tantos anos se apequenando, se moldando aos desejos de um homem que ela jurou a si mesma que amava, se reencontrar é algo que demanda muito tempo e muito trabalho. E ela tem orgulho da mulher que sabe que a mãe é, mas se for sincera consigo mesma, ela não "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "conhece"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " essa mulher."
+        }
+      ]
+    },
+    {
+      "id": "cap-03-0159",
+      "type": "paragraph",
+      "text": "Ela não sabe quem Zenilda é quando não está escondida à sombra dele, mas quer muito a chance de descobrir. E uma parte dela, mesmo que pequena – mesmo que às vezes enorme – tem um certo receio. Será que ela vai gostar de Lorena? Verdadeiramente? Será que vai apoiá-la? Será que vai vê-la?"
+    },
+    {
+      "id": "cap-03-0160",
+      "type": "paragraph",
+      "text": "O terraço é bem simples, cinco mesas de metal cada uma com quatro cadeiras do mesmo material confortavelmente espaçadas sob uma parte coberta, vasos de plantas ao longo do guarda-corpo de vidro que corre por dois dos lados do prédio. Perto dos elevadores, lixeiras de reciclagem coloridas com os símbolos indicados para cada material em seu corpo e ao menos duas lixeiras prateadas para lixo orgânico com cinzeiros na parte superior. Por estar num andar tão alto, o vento é constante, o que provavelmente justifica o material escolhido para a mobília."
+    },
+    {
+      "id": "cap-03-0161",
+      "type": "paragraph",
+      "text": "Ela caminha até o guarda-corpo, apoia as mãos no vidro, fecha os olhos e respira fundo. Mentalmente, ela faz uma anotação para fugir da cidade um final de semana qualquer, só ela e Eduarda em algum lugar com muito ar puro, cercadas de natureza. Algum lugar onde elas possam apenas ser, apenas estar, apenas viver um pouco, lavar a alma numa cachoeira, esquecer do mundo."
+    },
+    {
+      "id": "cap-03-0162",
+      "type": "paragraph",
+      "text": "“Eu sinto muito”, Zenilda quebra o silêncio após uns minutos. Está ao seu lado, olhando diretamente para frente. Lorena observa o rosto dela. Lindo como sempre, mas, pela primeira vez, ela nota um peso em suas feições. Idade? Culpa? Decepção? Raiva? Ela não sabe dizer."
+    },
+    {
+      "id": "cap-03-0163",
+      "type": "paragraph",
+      "text": "“Pelo quê?”"
+    },
+    {
+      "id": "cap-03-0164",
+      "type": "paragraph",
+      "text": "“Por ter demorado tanto para ver quem ele é. Por não ter acreditado no que ele é capaz de fazer.”"
+    },
+    {
+      "id": "cap-03-0165",
+      "type": "paragraph",
+      "text": "“Ele sabe que botões apertar”, ela responde simplesmente. Não está tentando desdenhar, mas constatando um fato."
+    },
+    {
+      "id": "cap-03-0166",
+      "type": "paragraph",
+      "text": "“E eu deixei que ele apertasse. Me recusei a ver o tipo de homem que ele é. Do tipo que trai a esposa com a melhor amiga de–”"
+    },
+    {
+      "id": "cap-03-0167",
+      "type": "paragraph",
+      "text": "“É sempre isso que vai te incomodar?”, a pergunta não é ríspida, apenas cansada. Tanto tempo, tanta informação nas mãos e ainda é isso que parece tirar Zenilda do sério."
+    },
+    {
+      "id": "cap-03-0168",
+      "type": "paragraph",
+      "text": "“Oi?”"
+    },
+    {
+      "id": "cap-03-0169",
+      "type": "paragraph",
+      "text": "“Sempre que vai falar dele, é esse o ponto que você volta toda vez. Que ele te traiu com Arminda”, ela se vira para Zenilda, mão esquerda ainda sobre o vidro, buscando equilíbrio, buscando uma forma de se ancorar no que é real e não se deixar levar pelo que sente, “nunca é a forma que ele me tratou a vida toda. Nunca é o fato de que ele falou as maiores atrocidades nojentas naquele jantar. Nunca é a forma que ele tratou Viviane, João Rubens, Kasper, Maggye, Eduarda. Nunca é o fato de que ele me expulsou de casa. Nunca é o fato, mãe, que ele é diretamente responsável pela morte de sabe-se lá quantas pessoas inocentes que contavam com ele para ter acesso a um remédio que nem mesmo era do bolso dele que estava saindo.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Sempre que vai falar dele, é esse o ponto que você volta toda vez. Que ele te traiu com Arminda”, ela se vira para Zenilda, mão esquerda ainda sobre o vidro, buscando equilíbrio, buscando uma forma de se ancorar no que é real e não se deixar levar pelo que sente, “nunca é a forma que ele me tratou a vida toda. Nunca é o fato de que ele falou as maiores atrocidades nojentas naquele jantar. Nunca é a forma que ele tratou Viviane, João Rubens, Kasper, Maggye, Eduarda. Nunca é o fato de que ele me expulsou de casa. Nunca é o "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "fato"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", mãe, que ele é diretamente responsável pela morte de sabe-se lá quantas pessoas inocentes que contavam com ele para ter acesso a um remédio que nem mesmo era do bolso dele que estava saindo.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-03-0170",
+      "type": "paragraph",
+      "text": "“Mas é claro que tudo isso importa, Lorena! É claro que eu penso nisso!”"
+    },
+    {
+      "id": "cap-03-0171",
+      "type": "paragraph",
+      "text": "“Pensa mesmo? Por que nunca fala disso, então? Por que é como se tudo isso fosse apenas um pequeno detalhe diante da traição dele. Mãe, eu estava morando de favor na galeria até semana passada! Tem quanto tempo que você saiu de casa?”"
+    },
+    {
+      "id": "cap-03-0172",
+      "type": "paragraph",
+      "text": "“Você adora a galeria, Lorena. Eu achei que você estava confortável lá.”"
+    },
+    {
+      "id": "cap-03-0173",
+      "type": "paragraph",
+      "text": "“Você achou, mãe. Esse é o problema. O que você acha que eu preferiria? Morar num flat com você ou morar de favor?”, o silêncio diz tudo que ela já imaginava, mas não queria ver. A ideia nem passou pela cabeça dela, nem mesmo a ideia de uma conversa, de perguntar. Ela balança a cabeça, coração quebrando mais uma vez, decepcionada consigo mesma por ainda esperar que ela a escolha. Vira mais uma vez para frente, “você só saiu de casa quando ele a expulsou também. Como eu disse que aconteceria. Leonardo só saiu quando perdeu Viviane. Se não fosse isso, vocês ainda estariam lá? Ainda seria chiliquinho infantil de minha parte?”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Você achou, mãe. Esse é o problema. O que você "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "acha"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que eu preferiria? Morar num flat com você ou morar de favor?”, o silêncio diz tudo que ela já imaginava, mas não queria ver. A ideia nem passou pela cabeça dela, nem mesmo a ideia de uma conversa, de perguntar. Ela balança a cabeça, coração quebrando mais uma vez, decepcionada consigo mesma por ainda esperar que ela a escolha. Vira mais uma vez para frente, “você só saiu de casa quando ele a expulsou também. Como eu disse que aconteceria. Leonardo só saiu quando perdeu Viviane. Se não fosse isso, vocês ainda estariam lá? Ainda seria chiliquinho infantil de minha parte?”"
+        }
+      ]
+    },
+    {
+      "id": "cap-03-0174",
+      "type": "paragraph",
+      "text": "“Lorena, meu amor. As coisas não são simples assim.”"
+    },
+    {
+      "id": "cap-03-0175",
+      "type": "paragraph",
+      "text": "“Eu não estou dizendo que são, mãe. Mas o que aconteceu hoje… O que aconteceu hoje foi apenas uma consequência de tudo que já acontecia antes e vocês se recusaram a ver até que os atingiu também. Porque enquanto me atingia, mas era confortável pra vocês, vocês me deixaram sozinha pra ele descontar toda a frustração dele. Em muitos momentos, tomaram o lado dele”, ela sente que talvez devesse chorar ou gritar ou simplesmente fechar essa porta e seguir em frente. Mas no peito dela só tem cansaço, exaustão de ter que explicar o que deveria ser óbvio, “eu sei que você estava presa num relacionamento tóxico, mas mãe, eu não tenho culpa nenhuma disso. E eu precisava de você. E quanto mais eu tento lembrar dos momentos em que ele me odiou a plenos pulmões mais eu lembro de você me amando aos sussurros, quase que escondido”, ela se vira de novo para Zenilda, nota as lágrimas nos olhos dela e tenta ignorar a culpa que sente por ser a causa delas. Mas não pode mais ficar em silêncio, não pode mais aceitar migalhas de um amor que deveria ser o pilar da vida dela, “eu não estou falando isso pra te machucar. E eu sinto muito que esteja fazendo isso. Mas eu preciso que você entenda, mãe. Eu te amo. Muito. E eu sei que você também me ama, mas existe uma diferença entre amar uma filha e amar uma pessoa. Eu sei que você me ama enquanto filha, eu nunca duvidei disso. Mas você me ama, mãe?”, ela levanta a mão quando ela faz menção de responder, “eu não quero que me responda agora, porque eu sei qual será seu instinto e eu não quero uma resposta automática. Eu quero uma resposta honesta. Então tome o tempo que precisar. Porque eu não vou a lugar algum. Mesmo ele tentando me fazer ir. Eu não vou me esconder, como nunca me escondi. Eu não vou fugir, como nunca fugi. Eu aceito as consequências das minhas não-escolhas e, principalmente, das minhas escolhas.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Eu não estou dizendo que são, mãe. Mas o que aconteceu hoje… O que aconteceu hoje foi apenas uma consequência de tudo que já acontecia antes e vocês se recusaram a ver até que os atingiu também. Porque enquanto me atingia, mas era confortável pra vocês, vocês me deixaram sozinha pra ele descontar toda a frustração dele. Em muitos momentos, tomaram o lado dele”, ela sente que talvez devesse chorar ou gritar ou simplesmente fechar essa porta e seguir em frente. Mas no peito dela só tem cansaço, exaustão de ter que explicar o que deveria ser óbvio, “eu sei que você estava presa num relacionamento tóxico, mas mãe, eu não tenho culpa nenhuma disso. E eu precisava de você. E quanto mais eu tento lembrar dos momentos em que ele me odiou a plenos pulmões mais eu lembro de você me amando aos sussurros, quase que escondido”, ela se vira de novo para Zenilda, nota as lágrimas nos olhos dela e tenta ignorar a culpa que sente por ser a causa delas. Mas não pode mais ficar em silêncio, não pode mais aceitar migalhas de um amor que deveria ser o pilar da vida dela, “eu não estou falando isso pra te machucar. E eu sinto muito que esteja fazendo isso. Mas eu preciso que você entenda, mãe. Eu te amo. Muito. E eu sei que você também me ama, mas existe uma diferença entre amar uma filha e amar uma pessoa. Eu sei que você me ama enquanto filha, eu nunca duvidei disso. Mas você "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " ama, mãe?”, ela levanta a mão quando ela faz menção de responder, “eu não quero que me responda agora, porque eu sei qual será seu instinto e eu não quero uma resposta automática. Eu quero uma resposta honesta. Então tome o tempo que precisar. Porque eu não vou a lugar algum. Mesmo ele tentando me fazer ir. Eu não vou me esconder, como nunca me escondi. Eu não vou fugir, como nunca fugi. Eu aceito as consequências das minhas não-escolhas e, principalmente, das minhas escolhas.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-03-0176",
+      "type": "paragraph",
+      "text": "Zenilda a puxa num abraço apertado que lhe tira o ar – não fisicamente. Ela se agarra à blusa dela, rosto escondido em seus cabelos e ela deseja de corpo e alma que não tenha sido em vão. Que elas tenham uma segunda chance, que possam consertar o que ele ajudou a quebrar."
+    },
+    {
+      "id": "cap-03-0177",
+      "type": "divider"
+    },
+    {
+      "id": "cap-03-0178",
+      "type": "paragraph",
+      "text": "Juquinha precisa descarregar tudo que está sentindo. Muita coisa se acumulou de uma vez, como uma cabeça d’água: volume muito alto, sem possibilidade de vazão controlada, levando consigo tudo que cruza seu caminho."
+    },
+    {
+      "id": "cap-03-0179",
+      "type": "paragraph",
+      "text": "Paulinho sabe reconhecer pessoas violentas. Sabe ver os sinais, sabe onde procurar, como achar, qual botão apertar, qual pedra mover para que finalmente explodam e mostrem toda a feiúra que está escondida por trás de máscaras cuidadosamente criadas."
+    },
+    {
+      "id": "cap-03-0180",
+      "type": "paragraph",
+      "text": "Não existe um pingo de violência em Juquinha. Violência não cabe nela. Romântica demais, justa demais, empática demais, gentil demais. E, neste momento, energia demais."
+    },
+    {
+      "id": "cap-03-0181",
+      "type": "paragraph",
+      "text": "“Vem comigo”, ele não espera por uma resposta, a pega pela mão em direção à academia da delegacia. Hora de resolver esse problema."
+    },
+    {
+      "id": "cap-03-0182",
+      "type": "paragraph",
+      "text": "Ignora completamente as máquinas, halteres, colchonetes, anilhas, barras, esteiras, bicicletas e abre a porta que dá para a sala onde treinam combate corpo-a-corpo ou com sacos de pancada."
+    },
+    {
+      "id": "cap-03-0183",
+      "type": "paragraph",
+      "text": "“Tira bota, meia, jaqueta, brincos, anéis, prende esse cabelo, a gente vai treinar.”"
+    },
+    {
+      "id": "cap-03-0184",
+      "type": "paragraph",
+      "text": "Paulinho sabe ler as pessoas. Sabe observar seus olhos, seus gestos, suas palavras, como os corpos se movem, seus tons de voz e todas as mudanças que indicam um caminho a seguir. Quando se trata de Juquinha, nada é mais evidente de que algo está errado do que seu completo silêncio, seus movimentos automáticos, olhos desfocados quando normalmente são tão expressivos, tão brilhantes. E de pensar que ele em algum momento queria só que ela calasse a boca e o deixasse em paz. Agora o que mais quer é ter sua irmã de volta. Pentelha, intrometida, sagaz."
+    },
+    {
+      "id": "cap-03-0185",
+      "type": "paragraph",
+      "text": "Ele é capaz de matar Ferette se ele tiver conseguido quebrar o espírito dela."
+    },
+    {
+      "id": "cap-03-0186",
+      "type": "paragraph",
+      "text": "Ele deveria ter exigido que ela calçasse luvas ou pelo menos colocasse proteção nas mãos, mas duvida bastante que ela teria ouvido. Base firmada, punhos cerrados e à altura dos olhos: “vem.”"
+    },
+    {
+      "id": "cap-03-0187",
+      "type": "paragraph",
+      "text": "Movimentos erráticos, desconcentrados, desequilibrados. Tudo errado."
+    },
+    {
+      "id": "cap-03-0188",
+      "type": "paragraph",
+      "text": "Desvia de um soco. De outro. De mais um. Mandíbula travada, ela se irrita. Ele comemora internamente. Quando ela vai pra cima dele de novo, ele desvia, ela cai."
+    },
+    {
+      "id": "cap-03-0189",
+      "type": "paragraph",
+      "text": "“É um treino, Juquinha. Você passou nos exames físicos, luta direito!”"
+    },
+    {
+      "id": "cap-03-0190",
+      "type": "paragraph",
+      "text": "Avanços previsíveis, base desequilibrada, ele a derruba de novo. E de novo. E de novo. E a cada vez que ela se levanta, seus movimentos ficam mais erráticos. Muita energia, nenhuma concentração, nenhum escape."
+    },
+    {
+      "id": "cap-03-0191",
+      "type": "paragraph",
+      "text": "Ela cai de novo. Mas quando se levanta, ele nota algo diferente. Raiva. Não. Raiva é pouco, mundano demais, simples demais. Fúria."
+    },
+    {
+      "id": "cap-03-0192",
+      "type": "paragraph",
+      "text": "O primeiro soco conecta, ele consegue se defender. O segundo, nem tanto. Ele não consegue bloquear a tempo e ela conecta um gancho na costela com muito mais potência do que ele estava esperando. No terceiro, ele segura o braço dela e usa a velocidade dela para empurrá-la de novo pro chão."
+    },
+    {
+      "id": "cap-03-0193",
+      "type": "paragraph",
+      "text": "Mas dessa vez ela é bem mais rápida do que das outras, olhos irreconhecíveis. Ele não consegue se preparar pro impacto quando suas costas batem no tatame, ela por cima. Consegue proteger o rosto do golpe que teria com certeza tirado sangue dele e aproveita o momento em que ela está preparando para o próximo e inverte as posições."
+    },
+    {
+      "id": "cap-03-0194",
+      "type": "paragraph",
+      "text": "“Juquinha. Já chega.”"
+    },
+    {
+      "id": "cap-03-0195",
+      "type": "paragraph",
+      "text": "Ela se debate, tenta se desvencilhar, tenta tirar o peso dele de cima dela. Ele segura suas mãos. Ambos vão ficar cheios de hematomas. Provavelmente ele terá que se explicar com Lorena."
+    },
+    {
+      "id": "cap-03-0196",
+      "type": "paragraph",
+      "text": "“Juquinha! Eu falei que já chega!”"
+    },
+    {
+      "id": "cap-03-0197",
+      "type": "paragraph",
+      "text": "Nada. E pela primeira vez desde que se conheceram, ele sente medo."
+    },
+    {
+      "id": "cap-03-0198",
+      "type": "paragraph",
+      "text": "Ser policial exige cabeça fria. E ele sabe que esse é um ponto que ele precisa trabalhar. Os horrores que vêem exige que saibam o momento certo de sentir e o de agir. Sentimento precisa esperar. Situações de crise exigem o tom certo para falar, palavras certas, sentimentos certos. Se é policial 24 horas por dia. Uma falácia. Ele não é um policial agora. Nem ela. Eles são irmãos. E ele não sabe o que será dele se ela tiver se perdido de vez.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Ser policial exige cabeça fria. E ele sabe que esse é um ponto que ele precisa trabalhar. Os horrores que vêem exige que saibam o momento certo de sentir e o de agir. Sentimento precisa esperar. Situações de crise exigem o tom certo para falar, palavras certas, sentimentos certos. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Se é policial 24"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "horas por dia"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Uma falácia. Ele não é um policial agora. Nem ela. Eles são irmãos. E ele não sabe o que será dele se ela tiver se perdido de vez."
+        }
+      ]
+    },
+    {
+      "id": "cap-03-0199",
+      "type": "paragraph",
+      "text": "“Duda… Acorda. Por favor.”"
+    },
+    {
+      "id": "cap-03-0200",
+      "type": "paragraph",
+      "text": "Ela para. Respiração ofegante, mas quando olha pra ele, finalmente o reconhece. E onde antes não havia nada, agora há lágrimas."
+    },
+    {
+      "id": "cap-03-0201",
+      "type": "paragraph",
+      "text": "Ele se apressa para sair de cima dela, mas a puxa consigo e a abraça quando ela finalmente desaba, sentados no tatame. Queixo apoiado na cabeça dela, ele se permite chorar de alívio enquanto ela chora copiosamente. Ela está de volta. Ela vai ficar bem."
+    },
+    {
+      "id": "cap-03-0202",
+      "type": "paragraph",
+      "text": "Minutos, ou talvez horas, dias, se passam com eles ali. Até suas respirações se acalmarem, corações batendo compassados."
+    },
+    {
+      "id": "cap-03-0203",
+      "type": "paragraph",
+      "text": "“Tudo que eu vejo quando eu fecho os olhos é aquela marca no vidro”, se ele não estivesse tão perto dela, ele não teria ouvido."
+    },
+    {
+      "id": "cap-03-0204",
+      "type": "paragraph",
+      "text": "“Ela está bem, Juquinha.”"
+    },
+    {
+      "id": "cap-03-0205",
+      "type": "paragraph",
+      "text": "“O ponto não é esse!”, quando ela se afasta, ele deixa. Se levantam, frente a frente, “Ele atirou. E eu não pude fazer nada pra impedir!!”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“O ponto não é esse!”, quando ela se afasta, ele deixa. Se levantam, frente a frente, “Ele atirou. E eu não pude fazer "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "nada"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " pra impedir!!”"
+        }
+      ]
+    },
+    {
+      "id": "cap-03-0206",
+      "type": "paragraph",
+      "text": "“Não tinha como você impedir o tiro, Juquinha. Você estava dirigindo, foi no meio do dia, numa rua movimentada.”"
+    },
+    {
+      "id": "cap-03-0207",
+      "type": "paragraph",
+      "text": "“E eu não pude fazer nada!! E eu não fiz nada!!”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“E eu não pude fazer "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "nada!!"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " E eu não "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "fiz"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " nada!!”"
+        }
+      ]
+    },
+    {
+      "id": "cap-03-0208",
+      "type": "paragraph",
+      "text": "“Mas é claro que você fez! Como você não consegue entender que você fez?”"
+    },
+    {
+      "id": "cap-03-0209",
+      "type": "paragraph",
+      "text": "“Se o vidro não fosse blindado ela estaria m–” sua voz falha. Enterra o rosto nas mãos e chora. Paulinho se aproxima devagar, dá a ela a escolha quando toca de leve em seu ombro. Quando ela não se afasta, a puxa pra mais um abraço."
+    },
+    {
+      "id": "cap-03-0210",
+      "type": "paragraph",
+      "text": "“O vidro ser blindado é exatamente o que você fez, Juquinha. Desde o momento que isso começou, ela está sempre atrás de alguma proteção que você colocou. Por favor, enxergue isso. Não tinha como impedir o tiro, mas você reconheceu o atirador e a situação. Você não a deixou para trás, você ficou com ela, a acalmou e você, Juquinha, você colocou aquele vidro na frente dela. Ela está viva. Te amando da mesma forma. Do seu lado da mesma forma. E está viva graças a você.”"
+    },
+    {
+      "id": "cap-03-0211",
+      "type": "paragraph",
+      "text": "“Ela está em risco graças a mim.”"
+    },
+    {
+      "id": "cap-03-0212",
+      "type": "paragraph",
+      "text": "“Não.”"
+    },
+    {
+      "id": "cap-03-0213",
+      "type": "paragraph",
+      "text": "“Sim.”"
+    },
+    {
+      "id": "cap-03-0214",
+      "type": "paragraph",
+      "text": "“Não, Juquinha”, ele desfaz o abraço para poder olhar pra ela, “ela está em risco porque o pai dela é um narcisista psicopata e covarde. Ele é o culpado de tudo. Ele. E apenas ele. Vocês se amam. Isso nunca será uma coisa ruim, você tá me ouvindo? Nunca! E se ela te ouvir falando isso eu sinto muitíssimo, mas você vai ficar por conta própria nessa briga porque eu tenho amor à minha vida e não pretendo entrar na frente de uma onça por você.”"
+    },
+    {
+      "id": "cap-03-0215",
+      "type": "paragraph",
+      "text": "Ela sorri. E poucas coisas na vida o fizeram ficar tão aliviado quanto vê-la voltando. Ela encosta a testa no peito dele."
+    },
+    {
+      "id": "cap-03-0216",
+      "type": "paragraph",
+      "text": "“Obrigada, Paulinho.”"
+    },
+    {
+      "id": "cap-03-0217",
+      "type": "paragraph",
+      "text": "“Bem-vinda de volta, policial.”"
+    }
+  ],
+  "notes": {
+    "before": [],
+    "after": []
+  }
+}

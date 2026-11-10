@@ -1,6 +1,6 @@
 // Modelo universal de fanfic. "mode" controla a experiência de leitura.
 export type WorkStatus = 'ongoing' | 'completed' | 'unknown';
-export type CoverTone = 'wine' | 'ink' | 'sage' | 'copper' | 'plum' | 'sunrise' | 'court';
+export type CoverTone = 'wine' | 'ink' | 'sage' | 'copper' | 'plum' | 'sunrise' | 'court' | 'violet';
 
 export type InlineSegment =
   | { type: 'text'; text: string }
@@ -146,7 +146,7 @@ export interface Fanfic {
   tags: string[];
   contentAdvisories: string[];
   stats: Stats;
-  cover: { variant: 'typographic'; tone: CoverTone; ornament: 'feather' | 'fingerprint' | 'clover' | 'paintbrush' | 'contract' | 'bible' | 'sun' | 'tennis-ball'; caption: string; titleCase?: 'lowercase' };
+  cover: { variant: 'typographic'; tone: CoverTone; ornament: 'feather' | 'fingerprint' | 'clover' | 'paintbrush' | 'contract' | 'bible' | 'sun' | 'tennis-ball' | 'stars'; caption: string; titleCase?: 'lowercase' };
   reading: { mode: 'internal' | 'external'; externalUrl: string | null };
   // Internas enviadas pelas autoras: habilitado por padrão; false desativa explicitamente.
   downloads?: { enabled: boolean };

@@ -1,0 +1,3503 @@
+{
+  "id": "cap-16",
+  "blocks": [
+    {
+      "id": "cap-16-0003",
+      "type": "paragraph",
+      "text": "“Bom dia, futura policial civil Eduarda Fragoso.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Bom dia, futura policial civil Eduarda Fragoso.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0004",
+      "type": "paragraph",
+      "text": "Ela ri como uma criança que recebe um elogio da professora por colorir dentro das linhas pela primeira vez. Por anos, Eduarda ditou sua vida em função de atender ao chamado que sente arder no peito desde o momento em que seu pai coloca aquele primeiro episódio de Baretta para ela assistir com ele: a graduação em Direito, a prova do concurso, os testes físicos, exames médicos, a aprovação e a espera. Uma espera sem prazo, mesmo com a certeza de que em algum momento aconteceria. E aconteceu. Finalmente aconteceu.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ela ri como uma criança que recebe um elogio da professora por colorir"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "dentro das linhas pela primeira vez. Por anos, Eduarda ditou sua vida em"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "função de atender ao chamado que sente arder no peito desde o momento"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "em que seu pai coloca aquele primeiro episódio de Baretta para ela assistir"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "com ele: a graduação em Direito, a prova do concurso, os testes físicos,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "exames médicos, a aprovação e a espera. Uma espera sem prazo, mesmo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "com a certeza de que em algum momento aconteceria. E aconteceu."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Finalmente aconteceu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0005",
+      "type": "paragraph",
+      "text": "Uma vez aprovada no concurso – depois dos recursos que outros candidatos pediram, depois dos exames complementares, depois de finalmente seu segundo lugar geral ser homologado – Eduarda resolve começar a se preparar da melhor forma que consegue enquanto espera. Ser policial sempre foi seu sonho, mas apenas ser policial não é o suficiente, Eduarda quer ser a melhor policial que consegue ser.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Uma vez aprovada no concurso – depois dos recursos que outros"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "candidatos pediram, depois dos exames complementares, depois de"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "finalmente seu segundo lugar geral ser homologado – Eduarda resolve"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "começar a se preparar da melhor forma que consegue enquanto espera. Ser"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "policial sempre foi seu sonho, mas apenas ser policial não é o suficiente,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eduarda quer ser a melhor policial que consegue ser."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0006",
+      "type": "paragraph",
+      "text": "Então ela vai para Nova Iorque assim que o resultado é homologado para fazer um curso de extensão em parceria com a NYPD. E, veja bem, ela sabe da forma que a polícia estadunidense funciona. Ela não coloca a corporação num pedestal, mas é indiscutível que, na teoria, eles são excelentes. Como tudo que envolve os Estados Unidos, ela trata o curso como uma ideia que deve ser adaptada e modificada para sua própria vivência brasileira – tanto a nível de leis quanto a nível de realidade e, é claro, de ética e moral pessoais.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Então ela vai para Nova Iorque assim que o resultado é homologado para"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "fazer um curso de extensão em parceria com a NYPD. E, veja bem, ela sabe"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "da forma que a polícia estadunidense funciona. Ela não coloca a"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "corporação num pedestal, mas é indiscutível que,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " na teoria"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": ", eles são"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "excelentes. Como tudo que envolve os Estados Unidos, ela trata o curso"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "como uma ideia que deve ser adaptada e modificada para sua própria"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "vivência brasileira – tanto a nível de leis quanto a nível de realidade e, é"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "claro, de ética e moral pessoais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0007",
+      "type": "paragraph",
+      "text": "Por dez semanas, Eduarda vive Nova Iorque: visita a Times Square uma vez e decide que talvez a população local tenha razão em evitá-la a todo custo; domina as duas, talvez três linhas de metrô que usa – apesar de, na maior parte do tempo, ela preferir andar; aprende a não olhar para tudo com olhos maravilhados; descobre a temperatura exata para vestir os casacos mais pesados e a entonação correta para reclamar da chuva gelada; andar rápido é obrigatório e parar no meio da calçada é o pior dos pecados capitais; apesar de estar ali com um objetivo muito claro em mente, ela aceita alguns convites de novos amigos para algumas noites de bar ou balada e se orgulha de ensinar pelo menos quatro estadunidenses que beijar é uma arte a ser apreciada como um bom vinho francês; decide que pumpkin spice é terrivelmente superestimado – como quase tudo que envolve aquele país, se estiver sendo completamente sincera –, mas um sacrifício que ela não liga de fazer para agradar a bonita menina de cabelos roxos com quem tromba um dia em meados de outubro enquanto tenta decifrar um parágrafo de uma das apostilas, e que insiste em lhe pagar uma bebida como forma de se desculpar pelo acidente.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Por dez semanas, Eduarda vive Nova Iorque: visita a Times Square uma vez"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "e decide que talvez a população local tenha razão em evitá-la a todo custo;"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "domina as duas, talvez três linhas de metrô que usa – apesar de, na maior"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "parte do tempo, ela preferir andar; aprende a não olhar para tudo com"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "olhos maravilhados; descobre a temperatura exata para vestir os casacos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mais pesados e a entonação correta para reclamar da chuva gelada; andar"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "rápido é obrigatório e parar no meio da calçada é o pior dos pecados"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "capitais; apesar de estar ali com um objetivo muito claro em mente, ela"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "aceita alguns convites de novos amigos para algumas noites de bar ou"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "balada e se orgulha de ensinar pelo menos quatro estadunidenses que"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "beijar é uma arte a ser apreciada como um bom vinho francês; decide que"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pumpkin spice é terrivelmente superestimado – como quase tudo que"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "envolve aquele país, se estiver sendo completamente sincera –, mas um"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sacrifício que ela não liga de fazer para agradar a bonita menina de"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "cabelos roxos com quem tromba um dia em meados de outubro enquanto"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tenta decifrar um parágrafo de uma das apostilas, e que insiste em lhe"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pagar uma bebida como forma de se desculpar pelo acidente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0008",
+      "type": "paragraph",
+      "text": "Por dez semanas, Eduarda vive Nova Iorque. No penúltimo dia de curso, chega sua convocação – seus pais ligam por volta das dezenove horas e passam pelo menos cinco minutos sem muita ideia trocada fora gritinhos animados, lágrimas de orgulho e uma imagem tremida da tela do computador mostrando com todas as letras no Diário Oficial a convocação de Eduarda Fragoso para se juntar à Acadepol-SP e, enfim, concluir sua formação e conquistar seu distintivo.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Por dez semanas, Eduarda"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " vive "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Nova Iorque. No penúltimo dia de curso,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "chega sua convocação – seus pais ligam por volta das dezenove horas e"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "passam pelo menos cinco minutos sem muita ideia trocada fora gritinhos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "animados, lágrimas de orgulho e uma imagem tremida da tela do"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "computador mostrando com todas as letras no Diário Oficial a convocação"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "de Eduarda Fragoso para se juntar à Acadepol-SP e, enfim, concluir sua"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "formação e conquistar seu distintivo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0009",
+      "type": "paragraph",
+      "text": "“Bom dia, desembargador Henrique Fragoso. Tudo bem com o senhor?”, é a vez dele rir.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Bom dia, desembargador Henrique Fragoso. Tudo bem com o senhor?”, é"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "a vez dele rir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0010",
+      "type": "paragraph",
+      "text": "“Tudo certo! Tô te ligando oficialmente pra confirmar seu voo, horários e essas coisas.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Tudo certo! Tô te ligando oficialmente pra confirmar seu voo, horários e"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "essas coisas.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0011",
+      "type": "paragraph",
+      "text": "“Voo hoje perto das nove da noite e devo pousar em Guarulhos por volta de sete e pouco da manhã. Tem wifi no voo, eu te aviso de tudo que acontecer, quando decolar, quando tiver perto de pousar, não se preocupe.” “Perfeito! Já arrumou as malas, embalou seu certificado direitinho pra gente emoldurar? Documentos, confirmação do check-out, passou o pente fino no apartamento pra pegar tudo?”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Voo hoje perto das nove da noite e devo pousar em Guarulhos por volta"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "de sete e pouco da manhã. Tem wifi no voo, eu te aviso de tudo que"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "acontecer, quando decolar, quando tiver perto de pousar, não se preocupe.”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Perfeito! Já arrumou as malas, embalou seu certificado direitinho pra"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "gente emoldurar? Documentos, confirmação do check-out, passou o pente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "fino no apartamento pra pegar tudo?”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0012",
+      "type": "paragraph",
+      "text": "Ela ri da animação e preocupação do pai, se sentindo, como sempre, cuidada e não sufocada, “sim para todas as perguntas! Devo dar uma saída daqui a pouco e depois volto só pra pegar minhas coisas e ir pro aeroporto.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ela ri da animação e preocupação do pai, se sentindo, como sempre,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "cuidada e não sufocada, “sim para todas as perguntas! Devo dar uma"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "saída daqui a pouco e depois volto só pra pegar minhas coisas e ir pro"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "aeroporto.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0013",
+      "type": "paragraph",
+      "text": "“Perfeito! Vou te mandar uma mensagem mesmo assim só pra garantir que você não se distraiu por aí. Quais os planos pro seu último dia de Big Apple?”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Perfeito! Vou te mandar uma mensagem mesmo assim só pra garantir que"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "você não se distraiu por aí. Quais os planos pro seu último dia de Big"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Apple?”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0014",
+      "type": "paragraph",
+      "text": "“Fazer exatamente aquilo que eu não fiz um dia sequer desde que cheguei: ser turista! Vou ao museu, dar uma volta no Central Park, cair em algumas ciladas superfaturadas.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Fazer exatamente aquilo que eu não fiz um dia sequer desde que cheguei:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ser turista! Vou ao museu, dar uma volta no Central Park, cair em algumas"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ciladas superfaturadas.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0015",
+      "type": "paragraph",
+      "text": "“Excelentes planos! Lembre-se de passar em lojinhas de souvenir pra coroar sua experiência turística com lembrancinhas de qualidade duvidosa e preço astronômico. Ah! E a Estátua da Liberdade?”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Excelentes planos! Lembre-se de passar em lojinhas de souvenir pra"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "coroar sua experiência turística com lembrancinhas de qualidade duvidosa"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "e preço astronômico. Ah! E a Estátua da Liberdade?”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0016",
+      "type": "paragraph",
+      "text": "“Essa eu já visitei num dos dias de aula fora da universidade, tá lembrado?”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Essa eu já visitei num dos dias de aula fora da universidade, tá"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "lembrado?”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0017",
+      "type": "paragraph",
+      "text": "“Ah, é verdade! Bem, eu vou te deixar ir, então, meu benzinho. Tô morrendo de saudade! Tome cuidado por aí.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Ah, é verdade! Bem, eu vou te deixar ir, então, meu benzinho. Tô"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "morrendo de saudade! Tome cuidado por aí.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0018",
+      "type": "paragraph",
+      "text": "“Pode deixar, pai. Também tô com saudade de vocês. Vou querer um café da manhã e um almoço bem brasileiros quando eu chegar! Tô em abstinência gravíssima precisando de um prato de arroz com feijão, um pão na chapa com pingado, um mamãozinho”, ela choraminga por fim.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Pode deixar, pai. Também tô com saudade de vocês. Vou querer um café"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "da manhã e um almoço bem brasileiros quando eu chegar! Tô em"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "abstinência gravíssima precisando de um prato de arroz com feijão, um pão"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "na chapa com pingado, um mamãozinho”, ela choraminga por fim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0019",
+      "type": "paragraph",
+      "text": "“Tudo que você quiser, princesa! Beijo, meu amor.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Tudo que você quiser, princesa! Beijo, meu amor.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0020",
+      "type": "paragraph",
+      "text": "“Beijo, pai. Até mais tarde.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Beijo, pai. Até mais tarde.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0021",
+      "type": "paragraph",
+      "text": "Assim que desliga, Eduarda ativa o alarme para evitar qualquer atraso, pega sua câmera analógica, a mochila que preparou especificamente para bater perna pela cidade e sai, todo o roteiro já memorizado.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Assim que desliga, Eduarda ativa o alarme para evitar qualquer atraso,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pega sua câmera analógica, a mochila que preparou especificamente para"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "bater perna pela cidade e sai, todo o roteiro já memorizado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0022",
+      "type": "paragraph",
+      "text": "Pelas horas seguintes ela anda; fotografa; descobre lojinhas simpáticas que via no dia-a-dia e sempre se prometia entrar em algum momento; se oferece para fotografar grupos de turistas que parecem sempre precisar eleger alguém para ser o fotógrafo da rodada; para o almoço, ela vai ao Whitman’s – cumprimenta a todos pelo nome, ri e brinca com eles, come de graça como presente de despedida, e não tem muitos olhos secos quando ela sai do estabelecimento pela última vez – e parte para a última parte do roteiro: museu.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Pelas horas seguintes ela anda; fotografa; descobre lojinhas simpáticas"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "que via no dia-a-dia e sempre se prometia entrar em algum momento; se"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "oferece para fotografar grupos de turistas que parecem sempre precisar"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "eleger alguém para ser o fotógrafo da rodada; para o almoço, ela vai ao"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Whitman’s – cumprimenta a todos pelo nome, ri e brinca com eles, come de"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "graça como presente de despedida, e não tem muitos olhos secos quando"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ela sai do estabelecimento pela última vez – e parte para a última parte do"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "roteiro: museu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0023",
+      "type": "paragraph",
+      "text": "Ela está a caminho do museu quando uma sensação em seu peito a faz parar no meio da calçada – arrancando reclamações de pelo menos três pessoas diferentes, curiosamente, em três idiomas diferentes. Eduarda sobe alguns dos degraus da entrada do museu e apenas observa, cenho franzido, o mar de gente indo e vindo. Pessoas comuns vivendo suas vidas no perpétuo estado de pressa e falta de paciência novaiorquinos; policiais sem muita paciência para turistas distraídos com seus oh’s e ah’s a cada dois passos; e, claro, os próprios turistas. Muitos turistas. É uma mistura linda de tecidos, cores, etnias, idiomas. Reconhece o espanhol, o alemão, italiano, francês, japonês, chinês e, é claro, o português.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ela está a caminho do museu quando uma sensação em seu peito a faz"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "parar no meio da calçada – arrancando reclamações de pelo menos três"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pessoas diferentes, curiosamente, em três idiomas diferentes. Eduarda sobe"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "alguns dos degraus da entrada do museu e apenas observa, cenho franzido,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "o mar de gente indo e vindo. Pessoas comuns vivendo suas vidas no"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "perpétuo estado de pressa e falta de paciência novaiorquinos; policiais sem"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "muita paciência para turistas distraídos com seus"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " oh’s "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "e"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " ah’s "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "a cada dois"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "passos; e, claro, os próprios turistas. Muitos turistas. É uma mistura linda"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "de tecidos, cores, etnias, idiomas. Reconhece o espanhol, o alemão,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "italiano, francês, japonês, chinês e, é claro, o português."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0024",
+      "type": "paragraph",
+      "text": "Um grupo de quatro pessoas, aparentemente uma família com pai, mãe, filho e filha, parece debater seu próximo destino. A filha, a única de costas para ela, parece argumentar e, se Eduarda fosse adepta do ato, poderia apostar que ela queria visitar o museu, mas o pai não parece muito disposto. É estranho, ela conclui depois de alguns segundos os observando atentamente. Ela nunca foi de dar tanta atenção a esse tipo de situação – algo que acontece ao menos duzentas vezes por dia em qualquer lugar minimamente badalado de Nova Iorque –, mas alguma coisa em seu peito a faz parar e observar, sua atenção totalmente neles – nela –, uma curiosidade, um puxão que ela não consegue decifrar.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Um grupo de quatro pessoas, aparentemente uma família com pai, mãe,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "filho e filha, parece debater seu próximo destino. A filha, a única de costas"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "para ela, parece argumentar e, se Eduarda fosse adepta do ato, poderia"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "apostar que ela queria visitar o museu, mas o pai não parece muito"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "disposto. É estranho, ela conclui depois de alguns segundos os observando"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "atentamente. Ela nunca foi de dar tanta atenção a esse tipo de situação –"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "algo que acontece ao menos duzentas vezes por dia em qualquer lugar"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "minimamente badalado de Nova Iorque –, mas alguma coisa em seu peito a"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "faz parar e observar, sua atenção totalmente neles – nela –, uma"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "curiosidade, um puxão que ela não consegue decifrar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0025",
+      "type": "paragraph",
+      "text": "Tudo fica mais lento, quase em câmera lenta. Sem nem notar, ela prende a respiração quando a moça – longos cabelos castanhos caindo em ondas que parecem macias a ponto de Eduarda sentir um formigamento nos dedos, uma vontade absurda de saber a sensação de corrê-los pelos fios – começa a se virar em sua direção, algo em seu peito gritando que aquele momento, por algum motivo, é importante. Ela consegue notar que a pele é clara como a dos familiares, os lábios aparentemente cheios e bonitos. “Aparentemente” porque antes que ela consiga ter a visão completa, uma pessoa tromba com ela ao descer pelas escadas conversando animada e distraidamente com a pessoa ao seu lado, jogando um rápido pedido de desculpas por cima do ombro. E, quando Eduarda volta seus olhos para onde a família estava, ela já não encontra mais ninguém, o sentimento estranho em seu peito não mais presente.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tudo fica mais lento, quase em câmera lenta. Sem nem notar, ela prende a"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "respiração quando a moça – longos cabelos castanhos caindo em ondas"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "que parecem macias a ponto de Eduarda sentir um formigamento nos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "dedos, uma vontade absurda de saber a sensação de corrê-los pelos fios –"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "começa a se virar em sua direção, algo em seu peito gritando que aquele"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "momento, por algum motivo, é importante. Ela consegue notar que a pele é"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "clara como a dos familiares, os lábios aparentemente cheios e bonitos."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Aparentemente” "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "porque antes que ela consiga ter a visão completa, uma"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pessoa tromba com ela ao descer pelas escadas conversando animada e"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "distraidamente com a pessoa ao seu lado, jogando um rápido pedido de"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "desculpas por cima do ombro. E, quando Eduarda volta seus olhos para"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "onde a família estava, ela já não encontra mais ninguém, o sentimento"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "estranho em seu peito não mais presente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0026",
+      "type": "paragraph",
+      "text": "Ela busca por eles por alguns segundos antes de dar de ombros e subir o resto dos degraus e entrar no museu.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ela busca por eles por alguns segundos antes de dar de ombros e subir o"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "resto dos degraus e entrar no museu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0027",
+      "type": "divider"
+    },
+    {
+      "id": "cap-16-0028",
+      "type": "paragraph",
+      "text": "Eduarda acorda primeiro na primeira manhã delas morando no cantinho delas – como é normal mesmo nos dias em que Lorena não trabalha até tarde. Eduarda simplesmente precisa de menos tempo de sono para recuperar as energias.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Eduarda acorda primeiro na primeira manhã delas morando no cantinho "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "delas"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " – como é normal mesmo nos dias em que Lorena não trabalha até tarde. Eduarda simplesmente precisa de menos tempo de sono para recuperar as energias."
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0029",
+      "type": "paragraph",
+      "text": "Ao seu lado, Lorena está esparramada de bruços, suas costas nuas à mostra, mechas de cabelo por todo lado, tapando parcialmente seu rosto que está virado para o outro lado. A imagem de uma pessoa perfeitamente confortável, em paz."
+    },
+    {
+      "id": "cap-16-0030",
+      "type": "paragraph",
+      "text": "Eduarda ajusta sua posição, se aproxima mais do corpo dela, o calor que emana dele aquecendo muito mais do que apenas sua pele. Apoia o braço esquerdo debaixo do travesseiro dela e, muito levemente, corre os dedos da mão direita pelas costas dela, traçando as marcas da noite anterior."
+    },
+    {
+      "id": "cap-16-0031",
+      "type": "paragraph",
+      "text": "Quando os lábios substituem os dedos, Lorena finalmente reage."
+    },
+    {
+      "id": "cap-16-0032",
+      "type": "paragraph",
+      "text": "“Cê tem cinco horas pra parar com isso”, a voz rouca de sono faz todo o fluxo de sangue dela viajar para baixo, sente a batida do coração em locais um tanto não-ortodoxos. É com muita força de vontade que ela se segura. Sinceramente, ela merece uma medalha de honra ao mérito por essa façanha."
+    },
+    {
+      "id": "cap-16-0033",
+      "type": "paragraph",
+      "text": "“Eu tenho uma coisa pra você.”"
+    },
+    {
+      "id": "cap-16-0034",
+      "type": "paragraph",
+      "text": "“Ah, é?”, Eduarda definitivamente merece uma medalha – duas, se bobear – por resistir à pessoa mais deliciosamente safada da face da Terra ronronando para ela logo cedo, pele ainda quente."
+    },
+    {
+      "id": "cap-16-0035",
+      "type": "paragraph",
+      "text": "“E cê tá dificultando muito a minha vida agora com essa voz e esses pensamentos”, e, como ela não é de pedra, deixa seus corpos se tocarem completamente, uma perna entre as dela, mão agora bem menos inocente, muito mais sedenta aperta a cintura dela. Eduarda morde o ombro dela, arrancando um gemido baixo, perigoso. E, simplesmente porque pode, sobe a mão até um seio, mamilo e metal entre seus dedos e a vira para si."
+    },
+    {
+      "id": "cap-16-0036",
+      "type": "paragraph",
+      "text": "O beijo é lento, profundo, corpos encaixados perfeitamente, quentes agora não apenas pelo sono. Agora que pode usar suas mãos, Lorena não perde tempo em apertar, tocar, puxar, arranhar."
+    },
+    {
+      "id": "cap-16-0037",
+      "type": "paragraph",
+      "text": "Eduarda encaixa a coxa entre as dela e se aproveita do momento que ela quebra o beijo num gemido para descer por seu pescoço, um riso que sai do fundo da garganta, baixo, perto do ouvido dela, que se arrepia e reage imediatamente."
+    },
+    {
+      "id": "cap-16-0038",
+      "type": "paragraph",
+      "text": "“Cê é completamente insaciável, né?”"
+    },
+    {
+      "id": "cap-16-0039",
+      "type": "paragraph",
+      "text": "“Isso é uma reclamação?”"
+    },
+    {
+      "id": "cap-16-0040",
+      "type": "paragraph",
+      "text": "“Jamais! Uma mera constatação de um delicioso fato”, Eduarda afasta um pouco o rosto para conseguir olhar para ela direito, afasta uma mecha teimosa com os dedos. Toma a bochecha dela com a mão, polegar acariciando primeiro a pele ali e depois a covinha que dá o ar da graça quando ela sorri, “eu amo você.”"
+    },
+    {
+      "id": "cap-16-0041",
+      "type": "paragraph",
+      "text": "O sorriso dela aumenta de forma que o polegar agora acaricia seu lábio. Se aproveitando disso, Eduarda o puxa de leve para baixo e o captura entre os seus num beijo mais leve, mais recatado."
+    },
+    {
+      "id": "cap-16-0042",
+      "type": "paragraph",
+      "text": "“Você é a coisa mais linda que já me aconteceu. E não apenas porque você é muito gata”, elas riem de leve, “eu não sou uma donzela em perigo, nunca fui. Mas te encontrar me salvou em vários sentidos”, uma mão confortavelmente na lombar de Eduarda, Lorena traça as linhas do rosto dela com os dedos da outra. Desce da testa entre as sobrancelhas, pelo nariz que ela tanto ama, bochecha e pescoço, acariciando o lóbulo de sua orelha, “talvez eu conseguisse me achar eventualmente sem você. Talvez. Mas foi no conforto do seu amor, dos seus braços, do seu afeto que eu me reconectei comigo e aprendi a voar”, ela ri de leve quando nota as lágrimas que se formam nos lindos olhos castanhos dela, fazendo eles brilharem mais ainda, “com você do meu lado, o céu é o limite.”"
+    },
+    {
+      "id": "cap-16-0043",
+      "type": "paragraph",
+      "text": "Um beijo de esquimó, sorriso apaixonado nos lábios, “falando nisso! Pare de me distrair com sua safadeza e sua poesia! Eu tenho uma coisa pra te dar.”"
+    },
+    {
+      "id": "cap-16-0044",
+      "type": "paragraph",
+      "text": "“Mais?”"
+    },
+    {
+      "id": "cap-16-0045",
+      "type": "paragraph",
+      "text": "“Ô mulher foguenta, gente!! Comporte-se!”, dá um tapinha na bunda dela e consegue – a contragosto – se desvencilhar quando ela se distrai. Da gaveta da mesinha de cabeceira, pega um envelope e uma caixinha de veludo preto."
+    },
+    {
+      "id": "cap-16-0046",
+      "type": "paragraph",
+      "text": "Mantendo a caixinha na mão, ela entrega o envelope para Lorena, que se acomoda melhor na cama para conseguir ler. O edredom segue tampando apenas de sua cintura para baixo, plenamente confortável em usar nada além de sua pele. Eduarda silenciosamente agradece ao universo por tudo aquilo ser dela."
+    },
+    {
+      "id": "cap-16-0047",
+      "type": "paragraph",
+      "text": "O envelope é de um papel preto grosso, de alta qualidade, grande para que o conteúdo não precise ser dobrado. Com cuidado, ela abre o lacre de cera prateada com um globo gravado no centro."
+    },
+    {
+      "id": "cap-16-0048",
+      "type": "paragraph",
+      "text": "Quase reverentemente, ela pega os papéis de qualidade igualmente alta de dentro. Neles, um mapa preto. Não um mapa qualquer. Ela sabe o que é e, quando nota a data e hora – é claro que Eduarda decoraria a hora!! – ela leva a mão à boca, em choque."
+    },
+    {
+      "id": "cap-16-0049",
+      "type": "paragraph",
+      "text": "“Isso é… Isso é um mapa estelar?”, Eduarda confirma com a cabeça, sorrindo para ela, “do dia do jantar na galeria?”"
+    },
+    {
+      "id": "cap-16-0050",
+      "type": "paragraph",
+      "text": "“Da hora que você entrou pela porta, mais especificamente.”"
+    },
+    {
+      "id": "cap-16-0051",
+      "type": "paragraph",
+      "text": "“Duda…”"
+    },
+    {
+      "id": "cap-16-0052",
+      "type": "paragraph",
+      "text": "“A minha intenção inicial era apenas o mapa pra te dar de presente. Pra emoldurar e pendurar na nossa casa, mas… Quanto mais eu olhava pra cada estrela, mais eu sentia que eu estava procurando algo além. Eu não sabia o quê. Sabia apenas que entenderia quando encontrasse.”"
+    },
+    {
+      "id": "cap-16-0053",
+      "type": "paragraph",
+      "text": "Lorena abaixa o papel, olha para ela. Talvez ela devesse sentir um peso da antecipação do que quer que seja que está para acontecer. Talvez ela devesse marcar esse momento, dizer à sua alma que agora é a hora de começar a gravar para nunca se esquecer dos próximos momentos. Talvez. Mas é Eduarda que está ali com ela. E com Eduarda não existe peso e todo momento é gravado em sua alma em seus mínimos detalhes, catalogado no universo, disponível para revisitação. Parte dela queria que todos tivessem a possibilidade de assistir cada um desses momentos, como um filme, uma série, uma novela, ver como o amor delas é lindo. Outra parte quer mantê-las no universo, livres, e aqueles que souberem ler as estrelas, vão achar seus brilhos lá."
+    },
+    {
+      "id": "cap-16-0054",
+      "type": "paragraph",
+      "text": "“E encontrou?”"
+    },
+    {
+      "id": "cap-16-0055",
+      "type": "paragraph",
+      "text": "“Sim”, Eduarda entrega a caixinha para ela, ainda fechada, “olha a outra folha.”"
+    },
+    {
+      "id": "cap-16-0056",
+      "type": "paragraph",
+      "text": "Mantendo a caixinha na mão, ela pega a segunda folha e a traz para frente. É o mesmo mapa, mas desta vez, uma área está destacada e ampliada. No meio da imagem ampliada, dois retângulos em paralelo, começando num par de estrelas perfeitamente alinhadas, do mesmo tamanho, com o mesmo brilho."
+    },
+    {
+      "id": "cap-16-0057",
+      "type": "paragraph",
+      "text": "Ela abaixa o papel e abre a caixinha. Duas alianças de ouro branco, aparentemente simples, uma faixa fosca no meio da circunferência externa."
+    },
+    {
+      "id": "cap-16-0058",
+      "type": "paragraph",
+      "text": "“Quando eu decidi por te oferecer uma aliança, eu sabia que você não iria querer ostentação. E, sinceramente, eu também não. Mas eu queria, eu precisava, que fosse algo especial”, a voz dela é baixa, como se o lugar, o momento fosse sagrado. Não frágil – nada do amor delas é frágil – mas digno de reverência, de devoção, “eu queria um pedaço de nós sempre com a gente. Uma lembrança tangível, uma representação digna de tudo que somos. Tanto juntas”, ela tira as alianças da almofadinha de veludo que as mantém presas e em segurança e as coloca alinhadas. Elas são quase do mesmo tamanho, não muito largas, mas definitivamente não são finas. Porém, é na parte interna que está a diferença. Eduarda alinha as duas joias a partir de pequenas pedras que estão incrustadas. São diamantes que não foram encaixados no metal, mas sim o metal que foi modelado ao redor deles, “quanto separadas”, ela gira os anéis lentamente, mostrando ao longo do aro interno vários diamantes menores. Lorena nota que os diamantes não estão alinhados, o espaçamento e a posição muda de anel para anel."
+    },
+    {
+      "id": "cap-16-0059",
+      "type": "paragraph",
+      "text": "Eduarda pega novamente o papel que está sobre as pernas de Lorena e traz para perto delas, segurando as alianças perto dos retângulos da imagem. Cada diamante representando uma estrela da faixa marcada perfeitamente: em posição e tamanho."
+    },
+    {
+      "id": "cap-16-0060",
+      "type": "paragraph",
+      "text": "Eduarda ajeita sua posição. Descarta completamente o edredom e se senta ao lado dela, desta vez, virada para ela, quadris em contato. Delicadamente, ela coloca as folhas do mapa sobre a mesinha e pega a mão direita de Lorena, a levando até os lábios, olhos sempre focados nos dela transbordando de lágrimas. Vira a mão dela com a palma para cima e, sobre ela, coloca as duas alianças."
+    },
+    {
+      "id": "cap-16-0061",
+      "type": "paragraph",
+      "text": "“Eu falei que iria te pedir em casamento todos os dias e todas as vezes que o fiz foram de verdade. Esse anel, se você aceitá-lo”, Lorena balança a cabeça diante da estapafúrdia possibilidade de que não aceitaria, “não vai mudar isso. Não é mais ou menos oficial. Todas as vezes foram reais. E todas as próximas também serão. A única coisa que eu estou dizendo aqui, meu amor, é que nosso amor nasceu nas estrelas, repetido e revivido e reconstruído sem nunca ter se quebrado”, ela beija a palma da mão de Lorena, o anel entre seus lábios e a pele dela, “então, Lorena Esteves, você me permite a honra de te carregar comigo e o privilégio me carregar com você? Casa comigo?”"
+    },
+    {
+      "id": "cap-16-0062",
+      "type": "paragraph",
+      "text": "Lorena fecha a mão com as alianças para mantê-las em segurança quando puxa Eduarda para um beijo atrapalhado pelos sorrisos, pelas lágrimas, pelo riso insano que borbulha no peito."
+    },
+    {
+      "id": "cap-16-0063",
+      "type": "paragraph",
+      "text": "“Sim! Meu Deus, é claro que sim!”, elas riem juntas, Lorena com a cabeça jogada para trás, Eduarda se aproveitando do momento para se jogar em cima dela de novo, um emaranhado de braços, pernas, cabelos impossível saber onde uma começa e a outra termina. Quando se acalmam um pouco, Lorena abre a mão para Eduarda pegar um dos anéis e colocá-lo no anelar direito dela, que retribui o gesto. Elas ficam observando o brilho das joias, o significado delas."
+    },
+    {
+      "id": "cap-16-0064",
+      "type": "paragraph",
+      "text": "Lorena leva a mão até o rosto dela, testa a imagem do brilho prateado quando toca seu rosto e decide que aquela é sua mais nova visão favorita. Desta vez quando a beija, é com a devoção de um pagão diante de uma divindade; quando coloca seu corpo sobre o dela, pernas entrelaçadas, é com a fome de um predador diante de sua caça; quando beija a cicatriz entre os seios dela, é com gratidão ao universo por ter permitido que essa história delas continue; e quando ela geme seu nome, é a mais pura poesia."
+    },
+    {
+      "id": "cap-16-0065",
+      "type": "divider"
+    },
+    {
+      "id": "cap-16-0066",
+      "type": "paragraph",
+      "text": "Lorena: *4 fotos*",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ": *4 fotos*"
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0067",
+      "type": "paragraph",
+      "text": "Lorena: ♥ □😍",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " ♥ □😍"
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0068",
+      "type": "paragraph",
+      "text": "Júnior: aí não, pô!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Júnior:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "aí não, pô!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0069",
+      "type": "paragraph",
+      "text": "Júnior: Lorena, apaga isso antes que Maggye veja!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Júnior:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena, apaga isso antes que Maggye veja!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0070",
+      "type": "paragraph",
+      "text": "Júnior: Lorena, tem criança chorando!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Júnior:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena, tem criança chorando!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0071",
+      "type": "paragraph",
+      "text": "Maggye: @Júnior ver o quê?",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Maggye:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "@Júnior ver o quê?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0072",
+      "type": "paragraph",
+      "text": "Paulinho: sapatonas performáticas, senhor!!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Paulinho:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sapatonas performáticas, senhor!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0073",
+      "type": "paragraph",
+      "text": "Gerluce: meu Deus, essas fotos me chamaram de pobre em 4 idiomas diferentes",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Gerluce:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "meu Deus, essas fotos me chamaram de pobre em 4 idiomas"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "diferentes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0074",
+      "type": "paragraph",
+      "text": "Maggye: ‼‼ ‼ ‼ ‼ ‼ ‼",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Maggye:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " ‼‼ ‼ ‼ ‼ ‼ ‼"
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0075",
+      "type": "paragraph",
+      "text": "Gerluce: 3 dos idiomas eu nem sei o nome pq sou pobre demais",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Gerluce:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "3 dos idiomas eu nem sei o nome pq sou pobre demais"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0076",
+      "type": "paragraph",
+      "text": "Maggye: vidas hétero importam, @Eduarda!!!!!!!!!",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Maggye:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "vidas hétero importam, @Eduarda!!!!!!!!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0077",
+      "type": "paragraph",
+      "text": "Eduarda: @Maggye há controvérsias",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eduarda:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "@Maggye há controvérsias"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0078",
+      "type": "paragraph",
+      "text": "Júnior: @Gerluce @Lorena eu preciso de um aumento de salário 😭",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Júnior:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "@Gerluce @Lorena eu preciso de um aumento de salário"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " 😭"
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0079",
+      "type": "divider"
+    },
+    {
+      "id": "cap-16-0080",
+      "type": "paragraph",
+      "text": "“Eu acho que se aparecer mais uma planilha pra eu revisar hoje eu pulo da janela”, Gerluce e Lorena estão, como regularmente o fazem, na sala de Lorena após mais uma reunião de controle financeiro."
+    },
+    {
+      "id": "cap-16-0081",
+      "type": "paragraph",
+      "text": "“Olha pelo lado bom”, Lorena ri de leve, levando a xícara de café aos lábios, “assim que eu descobrir um eu te falo”, as duas riem cansadamente, entrando num silêncio confortável logo depois."
+    },
+    {
+      "id": "cap-16-0082",
+      "type": "paragraph",
+      "text": "Aquela primeira noite no hospital quase dois meses antes serviu para quebrar o gelo entre elas, mas é no dia-a-dia na Fundação que Lorena e Gerluce cruzam a linha entre conhecidas e amigas. O que surpreende Lorena, porque ela e Gerluce são diferentes em tantos pontos. Gerluce é mãe, avó (!!!), hétero, pobre, pilar financeiro de seu núcleo familiar – tudo que Lorena não é.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Aquela primeira noite no hospital quase dois meses antes serviu para quebrar o gelo entre elas, mas é no dia-a-dia na Fundação que Lorena e Gerluce cruzam a linha entre "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "conhecidas"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " e "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "amigas"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". O que surpreende Lorena, porque ela e Gerluce são diferentes em tantos pontos. Gerluce é mãe, avó (!!!), hétero, pobre, pilar financeiro de seu núcleo familiar – tudo que Lorena não é."
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0083",
+      "type": "paragraph",
+      "text": "(“Eu sempre me surpreendo quando lembro que você é só alguns anos mais velha que eu”, Lorena diz a ela uma noite em que precisam ficar até mais tarde na Fundação. A exaustão física e mental de passar um dia todo conversando com vítimas de Santiago somada à baixa iluminação de um andar praticamente todo às escuras tornando aquela conversa mais honesta do que qualquer uma delas tinha a intenção de ter, “você já viveu tanta coisa!”"
+    },
+    {
+      "id": "cap-16-0084",
+      "type": "paragraph",
+      "text": "Gerluce dá de ombros e leva o copo de água aos lábios, “que escolha eu tinha? Minha filha precisava de mim, minha mãe estava doente, as contas não param de chegar só porque a gente precisa de um minutinho pra respirar.”"
+    },
+    {
+      "id": "cap-16-0085",
+      "type": "paragraph",
+      "text": "“Isso é extremamente injusto.”"
+    },
+    {
+      "id": "cap-16-0086",
+      "type": "paragraph",
+      "text": "A risada de Gerluce é completamente sem humor, “pouca coisa na vida não é, Lorena”, ela se levanta quando o celular na mesinha de centro se ilumina com uma notificação de Paulinho. Lorena vai com ela até o elevador, “você não vai conseguir mudar o mundo, meu bem”, apesar das palavras, ela não é cruel nem passa a impressão de conversar com uma criança. É apenas sincera, “mas pode mudar o mundo de algumas pessoas”, ela novamente dá de ombros quando chegam ao saguão do prédio e salta do elevador. Lorena segura o botão para manter as portas abertas, “talvez isso deva ser o suficiente. Boa noite, Lorena. Até amanhã.”"
+    },
+    {
+      "id": "cap-16-0087",
+      "type": "paragraph",
+      "text": "“Boa noite, Gerluce”, Lorena solta o botão e as portas se fecham.)"
+    },
+    {
+      "id": "cap-16-0088",
+      "type": "paragraph",
+      "text": "“Como tá sua amada?”, Gerluce eventualmente pergunta."
+    },
+    {
+      "id": "cap-16-0089",
+      "type": "paragraph",
+      "text": "“Cada dia melhor! Ainda revoltada com as restrições que a Dra. Juliana se recusa a suspender, mas já tá menos inquieta e com mais liberdade”, ela come um biscoitinho de canela com calma, “psicologicamente ela tá bem melhor. Acho que o fato de que Paulinho também tá fazendo terapia tem ajudado bastante.”"
+    },
+    {
+      "id": "cap-16-0090",
+      "type": "paragraph",
+      "text": "“Nem me fale! Nunca vou cansar de te agradecer por isso. Ele sempre foi muito correto comigo, nunca senti medo nem tive motivos pra isso, mas eu sabia que tinha muita coisa ali que ele não processava e apenas seguia em frente que nem um touro fingindo que não vê”, Gerluce balança a cabeça de leve, “tem dias que ele chega exausto da terapia. Não fisicamente, mas emocionalmente, sabe? Todo dengoso. Mas, de alguma forma, ele sempre está muito melhor nos dias seguintes.”"
+    },
+    {
+      "id": "cap-16-0091",
+      "type": "paragraph",
+      "text": "“É a magia da terapia. Uns dias são muito difíceis, outros a gente sai de lá com energia e confiança pra salvar o mundo inteiro”, ela ri de leve, passa o polegar direito pela aliança com um sorriso suave nos lábios."
+    },
+    {
+      "id": "cap-16-0092",
+      "type": "paragraph",
+      "text": "“Raul e Joélly também estão fazendo terapia, faz parte do processo com o Conselho Tutelar. Tão fazendo lá no projeto da sua sogra, inclusive.”"
+    },
+    {
+      "id": "cap-16-0093",
+      "type": "paragraph",
+      "text": "“Nossa, eu não converso com ela sobre o andamento desse projeto há muito tempo! Preciso ver com ela e Maggye como tão as obras do espaço novo. Cê tem notícia?”"
+    },
+    {
+      "id": "cap-16-0094",
+      "type": "paragraph",
+      "text": "“Ah, tá andando! Eu ainda mal consigo acreditar que Maggye conseguiu mesmo convencer Bagdá a se entregar”, uma batida na porta as interrompe. Lucia entra com alguns papéis que precisam de assinatura de ambas, “senta aí enquanto a gente lê, Lucia. Pega um biscoitinho! Num vai demorar muito”, elas aprenderam uma lição muito importante com os antigos administradores da Fundação: não assinam nada sem ler e, se houver dúvida em alguma coisa, adiam a assinatura até entenderem – o que tem se tornado cada vez mais raro."
+    },
+    {
+      "id": "cap-16-0095",
+      "type": "paragraph",
+      "text": "Os papéis nada mais são do que a ata da reunião que justamente se sentaram ali para reclamar. Rapidamente confirmam todos os dados e assinam sem ressalvas."
+    },
+    {
+      "id": "cap-16-0096",
+      "type": "paragraph",
+      "text": "“Mas é. A questão é que Bagdá é realmente muito bom artista e ela é muito honesta”, Lorena retoma o assunto, “ele quer mesmo viver de arte e ela está permitindo isso. Ela visita ele umas duas vezes na semana e pintam juntos. A exposição que ela prometeu caso ele se entregasse acabou sendo um grande sucesso e ela repassa os valores e as encomendas pra ele além de levar material pra ele pintar. Claro que ele não pode fazer nada com o dinheiro por enquanto, mas ela senta com ele e passa número por número além de ouvir os planos que ele tem pra quando sair de lá. Acho que, no fim das contas, eles estão formando uma amizade verdadeira ali. Tem muito respeito envolvido.”"
+    },
+    {
+      "id": "cap-16-0097",
+      "type": "paragraph",
+      "text": "“Minha maior felicidade nisso é que me parece que ela tá tomando o lugar que Jorginho Ninja tinha pro Bagdá. O que, sinceramente, é uma evolução astronômica!”"
+    },
+    {
+      "id": "cap-16-0098",
+      "type": "paragraph",
+      "text": "“Acho que o fato de que ela não está tentando converter ele a uma religião já ajuda bastante”, elas riem juntas, “mas eles falam a mesma língua: a arte.”"
+    },
+    {
+      "id": "cap-16-0099",
+      "type": "paragraph",
+      "text": "“É, faz sentido! Jorginho tinha uma ligação com um lado dele que, de certa forma, sempre prendia ele naquele passado. Um lembrete constante do que ele era. Maggye é uma folha em branco”, Gerluce pondera, um biscoitinho na mão enquanto fala."
+    },
+    {
+      "id": "cap-16-0100",
+      "type": "paragraph",
+      "text": "“E ela não abaixa a cabeça pras patadas que ele ainda dá de vez em quando”, Lorena aponta um dedo para Gerluce, “ele aprendeu a respeitar isso ao invés de se sentir ofendido”, Lorena volta a passar o polegar pela aliança, pensativa por um momento. Em meio a reuniões que poderiam ser emails de duas linhas; planilhas caóticas cheias de números que precisam bater com outras planilhas igualmente caóticas; e um mundo inicialmente tão desconhecido, mas que a cada dia entendem melhor e se sentem mais confortáveis e confiantes, elas forjam uma amizade real. Entre comentários sarcásticos e a naturalidade de se aliar e defender uma a outra de olhares patriarcais, misóginos e desconfiados, essa amizade se torna uma parceria. E a decisão toma forma no peito de Lorena."
+    },
+    {
+      "id": "cap-16-0101",
+      "type": "paragraph",
+      "text": "“Que foi?”"
+    },
+    {
+      "id": "cap-16-0102",
+      "type": "paragraph",
+      "text": "Lorena ajeita sua posição na cadeira, apoia os antebraços na mesa e junta as mãos, inclinando o corpo levemente para frente, “eu tava lembrando de uma conversa que tive com Paulinho quando ele resolveu te pedir em casamento. Agora, convivendo com você todos os dias, brigando do seu lado com um objetivo em comum, eu entendo perfeitamente o que ele me disse”, ela tomba a cabeça levemente para o lado, observando a mulher à sua frente. A verdade é que Gerluce e ela são muito parecidas. Em ética, em lealdade, em busca por um mundo melhor, em apenas querer a possibilidade de ver as pessoas ao seu redor parando de sofrer por motivos que podem ser plenamente evitados. Não tem ninguém que ela queira mais ao seu lado naquela batalha diária e, de certa forma, que ela queira a bênção, “aceita ser minha madrinha de casamento?”"
+    },
+    {
+      "id": "cap-16-0103",
+      "type": "paragraph",
+      "text": "“Ai, minha Santa Ritinha de Cássia, é sério?”, ela se levanta imediatamente, dando a volta na mesa. Lorena sorri para ela, confirmando com a cabeça enquanto se levanta e abre os braços para um abraço, “claro que eu aceito! É uma honra casar vocês duas!”"
+    },
+    {
+      "id": "cap-16-0104",
+      "type": "paragraph",
+      "text": "Uma batidinha na porta as interrompe novamente. Desta vez, Zenilda entra com uma pasta na mão e um sorriso enorme no rosto, “ah, você tá aqui! Tava atrás de você, Gerluce”, olha para Lorena, “boa tarde, meu amor. Tudo bem?”"
+    },
+    {
+      "id": "cap-16-0105",
+      "type": "paragraph",
+      "text": "“Oi, mãe, boa tarde. Tudo certo. É algo particular?”"
+    },
+    {
+      "id": "cap-16-0106",
+      "type": "paragraph",
+      "text": "“Não, não. É sobre uma notificação que chegou pro grupo da expropriação, exceto Misael. Não vou deixar você muito ansiosa, o que eu posso adiantar assim rapidamente é que é uma notificação pra uma reunião de acordo no Ministério Público.”"
+    },
+    {
+      "id": "cap-16-0107",
+      "type": "paragraph",
+      "text": "“Acordo? Acordo de quê?”"
+    },
+    {
+      "id": "cap-16-0108",
+      "type": "paragraph",
+      "text": "“Em suma, o Ministério Público analisou todos os documentos, circunstâncias e interrogatórios que a Polícia Civil entregou, assim como a confissão que vocês assinaram e concluiu que você, Júnior e Viviane se enquadram nos requisitos para um acordo de não persecução penal. Ou seja, vocês não irão a julgamento. Consuelo nem mesmo participou da expropriação em si e teve o nome retirado do inquérito completamente. O MP não informa nessa notificação o que eles pretendem usar de punição pra vocês, isso será apresentado na reunião, mas o que normalmente acontece nesses casos é que vocês devem ter a pena convertida em prestação de serviços à comunidade, cestas básicas, talvez uma multa, mas nem mesmo perderão o réu primário!”"
+    },
+    {
+      "id": "cap-16-0109",
+      "type": "paragraph",
+      "text": "Gerluce não fala nada. Ainda ao lado de Lorena, ela apenas leva uma mão ao peito e a outra à boca. Lorena passa sua mão pelas costas dela de um lado para o outro, entre os ombros e a puxa num abraço apertado quando o primeiro soluço sai de sua boca."
+    },
+    {
+      "id": "cap-16-0110",
+      "type": "paragraph",
+      "text": "Quando se solta de Lorena, Gerluce abraça Zenilda, “obrigada, Zenilda! Meu Deus, eu nem sei o que falar! Muito obrigada!”"
+    },
+    {
+      "id": "cap-16-0111",
+      "type": "paragraph",
+      "text": "“Você não tem nada a me agradecer, Gerluce. Você foi muito corajosa tanto no ato quanto na confissão a tempo de evitar o pior. Eu vou passar no TI pra falar com Júnior aproveitando que estamos aqui e depois ligo pra Vivi. A gente se reúne na Aclimação e conversa direitinho sobre esse assunto hoje, ok? Eu vou passar todos os detalhes que eu tiver pra vocês e explicar como esse processo funciona certinho. A gente vai comparecer ao MP daqui dois dias, é a data que está marcada a reunião. Misael não está apto ao acordo por ter atirado contra o Ferette. Infelizmente isso impede que ele preencha os requisitos pro acordo. Mas ele deve ter a pena pela expropriação atenuada por se entregar e todo o resto.”"
+    },
+    {
+      "id": "cap-16-0112",
+      "type": "paragraph",
+      "text": "“Claro! Claro, com certeza a gente vai sim! Meu Deus, eu vou ligar pra minha mãe, eu preciso contar isso pra ela! Ela pode ir pra reunião também?”"
+    },
+    {
+      "id": "cap-16-0113",
+      "type": "paragraph",
+      "text": "“Claro que pode! Paulinho também. Lorena, meu amor, se você e a Juquinha quiserem se juntar, a gente pode transformar isso numa celebração de verdade! Sem pressão, é claro.”"
+    },
+    {
+      "id": "cap-16-0114",
+      "type": "paragraph",
+      "text": "“Eu vou ver com ela. Acho que a distração pode fazer bem pra gente tirar número da cabeça por umas horinhas e, no caso da Duda, aliviar um pouco a ansiedade que toma conta de tudo que ela faz”, elas se despedem de Gerluce, que sai da sala com o celular já no ouvido, “eu te aviso daqui a pouco.”"
+    },
+    {
+      "id": "cap-16-0115",
+      "type": "paragraph",
+      "text": "“Perfeito. Ah! Deixa eu ver esse anel de perto!!”, rindo alto, Lorena vai até a mãe e estende a mão direita, “nossa, mas é muito lindo! Posso ver o interior? Se não quiser tirar não tem problema nenhum”, ainda sorrindo, Lorena tira a aliança do dedo e mostra para Zenilda, cujos olhos imediatamente ficam marejados, “eu ainda nem consigo acreditar que uma pessoa tão especial existe”, ela fala baixinho antes de devolver a aliança para a filha, “você merece muito uma pessoa como ela na sua vida, meu amor. Alguém que te trata com tanta atenção e carinho.”"
+    },
+    {
+      "id": "cap-16-0116",
+      "type": "paragraph",
+      "text": "Com a aliança novamente em seu lugar devido, Lorena sente o peito se acalmar – como se uma peça se encaixasse de volta a ele. Ela sorri, sente o calor de sempre se espalhar alegremente por seu corpo, “se eu não tivesse a certeza de que a gente se conhece de muitas outras vidas, eu também teria uma dificuldade enorme de acreditar que ela é real.”"
+    },
+    {
+      "id": "cap-16-0117",
+      "type": "divider"
+    },
+    {
+      "id": "cap-16-0118",
+      "type": "paragraph",
+      "text": "Na manhã de sexta-feira, o grupo de manifestantes majoritariamente da Chacrinha – apesar de vários populares de todas as regiões da cidade também estarem presentes – se reúne em frente ao fórum criminal novamente com faixas e cartazes com frases de apoio ao grupo da expropriação, fotos do quinteto – mesmo Misael não estando presente ou envolvido no acordo e Consuelo não sendo envolvida oficialmente no crime –, e frases de protesto contra Santiago Ferette e, é claro, o Estado de São Paulo."
+    },
+    {
+      "id": "cap-16-0119",
+      "type": "paragraph",
+      "text": "Atendendo a um pedido especial de Jairo, o delegado daquela regional aceita que Paulinho e Eduarda participem da operação. Eles funcionam como um elo entre a comunidade e a polícia, garantindo a ordem necessária e que os manifestantes sejam tratados com o devido respeito. Vestindo seus coletes sobre as camisas pretas e com as armas – obrigatórias, apesar de ambos serem contra sua necessidade – em suas costas, eles se posicionam exatamente na frente da porta do fórum, uma forma de centralizar as atenções ali."
+    },
+    {
+      "id": "cap-16-0120",
+      "type": "paragraph",
+      "text": "O cordão de isolamento formado pelos policiais impede que a imprensa chegue perto, mas alguns populares fazem questão de se deslocar até as câmeras para dar seu testemunho, sua opinião e deixar seu protesto."
+    },
+    {
+      "id": "cap-16-0121",
+      "type": "paragraph",
+      "text": "Vários dos cartazes têm um toque de humor, como comparações entre Gerluce e o Presidente Lula; Gerluce como Robin Hood; uma montagem do grupo como super-heróis e os dizeres Liga da Chacrinha no mesmo estilo da Liga da Justiça – o que dificulta bastante o trabalho dos policiais que precisam manter a ideia de imparcialidade. E se Paulinho, Eduarda e vários outros discretamente tiram fotos de uma montagem ou outra, ninguém mais acima na cadeia de comando precisa ficar sabendo.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Vários dos cartazes têm um toque de humor, como comparações entre Gerluce e o Presidente Lula; Gerluce como Robin Hood; uma montagem do grupo como super-heróis e os dizeres "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Liga da Chacrinha"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " no mesmo estilo da Liga da Justiça – o que dificulta bastante o trabalho dos policiais que precisam manter a ideia de imparcialidade. E se Paulinho, Eduarda e vários outros discretamente tiram fotos de uma montagem ou outra, ninguém mais acima na cadeia de comando precisa ficar sabendo."
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0122",
+      "type": "paragraph",
+      "text": "Acompanhados por Zenilda, Lorena e Rogério, o grupo é recebido com aplausos e muitos gritos de apoio – os policiais rapidamente pedindo aos manifestantes para dar a eles espaço e evitar aglomerações por motivos de segurança. Gerluce apenas levanta o braço em cumprimento, mas não para para falar com ninguém, como recomendado por Zenilda."
+    },
+    {
+      "id": "cap-16-0123",
+      "type": "paragraph",
+      "text": "Lorena fica do lado de fora, se junta aos manifestantes e, sem qualquer planejamento para tal, toma a iniciativa nos gritos de ordem; nas mãos, um cartaz dizendo Gerlula, nossa Presidente! e uma ilustração da estátua Três Graças – agora logomarca da Fundação.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena fica do lado de fora, se junta aos manifestantes e, sem qualquer planejamento para tal, toma a iniciativa nos gritos de ordem; nas mãos, um cartaz dizendo "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Gerlula, nossa Presidente!"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " e uma ilustração da estátua Três Graças – agora logomarca da Fundação."
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0124",
+      "type": "paragraph",
+      "text": "Eduarda se mantém em frente à porta do fórum, mãos nas costas, postura ereta, os cabelos acobreados presos num rabo-de-cavalo alto, lutando arduamente para manter o semblante sério. Até Lorena pegar em armas pesadas e se aproximar dela, braços levantados com o cartaz – por estar num degrau acima, Eduarda finalmente tem a vantagem de altura sobre a noiva. Lorena abaixa o cartaz, se vira para a multidão atrás dela e puxa um grito que os demais manifestantes respondem."
+    },
+    {
+      "id": "cap-16-0125",
+      "type": "paragraph",
+      "text": "E, realmente, ela resolve testar todos os limites de Eduarda: com um sorriso nos lábios em provocação, Lorena aproxima seus rostos, mas não a toca e, mesmo que não consiga ver, ninguém sabe ler as reações de Eduarda melhor do que ela. Ela morde o lábio para evitar que seu sorriso aumente quando percebe que ela está apertando as mãos nas costas para se controlar, lutando contra a vontade de estender as mãos e tocá-la. Lorena levanta seu rosto apenas o suficiente para que a pontinha de seu nariz toque no dela, observa satisfeita quando ela respira fundo, as pupilas dilatando, mandíbula travada. Eduarda usa a língua para umedecer os lábios e se inclina um pouco para frente e, enquanto os manifestantes gritam sua resposta ao segundo chamado de Lorena, “você me paga pelo que tá fazendo comigo.”"
+    },
+    {
+      "id": "cap-16-0126",
+      "type": "paragraph",
+      "text": "A voz dela, mais rouca que o normal e deliciosamente perigosa, arranca de seu corpo uma reação imediata, um arrepio que desce pelas costas e um calor que começa de seu ventre e rapidamente se espalha pelo corpo inteiro, pupilas dilatadas, coração batendo forte no peito, “mal posso esperar, policial”, Lorena completa com uma piscadela discreta quando Eduarda relutantemente ajusta sua postura de volta."
+    },
+    {
+      "id": "cap-16-0127",
+      "type": "paragraph",
+      "text": "Por ser a líder do grupo, Gerluce faz um pronunciamento curto ao sair do fórum – se desculpa com os amigos e com a população, reforça que suas ações foram erradas e, com a ajuda de Zenilda, explica o acordo assinado. Depois disso ela, literalmente, vai para os braços do povo."
+    },
+    {
+      "id": "cap-16-0128",
+      "type": "paragraph",
+      "text": "Mais tarde, uma foto do exato momento em que Eduarda e Lorena se olham nos olhos com sorrisos discretos nos lábios toma conta das redes juntamente com as notícias de que o grupo da Chacrinha aceitou o acordo oferecido pelo Ministério Público e todas as acusações foram retiradas mediante cumprimento de serviços comunitários e doações de cestas básicas para algumas comunidades carentes. (Eduarda salva uma versão de alta definição da foto e a coloca de papel de parede do seu computador na delegacia e da sua tela de bloqueio do celular.)"
+    },
+    {
+      "id": "cap-16-0129",
+      "type": "divider"
+    },
+    {
+      "id": "cap-16-0130",
+      "type": "paragraph",
+      "text": "Eduarda chora copiosamente quando o departamento de perícia médica homologa no diário oficial a sua permissão para voltar ao trabalho sem restrições."
+    },
+    {
+      "id": "cap-16-0131",
+      "type": "paragraph",
+      "text": "Por semanas ela trabalha com a Analu, com a psicóloga que fica na delegacia e com Paulinho. Quando ela se sente confortável o suficiente em empunhar e usar a arma no ambiente controlado do estande de tiro que fica no quarto andar da delegacia, Paulinho a leva para um estande externo e Eduarda passa a atirar sem proteção auricular. Nem sempre é fácil, às vezes ela precisa de um momento, um resgate mental que Paulinho rapidamente aprende a fazer e nunca comenta depois – esses momentos fazem parte da recuperação e não são motivo de vergonha ou de frustração, ela eventualmente entende. Seu corpo e sua mente precisam de tempo e de paciência."
+    },
+    {
+      "id": "cap-16-0132",
+      "type": "paragraph",
+      "text": "Na marca de três meses desde o atentado, Dra. Juliana confirma que o pulmão está funcionando perfeitamente e que a bala está encapsulada (ela não é retirada, a cirurgia para remoção da bala seria mais invasiva e perigosa do que deixá-la alojada. Eventualmente, o próprio sistema imunológico a isola formando uma capa de colágeno ao redor). O que quer dizer o fim das consultas médicas constantes; fim da fisioterapia; remoção de todas as restrições."
+    },
+    {
+      "id": "cap-16-0133",
+      "type": "paragraph",
+      "text": "“Agora você vive a sua vida, Eduarda”, a médica lhe diz com um sorriso brilhante e gentil nos lábios naquela última consulta, a mão de Lorena em sua coxa, a aliança agora o único anel que ela usa na mão direita, “tenha o devido respeito com seu corpo e sua mente, é claro, mas não precisa ter medo. A Bruna já tem todos os laudos da equipe assinados te esperando lá fora”, elas se levantam. Juliana oferece a mão para um aperto, mas Eduarda a ignora, optando por abraçá-la, lágrimas de gratidão nos olhos e finalmente se sentindo dona de si novamente, “boa sorte nos exames da Polícia e muito obrigada pelo trabalho que você fez e logo voltará a fazer de forma completa.”"
+    },
+    {
+      "id": "cap-16-0134",
+      "type": "divider",
+      "text": "*****"
+    },
+    {
+      "id": "cap-16-0135",
+      "type": "paragraph",
+      "text": "A operação está em andamento há quarenta e cinco minutos quando os traficantes finalmente conseguem armar a bomba. Seu corpo está exausto, respiração ofegante de tanto correr pelas vielas estreitas entrando em barracos para se esquivar dos tiros, o suor por várias vezes atrapalhando sua visão fazendo com que seja impossível ficar de olhos abertos em meio ao ardor."
+    },
+    {
+      "id": "cap-16-0136",
+      "type": "paragraph",
+      "text": "Seu peito bate acelerado, a culpa de terem perdido Paulinho tão cedo por um descuido seu e uma necessidade do parceiro em protegê-la a corrói por dentro, mas Eduarda não tem tempo para se martirizar nem pensar nisso. Ela tem uma bomba para desarmar e um irmão para honrar. A culpa pode vir depois, ela precisa apenas garantir que haverá um depois.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Seu peito bate acelerado, a culpa de terem perdido Paulinho tão cedo por um descuido seu e uma necessidade do parceiro em protegê-la a corrói por dentro, mas Eduarda não tem tempo para se martirizar nem pensar nisso. Ela tem uma bomba para desarmar e um irmão para honrar. A culpa pode vir depois, ela precisa apenas garantir que haverá um "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "depois"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0137",
+      "type": "paragraph",
+      "text": "Ela se abaixa ao lado da mesa, fora da linha de visão da janela, num ângulo favorável para observar a porta e pegar o inimigo de surpresa caso alguém entre ali enquanto ela faz uma pausa não-recomendada pelo cronômetro, mas necessária para seu corpo que já grita por misericórdia há pelo menos dez minutos. Ela ainda tem uma aliada e precisa encontrá-la o mais rápido possível se quiserem ter alguma chance. O problema é os quatro inimigos escondidos em algum lugar daquela comunidade, no mínimo dois provavelmente de tocaia perto da bomba para evitar que elas consigam chegar a tempo."
+    },
+    {
+      "id": "cap-16-0138",
+      "type": "paragraph",
+      "text": "Onde diabos você tá, Giulia?! Ela arrisca olhar pela janela, seu corpo colado na parede ao lado dela e é recompensada por um dos inimigos se preparando para entrar no barraco ao lado. Com muito cuidado, ela ajusta sua posição, troca a arma de mãos para que possa ser possível puxar o gatilho com a mão esquerda ao invés da direita e não perder o ângulo para o tiro sem se expor e espera o momento certo, respirando fundo, forçando seu coração a acalmar, contando as batidas na busca do intervalo exato entre elas para garantir a estabilidade necessária.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Onde diabos você tá, Giulia?!"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Ela arrisca olhar pela janela, seu corpo colado na parede ao lado dela e é recompensada por um dos inimigos se preparando para entrar no barraco ao lado. Com muito cuidado, ela ajusta sua posição, troca a arma de mãos para que possa ser possível puxar o gatilho com a mão esquerda ao invés da direita e não perder o ângulo para o tiro sem se expor e espera o momento certo, respirando fundo, forçando seu coração a acalmar, contando as batidas na busca do intervalo exato entre elas para garantir a estabilidade necessária."
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0139",
+      "type": "paragraph",
+      "text": "Tum-tum, tum-tum, ele se vira para entrar pela porta que cuidadosamente abre com o pé, arma nas mãos, tum– ela puxa o gatilho, atingindo as costas exatamente onde fica o coração e se abaixa antes que alguém perceba sua posição. Agora são duas contra três mais uma bomba armada e um cronômetro indiferente ao seu cansaço.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tum-tum, tum-tum,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " ele se vira para entrar pela porta que cuidadosamente abre com o pé, arma nas mãos, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tum–"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " ela puxa o gatilho, atingindo as costas exatamente onde fica o coração e se abaixa antes que alguém perceba sua posição. Agora são duas contra três mais uma bomba armada e um cronômetro indiferente ao seu cansaço."
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0140",
+      "type": "paragraph",
+      "text": "Agachada no canto do barraco, ela aguça os ouvidos, tenta bolar um plano para sair daquela situação a cada segundo que passa pior e pior. Precisa achar Giulia, precisa desarmar a bomba e, principalmente, precisa não ser atingida. Então ela ouve o que parece ser passos, mas o barulho de seu coração nos ouvidos é tão alto que ela não consegue ter certeza. Ajusta sua posição, seca a mão na calça já imunda e, com um pano que carrega no bolso, tenta secar a empunhadura da arma. Respira fundo, seu terceiro olho focado nas bolinhas do incentivador respiratório imaginário e, por um segundo, fecha os olhos. Desta vez, ela tem certeza que são passos."
+    },
+    {
+      "id": "cap-16-0141",
+      "type": "paragraph",
+      "text": "Aponta a arma para a porta, coloca o dedo em posição, mas não em cima do gatilho – ela não pode correr o risco de atirar sem querer – e espera. Eduarda quase atira em Giulia quando ela entra no barraco. Assim que nota quem é, ela abaixa a arma e pula para cima dela, mão sobre sua boca para que ela não chame atenção do trio restante."
+    },
+    {
+      "id": "cap-16-0142",
+      "type": "paragraph",
+      "text": "“Sou eu”, ela fala perto do ouvido e sente quando o corpo dela relaxa um pouco antes de tirar a mão da boca dela, “você conseguiu ver alguém no caminho pra cá? Sabe alguma localização?”"
+    },
+    {
+      "id": "cap-16-0143",
+      "type": "paragraph",
+      "text": "“O que você abateu foi o único que eu consegui ter certeza”, ela sussurra de volta, ambas abaixadas aproveitando o momento de segurança, “eu acho que vi um dos outros que tá em movimento a umas duas ruas pra direita. E um dos que tá de tocaia tá na janela direita, me pareceu. Provável que o outro esteja ou na janela esquerda ou no telhado, mas não consegui ver nada.”"
+    },
+    {
+      "id": "cap-16-0144",
+      "type": "paragraph",
+      "text": "Eduarda olha o relógio, os números vermelhos do cronômetro parecem zombar de volta, cada vez mais perto do fim."
+    },
+    {
+      "id": "cap-16-0145",
+      "type": "paragraph",
+      "text": "“Eu ach–”, ela se cala imediatamente, passos apressados vindos do mesmo lugar em que Giulia havia surgido. Elas se olham em silêncio, olhos arregalados. São dois, ela tem certeza disso. Ela coloca um dedo sobre os lábios e depois aponta para a janela e para a própria arma numa mensagem que espera ser bem clara: cuide da janela. E, numa decisão quase suicida, diz em voz um pouco mais alta, “eles nunca vão achar a gente aqui dentro. A gente só precisa achar um jeito de ir até a bomba.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Eu ach–”, ela se cala imediatamente, passos apressados vindos do mesmo lugar em que Giulia havia surgido. Elas se olham em silêncio, olhos arregalados. São dois, ela tem certeza disso. Ela coloca um dedo sobre os lábios e depois aponta para a janela e para a própria arma numa mensagem que espera ser bem clara: "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "cuide da janela"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". E, numa decisão quase suicida, diz em voz um pouco mais alta, “eles nunca vão achar a gente aqui dentro. A gente só precisa achar um jeito de ir até a bomba.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0146",
+      "type": "paragraph",
+      "text": "A isca funciona. Ao mesmo tempo, um dos inimigos aparece pela janela e o outro chuta a porta, arma preparada para acertar Giulia. Eduarda puxa o gatilho ao mesmo tempo que sua parceira, ambos os inimigos abatidos ao mesmo tempo. Na parede, ao lado da cabeça de Giulia, uma marca nova."
+    },
+    {
+      "id": "cap-16-0147",
+      "type": "paragraph",
+      "text": "“Ok, a gente não tem mais tempo. Você sabe desarmar a bomba?”, Eduarda pergunta, passando por cima do corpo estirado no chão e indo até a porta."
+    },
+    {
+      "id": "cap-16-0148",
+      "type": "paragraph",
+      "text": "“Sei, mas Juquinha–”"
+    },
+    {
+      "id": "cap-16-0149",
+      "type": "paragraph",
+      "text": "“Não. É nossa única chance, a gente só tem um minuto. É só uma arma e a gente não tem tempo pra ir atrás do cara, nossa única chance é desarmar a bomba. Larga a arma, ela não vai servir de nada”, ela joga a dela no chão e espia pela janela mais uma vez. Sabe que ele não vai descer do lugar onde está de tocaia, “uma de cada lado, a bomba é a única prioridade. Ok? No três você corre em zigue-zague.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Não. É nossa única chance, a gente só tem um minuto. É só uma arma e a gente não tem tempo pra ir atrás do cara, nossa única chance é desarmar a bomba. Larga a arma, ela não vai servir de nada”, ela joga a dela no chão e espia pela janela mais uma vez. Sabe que ele não vai descer do lugar onde está de tocaia, “uma de cada lado, a bomba é a única prioridade. Ok? No "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "três"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " você corre em zigue-zague.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0150",
+      "type": "paragraph",
+      "text": "“Ok.”"
+    },
+    {
+      "id": "cap-16-0151",
+      "type": "paragraph",
+      "text": "Elas saem do barraco ainda protegidas e vão cada uma para uma esquina. Eduarda levanta a mão e espera a confirmação dela com a cabeça. Ambas respiram fundo e assentem. Ela levanta um dedo, o segundo e, no terceiro, ambas saem em disparada em direção à praça onde a bomba está armada."
+    },
+    {
+      "id": "cap-16-0152",
+      "type": "paragraph",
+      "text": "O impacto a atinge diretamente no peito e sua reação inicial é sugar o ar com tudo. Ela espera o pânico chegar como chegou várias outras vezes; ela espera o puxão a levar de volta àquela sala, àquela tarde; espera o tremor começar e o ar faltar. Ela espera por tudo isso, mas só encontra o cansaço, a exaustão e o impacto de seus joelhos no chão, indicando que está fora de combate."
+    },
+    {
+      "id": "cap-16-0153",
+      "type": "paragraph",
+      "text": "Giulia chega à bomba com segundos no cronômetro. O inimigo não tem tempo de impedir que ela puxe o fio azul. O sinal sonoro dispara e o painel de LED enorme que fica visível por todos os lados da arena indica em letras garrafais: “VITÓRIA – time Aclimação”. Paulinho é o primeiro a chegar até ela, preocupação e euforia se misturam em seus olhos quando se ajoelha na frente dela."
+    },
+    {
+      "id": "cap-16-0154",
+      "type": "paragraph",
+      "text": "“Você conseguiu!!”, ele comemora, os braços ao redor dos ombros dela num abraço apertado. E ela sabe que não é da vitória que ele está falando. É da marca verde em seu colete, “puta que pariu, Juquinha, você conseguiu!! Eu sabia que você ia conseguir!! Eu nunca duvidei de você.”"
+    },
+    {
+      "id": "cap-16-0155",
+      "type": "paragraph",
+      "text": "Ela não diz nada, apenas se deixa chorar junto com ele. Porque ela conseguiu. Ela passou ilesa a partida inteira. Sem tremores, sem ataques. Nem mesmo quando o impacto veio."
+    },
+    {
+      "id": "cap-16-0156",
+      "type": "paragraph",
+      "text": "Com o fim das restrições físicas, Paulinho coloca em prática um plano que envolve, em suma, praticamente toda a força policial da cidade de São Paulo: paintball toda tarde de quarta-feira. Como a delegacia não pode ficar completamente às traças, é necessário convocar policiais de outras DPs para participar do evento que se torna um treinamento tático e mental não apenas para Eduarda, mas para todos. São simulações de operações em vielas, em campos abertos, tiroteios, sequestros – é o jogo de polícia-ladrão mais dinâmico e absurdo que Eduarda já jogou."
+    },
+    {
+      "id": "cap-16-0157",
+      "type": "paragraph",
+      "text": "Ao redor deles, todos comemoram. Porque eventualmente as tardes de quarta-feira se tornam mais do que um treinamento – como tudo que envolve policiais teimosos e competitivos –, mas ali, naquele momento, todos parecem se lembrar ao mesmo tempo o motivo real pelo qual tudo aquilo começa: Eduarda Fragoso."
+    },
+    {
+      "id": "cap-16-0158",
+      "type": "divider",
+      "text": "*****"
+    },
+    {
+      "id": "cap-16-0159",
+      "type": "paragraph",
+      "text": "Ela aprende rapidamente que Lorena não sabe pegar leve quando o assunto é provocações. No dia dos testes físicos e médicos com o departamento de perícia médica da polícia, Eduarda fica tão pilhada e tão ansiosa que busca na yoga alguma forma de talvez se acalmar. É um estúdio que fica no bairro delas e ambas frequentam regularmente – às vezes sozinhas, às vezes juntas dependendo da agenda de cada uma."
+    },
+    {
+      "id": "cap-16-0160",
+      "type": "paragraph",
+      "text": "“Me manda mensagem mais tarde”, Lorena diz ofegante, surpreendentemente com forças o suficiente para formar alguma palavra mais ou menos entendível – Eduarda a faz gozar tantas vezes de tantas formas diferentes que ela já nem sabe mais onde é cima e onde é baixo, seu corpo inteiro vibrando de uma forma que ela nem mesmo sabe se algum dia vai parar. Eduarda ri de leve da cena: Lorena completamente esparramada na cama, peito subindo e descendo numa respiração desesperada; uma camada de suor cobrindo todo o seu corpo; mechas molhadas grudadas em sua testa; marcas vermelhas em seu pescoço, ombro e seios; as bochechas num tom rosado tão lindo que Eduarda só não recomeça tudo porque precisa realmente tomar um banho e sair se quiser chegar a tempo na clínica."
+    },
+    {
+      "id": "cap-16-0161",
+      "type": "paragraph",
+      "text": "Quando sai do banho, ela vai até sua noiva que já está quase pegando no sono de novo e a faz beber um pouco de água, sentada ao seu lado na cama. Deixa a garrafa sobre a mesinha de cabeceira e acaricia sua bochecha com reverência, “obrigada por me ajudar com a ansiedade”, ela diz com um sorriso ladino perfeitamente safado."
+    },
+    {
+      "id": "cap-16-0162",
+      "type": "paragraph",
+      "text": "“Um sacrifício que eu farei quantas vezes você quiser, meu amor”, Lorena tem os olhos quase fechados, uma linha muito fina por onde o verde luta arduamente para se fazer visível, seu corpo mole. Eduarda define a visão como uma Lorena deliciosamente fodida.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Um sacrifício que eu farei quantas vezes você quiser, meu amor”, Lorena tem os olhos quase fechados, uma linha muito fina por onde o verde luta arduamente para se fazer visível, seu corpo mole. Eduarda define a visão como "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "uma Lorena deliciosamente fodida"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0163",
+      "type": "paragraph",
+      "text": "Com uma risada, Eduarda beija seus lábios inchados e ainda muito vermelhos algumas vezes e depois sua testa quando ajeita o corpo dela na cama para que consiga voltar a dormir de forma minimamente confortável."
+    },
+    {
+      "id": "cap-16-0164",
+      "type": "paragraph",
+      "text": "“Vou mandar mensagem pra Gerlu falando que você num tem condições de ir hoje.”"
+    },
+    {
+      "id": "cap-16-0165",
+      "type": "paragraph",
+      "text": "“Hmm, obrigada”, ela murmura. Antes de sair pela porta, Eduarda se vira novamente quando Lorena a chama, agora de lado na cama, apoiada sobre um braço, “já deu certo. Fica tranquila, é só burocracia”, as palavras simples e confiantes fazem com que seu corpo relaxe um pouco, um sorriso inevitável se forma em seus lábios, olhos brilhando. Lorena sorri de volta para ela, covinhas fundas marcadas em meio ao rubor leve que ainda se faz presente em suas bochechas antes dela se deixar cair de novo na cama e fechar de vez os olhos."
+    },
+    {
+      "id": "cap-16-0166",
+      "type": "paragraph",
+      "text": "Eduarda se força a concentrar na respiração, na troca lenta de posições, no puxar e estender dos músculos que a esta altura já ardem deliciosamente a cada nova posição. Está filmando sua sessão de yoga com a intenção justamente de enviar à noiva para tranquilizá-la de que não desmaiou por ansiedade em algum momento daquela manhã."
+    },
+    {
+      "id": "cap-16-0167",
+      "type": "paragraph",
+      "text": "Com a garrafa de água na mão e uma toalhinha ao redor do pescoço, ela revê o vídeo para escolher que parte mandar para Lorena e, bem, é uma escolha até bem fácil. Ela seleciona apenas os poucos segundos em que lentamente assume a Urdhva Mukha Svanasana – ou, simplesmente, cachorro olhando para cima –, olhos fechados enquanto abaixa o quadril e levanta o tronco com as mãos no chão, seus músculos do abdômen e dos ombros claramente marcados pelo esforço.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Com a garrafa de água na mão e uma toalhinha ao redor do pescoço, ela revê o vídeo para escolher que parte mandar para Lorena e, bem, é uma escolha até bem fácil. Ela seleciona apenas os poucos segundos em que lentamente assume a "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Urdhva Mukha Svanasana"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " – ou, simplesmente, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "cachorro olhando para cima"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " –, olhos fechados enquanto abaixa o quadril e levanta o tronco com as mãos no chão, seus músculos do abdômen e dos ombros claramente marcados pelo esforço."
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0168",
+      "type": "paragraph",
+      "text": "E, por mais que sua intenção tenha sido exatamente tirar a noiva do sério, ela aprende que Lorena não sabe brincar. A resposta que recebe é um vídeo curto onde Lorena desce a mão pela barriga até sumir dentro do short de algodão que usa em casa e a legenda ‘vc tem exatamente 5 minutos pra voltar pra casa ou eu resolvo meu problema sozinha’.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "E, por mais que sua intenção tenha sido exatamente tirar a noiva do sério, ela aprende que Lorena não sabe brincar. A resposta que recebe é um vídeo curto onde Lorena desce a mão pela barriga até sumir dentro do short de algodão que usa em casa e a legenda "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "‘vc tem exatamente 5 minutos pra"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "voltar pra casa ou eu resolvo meu problema sozinha’"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0169",
+      "type": "paragraph",
+      "text": "Eduarda chega em casa com dez segundos ainda no cronômetro e não sai de novo pelo resto do dia. Lorena é, definitivamente, uma distração muito mais efetiva do que qualquer yoga, pilates, meditação ou droga pesada tem a capacidade de ser – e infinitamente mais viciante."
+    },
+    {
+      "id": "cap-16-0170",
+      "type": "divider",
+      "text": "*****"
+    },
+    {
+      "id": "cap-16-0171",
+      "type": "paragraph",
+      "text": "Então, Eduarda chora copiosamente quando os peritos homologam sua decisão. E desta vez, quando a delegacia explode em celebração por ela estar liberada para voltar ao trabalho sem restrições, os lança-confete são usados."
+    },
+    {
+      "id": "cap-16-0172",
+      "type": "divider"
+    },
+    {
+      "id": "cap-16-0173",
+      "type": "paragraph",
+      "text": "“Posso te perguntar uma coisa?”"
+    },
+    {
+      "id": "cap-16-0174",
+      "type": "paragraph",
+      "text": "Paulinho está completamente bêbado. É a primeira coisa que Lorena nota quando ele se aproxima dela, provavelmente achando que está sendo discreto. Eduarda começa a rir antes mesmo da interação começar de verdade."
+    },
+    {
+      "id": "cap-16-0175",
+      "type": "paragraph",
+      "text": "É a típica noite de quinta-feira quando ela, Eduarda, Paulinho, Gerluce, Maggye e Júnior se reúnem no bar onde ela costumava trabalhar para curtir uma noite tranquila sem assédios, sem música ofensivamente alta e, sinceramente, com excelentes drinks – ela sente falta dessa parte, de vez em quando pede para Adelson deixar que ela faça alguns para os amigos."
+    },
+    {
+      "id": "cap-16-0176",
+      "type": "paragraph",
+      "text": "Lorena está sentada em Eduarda, é a melhor definição possível – Eduarda sentada no confortável sofá com Lorena entre suas pernas. É uma posição comum para elas: quando precisam ficar nas poltronas, Lorena se senta de lado em seu colo; quando Eduarda fica em uma das banquetas altas enquanto esperam uma mesa vagar ou a chegada dos amigos e Lorena fica em pé com Eduarda normalmente a abraçando por trás com o queixo em seu ombro – Paulinho apelidou esta posição de mochilinha ruiva, que Eduarda sempre reclama em voz alta por pura implicância, mas secretamente ama.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena está sentada "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "em"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Eduarda, é a melhor definição possível – Eduarda sentada no confortável sofá com Lorena entre suas pernas. É uma posição comum para elas: quando precisam ficar nas poltronas, Lorena se senta de lado em seu colo; quando Eduarda fica em uma das banquetas altas enquanto esperam uma mesa vagar ou a chegada dos amigos e Lorena fica em pé com Eduarda normalmente a abraçando por trás com o queixo em seu ombro – Paulinho apelidou esta posição de "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mochilinha ruiva"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", que Eduarda sempre reclama em voz alta por pura implicância, mas secretamente ama."
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0177",
+      "type": "paragraph",
+      "text": "Ou seja, Lorena está sempre sentada em Eduarda, nunca em algum móvel feito exclusivamente para aquela finalidade. Conceito que aparentemente intriga Paulinho."
+    },
+    {
+      "id": "cap-16-0178",
+      "type": "paragraph",
+      "text": "“Tem alguma rixa histórica entre lésbicas e poltronas, sofás, cadeiras, essas coisas?”, ele pergunta absolutamente sério. Como se fosse a questão mais importante da história. Aquela indagação que fará com que os rumos da humanidade sejam definidos, um caminho novo traçado em direção ao futuro, um divisor de águas, “porque, assim, eu acho que eu nunca vi vocês sentadas direito? O inventor era homofóbico? Sei lá, é um posicionamento político? Vocês tão sempre falando que orgulho é resistência, vocês tão começando a revolução pelos estofados e assentos em geral? Existe algum contexto gay?”"
+    },
+    {
+      "id": "cap-16-0179",
+      "type": "paragraph",
+      "text": "Eduarda a esta altura está quase morrendo sem ar de tanto rir – rosto escondido na nuca de Lorena; Maggye não está muito melhor; Júnior se mantém comicamente sério, assentindo com a cabeça em apoio ao único outro homem do grupo enquanto dá tapinhas de consolação muito de leve nas costas da namorada; Gerluce está com a cabeça nas mãos, provavelmente se questionando se deveria mesmo se casar com aquele sujeito."
+    },
+    {
+      "id": "cap-16-0180",
+      "type": "paragraph",
+      "text": "E Lorena, coitada, Lorena trava uma batalha contra duzentos satanás pra não rir na cara do melhor amigo de sua noiva."
+    },
+    {
+      "id": "cap-16-0181",
+      "type": "divider"
+    },
+    {
+      "id": "cap-16-0182",
+      "type": "paragraph",
+      "text": "Os advogados de Santiago Ferette até tentam, mas não conseguem evitar que ele vá a julgamento. Apesar de conseguir a volta do apoio velado de alguns juízes cuja visão homofóbica se alinha à de Santiago, isso não é o suficiente para que a narrativa de pai preocupado, homem de família temente a Deus e defensor da família tradicional brasileira sobressaia à pressão popular. Ao contrário do que seus advogados acreditam que aconteceria, o apoio barulhento a Eduarda, seu relacionamento com Lorena e a lembrança do que Santiago fez com a população da Chacrinha não diminui, apenas aumenta a cada dia."
+    },
+    {
+      "id": "cap-16-0183",
+      "type": "paragraph",
+      "text": "A icônica foto de Lorena e Eduarda na porta do fórum toma conta de todos os debates sobre o assunto tanto por humanizar a polícia como um todo como por demonstrar de forma simples a devoção palpável entre elas: é praticamente impossível ver aquela foto e não se sentir como se estivesse invadindo um momento extremamente pessoal entre elas; a forma como se olham deixa claro que literalmente nada nem ninguém ao redor importa; o sorriso discreto em seus lábios dá a elas um ar de cumplicidade, de alinhamento, de parceria."
+    },
+    {
+      "id": "cap-16-0184",
+      "type": "paragraph",
+      "text": "E é essa devoção – a sobrevivência inabalável delas enquanto unidade – que abafa a tentativa de invalidar seu relacionamento e as intenções que Eduarda tinha ao entrar naquela sala com um grampo autorizado pela Justiça e todas as palavras ditas por Santiago."
+    },
+    {
+      "id": "cap-16-0185",
+      "type": "paragraph",
+      "text": "Santiago Ferette, portanto, vai a júri popular. Por um lado, o poder de decisão passar para os sete integrantes do júri – sorteados dentre dezenas de nomes que compõem o corpo de jurados pré-selecionados e que passam por um processo de verificação de idoneidade – diminui a possibilidade de que o réu consiga comprar uma decisão favorável; por outro, a decisão do júri pode ser definida pela forma que defesa e acusação apresentam seus argumentos."
+    },
+    {
+      "id": "cap-16-0186",
+      "type": "paragraph",
+      "text": "O júri é composto por pessoas comuns, leigos em direito, leigos em juridiquês e livres para decidir como seu coração, sua índole e até mesmo sua crença pessoal mandar. Vítima, testemunhas e réu têm suas versões dos fatos ouvidas; respondem a perguntas que podem vir de qualquer membro presente – advogados, promotores, juízes, jurados –; defesa e acusação apresentam seus argumentos, questionamentos, evidências e qualquer documento que julguem necessário para convencer ao menos quatro dos jurados a votar a favor de seu objetivo."
+    },
+    {
+      "id": "cap-16-0187",
+      "type": "paragraph",
+      "text": "No fim, o júri popular nada mais é do que uma tentativa de convencer quatro pessoas e, às vezes, a oratória é muito mais eficaz do que evidências coletadas pela polícia."
+    },
+    {
+      "id": "cap-16-0188",
+      "type": "paragraph",
+      "text": "Eduarda e Lorena chegam juntas de mãos dadas, acompanhadas por Violeta e Zenilda – presente ali exclusivamente como mãe –; Henrique, por ocupar o cargo que ocupa, não vai ao tribunal. Elas são recebidas com muito barulho, faixas e cartazes. Eduarda para no topo da escada, antes de entrar no prédio e se vira para eles com um aceno e leva a mão ao peito em agradecimento."
+    },
+    {
+      "id": "cap-16-0189",
+      "type": "paragraph",
+      "text": "Durante a primeira parte do julgamento, como esperado, os advogados de Ferette tentam tirar Eduarda do sério; tentam forçar uma narrativa de que ela forjou tudo exclusivamente por picuinha com o sogro; tentam pintar uma imagem de que Lorena está sendo manipulada por ela. Em dado momento, a juíza precisa intervir, lembrando que Eduarda é a vítima ali. Ao fim do seu depoimento, ela vai até uma das várias cadeiras que ficam disponíveis para quem quiser acompanhar o julgamento e se senta ao lado de Lorena – só consegue abrir a mão e destravar a mandíbula depois de cinco minutos de um carinho discreto subindo e descendo por seu antebraço, entrelaçando seus dedos com os dela quando finalmente seu corpo relaxa o suficiente."
+    },
+    {
+      "id": "cap-16-0190",
+      "type": "paragraph",
+      "text": "Como testemunha de acusação, Lorena toma a importante decisão de contextualizar toda a situação: a forma que foi criada; a forma que foi expulsa de casa; a ameaça direta contra aqueles que Eduarda mais ama; o ataque ao carro; o ataque a Paulinho; a confissão de Ferette. Com a postura ereta, com o olhar firme e as mãos nas costas, ela conta do hospital, da UTI, de todos os novos primeiros que Eduarda precisou passar por causa de Santiago Ferette.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Como testemunha de acusação, Lorena toma a importante decisão de contextualizar toda a situação: a forma que foi criada; a forma que foi expulsa de casa; a ameaça direta contra aqueles que Eduarda mais ama; o ataque ao carro; o ataque a Paulinho; a confissão de Ferette. Com a postura ereta, com o olhar firme e as mãos nas costas, ela conta do hospital, da UTI, de todos os novos "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "primeiros"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que Eduarda precisou passar por causa de Santiago Ferette."
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0191",
+      "type": "paragraph",
+      "text": "E, se um julgamento no tribunal do júri pode ser definido por oratória, a paixão com que Lorena apresenta os fatos pode tranquilamente ser o que faz com que os jurados condenem seu pai."
+    },
+    {
+      "id": "cap-16-0192",
+      "type": "paragraph",
+      "text": "Quando é a vez de Santiago prestar seu depoimento, a promotora tem uma postura muito menos combativa que a dos advogados de defesa. Ela deixa que Santiago tente desmentir Eduarda, Lorena e as demais testemunhas, deixa que ele cave sua própria cova, questiona de forma condescendente – algo que rapidamente enfurece Ferette – alguma informação absurda, como quando ele afirma que Eduarda usou seu poder enquanto policial para invadir o sistema bancário e fazer o pagamento a Lucélia a partir de sua conta."
+    },
+    {
+      "id": "cap-16-0193",
+      "type": "paragraph",
+      "text": "Após a pausa para o almoço, defesa e acusação, então, apresentam seus argumentos aos jurados e é exatamente aí que a promotora desmonta, com provas irrefutáveis, cada um dos absurdos argumentos que Santiago levantou. Por fim, ela pede ao técnico que reproduza o áudio do grampo juntamente com as imagens das câmeras de segurança da sala da Fundação."
+    },
+    {
+      "id": "cap-16-0194",
+      "type": "paragraph",
+      "text": "A sala fica em completo silêncio por vários segundos ao fim da exibição. Ela olha para cada um dos sete rostos sem falar uma palavra sequer e então se vira para a juíza de direito, “sem mais, excelência.”"
+    },
+    {
+      "id": "cap-16-0195",
+      "type": "paragraph",
+      "text": "A sala é, então, esvaziada e apenas os jurados, juíza, oficial de justiça, escrivão, promotora e os advogados de defesa ficam para o início da votação sigilosa. Os jurados precisam responder algumas perguntas com SIM ou NÃO baseado em qualquer motivo que lhes convir. Seus votos são secretos – cédulas depositadas numa urna que o oficial de justiça apresenta e retiradas pela juíza para contagem – e, independente da pergunta, ao chegar na maioria absoluta (quatro), a juíza para de contar a fim de que ninguém jamais saiba como votou algum jurado.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "A sala é, então, esvaziada e apenas os jurados, juíza, oficial de justiça, escrivão, promotora e os advogados de defesa ficam para o início da votação sigilosa. Os jurados precisam responder algumas perguntas com "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "SIM"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " ou "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "NÃO"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " baseado em qualquer motivo que lhes convir. Seus votos são secretos – cédulas depositadas numa urna que o oficial de justiça apresenta e retiradas pela juíza para contagem – e, independente da pergunta, ao chegar na maioria absoluta (quatro), a juíza para de contar a fim de que ninguém jamais saiba como votou algum jurado."
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0196",
+      "type": "paragraph",
+      "text": "A primeira pergunta: na data e local foram realizados disparos de arma de fogo contra a vítima Eduarda Fragoso, causando lesões descritas no laudo pericial?"
+    },
+    {
+      "id": "cap-16-0197",
+      "type": "paragraph",
+      "text": "Com quatro votos SIM consecutivos, a juíza para a contagem.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Com quatro votos "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "SIM"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " consecutivos, a juíza para a contagem."
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0198",
+      "type": "paragraph",
+      "text": "A segunda pergunta: o réu Santiago Ferette concorreu para a prática do crime na condição de mandante ao pagar para que Lucélia Damatta, já julgada e condenada, efetuasse o disparo que atingiu a vítima?"
+    },
+    {
+      "id": "cap-16-0199",
+      "type": "paragraph",
+      "text": "Novamente, quatro votos SIM consecutivos, a juíza para a contagem.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Novamente, quatro votos "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "SIM"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " consecutivos, a juíza para a contagem."
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0200",
+      "type": "paragraph",
+      "text": "A terceira, e mais importante, pergunta: o jurado absolve o réu?"
+    },
+    {
+      "id": "cap-16-0201",
+      "type": "paragraph",
+      "text": "NÃO; NÃO; SIM; NÃO; SIM; NÃO. A promotora fecha os olhos em alívio.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "NÃO; NÃO; SIM; NÃO; SIM; NÃO"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". A promotora fecha os olhos em alívio."
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0202",
+      "type": "paragraph",
+      "text": "A quarta pergunta: em assim agindo, o réu deu início ao crime de homicídio que só não se concretizou por motivos alheios à sua vontade?"
+    },
+    {
+      "id": "cap-16-0203",
+      "type": "paragraph",
+      "text": "SIM; NÃO; SIM; SIM; SIM.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "SIM; NÃO; SIM; SIM; SIM"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0204",
+      "type": "paragraph",
+      "text": "A quinta pergunta: o crime foi cometido por motivo torpe, tendo em vista que o réu efetuou pagamento financeiro a terceiro para a sua execução?"
+    },
+    {
+      "id": "cap-16-0205",
+      "type": "paragraph",
+      "text": "NÃO; NÃO; SIM; NÃO; SIM; SIM; SIM.",
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "NÃO; NÃO; SIM; NÃO; SIM; SIM; SIM"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0206",
+      "type": "paragraph",
+      "text": "A sexta, e última, pergunta: o crime foi cometido mediante emboscada, uma vez que a vítima foi atraída para o local com o pretexto de uma reunião, sendo surpreendida com os disparos?"
+    },
+    {
+      "id": "cap-16-0207",
+      "type": "heading",
+      "text": "SIM; SIM; SIM; NÃO; NÃO; SIM.",
+      "level": 3,
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "SIM; SIM; SIM; NÃO; NÃO; SIM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-16-0208",
+      "type": "divider",
+      "text": "*****"
+    },
+    {
+      "id": "cap-16-0209",
+      "type": "paragraph",
+      "text": "Quinze anos, quatro meses e treze dias. É a sentença de Santiago Ferette pelo crime elevado ao patamar de crime hediondo de homicídio duplamente qualificado (tentado) – qualificadoras de motivo torpe e emboscada.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Quinze anos, quatro meses e treze dias. É a sentença de Santiago Ferette pelo crime elevado ao patamar de crime hediondo de "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "homicídio duplamente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "qualificado (tentado)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " – qualificadoras de motivo torpe e emboscada."
+        }
+      ]
+    }
+  ],
+  "notes": {
+    "before": [
+      {
+        "id": "cap-16-0001",
+        "type": "paragraph",
+        "text": "oie!! então, oficialmente penúltimo cap! eu ia deixar tudo num só, mas tava ficando muito grande e eu queria postar logo pra vcs, então dividi."
+      },
+      {
+        "id": "cap-16-0002",
+        "type": "paragraph",
+        "text": "preparem as doses de insulina e boa sorte com a boiolice do envelope preto!!"
+      }
+    ],
+    "after": [
+      {
+        "id": "cap-16-0210",
+        "type": "paragraph",
+        "text": "eu acabei dando um pouco mais de detalhe no julgamento pq eu participei do júri ano passado então é o primeiro assunto aqui que eu realmente sei o que eu to falando aosduhaosiudhas (nos procedimentos apenas!!) e achei válido dar um certo nível de detalhe pq a gente tem uma imagem dos julgamentos dos eua na mente e o nosso é bem diferente"
+      },
+      {
+        "id": "cap-16-0211",
+        "type": "paragraph",
+        "text": "mas se tiver ficado ruim só me falar! o outro julgamento do ferette será sem detalhes."
+      },
+      {
+        "id": "cap-16-0212",
+        "type": "paragraph",
+        "text": "amo vcs! beijo!"
+      }
+    ]
+  }
+}

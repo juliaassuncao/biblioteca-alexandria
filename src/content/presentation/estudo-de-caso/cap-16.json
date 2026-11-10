@@ -1,0 +1,19 @@
+{
+  "chapterId": "cap-16",
+  "groups": [
+    {
+      "type": "chat",
+      "inlineSenders": [
+        "Lorena",
+        "Júnior",
+        "Maggye",
+        "Paulinho",
+        "Gerluce",
+        "Eduarda"
+      ],
+      "rightSenders": [],
+      "start": "cap-16-0066",
+      "end": "cap-16-0078"
+    }
+  ]
+}

@@ -1,0 +1,4336 @@
+{
+  "source": {
+    "file": "estudo_de_caso.pdf",
+    "sha256": "06da5c4120e669c494cbc11949ffdb389dd9dbb806aa554c4dc0d7229a9593c0",
+    "pages": 499
+  },
+  "chapterCount": 17,
+  "chapters": [
+    {
+      "id": "cap-01",
+      "number": 1,
+      "title": "Chapter 1",
+      "startPage": 3,
+      "endPage": 21,
+      "bodyBlocks": 153,
+      "notesBefore": 0,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "19b78ff3df5b7238e8fa059f07332c832adfcb434b332a6c36144e90e3b55d71",
+      "importedGlyphSha256": "19b78ff3df5b7238e8fa059f07332c832adfcb434b332a6c36144e90e3b55d71",
+      "independentGlyphSha256": "19b78ff3df5b7238e8fa059f07332c832adfcb434b332a6c36144e90e3b55d71",
+      "structuredTextSha256": "ccbf9c37e9603103d5ec8a2fe79a09e8462810f691f3c16a0874f5e6a25b7646",
+      "fileSha256": "c3a9e770e913b060df6f1adf5820c7c5e4ee9fb98a487878f76be03943bc0538",
+      "nonWhitespaceCharacters": 28039,
+      "italicCharacters": 581,
+      "boldCharacters": 0,
+      "links": [],
+      "vectorDividers": [
+        {
+          "page": 4,
+          "top": 304.4999873124999
+        },
+        {
+          "page": 13,
+          "top": 507.0004588749798
+        },
+        {
+          "page": 16,
+          "top": 190.4999920624996
+        }
+      ],
+      "editorialMarkersExcluded": []
+    },
+    {
+      "id": "cap-02",
+      "number": 2,
+      "title": "Chapter 2",
+      "startPage": 22,
+      "endPage": 39,
+      "bodyBlocks": 158,
+      "notesBefore": 1,
+      "notesAfter": 2,
+      "sourceGlyphSha256": "a2b951e2d781eb59bec1bd77385f54a16ff52f265291cf9f5aa24456ce45ced2",
+      "importedGlyphSha256": "a2b951e2d781eb59bec1bd77385f54a16ff52f265291cf9f5aa24456ce45ced2",
+      "independentGlyphSha256": "a2b951e2d781eb59bec1bd77385f54a16ff52f265291cf9f5aa24456ce45ced2",
+      "structuredTextSha256": "27f8128078755db3258ee8ce56c1b1fb7c47b57de146eafbe6cc8ea1a8d0ebcf",
+      "fileSha256": "7e8f0dbc28fc435dd514cba06b77306e622a81b5604dab2e244680fbdeea0666",
+      "nonWhitespaceCharacters": 25545,
+      "italicCharacters": 2538,
+      "boldCharacters": 0,
+      "links": [
+        "https://open.spotify.com/track/1mjZ0FXQY8lz6HD7Y9rLpT"
+      ],
+      "vectorDividers": [
+        {
+          "page": 26,
+          "top": 203.2499915312501
+        },
+        {
+          "page": 31,
+          "top": 707.2499705312503
+        },
+        {
+          "page": 37,
+          "top": 541.4999774374992
+        }
+      ],
+      "editorialMarkersExcluded": [
+        {
+          "page": 22,
+          "marker": "Chapter Notes"
+        },
+        {
+          "page": 22,
+          "marker": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 39,
+          "marker": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-03",
+      "number": 3,
+      "title": "Chapter 3",
+      "startPage": 40,
+      "endPage": 65,
+      "bodyBlocks": 217,
+      "notesBefore": 0,
+      "notesAfter": 0,
+      "sourceGlyphSha256": "051dc2e8e7bad67a166fd2034dc1a5735ce46bb578038d45f332db3f9db3acdf",
+      "importedGlyphSha256": "051dc2e8e7bad67a166fd2034dc1a5735ce46bb578038d45f332db3f9db3acdf",
+      "independentGlyphSha256": "051dc2e8e7bad67a166fd2034dc1a5735ce46bb578038d45f332db3f9db3acdf",
+      "structuredTextSha256": "0d2cd1d9b2fdffead4fb45e8ba39a41ee42b51332a340616499f09dec15e03e1",
+      "fileSha256": "155ee3374e393d5aa1ce817dac1c29b3b3d6202fb53e07118385637abc83f442",
+      "nonWhitespaceCharacters": 38326,
+      "italicCharacters": 718,
+      "boldCharacters": 0,
+      "links": [],
+      "vectorDividers": [
+        {
+          "page": 50,
+          "top": 156.0004734999793
+        },
+        {
+          "page": 51,
+          "top": 270.0004687499795
+        },
+        {
+          "page": 58,
+          "top": 257.2499892812484
+        },
+        {
+          "page": 61,
+          "top": 412.5009428124613
+        }
+      ],
+      "editorialMarkersExcluded": []
+    },
+    {
+      "id": "cap-04",
+      "number": 4,
+      "title": "Chapter 4",
+      "startPage": 66,
+      "endPage": 94,
+      "bodyBlocks": 198,
+      "notesBefore": 1,
+      "notesAfter": 3,
+      "sourceGlyphSha256": "5b1d3c27ef25318cc52949b7a144e9d8b1157d46ed13e8431dd73bbc567e9554",
+      "importedGlyphSha256": "5b1d3c27ef25318cc52949b7a144e9d8b1157d46ed13e8431dd73bbc567e9554",
+      "independentGlyphSha256": "5b1d3c27ef25318cc52949b7a144e9d8b1157d46ed13e8431dd73bbc567e9554",
+      "structuredTextSha256": "b4ec27148a52b29ec30b702691c11deaad56e74f7377330c2425e3cea6f7d776",
+      "fileSha256": "ba197d9a0b65599500025f5d41a8c975876a5c35409598f57e192e70f84b9a28",
+      "nonWhitespaceCharacters": 45520,
+      "italicCharacters": 494,
+      "boldCharacters": 0,
+      "links": [],
+      "vectorDividers": [
+        {
+          "page": 70,
+          "top": 323.9999865
+        },
+        {
+          "page": 86,
+          "top": 121.50095493746085
+        }
+      ],
+      "editorialMarkersExcluded": [
+        {
+          "page": 66,
+          "marker": "Chapter Notes"
+        },
+        {
+          "page": 66,
+          "marker": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 94,
+          "marker": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-05",
+      "number": 5,
+      "title": "Chapter 5",
+      "startPage": 95,
+      "endPage": 119,
+      "bodyBlocks": 173,
+      "notesBefore": 1,
+      "notesAfter": 2,
+      "sourceGlyphSha256": "5279019a7992a49bfb51dcd0d2e74cfc023d42ad74969c703b8126797f81bae9",
+      "importedGlyphSha256": "5279019a7992a49bfb51dcd0d2e74cfc023d42ad74969c703b8126797f81bae9",
+      "independentGlyphSha256": "5279019a7992a49bfb51dcd0d2e74cfc023d42ad74969c703b8126797f81bae9",
+      "structuredTextSha256": "3b31c4e5686022b0f5b70fe8c34ab198a46c374b7e36ecc1a7347422fe382590",
+      "fileSha256": "0320789665331c08351c07045af1b503e963da0adb9bc3d0cc266e6598d46b96",
+      "nonWhitespaceCharacters": 39003,
+      "italicCharacters": 282,
+      "boldCharacters": 0,
+      "links": [],
+      "vectorDividers": [
+        {
+          "page": 103,
+          "top": 188.2499921562503
+        },
+        {
+          "page": 105,
+          "top": 304.5004673124795
+        },
+        {
+          "page": 106,
+          "top": 324.00046649997967
+        },
+        {
+          "page": 109,
+          "top": 272.2499886562491
+        },
+        {
+          "page": 114,
+          "top": 235.50095018746106
+        }
+      ],
+      "editorialMarkersExcluded": [
+        {
+          "page": 95,
+          "marker": "Chapter Notes"
+        },
+        {
+          "page": 95,
+          "marker": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 119,
+          "marker": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-06",
+      "number": 6,
+      "title": "Chapter 6",
+      "startPage": 120,
+      "endPage": 148,
+      "bodyBlocks": 230,
+      "notesBefore": 3,
+      "notesAfter": 1,
+      "sourceGlyphSha256": "f54574ae7ed274a909fa74185430eeb180fbc799e0edc1d4b51032f46caf62a2",
+      "importedGlyphSha256": "f54574ae7ed274a909fa74185430eeb180fbc799e0edc1d4b51032f46caf62a2",
+      "independentGlyphSha256": "f54574ae7ed274a909fa74185430eeb180fbc799e0edc1d4b51032f46caf62a2",
+      "structuredTextSha256": "6f890d828e74840f617fb45fdfb23cdd8e789473fac8a792abfbdb3f8c1d7cef",
+      "fileSha256": "88e6b6b32adf2b6bba244082b6e30f5d7fd71d851d6b55df7bec51068c0d28d9",
+      "nonWhitespaceCharacters": 43658,
+      "italicCharacters": 1768,
+      "boldCharacters": 0,
+      "links": [],
+      "vectorDividers": [
+        {
+          "page": 122,
+          "top": 635.9999734999999
+        },
+        {
+          "page": 127,
+          "top": 205.49999143750028
+        },
+        {
+          "page": 128,
+          "top": 629.9999737500002
+        },
+        {
+          "page": 134,
+          "top": 222.74999071874845
+        },
+        {
+          "page": 135,
+          "top": 644.9999731249991
+        }
+      ],
+      "editorialMarkersExcluded": [
+        {
+          "page": 120,
+          "marker": "Chapter Summary"
+        },
+        {
+          "page": 120,
+          "marker": "Chapter Notes"
+        },
+        {
+          "page": 120,
+          "marker": "See the end of the chapter for notes"
+        },
+        {
+          "page": 148,
+          "marker": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-07",
+      "number": 7,
+      "title": "Chapter 7",
+      "startPage": 149,
+      "endPage": 181,
+      "bodyBlocks": 224,
+      "notesBefore": 2,
+      "notesAfter": 2,
+      "sourceGlyphSha256": "4733d9c094bb31417068e3b875f0bd6e20e7009fad6ea993175eb230de7e22d0",
+      "importedGlyphSha256": "4733d9c094bb31417068e3b875f0bd6e20e7009fad6ea993175eb230de7e22d0",
+      "independentGlyphSha256": "4733d9c094bb31417068e3b875f0bd6e20e7009fad6ea993175eb230de7e22d0",
+      "structuredTextSha256": "6e165c865dbd4970dcc1102ceca674fb6f837400407b45f4fe5902ba0f374030",
+      "fileSha256": "bcb3e4636ff260c9ba41eb62a687850bf5100dd85956319e11a42fe894c7f831",
+      "nonWhitespaceCharacters": 51277,
+      "italicCharacters": 8212,
+      "boldCharacters": 192,
+      "links": [
+        "https://x.com/CamEelaCabeYo_s"
+      ],
+      "vectorDividers": [
+        {
+          "page": 150,
+          "top": 461.99998074999985
+        },
+        {
+          "page": 153,
+          "top": 425.24998228125014
+        },
+        {
+          "page": 157,
+          "top": 269.99998874999983
+        },
+        {
+          "page": 160,
+          "top": 358.50046506247963
+        },
+        {
+          "page": 163,
+          "top": 677.2499717812498
+        },
+        {
+          "page": 166,
+          "top": 222.74999071874845
+        },
+        {
+          "page": 170,
+          "top": 104.25095565621086
+        },
+        {
+          "page": 171,
+          "top": 494.2509394062108
+        },
+        {
+          "page": 173,
+          "top": 207.75095134371077
+        },
+        {
+          "page": 176,
+          "top": 321.7499865937498
+        },
+        {
+          "page": 177,
+          "top": 479.24998003125074
+        },
+        {
+          "page": 179,
+          "top": 578.2499759062484
+        }
+      ],
+      "editorialMarkersExcluded": [
+        {
+          "page": 149,
+          "marker": "Chapter Notes"
+        },
+        {
+          "page": 149,
+          "marker": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 181,
+          "marker": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-08",
+      "number": 8,
+      "title": "Chapter 8",
+      "startPage": 182,
+      "endPage": 213,
+      "bodyBlocks": 223,
+      "notesBefore": 1,
+      "notesAfter": 1,
+      "sourceGlyphSha256": "1a2734323f9b1efabea7bb7a381c8526fe5b4b89c97a9a6cfbe528248648a873",
+      "importedGlyphSha256": "1a2734323f9b1efabea7bb7a381c8526fe5b4b89c97a9a6cfbe528248648a873",
+      "independentGlyphSha256": "1a2734323f9b1efabea7bb7a381c8526fe5b4b89c97a9a6cfbe528248648a873",
+      "structuredTextSha256": "81fbf42154ef5ac5a5dbb96d7bcc80021c70aaa59efb0e6e7445b32653fc519d",
+      "fileSha256": "25c5943898da1e01e09214233b473aa8235e5e74a00355848dc27e3ea14df156",
+      "nonWhitespaceCharacters": 51225,
+      "italicCharacters": 6356,
+      "boldCharacters": 0,
+      "links": [],
+      "vectorDividers": [
+        {
+          "page": 184,
+          "top": 504.74997896874993
+        },
+        {
+          "page": 189,
+          "top": 71.9999969999999
+        },
+        {
+          "page": 190,
+          "top": 353.99998525000046
+        },
+        {
+          "page": 192,
+          "top": 528.7504579687302
+        },
+        {
+          "page": 196,
+          "top": 410.249982906249
+        },
+        {
+          "page": 198,
+          "top": 222.74999071874845
+        },
+        {
+          "page": 201,
+          "top": 615.0009343749607
+        },
+        {
+          "page": 203,
+          "top": 138.75095421871083
+        },
+        {
+          "page": 204,
+          "top": 121.50095493746085
+        },
+        {
+          "page": 210,
+          "top": 640.4999733125005
+        }
+      ],
+      "editorialMarkersExcluded": [
+        {
+          "page": 182,
+          "marker": "Chapter Summary"
+        },
+        {
+          "page": 182,
+          "marker": "Chapter Notes"
+        },
+        {
+          "page": 182,
+          "marker": "See the end of the chapter for notes"
+        },
+        {
+          "page": 213,
+          "marker": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-09",
+      "number": 9,
+      "title": "Chapter 9",
+      "startPage": 214,
+      "endPage": 243,
+      "bodyBlocks": 258,
+      "notesBefore": 1,
+      "notesAfter": 2,
+      "sourceGlyphSha256": "6a55f4ba37e68c1371b2ac71dd646ef0313efdc6bc7cd3dfedffcb735eadc978",
+      "importedGlyphSha256": "6a55f4ba37e68c1371b2ac71dd646ef0313efdc6bc7cd3dfedffcb735eadc978",
+      "independentGlyphSha256": "6a55f4ba37e68c1371b2ac71dd646ef0313efdc6bc7cd3dfedffcb735eadc978",
+      "structuredTextSha256": "5c242b8492cf5265fb82e524f5cd5e37816068f60a7065c2f555abde29fbaab9",
+      "fileSha256": "e7f714c9fcd0428dc8740e3f58330b690feef4508134c8cdaa9dbcc96570e549",
+      "nonWhitespaceCharacters": 43877,
+      "italicCharacters": 1266,
+      "boldCharacters": 163,
+      "links": [],
+      "vectorDividers": [
+        {
+          "page": 215,
+          "top": 405.74998309374985
+        },
+        {
+          "page": 218,
+          "top": 412.4999828125001
+        },
+        {
+          "page": 221,
+          "top": 472.49998031250016
+        },
+        {
+          "page": 226,
+          "top": 186.0004722499798
+        },
+        {
+          "page": 229,
+          "top": 104.24999565624967
+        },
+        {
+          "page": 231,
+          "top": 170.9999928749985
+        },
+        {
+          "page": 233,
+          "top": 412.5009428124613
+        },
+        {
+          "page": 237,
+          "top": 171.0009528749597
+        },
+        {
+          "page": 239,
+          "top": 170.99999287500214
+        }
+      ],
+      "editorialMarkersExcluded": [
+        {
+          "page": 214,
+          "marker": "Chapter Notes"
+        },
+        {
+          "page": 214,
+          "marker": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 243,
+          "marker": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-10",
+      "number": 10,
+      "title": "Chapter 10",
+      "startPage": 244,
+      "endPage": 270,
+      "bodyBlocks": 200,
+      "notesBefore": 0,
+      "notesAfter": 4,
+      "sourceGlyphSha256": "6bf01f6e4b64f385409296c4de0c82f5f2dcc4bb6c19ea465dfaabcdd81b8793",
+      "importedGlyphSha256": "6bf01f6e4b64f385409296c4de0c82f5f2dcc4bb6c19ea465dfaabcdd81b8793",
+      "independentGlyphSha256": "6bf01f6e4b64f385409296c4de0c82f5f2dcc4bb6c19ea465dfaabcdd81b8793",
+      "structuredTextSha256": "d00008ac004e298e55d796773187e404f8dd81b13aad0853ac330548cb7729ed",
+      "fileSha256": "b70a64d8f96dea3f99f1b3f081521b538f410f27cdbb627e691cffa03a71a92a",
+      "nonWhitespaceCharacters": 41880,
+      "italicCharacters": 2722,
+      "boldCharacters": 0,
+      "links": [],
+      "vectorDividers": [
+        {
+          "page": 244,
+          "top": 646.4999730625
+        },
+        {
+          "page": 246,
+          "top": 388.4999838125
+        },
+        {
+          "page": 247,
+          "top": 405.7501030937451
+        },
+        {
+          "page": 248,
+          "top": 694.4999710624998
+        },
+        {
+          "page": 252,
+          "top": 657.7499725937496
+        },
+        {
+          "page": 255,
+          "top": 375.7504643437296
+        },
+        {
+          "page": 261,
+          "top": 425.2499822812497
+        },
+        {
+          "page": 264,
+          "top": 339.00094587496096
+        },
+        {
+          "page": 269,
+          "top": 222.7499907187521
+        }
+      ],
+      "editorialMarkersExcluded": [
+        {
+          "page": 244,
+          "marker": "Chapter Notes"
+        },
+        {
+          "page": 244,
+          "marker": "See the end of the chapter for notes"
+        },
+        {
+          "page": 270,
+          "marker": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-11",
+      "number": 11,
+      "title": "Chapter 11",
+      "startPage": 271,
+      "endPage": 297,
+      "bodyBlocks": 173,
+      "notesBefore": 2,
+      "notesAfter": 1,
+      "sourceGlyphSha256": "e48a13ad0e0dfaf3100a0869443ef515592c30b68b49e1b2ff040a2720c368cf",
+      "importedGlyphSha256": "e48a13ad0e0dfaf3100a0869443ef515592c30b68b49e1b2ff040a2720c368cf",
+      "independentGlyphSha256": "e48a13ad0e0dfaf3100a0869443ef515592c30b68b49e1b2ff040a2720c368cf",
+      "structuredTextSha256": "a1f6035a5735f01826118bab3e58eb5e1a690a927e8dad97cdece90f78c2b4cb",
+      "fileSha256": "6243619c80e51c47982daa9661abc47023567eab97a6eb5e13a555025b5a3a4b",
+      "nonWhitespaceCharacters": 43865,
+      "italicCharacters": 2751,
+      "boldCharacters": 32,
+      "links": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS4k3z5rhNw87LYvxb_DqHiLLHhDt5t1kjH0byH-qa6A&s=10"
+      ],
+      "vectorDividers": [
+        {
+          "page": 273,
+          "top": 222.7499907187498
+        },
+        {
+          "page": 274,
+          "top": 630.0000937499949
+        },
+        {
+          "page": 284,
+          "top": 377.9999842499983
+        },
+        {
+          "page": 286,
+          "top": 343.49998568749834
+        },
+        {
+          "page": 293,
+          "top": 218.25095090621107
+        },
+        {
+          "page": 293,
+          "top": 555.0009368749597
+        }
+      ],
+      "editorialMarkersExcluded": [
+        {
+          "page": 271,
+          "marker": "Chapter Notes"
+        },
+        {
+          "page": 271,
+          "marker": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 297,
+          "marker": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-12",
+      "number": 12,
+      "title": "Chapter 12",
+      "startPage": 298,
+      "endPage": 330,
+      "bodyBlocks": 209,
+      "notesBefore": 3,
+      "notesAfter": 3,
+      "sourceGlyphSha256": "42855bf3d6956b060cf0f1cb663762a4e14db14ca8dfca8dbd4599c958886a44",
+      "importedGlyphSha256": "42855bf3d6956b060cf0f1cb663762a4e14db14ca8dfca8dbd4599c958886a44",
+      "independentGlyphSha256": "42855bf3d6956b060cf0f1cb663762a4e14db14ca8dfca8dbd4599c958886a44",
+      "structuredTextSha256": "dee62c4412e52d0d81c733dbb4fba42e742286d9cc55974d3748b2f1823a2d58",
+      "fileSha256": "2ad1d806e06c8a9a588f073093cfab9a5a5301774787638c14a0dcfa74898be1",
+      "nonWhitespaceCharacters": 53108,
+      "italicCharacters": 6941,
+      "boldCharacters": 0,
+      "links": [
+        "https://bileto.sympla.com.br/event/120440/d/386998/s/2560629?algoliaID=045dcb15969d1364042309656b1eb595"
+      ],
+      "vectorDividers": [
+        {
+          "page": 303,
+          "top": 711.7502103437396
+        },
+        {
+          "page": 308,
+          "top": 235.50047018747955
+        },
+        {
+          "page": 315,
+          "top": 311.2499870312495
+        },
+        {
+          "page": 318,
+          "top": 576.0009359999603
+        },
+        {
+          "page": 325,
+          "top": 188.24999215625212
+        }
+      ],
+      "editorialMarkersExcluded": [
+        {
+          "page": 298,
+          "marker": "Chapter Notes"
+        },
+        {
+          "page": 298,
+          "marker": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 329,
+          "marker": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-13",
+      "number": 13,
+      "title": "Chapter 13",
+      "startPage": 331,
+      "endPage": 355,
+      "bodyBlocks": 164,
+      "notesBefore": 0,
+      "notesAfter": 2,
+      "sourceGlyphSha256": "7b053400b78abd3d888798ef0c9b5295b4f6caea1baa6cccb4e26accfaa6bc31",
+      "importedGlyphSha256": "7b053400b78abd3d888798ef0c9b5295b4f6caea1baa6cccb4e26accfaa6bc31",
+      "independentGlyphSha256": "7b053400b78abd3d888798ef0c9b5295b4f6caea1baa6cccb4e26accfaa6bc31",
+      "structuredTextSha256": "fe6ace5f118c305f7fede4d9ccf53004d0fa8f821443fb820e0bd162e86eb5a8",
+      "fileSha256": "bcfc21a0bb5030bdcbe39c86ab1edc972cd927c67e661755f6658b62fc3f8981",
+      "nonWhitespaceCharacters": 40845,
+      "italicCharacters": 5265,
+      "boldCharacters": 0,
+      "links": [],
+      "vectorDividers": [
+        {
+          "page": 334,
+          "top": 440.2501016562451
+        },
+        {
+          "page": 337,
+          "top": 386.2502239062396
+        },
+        {
+          "page": 340,
+          "top": 274.4999885625002
+        },
+        {
+          "page": 344,
+          "top": 558.7499767187492
+        },
+        {
+          "page": 351,
+          "top": 255.00094937496033
+        },
+        {
+          "page": 353,
+          "top": 393.0009436249602
+        },
+        {
+          "page": 354,
+          "top": 390.7509437187109
+        }
+      ],
+      "editorialMarkersExcluded": [
+        {
+          "page": 331,
+          "marker": "Chapter Notes"
+        },
+        {
+          "page": 331,
+          "marker": "See the end of the chapter for notes"
+        },
+        {
+          "page": 355,
+          "marker": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-14",
+      "number": 14,
+      "title": "Chapter 14",
+      "startPage": 356,
+      "endPage": 384,
+      "bodyBlocks": 176,
+      "notesBefore": 1,
+      "notesAfter": 3,
+      "sourceGlyphSha256": "b03bd48fa47d62ec92b9acc8f94afb21c2336ea3e83193900b7e91eba30dd44a",
+      "importedGlyphSha256": "b03bd48fa47d62ec92b9acc8f94afb21c2336ea3e83193900b7e91eba30dd44a",
+      "independentGlyphSha256": "b03bd48fa47d62ec92b9acc8f94afb21c2336ea3e83193900b7e91eba30dd44a",
+      "structuredTextSha256": "30a8f5cb0860a2258aa2856be5a33675b206e3e16033ba9953ae0d0784752f27",
+      "fileSha256": "7842e8cd4ec2bba2dc573bad2b98126ecd8421b043b420a536b8073ec41fa5f3",
+      "nonWhitespaceCharacters": 48815,
+      "italicCharacters": 107,
+      "boldCharacters": 0,
+      "links": [],
+      "vectorDividers": [
+        {
+          "page": 357,
+          "top": 257.2499892812499
+        },
+        {
+          "page": 363,
+          "top": 590.9999753749998
+        },
+        {
+          "page": 367,
+          "top": 543.75045734373
+        },
+        {
+          "page": 371,
+          "top": 155.99999349999962
+        },
+        {
+          "page": 376,
+          "top": 440.25094165620976
+        },
+        {
+          "page": 378,
+          "top": 72.00095699996018
+        }
+      ],
+      "editorialMarkersExcluded": [
+        {
+          "page": 356,
+          "marker": "Chapter Notes"
+        },
+        {
+          "page": 356,
+          "marker": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 384,
+          "marker": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-15",
+      "number": 15,
+      "title": "Chapter 15",
+      "startPage": 385,
+      "endPage": 416,
+      "bodyBlocks": 235,
+      "notesBefore": 2,
+      "notesAfter": 3,
+      "sourceGlyphSha256": "43e1bc57bb9203aae40789b51b48838be0af123e71ca196769cb210915cecad1",
+      "importedGlyphSha256": "43e1bc57bb9203aae40789b51b48838be0af123e71ca196769cb210915cecad1",
+      "independentGlyphSha256": "43e1bc57bb9203aae40789b51b48838be0af123e71ca196769cb210915cecad1",
+      "structuredTextSha256": "89c4d5c582b2e6ce6adb1677301a8a76f04d7433f9c4e23cc768f4ba83948f3e",
+      "fileSha256": "09a91bd322014d7a3d872bf2587cf0c11431ddbb260f3e5b20fc8c8de9050d0f",
+      "nonWhitespaceCharacters": 49096,
+      "italicCharacters": 267,
+      "boldCharacters": 0,
+      "links": [],
+      "vectorDividers": [
+        {
+          "page": 386,
+          "top": 698.9999708749999
+        },
+        {
+          "page": 389,
+          "top": 205.49999143749983
+        },
+        {
+          "page": 392,
+          "top": 388.49998381250043
+        },
+        {
+          "page": 396,
+          "top": 274.5004685624799
+        },
+        {
+          "page": 399,
+          "top": 704.9999706250001
+        },
+        {
+          "page": 402,
+          "top": 155.99999349999962
+        },
+        {
+          "page": 403,
+          "top": 207.74999134374957
+        },
+        {
+          "page": 406,
+          "top": 418.5009425624612
+        },
+        {
+          "page": 411,
+          "top": 383.9999839999982
+        },
+        {
+          "page": 414,
+          "top": 386.2499839062475
+        }
+      ],
+      "editorialMarkersExcluded": [
+        {
+          "page": 385,
+          "marker": "Chapter Notes"
+        },
+        {
+          "page": 385,
+          "marker": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 416,
+          "marker": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-16",
+      "number": 16,
+      "title": "Chapter 16",
+      "startPage": 417,
+      "endPage": 447,
+      "bodyBlocks": 207,
+      "notesBefore": 2,
+      "notesAfter": 3,
+      "sourceGlyphSha256": "05965de93135787d61d5cd41b8096c0ba39d1ad3136829c50586190785da4ddf",
+      "importedGlyphSha256": "05965de93135787d61d5cd41b8096c0ba39d1ad3136829c50586190785da4ddf",
+      "independentGlyphSha256": "05965de93135787d61d5cd41b8096c0ba39d1ad3136829c50586190785da4ddf",
+      "structuredTextSha256": "7f0eabef6807021793422233968e7fa16738beaa57fce916ac50d39e1f049f9c",
+      "fileSha256": "e0016bbd4f86133e16d3ae4916f42fc335060b1cde1ca8b7ae43e3a042aa2c2a",
+      "nonWhitespaceCharacters": 48232,
+      "italicCharacters": 7300,
+      "boldCharacters": 200,
+      "links": [],
+      "vectorDividers": [
+        {
+          "page": 421,
+          "top": 274.49998856249977
+        },
+        {
+          "page": 426,
+          "top": 343.49998568750016
+        },
+        {
+          "page": 427,
+          "top": 137.2504742812298
+        },
+        {
+          "page": 432,
+          "top": 526.4999780624985
+        },
+        {
+          "page": 434,
+          "top": 681.7499715937502
+        },
+        {
+          "page": 441,
+          "top": 509.2509387812097
+        },
+        {
+          "page": 442,
+          "top": 713.9999702500027
+        }
+      ],
+      "editorialMarkersExcluded": [
+        {
+          "page": 417,
+          "marker": "Chapter Notes"
+        },
+        {
+          "page": 417,
+          "marker": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 446,
+          "marker": "Chapter End Notes"
+        }
+      ]
+    },
+    {
+      "id": "cap-17",
+      "number": 17,
+      "title": "Chapter 17",
+      "startPage": 448,
+      "endPage": 498,
+      "bodyBlocks": 342,
+      "notesBefore": 2,
+      "notesAfter": 7,
+      "sourceGlyphSha256": "ab427410f478520b0cafd6c85ce5bcfb25223cc8b5f7fc117535c14577c50f9c",
+      "importedGlyphSha256": "ab427410f478520b0cafd6c85ce5bcfb25223cc8b5f7fc117535c14577c50f9c",
+      "independentGlyphSha256": "ab427410f478520b0cafd6c85ce5bcfb25223cc8b5f7fc117535c14577c50f9c",
+      "structuredTextSha256": "64c22877a03aabd93dd9e150f1b518f3a6ebe578939431ff6d6b11c11f11288d",
+      "fileSha256": "4dd4ce144c01bf23449c89cebe2fcee9562e745b18faece065b4de99aa8e2078",
+      "nonWhitespaceCharacters": 82529,
+      "italicCharacters": 235,
+      "boldCharacters": 0,
+      "links": [
+        "https://ngl.link/noniel54823",
+        "https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7",
+        "https://open.spotify.com/track/4PxTFojApbNeeIwiEEx2QX",
+        "https://open.spotify.com/track/5aGhtbviqUqjtno5vcUmCN",
+        "https://www.dhresource.com/webp/m/0x0/f2/albu/g10/M01/95/53/rBVaVl6yhSeAf88ZAAEvLZoD6K8843.jpg",
+        "https://www.dhresource.com/webp/m/0x0/f2/albu/g10/M01/9F/F1/rBVaVl4NrieAapyiABocS1OgbF0240.jpg",
+        "https://x.com/noniel_b"
+      ],
+      "vectorDividers": [
+        {
+          "page": 453,
+          "top": 459.75022084373995
+        },
+        {
+          "page": 457,
+          "top": 138.74999421874963
+        },
+        {
+          "page": 459,
+          "top": 462.00046074997954
+        },
+        {
+          "page": 463,
+          "top": 536.9999776249988
+        },
+        {
+          "page": 464,
+          "top": 524.2499781562492
+        },
+        {
+          "page": 467,
+          "top": 567.7509363437111
+        },
+        {
+          "page": 469,
+          "top": 356.25094515621095
+        }
+      ],
+      "editorialMarkersExcluded": [
+        {
+          "page": 448,
+          "marker": "Chapter Notes"
+        },
+        {
+          "page": 448,
+          "marker": "See the end of the chapter for more notes"
+        },
+        {
+          "page": 498,
+          "marker": "Chapter End Notes"
+        }
+      ]
+    }
+  ],
+  "pageBoundaries": [
+    {
+      "chapter": "cap-01",
+      "nextPage": 4,
+      "joined": true,
+      "previous": "errado no momento que a policialzinha intrometida chegou como um",
+      "following": "tornado destruindo tudo por onde passa e deixando tempestades em seu"
+    },
+    {
+      "chapter": "cap-01",
+      "nextPage": 5,
+      "joined": true,
+      "previous": "conseguir parar Santiago Ferette de uma vez por todas. E se o privilégio",
+      "following": "dela puder ajudar a garantir que seu sogro apodreça na cadeia pelo resto da"
+    },
+    {
+      "chapter": "cap-01",
+      "nextPage": 6,
+      "joined": false,
+      "previous": "dessa vez seu mundo para de girar de vez.",
+      "following": "Lorena. Bloco de papel e caneta nas mãos, olhando concentrada pro casal"
+    },
+    {
+      "chapter": "cap-01",
+      "nextPage": 7,
+      "joined": false,
+      "previous": "\"Amor? Duda, você tá aí? Fala comigo, tá tudo bem?\"",
+      "following": "\"Oi, linda. Tá.. tá sim.\" Não. Não ouse! Cada um de seus átomos parece"
+    },
+    {
+      "chapter": "cap-01",
+      "nextPage": 8,
+      "joined": false,
+      "previous": "delegacia. Paulinho atende no segundo toque.",
+      "following": "“Tá tudo limpo por aqui. Não achei nada. O delegado vai aumentar a"
+    },
+    {
+      "chapter": "cap-01",
+      "nextPage": 9,
+      "joined": false,
+      "previous": "permitir que aquele vagabundo me use pra te machucar.”",
+      "following": "“Seu pai, Paulinho…”"
+    },
+    {
+      "chapter": "cap-01",
+      "nextPage": 10,
+      "joined": false,
+      "previous": "“É claro que eu fui.”",
+      "following": "“Pois então. Você lembra das posições das câmeras? Alguma pode ser útil?”"
+    },
+    {
+      "chapter": "cap-01",
+      "nextPage": 11,
+      "joined": true,
+      "previous": "“Muito obrigada. Vocês já olharam os estabelecimentos? Câmeras?”",
+      "following": "“Considerando o ângulo da foto, só aquela loja ali pode ter alguma coisa"
+    },
+    {
+      "chapter": "cap-01",
+      "nextPage": 12,
+      "joined": false,
+      "previous": "porta dos fundos.",
+      "following": "“Ei, Juquinha! Boa noite. Lorena tá nas mesas perto do bar te esperando.”"
+    },
+    {
+      "chapter": "cap-01",
+      "nextPage": 13,
+      "joined": true,
+      "previous": "entram em estado de alerta, seu corpo pulsa em resposta. Ela nunca foi",
+      "following": "careta, mas nunca experimentou drogas pesadas. Não apenas por crescer"
+    },
+    {
+      "chapter": "cap-01",
+      "nextPage": 14,
+      "joined": false,
+      "previous": "livre?",
+      "following": "Eduarda? Eduarda cresceu livre. Pés no chão, peito estufado de orgulho,"
+    },
+    {
+      "chapter": "cap-01",
+      "nextPage": 15,
+      "joined": true,
+      "previous": "volta aos seus olhos e rubor às suas bochechas, Lorena entende que trocaria",
+      "following": "a infinidade do céu que estava aprendendo a desbravar pela certeza de que"
+    },
+    {
+      "chapter": "cap-01",
+      "nextPage": 16,
+      "joined": true,
+      "previous": "fora. Por ser tão tarde, é um raro momento em que ninguém mais está",
+      "following": "acordado, nem mesmo Kasper, que ultimamente passa mais tempo no"
+    },
+    {
+      "chapter": "cap-01",
+      "nextPage": 17,
+      "joined": false,
+      "previous": "preciosa.",
+      "following": "“Às vezes eu esqueço que algumas pessoas ricas possuem bom gosto,"
+    },
+    {
+      "chapter": "cap-01",
+      "nextPage": 18,
+      "joined": true,
+      "previous": "te amar é o único que eu jamais abriria mão, “qual deles é o chorão?”",
+      "following": "(Mesmo tendo ouvido aquela gargalhada incontáveis vezes, Lorena sente o"
+    },
+    {
+      "chapter": "cap-01",
+      "nextPage": 19,
+      "joined": true,
+      "previous": "uma história com início e meio, mas ainda em construção. Livros em pelo",
+      "following": "menos 3 idiomas, de ficção a biografias, alguns empilhados com diferentes"
+    },
+    {
+      "chapter": "cap-01",
+      "nextPage": 20,
+      "joined": false,
+      "previous": "“Sim.”",
+      "following": "“Agora, neste momento?”"
+    },
+    {
+      "chapter": "cap-01",
+      "nextPage": 21,
+      "joined": false,
+      "previous": "blusa, tudo que vê nos olhos dela é amor e desejo.",
+      "following": "Levanta e estende a mão, “quando a gente se deitar de novo nessa cama,"
+    },
+    {
+      "chapter": "cap-02",
+      "nextPage": 23,
+      "joined": true,
+      "previous": "lhe oferece. Ele parece bem, descansado. Apenas mais um dia, como se o",
+      "following": "mundo não tivesse saído do eixo 12 horas atrás, “se você não é o alvo real,"
+    },
+    {
+      "chapter": "cap-02",
+      "nextPage": 24,
+      "joined": false,
+      "previous": "perder. É ela que ele odeia. Eu sou só uma peça, um efeito colateral.”",
+      "following": "“E contra ela ele faria algo agora? Eu acho que não. Ela é filha dele.”"
+    },
+    {
+      "chapter": "cap-02",
+      "nextPage": 25,
+      "joined": true,
+      "previous": "importante?? Que, por sinal, afeta direta e indiretamente os senhores??”",
+      "following": "“Paulinho deu um pequeno tropeço, delegado. E somos muito competentes,"
+    },
+    {
+      "chapter": "cap-02",
+      "nextPage": 26,
+      "joined": true,
+      "previous": "concreto, sem assinaturas. A ideia é desestabilizar, incitar medo, talvez",
+      "following": "forçar um término ou um afastamento, o que, no que depender dela, não vai"
+    },
+    {
+      "chapter": "cap-02",
+      "nextPage": 27,
+      "joined": false,
+      "previous": "importante: eu escolheria te amar em todas as minhas vidas.",
+      "following": "Eu te amo. Pela inevitabilidade do destino e pela escolha da minha"
+    },
+    {
+      "chapter": "cap-02",
+      "nextPage": 28,
+      "joined": true,
+      "previous": "acalenta, cuida, cura, muda o mundo e que, principalmente, também é dela.",
+      "following": "Não foi uma escolha. Nunca é, foi o que disse para Zenilda quando contou"
+    },
+    {
+      "chapter": "cap-02",
+      "nextPage": 29,
+      "joined": false,
+      "previous": "O riso frouxo que cê tem",
+      "following": "Procuro em todos os lugares"
+    },
+    {
+      "chapter": "cap-02",
+      "nextPage": 30,
+      "joined": false,
+      "previous": "“Ridícula. Pois pode tirar o olho que ela tem dona.”",
+      "following": "“graças a esta que vos fala. eu acho que eu ganhei o direito a um pequeno"
+    },
+    {
+      "chapter": "cap-02",
+      "nextPage": 31,
+      "joined": false,
+      "previous": "queira.",
+      "following": "Na banqueta da ilha: coma alguma coisa com proteína! Nada de só frutas!"
+    },
+    {
+      "chapter": "cap-02",
+      "nextPage": 33,
+      "joined": false,
+      "previous": "“Quê?!”",
+      "following": "“Comentei da noite passada e do seu bilhete e acho que engatilhei o gay"
+    },
+    {
+      "chapter": "cap-02",
+      "nextPage": 34,
+      "joined": false,
+      "previous": "vista elefante na sala, nem tanto.",
+      "following": "Eduarda não sabe bem o que fazer com as mãos (ansiedade não é um"
+    },
+    {
+      "chapter": "cap-02",
+      "nextPage": 35,
+      "joined": false,
+      "previous": "toque dela.",
+      "following": "“Me mostra a foto…”, diz, rosto escondido no pescoço de Eduarda, uma"
+    },
+    {
+      "chapter": "cap-02",
+      "nextPage": 36,
+      "joined": false,
+      "previous": "ficar aqui? Comigo? Pelo menos até a gente resolver esse problema?”",
+      "following": "“É sério isso?”"
+    },
+    {
+      "chapter": "cap-02",
+      "nextPage": 37,
+      "joined": true,
+      "previous": "ao seu lado”, Eduarda sorri, “mas!”, o sorriso de Eduarda diminui um",
+      "following": "pouco, “fale com seus pais. Sem falta. Eu odiaria impôr minha presença na"
+    },
+    {
+      "chapter": "cap-02",
+      "nextPage": 38,
+      "joined": false,
+      "previous": "como a outra deve seguir, mas o encaixe? Ah, este é perfeito.",
+      "following": "Eduarda é… enérgica. O tempo todo. O que, se for sincera, Lorena deveria"
+    },
+    {
+      "chapter": "cap-02",
+      "nextPage": 39,
+      "joined": true,
+      "previous": "seu amor próprio é o amor dela. Lorena não é incompleta sem Eduarda,",
+      "following": "nem incapaz. Ela só é mais colorida, mais segura de si. Ter amparo e afeto"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 41,
+      "joined": false,
+      "previous": "entrelaçada com a de Lorena.",
+      "following": "Uma vez livre, se vira para ela, solta o cinto dela, a puxa para si e, como já"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 42,
+      "joined": false,
+      "previous": "“Juquinha. Você está atrasada.”",
+      "following": "“Ele atirou.”"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 43,
+      "joined": true,
+      "previous": "não sei o que fazer. Eu nunca senti tanta coisa que eu não sei nomear de",
+      "following": "uma só vez e isso me sufoca. A presença dela é a única coisa que está me"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 44,
+      "joined": false,
+      "previous": "vai no seu ritmo, não tem pressa nenhuma.”",
+      "following": "“Não, tudo bem. Pode ir”, os olhos dela ainda mostram preocupação,"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 45,
+      "joined": true,
+      "previous": "quebrar uma ilusão de que talvez ainda exista alguma coisa em Santiago",
+      "following": "Ferette na qual se apegar; alguma esperança, mesmo que ínfima, de que"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 46,
+      "joined": true,
+      "previous": "pessoa tão altruísta ao seu lado, lhe amando aos berros e aos sussurros e em",
+      "following": "todos os tons e notas entre os extremos. Uma lágrima se liberta da barreira"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 47,
+      "joined": false,
+      "previous": "“Tá sim. A gente já tá chegando na delegacia. Te espero.”",
+      "following": "“Ok, eu já to saindo. Até daqui a pouco. Eu te amo, viu?”"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 48,
+      "joined": false,
+      "previous": "bochecha.",
+      "following": "“Onde você esteve minha vida toda?”"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 49,
+      "joined": false,
+      "previous": "de especial inspiração, covinhas marcadas, olhos brilhando.",
+      "following": "“O que eu posso dizer? Quando eu quero algo, eu não fico esperando.”"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 50,
+      "joined": false,
+      "previous": "“Eu to muito feliz que vocês não se machucaram. De verdade.”",
+      "following": "Elas sorriem. Juquinha assente com a cabeça e mantém contato visual com"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 51,
+      "joined": false,
+      "previous": "chá se eu conseguir achar algum sachê perdido.”",
+      "following": "“Eu acho que nunca vi uma alma sequer nessa delegacia tomando chá.”"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 52,
+      "joined": false,
+      "previous": "Lorena chegar na delegacia procurando por ela.",
+      "following": "A questão sobre Eduarda, ele descobre naquele momento, é que ela é muito"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 53,
+      "joined": false,
+      "previous": "evidente na forma como se move, “por onde eu devo começar?”",
+      "following": "“Todos estamos cientes do inquérito aberto pela investigadora Eduarda"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 54,
+      "joined": false,
+      "previous": "comigo e me leva para o trabalho todos os dias por segurança.”",
+      "following": "“Por causa das ameaças?”"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 55,
+      "joined": true,
+      "previous": "silencioso, quase tímido, diante de um ódio estrondoso. No peito, a chama",
+      "following": "arde cada vez mais forte, suas veias todas em brasa cada vez mais"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 56,
+      "joined": false,
+      "previous": "pessoas parece ser bem cômodo acreditar!”",
+      "following": "“Juquinha”, Paulinho não ousa encostar nela. Ele sabe que qualquer"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 57,
+      "joined": false,
+      "previous": "“Mãe?”",
+      "following": "“Ela não tá bem, meu amor…”, a voz de Zenilda é baixa, apenas para ela"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 58,
+      "joined": false,
+      "previous": "forma.",
+      "following": "Uma interação é o suficiente para ele entender a dinâmica Ferette e o"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 59,
+      "joined": true,
+      "previous": "menos duas lixeiras prateadas para lixo orgânico com cinzeiros na parte",
+      "following": "superior. Por estar num andar tão alto, o vento é constante, o que"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 60,
+      "joined": true,
+      "previous": "naquele jantar. Nunca é a forma que ele tratou Viviane, João Rubens,",
+      "following": "Kasper, Maggye, Eduarda. Nunca é o fato de que ele me expulsou de casa."
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 61,
+      "joined": true,
+      "previous": "sussurros, quase que escondido”, ela se vira de novo para Zenilda, nota as",
+      "following": "lágrimas nos olhos dela e tenta ignorar a culpa que sente por ser a causa"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 62,
+      "joined": false,
+      "previous": "direção à academia da delegacia. Hora de resolver esse problema.",
+      "following": "Ignora completamente as máquinas, halteres, colchonetes, anilhas, barras,"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 63,
+      "joined": false,
+      "previous": "Raiva é pouco, mundano demais, simples demais. Fúria.",
+      "following": "O primeiro soco conecta, ele consegue se defender. O segundo, nem tanto."
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 64,
+      "joined": false,
+      "previous": "volta. Ela vai ficar bem.",
+      "following": "Minutos, ou talvez horas, dias, se passam com eles ali. Até suas respirações"
+    },
+    {
+      "chapter": "cap-03",
+      "nextPage": 65,
+      "joined": false,
+      "previous": "“Sim.”",
+      "following": "“Não, Juquinha”, ele desfaz o abraço para poder olhar pra ela, “ela está em"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 67,
+      "joined": true,
+      "previous": "completamente desse privilégio. E ela também não quer isso. Ela tem muito",
+      "following": "orgulho de ser filha de quem é e de ser amada por eles como é. Não tem"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 68,
+      "joined": false,
+      "previous": "apreensão. Por que isso ainda não foi feito?”",
+      "following": "“Porque não vai andar. Quando pedimos da casa de farinha ele deu um jeito"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 69,
+      "joined": false,
+      "previous": "vezes mais por isso.",
+      "following": "“Eu acho que a gente nunca vai conseguir derrubar ele sem sujar as mãos na"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 70,
+      "joined": false,
+      "previous": "melhor forma de conseguir arrancar algo dele é dar corda pra ele.”",
+      "following": "“Outra entrevista na delegacia?”"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 71,
+      "joined": true,
+      "previous": "editada do que aconteceu. Não faz sentido ela contar a verdade completa,",
+      "following": "Maggye já está sobrecarregada com os próprios problemas, Lorena não quer"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 72,
+      "joined": false,
+      "previous": "péssima decisão, uma fisgada lhe diz.",
+      "following": "“Ela tá bem de verdade, juro. Eu não acertei ela, só precisei segurar pelos"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 73,
+      "joined": true,
+      "previous": "sala, Paulinho agora na frente dela, sentado na cadeira, olhando para ela",
+      "following": "com a expressão de criança que quer atenção, mas está com medo de"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 74,
+      "joined": true,
+      "previous": "responsabilidades – ela é a provedora de casa, tem uma filha adolescente",
+      "following": "que está grávida – ela não teria sequer tempo pra me trair. Eu confio nela"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 75,
+      "joined": false,
+      "previous": "quando sente uma fisgada leve.",
+      "following": "“Sim. Mas ainda assim são coisas diferentes”, ela ajusta um pouco a"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 76,
+      "joined": true,
+      "previous": "se tivesse tomado um soco no peito. Surpreso, confuso, “eu não estou",
+      "following": "dizendo que é simples nem que seu medo não é válido, não é isso. O que eu"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 77,
+      "joined": true,
+      "previous": "analogia que se aplique à forma como Lorena parece emanar vida, como ela",
+      "following": "se torna ao mesmo tempo mais calma e mais energizada. Ele vê nela tudo"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 78,
+      "joined": false,
+      "previous": "selvagem, possessivo, visceral.",
+      "following": "Ela desvia o olhar e encontra os dele. Pondo de forma simples, ele parece"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 79,
+      "joined": false,
+      "previous": "“Público?”, Lorena pergunta, “você diz de vazar pra mídia?”",
+      "following": "“Não tudo. A gente não pode comprometer o inquérito nem o que a gente"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 80,
+      "joined": false,
+      "previous": "vender sua imagem de benfeitor.”",
+      "following": "Silêncio novamente. Dessa vez mais pensativo, analítico – e, no caso de"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 81,
+      "joined": true,
+      "previous": "as pontas soltas pra, quando tivermos, usarmos de forma rápida e eficaz.”",
+      "following": "“Eu poderia estar ouvindo essas coisas?”, Lorena pergunta baixinho para"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 82,
+      "joined": false,
+      "previous": "consciente do ambiente que estão.",
+      "following": "“Sem mas, então. Me dê uns minutinhos para resolver essa parte e também"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 83,
+      "joined": true,
+      "previous": "separados”, a feição dele muda levemente, um pouco mais próxima do",
+      "following": "entendimento do que da ofensa. Ela conta como uma vitória, “eu vou dar"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 84,
+      "joined": false,
+      "previous": "partido de novo, por exemplo.”",
+      "following": "“Ok. E quem vai me acolher, então?”"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 85,
+      "joined": true,
+      "previous": "ofensa que não faz sentido. Eu tô preocupada de verdade com a sua",
+      "following": "segurança. E eu acho que hoje, considerando que estamos todos afetados"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 86,
+      "joined": true,
+      "previous": "dia seguinte e para não se preocuparem caso ela não respondesse – o que,",
+      "following": "desta vez, ela de fato não fará. Uma vez foi mais que o suficiente. Lição"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 87,
+      "joined": false,
+      "previous": "levantado, “é literalmente o nome dela!!”",
+      "following": "“Marlinda dos Anjos”, ela estende a mão para Lorena, que aceita o"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 88,
+      "joined": true,
+      "previous": "Eduarda logo se junta a ela e ajuda a colocar o cinto, “segundo: é",
+      "following": "extremamente barulhento. Por isso”, ela pega um dos headsets que estão"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 89,
+      "joined": true,
+      "previous": "helicóptero subindo quase que perfeitamente estável. Ou talvez tudo tenha",
+      "following": "corrido mais tranquilamente por ela estar hipnotizada pelos dedos de"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 90,
+      "joined": true,
+      "previous": "um apertão de leve em suas mãos entrelaçadas, um reconhecimento do que",
+      "following": "foi dito."
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 91,
+      "joined": true,
+      "previous": "como se estivesse atacando o sujeito, mas não vai fingir um respeito que",
+      "following": "não sente. A honestidade, às vezes, é uma linha muito tênue. Qualquer"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 92,
+      "joined": true,
+      "previous": "dela repete que foi necessário, que ela vai entender, que ela já entende. Mas",
+      "following": "o coração dela só consegue ver as lágrimas nas costas de sua mão e em seu"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 93,
+      "joined": false,
+      "previous": "“Lorena.”",
+      "following": "“Eu sei.”"
+    },
+    {
+      "chapter": "cap-04",
+      "nextPage": 94,
+      "joined": false,
+      "previous": "mais um beijo, “perfeita.”",
+      "following": "O assunto seria retomado em algum momento, ela sabe disso. Lorena não é"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 96,
+      "joined": false,
+      "previous": "de Campos está de prontidão.”",
+      "following": "“Não precisa, pode dispensar o pessoal. Vão descansar, pelo amor de"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 97,
+      "joined": false,
+      "previous": "bagunçados pelo vento das hélices.",
+      "following": "O calor dentro da casa as abraça de imediato, tanto no sentimento causado"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 98,
+      "joined": true,
+      "previous": "tecido que está por dentro da barra da calça preta de alfaiataria que usa –",
+      "following": "subindo da cintura mapeando suas costelas, possessivamente trilhando o"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 99,
+      "joined": true,
+      "previous": "não fechar os olhos. Ambas as mãos na nuca, Lorena a traz pra perto",
+      "following": "novamente, “você é deliciosamente irresistível”, sussurra com os lábios"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 100,
+      "joined": true,
+      "previous": "dentro da blusa entreaberta, sua pele quente, com a outra, desabotoa a calça",
+      "following": "e empurra junto com a calcinha que, uma vez que passa do quadril, cai no"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 101,
+      "joined": true,
+      "previous": "deusa que espera nada menos que a mais completa devoção. Eduarda pode",
+      "following": "estar com a mão em seu pescoço, mas aquilo nada mais é do que um"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 102,
+      "joined": false,
+      "previous": "perna, buscando um pouco de atrito.",
+      "following": "“Eu quero esquecer”, Lorena levanta o corpo, puxando sua cintura para que"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 103,
+      "joined": true,
+      "previous": "aumenta em seu pulso, o primeiro orgasmo da noite crescendo rapidamente",
+      "following": "dentro dela. Lorena leva a outra mão até à que ela mantém no colchão,"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 104,
+      "joined": false,
+      "previous": "nunca vai conseguir verdadeiramente recuperar.",
+      "following": "O celular tocando em seu bolso interrompe o xingamento, mas o contato"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 105,
+      "joined": true,
+      "previous": "ainda é apenas uma ferramenta das muitas que ele tem para usar e ele não",
+      "following": "gasta sua energia carismática com ferramentas."
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 106,
+      "joined": false,
+      "previous": "realidade feita para poucos, seu estúpido alvo.",
+      "following": "Ele ri baixinho enquanto rosqueia o silenciador na pistola, escondido nas"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 107,
+      "joined": true,
+      "previous": "meses, ela ainda se surpreende com a forma como o cheiro dela é o",
+      "following": "suficiente para que seu corpo relaxe, um contentamento inexplicável,"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 108,
+      "joined": false,
+      "previous": "novamente, mas por um motivo bem diferente desta vez.",
+      "following": "“Você, assim, de última hora, comprou uma roupa de uma estilista? Só pra"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 109,
+      "joined": false,
+      "previous": "pessoa com o poder de deixá-la assim.",
+      "following": "Eduarda pega a sacola e a coloca no chão ao lado delas – Lorena"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 110,
+      "joined": true,
+      "previous": "ombros. A armadura de saber que todos que ama estão a salvo lhe permite",
+      "following": "encarar o que vier depois, “a senhorita estava certa em acionar o time de"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 111,
+      "joined": true,
+      "previous": "um detetive Paulo Reitz puto, mas não queria descobrir se é capaz de lidar",
+      "following": "com ele morto. Ao seu lado, Lorena sobe a mão pelo braço, aperta o bíceps"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 112,
+      "joined": true,
+      "previous": "O atentado contra elas foi claramente maquinado para assustar e não para",
+      "following": "matar, mas o de Paulinho foi uma falha e ela é capaz de apostar cinco meses"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 113,
+      "joined": false,
+      "previous": "louvável.”",
+      "following": "“Eu queria ter feito mais por tantas outras pessoas que foram sacrificadas"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 114,
+      "joined": true,
+      "previous": "que a preocupe menos. A verdade é uma só, mas existem formas de contá-",
+      "following": "la. E isso, às vezes, faz toda a diferença."
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 115,
+      "joined": true,
+      "previous": "parede. Ao redor deles, o show começa a juntar um público curioso.",
+      "following": "“Juquinha, para de gritar. Vamo conversar dir–”, ela fecha os punhos na"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 116,
+      "joined": false,
+      "previous": "mesmo. O medo dela só faz com que tudo piore exponencialmente.",
+      "following": "“Ora, mas que excelente notícia saber que nossa amada cidade de São Paulo"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 117,
+      "joined": false,
+      "previous": "pra cuidar de todos vocês.”",
+      "following": "“‘Todos vocês’ quem?”, Jairo pergunta."
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 118,
+      "joined": true,
+      "previous": "contrariedade. Mas segue em silêncio. Juquinha percebe o corpo dela quase",
+      "following": "vibrando enquanto tenta se controlar. Algo que ela já esperava que fosse"
+    },
+    {
+      "chapter": "cap-05",
+      "nextPage": 119,
+      "joined": true,
+      "previous": "chama se acende e cresce aos poucos. Ela beija a têmpora de Lorena",
+      "following": "demoradamente, aperta sua mão e se levanta, vai até a mesa ao lado e deixa"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 121,
+      "joined": false,
+      "previous": "“Quê? Por quê?”",
+      "following": "“Por favor, não me entenda mal, mas isso aqui acaba de se tornar"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 122,
+      "joined": true,
+      "previous": "hipnotiza, prende no lugar. Lorena, ele nota, poderia tranquilamente",
+      "following": "comandar um pelotão inteiro só com aquele olhar, “prepare um termo de"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 123,
+      "joined": true,
+      "previous": "informações que conseguirmos a partir dele serão oficialmente anexadas ao",
+      "following": "inquérito”, Juquinha e Paulinho comemoram com um toque de mãos"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 124,
+      "joined": false,
+      "previous": "senhores estão sendo convocados oficialmente como consultores.”",
+      "following": "“Como assim? Que desdobramentos? E por que precisamos assinar um"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 125,
+      "joined": true,
+      "previous": "reunião na sede da Fundação Ferette. É de consenso geral que Santiago",
+      "following": "Ferette está se tornando cada vez mais perigoso, tendo realizado mais um"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 126,
+      "joined": false,
+      "previous": "com ele. Tentar arrancar informações úteis.”",
+      "following": "“Esse é o plano infalível de vocês? Uma conversa??”"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 127,
+      "joined": true,
+      "previous": "levantar e sair. Do outro lado da mesa, Eduarda chega um pouco mais perto",
+      "following": "de Lorena, corpos quase completamente colados a esta altura, mão ainda em"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 128,
+      "joined": true,
+      "previous": "pegar o cara em flagrante. Nada de muito emocionante, mas, pra mim, era",
+      "following": "como se eu tivesse derrubando uma grande máfia, o ponto alto da minha"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 129,
+      "joined": false,
+      "previous": "espesso.",
+      "following": "“Não. Sabia nem que tinha uma opção tão pequena.”"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 130,
+      "joined": true,
+      "previous": "“Você quer que eu fale sobre o que, Carla?”, de novo, indiferença.",
+      "following": "“Qualquer coisa. Duvido que isso seja algum problema pra você, que num"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 131,
+      "joined": true,
+      "previous": "voz da sua insegurança falando. E, por mais que eu entenda o sentimento,",
+      "following": "não é real, é autossabotagem. Só uma pessoa pode te falar sobre os"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 132,
+      "joined": false,
+      "previous": "seu ritmo.",
+      "following": "Paciente, sempre paciente, ela a abraça pela cintura, respira fundo como se"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 133,
+      "joined": false,
+      "previous": "ele é perigoso? Você simplesmente vai!?”",
+      "following": "“Eu não tô indo no escuro completo, a gente tem olhos lá dentro”, é um"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 134,
+      "joined": true,
+      "previous": "segura seu rosto com as duas mãos e a puxa para um beijo lento, firme, real.",
+      "following": "“Me promete que vai voltar”, Lorena sussurra, testas encostadas, olhos"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 135,
+      "joined": true,
+      "previous": "com Santiago Ferette, arrancar dele uma confissão ou prova irrefutável pra",
+      "following": "gente explodir esse inquérito e finalmente dar o xeque-mate nesse sujeito. A"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 136,
+      "joined": true,
+      "previous": "garagem, recepção da Fundação, sala de Ferette, elevadores da Fundação, e",
+      "following": "as escadas que levam ao andar da Fundação e o andar imediatamente"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 137,
+      "joined": true,
+      "previous": "com meu bem-estar!”, ela faz um pedido silencioso de desculpas a Lorena",
+      "following": "antes de completar, “mas não se preocupe, eu não estava em briga alguma."
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 138,
+      "joined": true,
+      "previous": "relaxada, cabeça erguida, mãos nos bolsos da jaqueta. Mensagem clara:",
+      "following": "você não me mete medo, “entendo que nessa sua cabeça retrógrada uma"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 139,
+      "joined": true,
+      "previous": "dessa vez, ela tira as mãos dos bolsos para aplaudí-lo ironicamente. Ele está",
+      "following": "perto de estourar, de dar a ela o que precisa, mas ainda está controlado."
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 140,
+      "joined": false,
+      "previous": "lado de Lorena, também procurando.",
+      "following": "Então Lorena a vê. Sorriso grande demais nos lábios, olhos bem abertos. A"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 141,
+      "joined": false,
+      "previous": "“É um aviso.”",
+      "following": "“É mesmo? Ora, mas muito obrigada!! Eu sabia que nesse seu coraçãozinho"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 142,
+      "joined": true,
+      "previous": "tem absolutamente nada que ela possa fazer para impedir que aconteça.",
+      "following": "Sabe que está chorando porque as imagens mudam de foco, mas não"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 143,
+      "joined": false,
+      "previous": "****",
+      "following": "Lorena nunca se julgou uma pessoa violenta. Para ela, violência é a"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 144,
+      "joined": true,
+      "previous": "situa, crachá no peito, permissão para ir e vir. Pergunta alguma coisa a",
+      "following": "alguém, que aponta para a sala de Ferette. Agradece, segue calma, olhos"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 145,
+      "joined": false,
+      "previous": "homem minúsculo com ego gigantesco. E esse erro custará sua vida.",
+      "following": "A segunda coisa que o cérebro dela registra é o impacto da bala e a dor que"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 146,
+      "joined": true,
+      "previous": "de direito; depois, se dedicou muito para passar no concurso; passou meses",
+      "following": "em Nova Iorque num curso com a NYPD enquanto esperava ser chamada"
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 147,
+      "joined": true,
+      "previous": "batendo de encontro a ela. Com a outra, ele afasta uma mecha do cabelo",
+      "following": "dela, acaricia seu rosto. Pálido demais."
+    },
+    {
+      "chapter": "cap-06",
+      "nextPage": 148,
+      "joined": true,
+      "previous": "vida Eduarda sente um desejo quase insano de ter nascido com o dom da",
+      "following": "poesia, apenas para encher folhas e mais folhas com palavras de devassa"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 150,
+      "joined": true,
+      "previous": "finalidade, mas sim como se ela estivesse buscando uma forma de colocar",
+      "following": "em palavras algo feito para se sentir, não para se definir. Ele deixa que ela"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 151,
+      "joined": true,
+      "previous": "onde ele não pode alcançar, não pode ajudar. Se ele fechar os olhos,",
+      "following": "consegue vê-la deitada num halo acobreado formado por seus cabelos, tão"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 152,
+      "joined": true,
+      "previous": "em si, com suas personalidades e características únicas. O que ele vê é a",
+      "following": "essência, a ética, o que acreditam. Ambas, cada uma à sua maneira, cada"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 153,
+      "joined": true,
+      "previous": "atingida no peito”, a postura dela falha como se ela própria levasse um tiro,",
+      "following": "“o atendimento foi ráp– Lorena”, o olhar dela está desfocado, perdido,"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 154,
+      "joined": false,
+      "previous": "“É minha irmã.”",
+      "following": "“Nome?”"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 155,
+      "joined": true,
+      "previous": "tiver notícias de Juquinha para prestar seu depoimento e entregar sua arma",
+      "following": "para a perícia. Enquanto isso, seguiremos trabalhando nos depoimentos das"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 156,
+      "joined": true,
+      "previous": "Fundação Ferette nesta tarde. Além da vítima – até o momento não",
+      "following": "identificada –, o próprio presidente da Fundação, o benfeitor Santiago"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 157,
+      "joined": true,
+      "previous": "algum juiz vendido consiga que ele escape por entre nossos dedos”, ele se",
+      "following": "levanta da cadeira já com o celular na orelha, “mantenham Lucélia sob"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 158,
+      "joined": false,
+      "previous": "quando se joga luz. Ela leva isso consigo como um pilar.",
+      "following": "Primeiro, ela acha as palavras que encaixam com os barulhos, cores e"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 159,
+      "joined": false,
+      "previous": "o caso!”",
+      "following": "“Ai, amiga”, ela começa quando finalmente consegue se recuperar da crise"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 160,
+      "joined": true,
+      "previous": "pessoas e coisas legais. Ele me perguntou se eu já me apaixonei antes.”",
+      "following": "“Ah”, o que mais ela pode dizer? Não tem nada na vida que Eduarda"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 161,
+      "joined": false,
+      "previous": "em Lorena, que assente para ele.",
+      "following": "“Obrigada, Paulinho”, voltando a olhar para Maggye, ela continua, “Lucélia"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 162,
+      "joined": true,
+      "previous": "cabelos escuros presos num coque firme sob a touca. Ela usa o típico",
+      "following": "pijama cirúrgico num tom de verde pastel e grandes óculos redondos sobre"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 163,
+      "joined": true,
+      "previous": "não é bonito, eu preciso que vocês tenham isso em mente para não se",
+      "following": "desesperar. O tubo está lá para ajudar. Para que ela possa respirar enquanto"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 165,
+      "joined": true,
+      "previous": "apesar da situação que eles se encontram, ela fica genuinamente feliz de",
+      "following": "saber que ele tem com quem contar, alguém que vai até ele sem que ele"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 166,
+      "joined": true,
+      "previous": "Rita de Cássia no caminho pra cá. E ela é muito forte, deu pra ver na cara",
+      "following": "dela as vezes que a gente se encontrou. E com certeza ela tá sendo muito"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 167,
+      "joined": false,
+      "previous": "metodicamente as mãos com o papel toalha.",
+      "following": "Lorena veste o avental de mangas longas que ele amarra em suas costas,"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 168,
+      "joined": true,
+      "previous": "pesadelo. Porque na hora que ela entrar e Eduarda estiver ali na sua frente,",
+      "following": "ao alcance de suas mãos, tudo será real, tangível, impossível de fugir,"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 169,
+      "joined": true,
+      "previous": "ajudar, de amparar, “eu quis os encontros, os olhares, os toques, o",
+      "following": "crescimento da intimidade. Eu quis as músicas, as bobagens, os poemas, as"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 170,
+      "joined": false,
+      "previous": "pequeno descompasso significa tudo.",
+      "following": "“Descanse, meu amor. A hora que você acordar, eu estarei aqui.”"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 171,
+      "joined": false,
+      "previous": "pra atirar neles!”, não sujo minhas mãos.",
+      "following": "“Não, meu amor, não é ass–”"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 172,
+      "joined": true,
+      "previous": "empurra. Logo após este momento, a policial se vira para o lado e é",
+      "following": "atingida em cheio – o ângulo da câmera não permite ver a atiradora,"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 173,
+      "joined": true,
+      "previous": "seu estado ou de seus ferimentos. Ainda em nota, a Polícia informa",
+      "following": "que não comenta inquéritos em andamento e reforça que está"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 174,
+      "joined": false,
+      "previous": "controlada, indiferente.",
+      "following": "“Lorena, Lorena. Tanto tempo e você ainda não sabe quem eu sou, né? Eu"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 175,
+      "joined": true,
+      "previous": "A voz dele chega quando ela coloca a mão na maçaneta, “eu tenho muita",
+      "following": "gente grande comendo na minha mão, Lorena. Políticos, juízes, policiais."
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 176,
+      "joined": true,
+      "previous": "mais sobrecarregados com o peso do medo constante, esperança ardendo no",
+      "following": "peito, “eu sinto que é o primeiro dia do resto da minha vida. Sem ele. Eu"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 177,
+      "joined": false,
+      "previous": "é uma lanchonete de hospital ou um restaurante?”",
+      "following": "E assim um grupo de pessoas tão diferentes que mais parece o início de"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 178,
+      "joined": true,
+      "previous": "com algum membro da equipe por perto”, ela veste o avental e, enquanto",
+      "following": "ele o amarra em suas costas, a máscara, “ela agora estará sentada e deve"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 179,
+      "joined": true,
+      "previous": "novo e ser levada pelas sombras. A visão lhe causa um aperto no peito,",
+      "following": "nunca imaginou ver Eduarda assim. Eduarda que é sempre tão viva, tão"
+    },
+    {
+      "chapter": "cap-07",
+      "nextPage": 180,
+      "joined": false,
+      "previous": "segurança lateral que os enfermeiros deixaram levantada.",
+      "following": "O leve gemido de dor abafado pela máscara de oxigênio é o suficiente para"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 183,
+      "joined": true,
+      "previous": "a forma como ele e Violeta são completamente apaixonados poderia ter",
+      "following": "criado uma certa pressão inconsciente nela. Uma visão de que aquele amor"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 184,
+      "joined": true,
+      "previous": "mandou beijo pra vocês! Maggye, quero dizer, e não Lorena”, ela ri, ainda",
+      "following": "meio descontrolada, as palavras saindo quase na velocidade da luz. Violeta"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 185,
+      "joined": true,
+      "previous": "são o completo oposto do que Lorena e Santiago são e sempre foram.",
+      "following": "Eduarda pinta uma cena repleta de amor e cumplicidade e reconhecimento"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 186,
+      "joined": false,
+      "previous": "que planejava e mais rouca pela emoção.",
+      "following": "“Minha querida, por favor, acalme-se”, a voz dele é baixa, claramente"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 187,
+      "joined": false,
+      "previous": "Nem julgadora. Apenas triste. Inimaginavelmente triste.",
+      "following": "“O quê? Não. Não, claro que não.”"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 188,
+      "joined": true,
+      "previous": "dela. Pelos estáveis e constantes batimentos de seu coração. Pelo constante",
+      "following": "zumbido da máquina que bombeia o oxigênio úmido da máscara"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 190,
+      "joined": true,
+      "previous": "beijo lento e cheio de significado que ele ainda não consegue entender.",
+      "following": "“Boa noite, Paulinho”, ela se afasta em direção ao portão atrás dele,"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 191,
+      "joined": true,
+      "previous": "Gritos, palmas, assobios, gente se abraçando, chorando, agradecendo. No",
+      "following": "fim do corredor, Jairo olha para ele. Seus olhos fixos, uma comunicação"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 192,
+      "joined": false,
+      "previous": "ela. Bate de leve no batente antes de sair da sala, ainda sorrindo.",
+      "following": "A segunda parada é na perícia."
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 193,
+      "joined": true,
+      "previous": "nível de dor, resposta a estímulos, aparência dos ferimentos e curativos.",
+      "following": "Próximo do amanhecer, a fisioterapeuta pulmonar – “Manuella, mas pode"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 194,
+      "joined": true,
+      "previous": "Você tá bem e a gente tá aqui junto com seu amor”, ele se vira de leve para",
+      "following": "trás, para Lorena, que está ao lado da médica no pé da cama, “ninguém vai"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 195,
+      "joined": true,
+      "previous": "cateter nasal quando a fisioterapeuta vier aqui daqui umas horas. Estamos",
+      "following": "esperando só o resultado do exame de sangue pra saber como tá a"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 196,
+      "joined": true,
+      "previous": "Eduarda, “eu sei, deve ter sido um saco. Mas vamos lembrar que você está",
+      "following": "numa UTI. A gente precisa garantir que você esteja progredindo e não"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 197,
+      "joined": false,
+      "previous": "esperando por aquilo.",
+      "following": "“Bem, considerando a autora, é mesmo uma surpresa?”"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 198,
+      "joined": false,
+      "previous": "esforço e falando duzentas palavras por segundo.",
+      "following": "Ele veste a toga, pega a pasta de volta da mão dela e para antes de entrar"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 199,
+      "joined": false,
+      "previous": "consideração.”",
+      "following": "“Por favor, deixe as formalidades de lado”, ele dá uma pequena mordida no"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 200,
+      "joined": true,
+      "previous": "que o pai é um chorão, Lorena não tinha se preparado pro afeto imediato",
+      "following": "que sentiria no peito ao vê-lo se emocionar sem qualquer pudor. O desejo"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 201,
+      "joined": true,
+      "previous": "“Não precisa disso, seu Henrique, eu posso chamar carro ou dirigir eu me–”",
+      "following": "“Ah, mas sem chance que você vai dirigir nesse estado!”, ele diz com a mão"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 202,
+      "joined": false,
+      "previous": "que ela normalmente passa várias horas por dia sozinha ali.",
+      "following": "É o fato de que Eduarda não pode estar ali que faz com que tudo pareça"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 203,
+      "joined": false,
+      "previous": "médica informara.",
+      "following": "Ela adormece com o celular na mão segundos depois, embalada pela"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 204,
+      "joined": false,
+      "previous": "deles.",
+      "following": "Afinal, que outra explicação pode haver para o pedido de Zenilda Esteves –"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 205,
+      "joined": true,
+      "previous": "sair dali, mas ela só quer poder acelerar os ponteiros do relógio e pular logo",
+      "following": "para o momento em que ela vai se sentir confortável dentro do próprio"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 206,
+      "joined": false,
+      "previous": "conforto.",
+      "following": "Antes de seguir, Manuella faz todas as validações de praxe e anota os dados"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 207,
+      "joined": true,
+      "previous": "importante”, ela se vira para Lorena, levando o tablet consigo, “tudo que a",
+      "following": "gente faz aqui é com o foco único de melhorar e tirar os pacientes dessa"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 208,
+      "joined": false,
+      "previous": "E a dor.",
+      "following": "Manu nota a mudança segundos antes de acontecer. E isso faz toda a"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 209,
+      "joined": true,
+      "previous": "mim, Eduarda”, ela espera até seus olhos se encontrarem, “o que aconteceu",
+      "following": "é perfeitamente normal. Ok? Está tudo bem. Você está bem. Fez um"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 210,
+      "joined": false,
+      "previous": "efeito de claustrofobia e sufocamento, o que só aumenta esse pânico.”",
+      "following": "“Isso é um problema? Significa que tem algo errado?”, Henrique chega"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 211,
+      "joined": true,
+      "previous": "aquele dinheiro foi adquirido, o fato é que ela cresceu rica e sabe disso. E",
+      "following": "mesmo tendo tido muito dinheiro a vida toda ela se choca com a suíte"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 212,
+      "joined": false,
+      "previous": "“Sen– ela sentou no leito, Lorena? Que loucura é essa?”",
+      "following": "“Tecnicamente, ela foi sentada. Mas pelo que a fisioterapeuta explicou, é"
+    },
+    {
+      "chapter": "cap-08",
+      "nextPage": 213,
+      "joined": false,
+      "previous": "parece urgente, mas constante.",
+      "following": "“E Lucélia? Abriu a boca?”"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 215,
+      "joined": true,
+      "previous": "testes. A fono toca seu pescoço e pede para que engula a fim de testar se a",
+      "following": "laringe está cumprindo seu dever corretamente; pede para que ela emita um"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 216,
+      "joined": true,
+      "previous": "lado do leito, do lado esquerdo, na altura do joelho de Eduarda. Assim, elas",
+      "following": "conseguem se olhar sem que ela precise mover o pescoço e sustentá-lo"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 217,
+      "joined": false,
+      "previous": "Cenhos franzidos, ela mantém os olhos nos dela. Confusão.",
+      "following": "“Você foi baleada no peito há vinte e quatro horas. Há seis, você já estava"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 218,
+      "joined": false,
+      "previous": "entender a diferença?”",
+      "following": "“Ah…”, a voz sai fraca, mas os olhos dizem tudo. E uma nova onda de"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 219,
+      "joined": false,
+      "previous": "Rogério e Zenilda mais cedo.",
+      "following": "O inquérito não pode ser anulado. Independente do que aconteça com"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 220,
+      "joined": false,
+      "previous": "desamparo; do plano; do roubo; do dinheiro; da esperança.",
+      "following": "Juntos, eles ouvem o áudio do grampo corporal de Eduarda que logo se"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 221,
+      "joined": true,
+      "previous": "imperdoável dos pecados. O choro contido de um policial – não, de um",
+      "following": "irmão – enquanto a melhor amiga de sua filha lutava pela vida. O"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 222,
+      "joined": false,
+      "previous": "os três descansem.",
+      "following": "É claro que eles passam na UTI de tempos em tempos independente disso e,"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 223,
+      "joined": true,
+      "previous": "finalmente se levanta, andando de um lado para outro no espaço",
+      "following": "imediatamente na frente dela, “depois de ouvir cada palavra dele! Depois de"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 224,
+      "joined": true,
+      "previous": "charmosa e carinhosa, mas as ações seriam as mesmas”, Lorena deixa a",
+      "following": "mão no ombro dele por alguns segundos enquanto ele processa a"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 225,
+      "joined": true,
+      "previous": "embrulha mais o estômago. Meu coração dói pelas histórias da Chacrinha,",
+      "following": "das pessoas que vivem lá. E pelo dano colateral – você, Maggye, Vivi. Eu"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 226,
+      "joined": false,
+      "previous": "Lorena concorda com Gerluce: só a verdade cura.",
+      "following": "“Rogério vai fazer dela presidente da Fundação assim que ela estiver em"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 227,
+      "joined": true,
+      "previous": "ela precisa, então respira da melhor forma que consegue, umedece os lábios",
+      "following": "ainda levemente ressecados."
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 228,
+      "joined": false,
+      "previous": "outro. Mais ou menos.",
+      "following": "“Não é confortável. E normalmente é assustador porque é necessário"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 229,
+      "joined": false,
+      "previous": "muito fofas juntas.”",
+      "following": "Henrique deixa um beijo demorado em sua têmpora, “são lindas.”"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 230,
+      "joined": true,
+      "previous": "cabeça a fim de tentar recuperar um pouco do foco antes de olhar a tela. Ele",
+      "following": "franze o cenho."
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 231,
+      "joined": false,
+      "previous": "“Sem problemas. Boa noite, detetive. Um abraço.”",
+      "following": "“Outro.”"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 232,
+      "joined": true,
+      "previous": "com a assessoria do desembargador Henrique Fragoso, pai de Eduarda,",
+      "following": "obtivemos a confirmação de que o veículo em questão é de sua filha e"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 233,
+      "joined": true,
+      "previous": "menos, dez pessoas. Os altíssimos valores desviados teriam sido",
+      "following": "usados para financiar a vida de alto padrão do empresário – com"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 234,
+      "joined": true,
+      "previous": "amava. Principalmente, ele se lembra da forma como seus olhos corriam",
+      "following": "por todo canto com um alvo bem definido em mente. E como uma bolha"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 235,
+      "joined": false,
+      "previous": "tem um baralho de tarot.”",
+      "following": "“Eu tenho. Dois.”"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 236,
+      "joined": false,
+      "previous": "comunica.",
+      "following": "Paulinho leva a mão até a dela, mas não encosta, apenas aproxima bem,"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 237,
+      "joined": true,
+      "previous": "até uma aliança específica da lista. Uma que ele já tinha salvado nos",
+      "following": "favoritos, a única. Ela se concentra, umedece os lábios com a língua e, num"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 238,
+      "joined": false,
+      "previous": "pouco.”",
+      "following": "Ele se vira para ela imediatamente, “sorvete de cre– eu fico em choque a"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 239,
+      "joined": false,
+      "previous": "“Dona Zenilda cuidará disso, você vai ver!”",
+      "following": "Eles se despedem quando a enfermeira se aproxima com o típico carrinho"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 240,
+      "joined": true,
+      "previous": "ou pra lanchonete? Paulinho não me deu muito detalhe do assunto que cê",
+      "following": "quer tratar comigo então não sei bem o nível de sigilo que a gente precisa.”"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 241,
+      "joined": false,
+      "previous": "ri.",
+      "following": "“A gente falou disso muito por alto quando ela me pediu pra sair da galeria"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 242,
+      "joined": true,
+      "previous": "“eu não sei nem por que isso me surpreende. O que é ocultação de",
+      "following": "patrimônio pra quem comete genocídio?”"
+    },
+    {
+      "chapter": "cap-09",
+      "nextPage": 243,
+      "joined": true,
+      "previous": "forte, mas ela entende perfeitamente o que o documento diz. Verifica CEP,",
+      "following": "CPF, RG, número de celular, data de nascimento, endereço, nome completo"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 245,
+      "joined": false,
+      "previous": "não queria te assustar.”",
+      "following": "“Tudo bem. Eu só tava distraída”, ela fecha o caderno e cruza as mãos em"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 246,
+      "joined": true,
+      "previous": "lapiseira. Eduarda teatralmente ativa o modo silencioso do celular e pisca",
+      "following": "para ela antes de pescar um livro e um caderno dentro da própria mochila."
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 247,
+      "joined": true,
+      "previous": "ali, gravado na alma, submerso em tempo. E a abraça como sempre faz.",
+      "following": "Então ela pinta. Pinta até não conseguir mais segurar o pincel. Pinta até seus"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 248,
+      "joined": true,
+      "previous": "tratam como prisioneiro dentro do hospital! Eu que sou a vítima nisso aqui.",
+      "following": "E eu pago vocês muito dinheiro pra me trazer soluções. Eu tenho que"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 250,
+      "joined": true,
+      "previous": "soltas para amarrar, ordens para distribuir, operações para planejar e uma",
+      "following": "filha para se preocupar. Paulinho repassa informações constantemente –"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 251,
+      "joined": false,
+      "previous": "a diferença.",
+      "following": "Aníbal olha para Leonardo e sente desprezo, raiva. E uma lealdade ardente"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 252,
+      "joined": false,
+      "previous": "que Juquinha lhes deu.",
+      "following": "Ele confirma mais uma vez o posicionamento do resto da equipe; verifica"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 253,
+      "joined": true,
+      "previous": "desdobramento recente devido à vida de garçonete nem nada do tipo. Ela só",
+      "following": "não gosta, mesmo – morar com Eduarda nos primeiros dias demandou um"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 254,
+      "joined": true,
+      "previous": "para alguém tão independente quanto Eduarda, a perda de autonomia",
+      "following": "principalmente sobre o próprio corpo é a pior parte mental do dia. Ela torce"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 255,
+      "joined": false,
+      "previous": "quando sente que as pernas podem falhar.",
+      "following": "Não é uma surpresa. Ela já sabia que isso muito provavelmente aconteceria,"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 256,
+      "joined": false,
+      "previous": "diretamente contra eles. Ela adora sentir o sorriso dela.",
+      "following": "Ela nota. É claro que ela nota. Eduarda a conhece melhor do que ninguém."
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 257,
+      "joined": false,
+      "previous": "no braço de Lorena – uma âncora, um porto seguro.",
+      "following": "“Bom dia, meninas. A Dra. Juliana te passou um resumo do que esperar,"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 258,
+      "joined": true,
+      "previous": "contido, cenho franzido em concentração. Os bipes do monitor constantes.",
+      "following": "“Agora vamos ao peito. O que eu posso te dizer é que a dor será um pouco"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 259,
+      "joined": false,
+      "previous": "sensível, é a ferida se movimentando junto.",
+      "following": "“Próximo passo, tirar a gaze. Essa parte é a que mais vai doer”, o ritmo dos"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 260,
+      "joined": true,
+      "previous": "Continue respirando assim, você tá indo bem, falta muito muito pouco",
+      "following": "agora. Posso?”"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 261,
+      "joined": false,
+      "previous": "“Um pouco.”",
+      "following": "“Pode dormir. Seu pai deve estar voltando. Se bem me lembro, a fono daqui"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 262,
+      "joined": false,
+      "previous": "gentil. Ela precisa que ele entenda por conta própria.",
+      "following": "“Por tudo que eu fiz. Ou não fiz.”"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 263,
+      "joined": true,
+      "previous": "fantasia de vegana, de abstêmia, não saía daquele apartamento pra nada!”",
+      "following": "“É… Eu estava aos poucos definhando dentro daquele lugar. É o que"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 264,
+      "joined": true,
+      "previous": "notado que está chorando. E no peito dela, apenas luto. Porque nem assim",
+      "following": "ela reconhece o irmão naqueles olhos, “me fala o que eu posso fazer pra"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 265,
+      "joined": false,
+      "previous": "pra mim.”",
+      "following": "“Ah”, ele relaxa visivelmente, “sinal que todo mundo tá com a visão"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 266,
+      "joined": false,
+      "previous": "“Eu imagino que isso seja um elogio?”",
+      "following": "“A maior honraria que eu posso oferecer”, ela ri, um pouco da tristeza que"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 267,
+      "joined": false,
+      "previous": "vocês. Não precisa se apressar.”",
+      "following": "Ela sorri para ele em forma de agradecimento e respira fundo antes de"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 268,
+      "joined": false,
+      "previous": "passar vontades, sofrer com frio, com calor, fome ou sede.",
+      "following": "E, mesmo que ela não tivesse qualquer consciência do que estava por trás"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 269,
+      "joined": false,
+      "previous": "grade, “o que me diz?”",
+      "following": "Paulinho, Viviane, Consuelo, Gerluce. Do outro lado da parede, pela"
+    },
+    {
+      "chapter": "cap-10",
+      "nextPage": 270,
+      "joined": true,
+      "previous": "rua, algumas lojinhas variadas, separadas por paredes simples. Ela ri alto",
+      "following": "quando vê uma placa de fundo preto com letras em prateado, tão comuns"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 272,
+      "joined": true,
+      "previous": "Fundação – quarenta e nove por cento – será congelada; quando for",
+      "following": "julgado e condenado, como acredito firmemente que será o caso, esta"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 273,
+      "joined": false,
+      "previous": "lado daqueles que ficaram.",
+      "following": "Por fim, gostaria de dizer que confio plenamente no trabalho da Polícia"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 274,
+      "joined": false,
+      "previous": "movimento.",
+      "following": "Ela para quando seu corpo exige – pés na grama, respiração ofegante,"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 275,
+      "joined": true,
+      "previous": "avental e máscara na UTI, ela não gosta da ideia de que pode estar",
+      "following": "colocando Eduarda em qualquer nível de risco. Então, banho e troca de"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 276,
+      "joined": false,
+      "previous": "mas as refeições mais tarde devem ser morninhas.”",
+      "following": "Violeta se levanta, levando consigo a xícara, que deixa ao lado da cafeteira"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 277,
+      "joined": true,
+      "previous": "vidas!”, Violeta coloca sua máscara descartável e cumprimenta sua família.",
+      "following": "Lorena apenas observa como os olhos de Henrique brilham como holofotes"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 278,
+      "joined": true,
+      "previous": "melhor, mais segura, mais confiante, mais em paz. Os Fragoso reconhecem",
+      "following": "e respeitam – amam Lorena um pouco mais por isso – e dão um passo atrás"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 279,
+      "joined": true,
+      "previous": "mas, psicologicamente – principalmente por não ter tanta dor no dreno e no",
+      "following": "peito – ela está bem melhor que no dia anterior. Eduarda mantém a"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 280,
+      "joined": false,
+      "previous": "pé do ouvido.",
+      "following": "“Como mexer o braço direito ainda não é a melhor opção por causa do"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 281,
+      "joined": true,
+      "previous": "Claudinho pode assumir se preferirem, é claro”, Henrique se aproxima do",
+      "following": "leito, mão imediatamente no joelho dela, “perfeito. Cansaço?”, três, “dor?”,"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 282,
+      "joined": true,
+      "previous": "então ela busca pela sensação que vem da alma. O puxão característico que",
+      "following": "agora ela sabe sempre o que – ou melhor, quem – estará na outra ponta."
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 283,
+      "joined": false,
+      "previous": "leito. Nem a fisgada é capaz de arruinar o momento.",
+      "following": "Ela conseguiu. Exausta, com uma dor terrível nas costelas e ainda"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 284,
+      "joined": false,
+      "previous": "Obrigado. Por tudo.”",
+      "following": "“Sem problemas. É um prazer”, ela sorri para eles e volta sua atenção para"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 285,
+      "joined": true,
+      "previous": "pessoal e carreira não são representadas cada uma por uma bola. Cada",
+      "following": "minúscula tarefa ao longo do dia é uma bola única. Nosso malabarismo não"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 286,
+      "joined": true,
+      "previous": "gostoso, na verdade”, Lorena pega o copinho da bandeja e se aproxima",
+      "following": "dela, que segue irredutível com seu biquinho birrento. Ela revira os olhos e"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 287,
+      "joined": true,
+      "previous": "e cinco e sessenta graus para ela ficar um pouco menos desconfortável ao",
+      "following": "dormir. Lorena a ajuda a ajustar sua posição e cobre seus pés que tinham"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 288,
+      "joined": false,
+      "previous": "organiza seus pensamentos e sentimentos.",
+      "following": "“Em partes, eu fui porque achei que era minha obrigação ir – eu ainda tenho"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 289,
+      "joined": true,
+      "previous": "eles; processar os sentimentos por eles; e, no fim, ainda regurgitar uma",
+      "following": "solução pra situação que eles se permitiram entrar. E ainda ser escorraçada"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 290,
+      "joined": true,
+      "previous": "segundo porque ela não tem a menor condição de falar uma frase de cinco",
+      "following": "palavras sem ficar sem fôlego, quem dirá um discurso que Lorena sabe que"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 291,
+      "joined": true,
+      "previous": "Então, sim. Você e Paulinho estavam certos na questão do brinco.",
+      "following": "Parabéns?”, ela dá um sorriso meio amarelo, tentando aliviar um pouco a"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 292,
+      "joined": true,
+      "previous": "enorme, com dentes, nariz levemente franzido, marcas ao redor dos olhos e",
+      "following": "um brilho de orgulho tão forte que, se estivesse no meio do mar, seria"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 293,
+      "joined": false,
+      "previous": "“Entes nórdicos. Cinco letras. Três últimas: FOS.”",
+      "following": "“Elfos?”"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 294,
+      "joined": true,
+      "previous": "ajudar a atravessar a rua, etc – e, assim que se recuperou dos cinco minutos",
+      "following": "de crise de risada, correu loja adentro para fazer a encomenda oferecendo o"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 295,
+      "joined": false,
+      "previous": "seu marido fez, “tudo bem, querido e você?”",
+      "following": "“Isso”, ele balança a mão dela talvez um pouco além do necessário,"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 296,
+      "joined": true,
+      "previous": "Então ela precisa travar uma batalha árdua para não rir. Uma risadinha",
+      "following": "escapa, porém, disparando uma fisgada forte nas costelas e uma careta de"
+    },
+    {
+      "chapter": "cap-11",
+      "nextPage": 297,
+      "joined": false,
+      "previous": "imagem do contentamento.",
+      "following": "“Bem”, Paulinho se levanta da poltrona, lembrando da extensa lista de"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 299,
+      "joined": false,
+      "previous": "segundo carro.",
+      "following": "Leonardo confirma que Vicente Reis trabalha para seu pai na Chacrinha –"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 300,
+      "joined": false,
+      "previous": "início da tarde, por volta das catorze”, Paulinho quebra seu devaneio.",
+      "following": "“Ele conseguiu a domiciliar, é claro. Mesmo com Macedo sob custódia e"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 301,
+      "joined": false,
+      "previous": "próxima visita ao cemitério.",
+      "following": "“O que é isso?”, Paulinho abre a pasta, levanta a cabeça de supetão,"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 302,
+      "joined": true,
+      "previous": "isso que você tá sentindo aí agora eu também estou sentindo. E eu estou",
+      "following": "aqui pra você”, surpreendendo a ambos, ele puxa Paulinho para um abraço"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 303,
+      "joined": true,
+      "previous": "agora ele muito provavelmente já tá morto também. Amanhã ele vai receber",
+      "following": "alta e a gente vai levar ele”, uma pausa curta e a voz dele sai embargada,"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 305,
+      "joined": true,
+      "previous": "mal dormidas por motivos acadêmicos. Violeta tomba um pouco a cabeça",
+      "following": "para o lado e nota as defesas começarem a subir. Ela muda de rota. Sabe"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 306,
+      "joined": true,
+      "previous": "tava lá me amando e eu só…”, Violeta gentilmente tira a faca da mão dela,",
+      "following": "puxa num abraço quando ela não consegue mais falar em meio ao choro."
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 307,
+      "joined": true,
+      "previous": "ambos os lados para fazer com que a coisa dê certo. Raramente um",
+      "following": "relacionamento romântico é linear e tudo flores. E, mesmo que por muitas"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 308,
+      "joined": false,
+      "previous": "entregar amor romântico. Eu preciso que você entenda isso.”",
+      "following": "Eduarda assente, exausta. Se aninha mais uma vez nos braços da mãe e se"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 309,
+      "joined": true,
+      "previous": "é bem assim. A cada segundo que ela se reconstrói, que se remonta, que se",
+      "following": "reconhece, ela entende mais e mais que o que ela tem agora não é"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 310,
+      "joined": true,
+      "previous": "esquerdo. Seus olhos finalmente abertos agora fixos nos de Lorena. Eles",
+      "following": "estão mais claros hoje, um pouco mais próximos de âmbar do que de"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 311,
+      "joined": true,
+      "previous": "apenas ela consegue trazer. Beija a pele macia e cheirosa de seu pescoço,",
+      "following": "sente o risinho bem leve mais do que ouve – quase que apenas um ressoar"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 312,
+      "joined": true,
+      "previous": "ajuda de Violeta, a mesinha é encaixada e o domo térmico retirado. Eduarda",
+      "following": "quase chora de emoção ao ver comida com mais cara de comida e menos"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 313,
+      "joined": true,
+      "previous": "pelos dedos de Lorena ainda em seu rosto e, mesmo assim, o efeito é",
+      "following": "exatamente o mesmo. Lorena pisca lentamente, absorve as palavras como"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 314,
+      "joined": false,
+      "previous": "minha.”",
+      "following": "“E o estilo”, ela comenta enquanto leva a colher com ovos mexidos"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 315,
+      "joined": true,
+      "previous": "conheceram”, Eduarda agora sorri abertamente, olhos marejados, “e todo e",
+      "following": "qualquer resquício de sentimento ruim que eu possa ter – mesmo que"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 316,
+      "joined": true,
+      "previous": "levantar ou pode ter muito estímulo ao mesmo tempo. No três, força nas",
+      "following": "canela”, Eduarda coloca o braço esquerdo no ombro de Lorena, que está"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 317,
+      "joined": false,
+      "previous": "até sua nuca num carinho lento.",
+      "following": "“Amor…”, Lorena levanta o rosto, seus olhos se encontram, “vem aqui.”"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 318,
+      "joined": true,
+      "previous": "fisgada vem com tudo, “não precisa expulsar ninguém”, ela diz quando",
+      "following": "consegue falar de novo. Respira mais um pouco até a dor sumir, “nunca usei"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 319,
+      "joined": false,
+      "previous": "“É mesmo? Por que cê tá falando assim, então?”",
+      "following": "“Assim com–?”"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 320,
+      "joined": false,
+      "previous": "celular gravando tudo está na mão dela.",
+      "following": "“Eu já tenho noiva”, a voz dela sai distorcida pelo esforço de segurar o riso."
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 321,
+      "joined": false,
+      "previous": "tamém.”",
+      "following": "“Quer saber o nome da sua noiva?”"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 322,
+      "joined": true,
+      "previous": "Eduarda nota. Ameaça esticar os dois braços mas, sem se afetar em nada, a",
+      "following": "médica a impede de mover o direito. Eduarda não nota. Fecha a mão boa no"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 323,
+      "joined": false,
+      "previous": "Eduarda?”",
+      "following": "“Só pressã.”"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 324,
+      "joined": true,
+      "previous": "eles assentem, se deixando relaxar agora que o pior aparentemente passou,",
+      "following": "“ela está ótima, os sinais dela estão excelentes, é muitíssimo pouco"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 325,
+      "joined": false,
+      "previous": "Eduarda o centro de tudo.",
+      "following": "Dra. Juliana se despede deles e sai juntamente com a enfermeira. Os quatro"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 326,
+      "joined": false,
+      "previous": "situação.”",
+      "following": "“Esse vagabundo matou muita gente, Paulinho. Todo mundo que tá aqui"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 327,
+      "joined": false,
+      "previous": "saída?”",
+      "following": "“Confirmado. Há aglomeração contida e cordões de segurança. Atenção"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 328,
+      "joined": true,
+      "previous": "Sabe que não faria nada, que não colocaria em risco tudo que trabalharam",
+      "following": "tanto para conseguir, mas sabe, também, que é humano e acredita de"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 329,
+      "joined": true,
+      "previous": "atenção. Um dos quatro policiais que fazem a escolta dele se aproxima, mão",
+      "following": "esticada em sua direção, com o intuito de forçar sua caminhada, “você não"
+    },
+    {
+      "chapter": "cap-12",
+      "nextPage": 330,
+      "joined": true,
+      "previous": "atualmente a 24ª (hihihihi 24 hihi) da tag loquinha em número de",
+      "following": "acessos. eu realmente achava que apenas uma meia dúzia de gato"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 332,
+      "joined": false,
+      "previous": "interesse. Por algum motivo, ela ri de leve.",
+      "following": "“Sem curiosidade, sinto muito.”"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 333,
+      "joined": false,
+      "previous": "Consciente da barreira invisível do ar que pertence a cada uma delas.",
+      "following": "“E mulheres medianas?”"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 334,
+      "joined": false,
+      "previous": "aplicativo essa hora da noite.”",
+      "following": "“Não se preocupa, eu já avisei meu pai. Ele vem me buscar”, ela está"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 335,
+      "joined": false,
+      "previous": "que tudo vai ficar bem;",
+      "following": "Na mansão da Aclimação: Gisleyne prepara um pequeno coquetel de"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 336,
+      "joined": true,
+      "previous": "Eduarda vai sair da UTI para o quarto; o leito que até então devia ficar",
+      "following": "sempre entre trinta e quarenta e cinco graus – sessenta durante a noite, para"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 337,
+      "joined": true,
+      "previous": "olhos marejados e brilhando em alívio, “mas não abaixe sua guarda. Agora",
+      "following": "você vai notar uma progressão mais rápida sem o dreno e sem o ambiente"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 338,
+      "joined": true,
+      "previous": "baixo. Lolô entre braço e barriga, é claro – o outro por baixo do travesseiro,",
+      "following": "rosto enterrado em seu pescoço, perna sobre uma dela – evita depositar"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 339,
+      "joined": true,
+      "previous": "rindo alto, “cala a boca, Juquinha. Se foi o conselho de alguém que ajudou,",
+      "following": "foi da sua mulher e não o seu!”"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 340,
+      "joined": false,
+      "previous": "o sorriso… Ah, esse está totalmente em evidência.",
+      "following": "****"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 341,
+      "joined": false,
+      "previous": "num desejo que precisam ignorar por motivos de força maior.",
+      "following": "Evitando qualquer área que possa machucar, Lorena mantém seu braço na"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 342,
+      "joined": true,
+      "previous": "contato, ela leva o dedo até uma das bolinhas, fazendo com que Lorena",
+      "following": "sugue o ar, sobrancelhas unidas, as íris verdes quase completamente"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 343,
+      "joined": false,
+      "previous": "outra sente cócegas.",
+      "following": "Lorena começa devagar, usa a ducha manual por todo o corpo dela, usando"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 344,
+      "joined": true,
+      "previous": "encontro ao seu pela primeira vez no que parece ser uma eternidade – o",
+      "following": "constante puxão em seu peito finalmente num ronronar tranquilo e em paz"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 345,
+      "joined": true,
+      "previous": "caminhão de mudança, olhos enormes brilhando, “o abandono à mulher",
+      "following": "enferma assola até as lésbicas.”"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 346,
+      "joined": true,
+      "previous": "operado a inflar por completo e melhorar tanto ritmo quanto capacidade",
+      "following": "respiratória. O aparelhinho é mantido no quarto para que ela repita o"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 347,
+      "joined": false,
+      "previous": "os lábios cheios e bonitos.",
+      "following": "Eduarda vira em direção ao baque seco do celular encontrando o chão, seu"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 348,
+      "joined": true,
+      "previous": "pede ao pessoal do restaurante. Júnior comenta que, a convite de Gerluce,",
+      "following": "vai se juntar a Lorena trabalhando na Fundação, na área de TI. É a brecha"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 349,
+      "joined": true,
+      "previous": "precisam falar nada. Eu sei. E eu sou profundamente grata ao timing do",
+      "following": "grupo da Chacrinha em devolver a estátua porque impediu que meu pai"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 350,
+      "joined": true,
+      "previous": "apoio, “eu tenho um projeto por lá em fases iniciais, Maggye. Posso ver de",
+      "following": "adquirir um terreno um pouco maior e passar parte pra vocês fazerem a"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 351,
+      "joined": true,
+      "previous": "pouco para mais perto, deixa um beijo em sua têmpora, “você é",
+      "following": "maravilhosa.”"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 352,
+      "joined": false,
+      "previous": "“Duda…”",
+      "following": "“Deita comigo…”, os olhos dela estão enormes, lágrimas brotando sem"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 353,
+      "joined": true,
+      "previous": "mínimo, rebate – qualquer negatividade que possa existir no ambiente. Tê-",
+      "following": "la despida de todas as suas defesas, completamente vulnerável em seus"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 354,
+      "joined": true,
+      "previous": "dando um toque especial à conversa que flui estranhamente bem,",
+      "following": "considerando a configuração do grupo: uma policial civil enferma; uma"
+    },
+    {
+      "chapter": "cap-13",
+      "nextPage": 355,
+      "joined": true,
+      "previous": "responder a qualquer chamado de Lorena, verbal ou não. Ela sai do leito,",
+      "following": "fica em pé diante dela, mãos unidas entre elas, “não tem música.”"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 357,
+      "joined": false,
+      "previous": "consegue beijá-la direito.",
+      "following": "Na manhã da alta, é Lorena quem troca o curativo. Suas mãos tremem"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 358,
+      "joined": true,
+      "previous": "amor por sua menina mesmo sem conhecê-la direito. Quando volta ao",
+      "following": "quarto, ela tem certeza que sua lista de filhos acaba de se tornar"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 359,
+      "joined": false,
+      "previous": "susto em todo mundo.”",
+      "following": "“Obrigada, Jô. Também tô muito feliz de poder sair daqui”, ela puxa a mão"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 360,
+      "joined": true,
+      "previous": "Lorena sabe que ela é charmosa – ela acaba de ter uma epifania sobre isso –",
+      "following": "mas tudo tem limites, né? Antes que possa sequer questionar seus próprios"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 361,
+      "joined": true,
+      "previous": "leves na perna dela quando a carruagem chega empurrada por um",
+      "following": "enfermeiro."
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 362,
+      "joined": true,
+      "previous": "tanto tímida. Apesar do incômodo, Eduarda se abaixa para falar com ela,",
+      "following": "Lorena e Paulinho ao seu lado servindo de apoio tanto físico quanto"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 363,
+      "joined": false,
+      "previous": "não ajudam em nada.",
+      "following": "“Posso te ajudar?”, Paulinho pergunta baixinho só para ela ouvir. Ela"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 364,
+      "joined": true,
+      "previous": "realidade; o que precisa de ajuste simples ou o que precisa ser adquirido.",
+      "following": "Eduarda consegue achar uma posição verdadeiramente confortável no sofá"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 365,
+      "joined": true,
+      "previous": "“todo mundo aqui tem muito orgulho de você. Quando Rogério Dantas",
+      "following": "soltou aquela nota sobre você se juntar à nova era da Fundação, nós ficamos"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 366,
+      "joined": false,
+      "previous": "quarto ainda numa penumbra silenciosa, seus corpos ainda quentes.",
+      "following": "Lorena tem os olhos fechados, mas Eduarda sabe que ela está acordada."
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 367,
+      "joined": false,
+      "previous": "mim e eu estar dormindo e…”",
+      "following": "“Isso não vai acontecer.”"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 368,
+      "joined": true,
+      "previous": "como as novas presidente e vice. Rogério organiza o transporte da estátua",
+      "following": "para o prédio – ela agora fica no andar da Fundação, perto de uma das"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 369,
+      "joined": true,
+      "previous": "Gerluce respira fundo antes de seguir, “eu trabalhava como cuidadora de",
+      "following": "Josefa Melo, mãe de Arminda de Melo Dantas, ex-esposa de Rogério. Num"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 370,
+      "joined": true,
+      "previous": "se encolhe de leve na cadeira, “eu passei estes últimos doze dias vendo o",
+      "following": "amor da minha vida reaprender a respirar, a falar, a comer, a andar”, ela"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 371,
+      "joined": true,
+      "previous": "contar do Paulinho me pedindo em casamento!”, ela puxa Lorena pela mão",
+      "following": "porta afora, cruzando com Lucia no caminho, “Lucia, querida! Você pode"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 372,
+      "joined": true,
+      "previous": "derrotas. Como parece ser o caso no momento. Ou pelo menos é o que",
+      "following": "Eduarda a leva a crer que é. Ela tem uma teoria sobre o silêncio derrotado"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 373,
+      "joined": false,
+      "previous": "um pouco e pede para ela repetir.",
+      "following": "“A gente ficou esse tempo todo sem transar só até a primeira vez”, ela ainda"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 374,
+      "joined": true,
+      "previous": "com uma aura de orgulho, de afeto genuíno, de carinho e uma devoção",
+      "following": "visceral. Essa mesma devoção queima em seu próprio corpo e tudo que ela"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 375,
+      "joined": true,
+      "previous": "novamente de pé e trabalha nas próprias roupas de forma mais rápida.",
+      "following": "“Você pelo menos pode fazer alg–”"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 376,
+      "joined": false,
+      "previous": "deixando contra os lábios fechados.",
+      "following": "“Não”, ela ordena antes que ela abra a boca. Lorena lentamente lambe tanto"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 377,
+      "joined": true,
+      "previous": "consultório, repassar anotações, catalogar e despachar documentos. Não",
+      "following": "tem nada no consultório que ela não saiba exatamente onde está. O que ela"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 379,
+      "joined": true,
+      "previous": "estão fazendo na direção – tão irritada, com tanta energia dentro dela, que",
+      "following": "no fim da noite Eduarda nem sente mais os braços, sua mandíbula com"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 380,
+      "joined": true,
+      "previous": "gemendo seu nome, olhos presos ao dela, Eduarda entende perfeitamente os",
+      "following": "pagãos que travavam batalhas, invadiam territórios, derramavam sangue e"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 381,
+      "joined": true,
+      "previous": "seu corpo um pouco para frente, apenas o suficiente para que seus dedos",
+      "following": "completamente estáticos dêem a ela um pouco do alívio que ela busca, um"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 382,
+      "joined": false,
+      "previous": "“declama pra mim.”",
+      "following": "Olhos fixos nos dela, Lorena invoca em si o puxão que toma controle"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 383,
+      "joined": false,
+      "previous": "terminar, “parece a mim mesma que por pouco não morro.”",
+      "following": "O orgasmo as atinge com poucos segundos de distância, Eduarda indo"
+    },
+    {
+      "chapter": "cap-14",
+      "nextPage": 384,
+      "joined": false,
+      "previous": "com os dela a cada palavra, “eu gozei escrevendo.”",
+      "following": "“Puta merda, Lorena”, a puxa para mais perto de novo, morde seu pescoço"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 386,
+      "joined": false,
+      "previous": "emociona toda vez que pensa nisso.",
+      "following": "“A parte mais difícil da recuperação é quando sua mente está finalmente"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 388,
+      "joined": false,
+      "previous": "coisa, delegado.”",
+      "following": "“Hum?”, ele pergunta meio distraído, enchendo mais um balão com"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 389,
+      "joined": true,
+      "previous": "entrada até a sala dos investigadores como se fosse chuva de arroz num",
+      "following": "casamento. Ela olha para a faixa torta, os balões jogados pela sala, os"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 390,
+      "joined": false,
+      "previous": "respirar se torna momentaneamente difícil.",
+      "following": "“Já abriu o inquérito contra Raul?”, a pergunta dela sai séria, fria. Uma"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 391,
+      "joined": true,
+      "previous": "os pontos lógicos. Ele levanta a mão quando ela abre a boca, “desculpa.",
+      "following": "Eu– desculpa”, ele fecha os olhos, envergonhado, tenta respirar e se"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 392,
+      "joined": true,
+      "previous": "quinze anos de idade com hormônios todos bagunçados por uma gravidez.”",
+      "following": "“Se Samira faz parte de um esquema, de um grupo ou algo assim, eu duvido"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 393,
+      "joined": true,
+      "previous": "silêncio. O sorriso que recebe lhe diz que Eduarda entendeu perfeitamente).",
+      "following": "“Agora que tudo acalmou”, ela começa devagar, medindo suas palavras, “eu"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 394,
+      "joined": false,
+      "previous": "postura parece sorrir com ela.",
+      "following": "“Você não imagina o tanto que eu queria ouvir essas palavras”, leva mais"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 395,
+      "joined": false,
+      "previous": "tava pensando? Casa ou apartamento?”",
+      "following": "“Acho que apartamento, ou talvez aquelas casinhas geminadas, sabe? Se for"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 396,
+      "joined": false,
+      "previous": "em comprar.”",
+      "following": "Lorena para com a mão no cinto que estava prestes a desafivelar. Encontra"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 397,
+      "joined": false,
+      "previous": "o deixa completamente mudo para falar o que pensa.",
+      "following": "“Eu vou te avisar só uma vez, Raul, e espero que você me escute muito bem"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 398,
+      "joined": false,
+      "previous": "aqui?”",
+      "following": "“Tá sim, amor”, ele, então, se vira para ela. A puxa num abraço, um beijo"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 399,
+      "joined": true,
+      "previous": "acompanhamento mais de ponta”, Joélly pondera, sem notar que muito",
+      "following": "provavelmente está jogando exatamente o joguinho que Lena e Samira"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 401,
+      "joined": true,
+      "previous": "gente queria, boa localização, excelente segurança. Fizeram uma reforma lá",
+      "following": "recentemente, tá tudo novinho. Tem tudo ali perto além de ser caminho"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 402,
+      "joined": true,
+      "previous": "puxa o braço e entra no carro, Aníbal entrando logo ao lado, já em",
+      "following": "comunicação com o delegado. Ele oferece a ela um sorriso como quem"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 403,
+      "joined": false,
+      "previous": "própria acabaria fazendo isso.",
+      "following": "Parte dela sussurra que talvez fosse exatamente aquilo que ela estivesse"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 404,
+      "joined": false,
+      "previous": "dessa operação, dessa prisão!”",
+      "following": "“Isso não tem nada a ver com seu esforço ou seu mérito nele, Juquinha! Seu"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 405,
+      "joined": false,
+      "previous": "nota para onde a arma está apontada: diretamente para o peito de Lorena.",
+      "following": "É menos de um segundo entre o barulho, ele olhar para a porta, notar"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 406,
+      "joined": true,
+      "previous": "ele deixa a mão cair ao lado do corpo, a voz dela fria como ele nunca ouviu",
+      "following": "antes atravessando seu coração como uma lança. Ainda assim, ele acha que"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 407,
+      "joined": false,
+      "previous": "“Eu ultrapassei os limites, eu sei disso.”",
+      "following": "Ela olha para ele por alguns segundos sem se mover ou falar alguma coisa."
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 408,
+      "joined": true,
+      "previous": "perdi o controle e ultrapassei linhas que eu não poderia nunca ultrapassar.”",
+      "following": "“Você é um cabeça-dura. Vocês dois são. Mas sabe qual é a diferença,"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 409,
+      "joined": true,
+      "previous": "e uma profissão – psicóloga. Em sua mente, ele ainda vê os olhos dela",
+      "following": "desfocados, sua postura assustada e a forma como ele não conseguiu parar,"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 410,
+      "joined": false,
+      "previous": "agi.”",
+      "following": "“Sim, eu reconheci que a arma era falsa assim que eu bati o olho nela. Mas"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 411,
+      "joined": false,
+      "previous": "ficar de chameguinho com Lorena e descansar.",
+      "following": "“A gente tá bem, Juquinha?”, a pergunta dele é baixinha, receosa. Ela sorri"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 412,
+      "joined": true,
+      "previous": "para as escadas de emergência fica ao lado de um dos dois elevadores”, é",
+      "following": "Juquinha quem toma a dianteira da apresentação e organização da operação,"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 413,
+      "joined": true,
+      "previous": "elevadores. Eles conseguem ouvir o choro de bebê através da porta e,",
+      "following": "impossível de entender exatamente o que está dizendo, a voz de uma"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 414,
+      "joined": false,
+      "previous": "criança está em segurança.”",
+      "following": "“Não!! Lena!”"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 415,
+      "joined": true,
+      "previous": "brilhando diante da venda gigantesca que está prestes a fechar – se reúnem",
+      "following": "num dos ambientes decorados que ficam montados na loja rindo, aceitando"
+    },
+    {
+      "chapter": "cap-15",
+      "nextPage": 416,
+      "joined": false,
+      "previous": "“Não, hoje eu tô livre.”",
+      "following": "“Quer me acompanhar nisso aqui?”, ela levanta o envelope de leve, apenas"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 418,
+      "joined": true,
+      "previous": "como uma ideia que deve ser adaptada e modificada para sua própria",
+      "following": "vivência brasileira – tanto a nível de leis quanto a nível de realidade e, é"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 419,
+      "joined": true,
+      "previous": "acontecer, quando decolar, quando tiver perto de pousar, não se preocupe.”",
+      "following": "“Perfeito! Já arrumou as malas, embalou seu certificado direitinho pra"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 420,
+      "joined": true,
+      "previous": "pega sua câmera analógica, a mochila que preparou especificamente para",
+      "following": "bater perna pela cidade e sai, todo o roteiro já memorizado."
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 421,
+      "joined": true,
+      "previous": "começa a se virar em sua direção, algo em seu peito gritando que aquele",
+      "following": "momento, por algum motivo, é importante. Ela consegue notar que a pele é"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 422,
+      "joined": false,
+      "previous": "“Eu tenho uma coisa pra você.”",
+      "following": "“Ah, é?”, Eduarda definitivamente merece uma medalha – duas, se bobear –"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 423,
+      "joined": true,
+      "previous": "confortavelmente na lombar de Eduarda, Lorena traça as linhas do rosto",
+      "following": "dela com os dedos da outra. Desce da testa entre as sobrancelhas, pelo nariz"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 424,
+      "joined": false,
+      "previous": "“Da hora que você entrou pela porta, mais especificamente.”",
+      "following": "“Duda…”"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 425,
+      "joined": true,
+      "previous": "digno de reverência, de devoção, “eu queria um pedaço de nós sempre com",
+      "following": "a gente. Uma lembrança tangível, uma representação digna de tudo que"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 426,
+      "joined": false,
+      "previous": "riso insano que borbulha no peito.",
+      "following": "“Sim! Meu Deus, é claro que sim!”, elas riem juntas, Lorena com a cabeça"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 427,
+      "joined": false,
+      "previous": "Maggye: vidas hétero importam, @Eduarda!!!!!!!!!",
+      "following": "Eduarda: @Maggye há controvérsias"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 428,
+      "joined": true,
+      "previous": "com uma notificação de Paulinho. Lorena vai com ela até o elevador, “você",
+      "following": "não vai conseguir mudar o mundo, meu bem”, apesar das palavras, ela não"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 429,
+      "joined": true,
+      "previous": "mesmo convencer Bagdá a se entregar”, uma batida na porta as interrompe.",
+      "following": "Lucia entra com alguns papéis que precisam de assinatura de ambas, “senta"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 430,
+      "joined": true,
+      "previous": "isso ao invés de se sentir ofendido”, Lorena volta a passar o polegar pela",
+      "following": "aliança, pensativa por um momento. Em meio a reuniões que poderiam ser"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 431,
+      "joined": true,
+      "previous": "exceto Misael. Não vou deixar você muito ansiosa, o que eu posso adiantar",
+      "following": "assim rapidamente é que é uma notificação pra uma reunião de acordo no"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 432,
+      "joined": true,
+      "previous": "minha mãe, eu preciso contar isso pra ela! Ela pode ir pra reunião",
+      "following": "também?”"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 433,
+      "joined": false,
+      "previous": "Paulo.",
+      "following": "Atendendo a um pedido especial de Jairo, o delegado daquela regional"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 434,
+      "joined": true,
+      "previous": "num degrau acima, Eduarda finalmente tem a vantagem de altura sobre a",
+      "following": "noiva. Lorena abaixa o cartaz, se vira para a multidão atrás dela e puxa um"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 436,
+      "joined": true,
+      "previous": "traficantes finalmente conseguem armar a bomba. Seu corpo está exausto,",
+      "following": "respiração ofegante de tanto correr pelas vielas estreitas entrando em"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 437,
+      "joined": true,
+      "previous": "para sair daquela situação a cada segundo que passa pior e pior. Precisa",
+      "following": "achar Giulia, precisa desarmar a bomba e, principalmente, precisa não ser"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 438,
+      "joined": true,
+      "previous": "outro chuta a porta, arma preparada para acertar Giulia. Eduarda puxa o",
+      "following": "gatilho ao mesmo tempo que sua parceira, ambos os inimigos abatidos ao"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 439,
+      "joined": true,
+      "previous": "num abraço apertado. E ela sabe que não é da vitória que ele está falando. É",
+      "following": "da marca verde em seu colete, “puta que pariu, Juquinha, você conseguiu!!"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 440,
+      "joined": true,
+      "previous": "na cama, peito subindo e descendo numa respiração desesperada; uma",
+      "following": "camada de suor cobrindo todo o seu corpo; mechas molhadas grudadas em"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 441,
+      "joined": false,
+      "previous": "ansiedade em algum momento daquela manhã.",
+      "following": "Com a garrafa de água na mão e uma toalhinha ao redor do pescoço, ela"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 442,
+      "joined": true,
+      "previous": "uma noite tranquila sem assédios, sem música ofensivamente alta e,",
+      "following": "sinceramente, com excelentes drinks – ela sente falta dessa parte, de vez em"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 444,
+      "joined": true,
+      "previous": "apresentam seus argumentos, questionamentos, evidências e qualquer",
+      "following": "documento que julguem necessário para convencer ao menos quatro dos"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 445,
+      "joined": false,
+      "previous": "faz com que os jurados condenem seu pai.",
+      "following": "Quando é a vez de Santiago prestar seu depoimento, a promotora tem uma"
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 446,
+      "joined": false,
+      "previous": "julgada e condenada, efetuasse o disparo que atingiu a vítima?",
+      "following": "Novamente, quatro votos SIM consecutivos, a juíza para a contagem."
+    },
+    {
+      "chapter": "cap-16",
+      "nextPage": 447,
+      "joined": false,
+      "previous": "diferente",
+      "following": "mas se tiver ficado ruim só me falar! o outro julgamento do ferette será"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 449,
+      "joined": false,
+      "previous": "corpos banhados pela luz do sol da tarde;",
+      "following": "Todas as contas são centralizadas em um único cartão de crédito, todas em"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 450,
+      "joined": true,
+      "previous": "graves, outros bem bobos. Alguns desses erros vão afetar nós duas, outros",
+      "following": "vão afetar só a outra. Não existe vida perfeita, meu amor. Tudo que a gente"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 451,
+      "joined": true,
+      "previous": "desculpas pelo que quer que seja que elas tenham feito de errado para ele.",
+      "following": "“Hã… o que a gente faz?”, Eduarda pergunta, seus olhos fixos no bicho que"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 452,
+      "joined": false,
+      "previous": "que pegaram logo cedo para agilizar o dia-a-dia.",
+      "following": "O gato termina sua sessão de higiene pessoal e olha para Eduarda, sua pose"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 453,
+      "joined": true,
+      "previous": "quebra o contato ao se sentir observada, cenho franzido e nota o gato",
+      "following": "novamente sentado as julgando fortemente, “peço perdão, milorde. Não era"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 454,
+      "joined": true,
+      "previous": "Vicente e Macedo num ato de – mesmo Eduarda, Paulinho e os peritos",
+      "following": "tentando arduamente achar algo que indicasse o contrário – homicídio"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 455,
+      "joined": true,
+      "previous": "lambe a marca que acaba de deixar no ombro e sustenta a maior parte do",
+      "following": "peso de Lorena com suas mãos e pernas, a incentivando a cruzar as pernas"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 456,
+      "joined": true,
+      "previous": "ruivos começa imediatamente, sem que Lorena ordene seus dedos, Eduarda",
+      "following": "fazendo o mesmo em sua barriga e costelas, um vai e vem de dedos que"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 457,
+      "joined": false,
+      "previous": "“Você vai mesmo subornar o gato com drogas?”",
+      "following": "“Claro que vou! Preciso garantir a segurança de nossos órgãos internos com"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 458,
+      "joined": false,
+      "previous": "agendas lotadas entre delegacia e Fundação.",
+      "following": "Ambas precisam eventualmente resgatar a outra depois de um dia longo"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 459,
+      "joined": false,
+      "previous": "“isso nunca vai deixar de acontecer.”",
+      "following": "“Esse sujeitinho asqueroso deveria perder a credencial por insinuar"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 460,
+      "joined": true,
+      "previous": "Seus conselhos, suas lições, sua proteção e seu carinho que bem que você",
+      "following": "tentou evitar, mas eu sou impossível de resistir!”, ele ri, concordando com a"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 461,
+      "joined": true,
+      "previous": "a Juquinha”, ela estende uma mão para Eduarda, a outra já entrelaçada à de",
+      "following": "Lorena, “eu nunca vi um amor tão lindo quanto o de vocês, tão puro. O"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 462,
+      "joined": true,
+      "previous": "filme e pipoca, a forma como você me deu abertura pra falar sobre o receio",
+      "following": "que eu sinto por causa do trabalho dela. E é por isso que nosso convite pra"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 463,
+      "joined": false,
+      "previous": "rostos, “...não?”",
+      "following": "“Não”, Eduarda responde, sorrindo, “nós queremos que você seja nossa"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 464,
+      "joined": true,
+      "previous": "permitindo que ela pegue o aparelho, “são os croquis pro casamento. Eu",
+      "following": "pedi duas opções diferentes e tô tentando decidir.”"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 465,
+      "joined": false,
+      "previous": "fica na lateral do escritório, contente em ignorá-las de pertinho.",
+      "following": "“Tá tudo bem? Aconteceu alguma coisa?”, Eduarda pergunta a ela depois"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 466,
+      "joined": false,
+      "previous": "contato por um tempo.",
+      "following": "“Sua assinatura atual é Lorena F. e seu sobrenome vai continuar tendo a"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 467,
+      "joined": false,
+      "previous": "reconhecimento.",
+      "following": "“Você faz parte dessa família desde aquele dia na galeria”, ela beija ambos"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 468,
+      "joined": true,
+      "previous": "risco menor para a sociedade do que Santiago e prefere sugar absolutamente",
+      "following": "tudo dele para esvaziar ao máximo uma possível delação de Santiago),"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 469,
+      "joined": false,
+      "previous": "“Eu não sei se consigo seguir insistindo sozinha.”",
+      "following": "Eduarda aproveita o semáforo fechado e se vira para ela, levando a mão que"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 470,
+      "joined": true,
+      "previous": "que ficará de fundo. O quadro pintado durante a cerimônia é comissionado",
+      "following": "por Maggye de presente para as noivas, apaixonada pelo estilo e talento da"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 471,
+      "joined": false,
+      "previous": "prefere não arriscar.",
+      "following": "“Obrigada, mãe”, Lorena está radiante, caminha até a mãe, os saltos que usa"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 472,
+      "joined": true,
+      "previous": "para não estragar o penteado, seu braço ao redor da cintura dela, “tudo aqui",
+      "following": "tá muito lindo. Eu tô feliz por você. Cê merece ser feliz de verdade”, ela"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 473,
+      "joined": true,
+      "previous": "que Lorena se sente uma criança de novo, chorando no colo do pai por um",
+      "following": "joelho ralado, acolhida e cuidada. Amada incondicionalmente. Ela aperta o"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 474,
+      "joined": false,
+      "previous": "deveriam ser levados para aquele evento.",
+      "following": "“Meu amor, você vai desidratar desse jeito”, Violeta entrega a ela mais um"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 475,
+      "joined": true,
+      "previous": "forte no peito, mas num ritmo mais calmo. Sua respiração mais lenta,",
+      "following": "“obrigada por tudo que você fez por mim, por nós. Não só aqui no"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 476,
+      "joined": true,
+      "previous": "consigam vê-las, um púlpito atrás do qual uma sorridente Maggye as",
+      "following": "aguarda e, ao lado dela, um igualmente sorridente Júnior segurando a"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 477,
+      "joined": true,
+      "previous": "dadas, cada um carregando um buquê, para um canto um pouco mais",
+      "following": "afastado à esquerda do púlpito. Júnior abraça ambas as noivas e se junta aos"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 478,
+      "joined": true,
+      "previous": "coragem de vestir de gentileza, cordialidade, empatia e uma pitadinha de",
+      "following": "deboche e sarcasmo todos os dias. Cada uma à sua maneira, elas lutam por"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 479,
+      "joined": false,
+      "previous": "minha melhor amiga, Maggye. Eu te amo.”",
+      "following": "Maggye respira fundo em meio aos aplausos dos convidados, o que só os"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 480,
+      "joined": true,
+      "previous": "pequeno acidente com alvejante e perdeu as cores, ficando amargurado e",
+      "following": "retirando a cor de toda a cidade até tudo ficar triste, silencioso, sem graça”,"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 481,
+      "joined": true,
+      "previous": "entendem exatamente o motivo, “mas é o primeiro poema que eu escrevi",
+      "following": "depois de muito tempo sem conseguir escrever, quando tudo na minha vida"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 482,
+      "joined": true,
+      "previous": "expectativas e exigências que eu nunca concordei em acatar. E por isso eu",
+      "following": "escrevo tanto desde que eu te encontrei e finalmente pude deixar minhas"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 483,
+      "joined": true,
+      "previous": "o de Eduarda Fragoso e Lorena Ferette. E posso afirmar com tranquilidade",
+      "following": "que ao longo de todo esse tempo raras foram as vezes que ouvi votos tão"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 484,
+      "joined": false,
+      "previous": "*****",
+      "following": "“Me deixa te ver direito”, é a primeira coisa que Eduarda fala para sua"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 485,
+      "joined": false,
+      "previous": "querem mais um tempinho aqui ou já tão prontas?”",
+      "following": "Elas se olham rapidamente e assentem, “tudo pronto sim. Pode anunciar que"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 486,
+      "joined": false,
+      "previous": "lábios.)",
+      "following": "*****"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 487,
+      "joined": false,
+      "previous": "começando a entender minha parcela de culpa nisso.”",
+      "following": "“Fico feliz por isso”, ela diz, simplesmente."
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 488,
+      "joined": false,
+      "previous": "chega na idade dela com essa disposição toda?”",
+      "following": "“Você acabou de me prometer a vida toda, Duda. Acho bom a gente sentar"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 489,
+      "joined": false,
+      "previous": "apitam ao mesmo tempo, “que isso? Defesa Civil?”",
+      "following": "“Não. É o grupo da delegacia…”, Carol responde, lendo a mensagem, suas"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 490,
+      "joined": true,
+      "previous": "curtir o resto da festa, por favor!! O prato quente deve ser servido daqui uns",
+      "following": "vinte minutos se eu bem me lembro, né, amor?”, ela pergunta com um"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 491,
+      "joined": true,
+      "previous": "em qualquer tom acima de um sussurro pudesse quebrar aquela bolha",
+      "following": "gostosa em que se encontram, “mas hoje é o dia mais feliz da minha vida."
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 492,
+      "joined": false,
+      "previous": "*****",
+      "following": "“Finalmente achei vocês!!”, Gerluce já mais pra lá do que pra cá chega"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 493,
+      "joined": false,
+      "previous": "mundo da fanficagem.”",
+      "following": "“Sabe, vocês não são nada discretos”, Maggye se junta a eles com um"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 494,
+      "joined": true,
+      "previous": "comigo?”, ela nem mesmo consegue cumprimentá-la. O medo de perder a",
+      "following": "coragem é tamanho que apenas faz o convite que grita em sua mente desde"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 495,
+      "joined": false,
+      "previous": "algemá-la no fundo da piscina, “desculpa, eu não queria te inco–”",
+      "following": "“Macedo é um homem que se perdeu na lealdade à pessoa errada. Talvez"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 496,
+      "joined": false,
+      "previous": "*****",
+      "following": "“Podem fazer o pix”, Eduarda comenta baixinho."
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 497,
+      "joined": false,
+      "previous": "Michelangelo!”",
+      "following": "“O quê?!”, os outros cinco perguntam ao mesmo tempo, alcoolizados e"
+    },
+    {
+      "chapter": "cap-17",
+      "nextPage": 498,
+      "joined": false,
+      "previous": "“Tudo certo aí atrás, meninas?”, Jô finalmente pergunta.",
+      "following": "“Tudo perfeito, Jô! Vamo nessa que o início da nossa vida não pode mais"
+    }
+  ],
+  "sourceGlyphLimitations": [
+    {
+      "page": 426,
+      "cid": "(cid:0)",
+      "font": "DejaVuSerif",
+      "representation": "□",
+      "reason": "Glifo .notdef: quadrado vazio visível no PDF original."
+    }
+  ],
+  "limitations": [
+    "PDF sem tags semânticas de parágrafo: espaços e quebras reconstituídos pela geometria.",
+    "Texto, ordem, notas, links, separadores e formatação recuperável conferidos na importação.",
+    "Revisão editorial humana da disposição dos parágrafos permanece pendente."
+  ],
+  "workNotesSha256": "83c797729a4f9807b627facf1881a62524500798679cd549dfdd531013c2c6ae"
+}

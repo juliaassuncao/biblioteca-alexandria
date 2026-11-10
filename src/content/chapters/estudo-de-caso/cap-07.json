@@ -1,0 +1,3805 @@
+{
+  "id": "cap-07",
+  "blocks": [
+    {
+      "id": "cap-07-0003",
+      "type": "paragraph",
+      "text": "“Me conta dela.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Me conta dela.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0004",
+      "type": "paragraph",
+      "text": "Existe uma certa intensidade que vive na penumbra. A luz despe a alma como um amante despe um corpo, mas é na penumbra que as verdades são ditas, laços são firmados e o abraço das sombras dá coragem para encarar aquilo que à luz não conseguimos. A penumbra é onde segredos são compartilhados, paredes quebradas, passos dados.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Existe uma certa intensidade que vive na penumbra. A luz despe a alma"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "como um amante despe um corpo, mas é na penumbra que as verdades são"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ditas, laços são firmados e o abraço das sombras dá coragem para encarar"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "aquilo que à luz não conseguimos. A penumbra é onde segredos são"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "compartilhados, paredes quebradas, passos dados."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0005",
+      "type": "paragraph",
+      "text": "Sentados sabe-se lá há quanto tempo naquele carro, o tédio já tomou conta deles. Debateram o caso que estão tentando finalizar – só esperando o flagrante que pode acontecer a qualquer momento –, já fofocaram sobre todos os casos da delegacia – cada um atualizando o outro de situações diferentes, como crianças trocando figurinhas para completar um álbum –, já falaram sobre comida, família, música, Gerluce, até mesmo sobre futebol.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Sentados sabe-se lá há quanto tempo naquele carro, o tédio já tomou conta"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "deles. Debateram o caso que estão tentando finalizar – só esperando o"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "flagrante que pode acontecer a qualquer momento –, já fofocaram sobre"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "todos os casos da delegacia – cada um atualizando o outro de situações"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "diferentes, como crianças trocando figurinhas para completar um álbum –,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "já falaram sobre comida, família, música, Gerluce, até mesmo sobre"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "futebol."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0006",
+      "type": "paragraph",
+      "text": "Juquinha olha para frente quase pegando no sono quando ele quebra o silêncio que já dura longos minutos. Sua voz baixa um convite mais do que um pedido. Ela não responde de imediato, demora o suficiente para ele se questionar se ela não está dormindo de olhos abertos.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Juquinha olha para frente quase pegando no sono quando ele quebra o"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "silêncio que já dura longos minutos. Sua voz baixa um convite mais do que"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "um pedido. Ela não responde de imediato, demora o suficiente para ele se"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "questionar se ela não está dormindo de olhos abertos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0007",
+      "type": "paragraph",
+      "text": "“Lorena é tudo”, os segundos de silêncio que se seguem não são de finalidade, mas sim como se ela estivesse buscando uma forma de colocar em palavras algo feito para se sentir, não para se definir. Ele deixa que ela use o tempo que precisar. À luz, ele teria brincado, interrompido, provocado; à penumbra, porém, ele se cala e espera. Deixa que ela vá no seu próprio ritmo, “ela é linda, forte, honesta, gentil, justa. É cabeça dura, teimosa, combativa”, na voz dela, ele ouve o tom da admiração, da devoção, “ele tentou por mais de vinte anos controlar tudo dela: ética, estética, ideais, palavras, futuro e, agora, sentimentos. E por causa disso ela fica na defensiva quando sente que qualquer uma dessas coisas está em risco, mesmo que não esteja de fato”, ele vira para ela, reconhece mesmo com pouca luz o sorriso que parece existir apenas quando o assunto é Lorena, “às vezes eu acho que ela está sempre com medo de alguma coisa e ainda assim ela segue em frente com a cabeça levantada, costas retas e coração na mão. Prefere viver a dor e decepção da verdade do que a ilusão da mentira. Mesmo se ela reagir negativamente a princípio. Na maioria das vezes, ela tá tentando calar a voz dele e achar a dela.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Lorena é tudo”, os segundos de silêncio que se seguem não são de"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "finalidade, mas sim como se ela estivesse buscando uma forma de colocar"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "em palavras algo feito para se sentir, não para se definir. Ele deixa que ela"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "use o tempo que precisar. À luz, ele teria brincado, interrompido,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "provocado; à penumbra, porém, ele se cala e espera. Deixa que ela vá no"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "seu próprio ritmo, “ela é linda, forte, honesta, gentil, justa. É cabeça dura,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "teimosa, combativa”, na voz dela, ele ouve o tom da admiração, da"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "devoção, “ele tentou por mais de vinte anos controlar tudo dela: ética,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "estética, ideais, palavras, futuro e, agora, sentimentos. E por causa disso"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ela fica na defensiva quando sente que qualquer uma dessas coisas está em"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "risco, mesmo que não esteja de fato”, ele vira para ela, reconhece mesmo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "com pouca luz o sorriso que parece existir apenas quando o assunto é"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena, “às vezes eu acho que ela está sempre com medo de alguma coisa e"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ainda assim ela segue em frente com a cabeça levantada, costas retas e"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "coração na mão. Prefere viver a dor e decepção da verdade do que a ilusão"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "da mentira. Mesmo se ela reagir negativamente a princípio. Na maioria das"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "vezes, ela tá tentando calar a voz dele e achar a dela.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0008",
+      "type": "paragraph",
+      "text": "Do lado de fora do carro, o sujeito que estão buscando finalmente aparece. Eles observam a movimentação, esperando a hora certa de finalizar aquela noite. Ela coloca a mão na maçaneta.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Do lado de fora do carro, o sujeito que estão buscando finalmente aparece."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eles observam a movimentação, esperando a hora certa de finalizar aquela"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "noite. Ela coloca a mão na maçaneta."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0009",
+      "type": "paragraph",
+      "text": "“Nunca minta pra ela, Paulinho. Ela não é frágil”, ela sai do carro, mão na arma. Ele toma a dianteira quando saem da penumbra para a luz.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Nunca minta pra ela, Paulinho. Ela não é frágil”, ela sai do carro, mão"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "na arma. Ele toma a dianteira quando saem da penumbra para a luz."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0010",
+      "type": "divider"
+    },
+    {
+      "id": "cap-07-0011",
+      "type": "paragraph",
+      "text": "Paulinho não sabe o que fazer. Ele lava o sangue dela em suas mãos, braços e rosto. Esfrega sua pele a ponto de machucar, a vermelhidão confundindo seus olhos ainda desfocados pelas lágrimas que insistem em cair e a viscosidade deixada pelo sabão se confunde em sua mente com o sangue quente dela."
+    },
+    {
+      "id": "cap-07-0012",
+      "type": "paragraph",
+      "text": "Se fechar os olhos, ele ainda consegue ver o rosto dela. Pálido demais, um contraste tão forte com os cabelos ruivos, sem a cor nas bochechas para amenizar, sem o castanho brilhante dos olhos dela dizendo que era tudo uma enorme brincadeira. Se fechar os olhos e respirar fundo, ele consegue sentir o coração dela batendo acelerado e fraco nas mãos dele, consegue sentir o cheiro do perfume dela misturado com o metal do sangue que ele estanca como pode, sabendo que o problema não é externo e sim interno, onde ele não pode alcançar, não pode ajudar. Se ele fechar os olhos, consegue vê-la deitada num halo acobreado formado por seus cabelos, tão pequena, indefesa."
+    },
+    {
+      "id": "cap-07-0013",
+      "type": "paragraph",
+      "text": "Então ele não fecha os olhos. Anda de um lado para outro dentro do espaçoso banheiro da recepção, coração disparado no peito, lágrimas nos olhos, respiração ofegante, mãos tremendo. No peito, ele sente raiva, um ódio visceral: como pode ele estar ali, coração batendo forte enquanto ela estava lá dentro, lutando com todas as forças pela próxima batida, só para ter que fazer isso de novo e de novo e de novo? Como pode ser justo?"
+    },
+    {
+      "id": "cap-07-0014",
+      "type": "paragraph",
+      "text": "Ele escuta quando ela chega. Seus passos apressados, sua voz demonstrando o pânico no volume mais alto que o seu tom normal rouco e baixo. Perguntando por ela, buscando por alguma notícia, qualquer coisa na qual ela possa se apegar. Ele respira fundo, se recompõe o tanto que pode e sai do banheiro."
+    },
+    {
+      "id": "cap-07-0015",
+      "type": "paragraph",
+      "text": "A visão de Lorena faz com que ele pare e suas pernas quase cedam. Ele pensa que talvez deva mesmo se deixar cair de joelhos e pedir perdão."
+    },
+    {
+      "id": "cap-07-0016",
+      "type": "paragraph",
+      "text": "Se fosse antes – antes da vida dele ganhar mais cor, mais carinho, mais cumplicidade, antes de Juquinha – ele veria em Lorena apenas mais uma patricinha com ideais fáceis de se ter quando se tem tanto dinheiro e privilégio. Uma menina brincando de ser mártir."
+    },
+    {
+      "id": "cap-07-0017",
+      "type": "paragraph",
+      "text": "Se fosse antes. Mas não é. E ele sabe quem Lorena é, sabe de seu caráter, de sua luta. Até isso Juquinha mudou nele. Ver além das aparências, ter empatia, respeito. E diante dele está uma mulher que perdeu tudo que nunca teve de verdade e se encontrou no amor. Uma mulher que, assim como ele, apesar de suas diferenças, teve o mundo colorido pelas mesmas mãos, pela mesma alma. Ela não esconde as lágrimas nem tenta impedi-las, seus olhos mostram muito mais do que elas: dor; medo; raiva; uma esperança lá no fundo, tentando desesperadamente crescer, tentando gritar lá de dentro que tudo vai ficar bem."
+    },
+    {
+      "id": "cap-07-0018",
+      "type": "paragraph",
+      "text": "Ele olha Lorena e se questiona como ela consegue ficar em pé, algo que ele mesmo estava se esforçando para fazer. Ele olha Lorena e vê um reflexo de Juquinha. Não partes de um todo, não é isso. Cada uma é inteira, completa em si, com suas personalidades e características únicas. O que ele vê é a essência, a ética, o que acreditam. Ambas, cada uma à sua maneira, cada uma com sua origem, buscam deixar um mundo melhor do que quando chegaram. Confortáveis em suas peles, cientes de seus desejos. Como flores que existem perfeitamente sozinhas – a nobreza, pureza, paz e devoção dos lírios; a alegria e tranquilidade de copos-de-leite; a coragem e proteção de bocas de leão; o amor abundante e confiança dos antúrios – mas que juntas formam o mais belo arranjo. Talvez esse seja o real significado de almas gêmeas. Elas não se completam; se complementam, se elevam. Amor e apoio, uma base fundamental para que cada uma brilhe em si mesma."
+    },
+    {
+      "id": "cap-07-0019",
+      "type": "paragraph",
+      "text": "Se tivesse a capacidade de ver auras, Paulinho sabe que veria brilhar em meio à de Lorena, faíscas de Juquinha. Assim como a veria na dele; assim como veria Gerluce em si; Viviane em Gerluce e tantos outros brilhos em tantas outras pessoas. Afinal de contas, o que é amor, se não partes daqueles que estão conosco misturados a nós?"
+    },
+    {
+      "id": "cap-07-0020",
+      "type": "paragraph",
+      "text": "Ela se aproxima dele, mas não chega muito perto. Seus movimentos controlados, deliberados. Como se ela tentasse não desabar ao mover um centímetro a mais ou a menos."
+    },
+    {
+      "id": "cap-07-0021",
+      "type": "paragraph",
+      "text": "“Me fala”, a voz dela soa exatamente como seus movimentos: uma barragem de gravetos e folhas secas tentando segurar o ritmo de um rio selvagem."
+    },
+    {
+      "id": "cap-07-0022",
+      "type": "paragraph",
+      "text": "“Lorena…”, um passo dela para frente, um dele para trás."
+    },
+    {
+      "id": "cap-07-0023",
+      "type": "paragraph",
+      "text": "“Me fala, Paulinho”, mais um passo dela, mais um dele. Suas costas agora contra a parede revestida por uma pedra fria. Fria como tudo naquele lugar, como tudo está desde o momento em que a viu cair. Fria como os olhos de Lorena não estão – o verde deles mais escuro, como uma tarde que promete tempestade de verão, quente e destruidora, “só me fala logo. Eu preciso saber de alguma coisa, qualquer coisa!!”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Me fala, Paulinho”, mais um passo dela, mais um dele. Suas costas agora contra a parede revestida por uma pedra fria. Fria como tudo naquele lugar, como tudo está desde o momento em que a viu cair. Fria como os olhos de Lorena não estão – o verde deles mais escuro, como uma tarde que promete tempestade de verão, quente e destruidora"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": ","
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " “só me fala logo. Eu preciso saber de alguma coisa, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "qualquer"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " coisa!!”"
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0024",
+      "type": "paragraph",
+      "text": "Ela prefere a dor da verdade do que a ilusão da mentira. Nunca minta pra ela.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ela prefere a dor da verdade do que a ilusão da mentira. Nunca minta pra"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ela"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0025",
+      "type": "paragraph",
+      "text": "“O tiro”, a voz dele falha. Ele limpa a garganta, tenta de novo, “ela foi atingida no peito”, a postura dela falha como se ela própria levasse um tiro, “o atendimento foi ráp– Lorena”, o olhar dela está desfocado, perdido, “Lorena, olha pra mim. Ei”, rezando para que não esteja cruzando uma linha, ele a segura pelos ombros, aperta um pouco os dedos quando ela não parece registrar o toque inicial. Ela levanta os olhos vidrados para ele. Lágrimas silenciosas descendo pelo rosto, “os socorristas chegaram rápido. O coração dela tá batendo, ok? Ela tá lutando!”"
+    },
+    {
+      "id": "cap-07-0026",
+      "type": "paragraph",
+      "text": "Os gravetos e folhas se rompem e ela desaba. Ele impede que ela caia quando as pernas falham, a puxa pra perto de si, a abraça."
+    },
+    {
+      "id": "cap-07-0027",
+      "type": "paragraph",
+      "text": "“Me perdoa. Por favor, me perdoa. Eu tentei, eu fui o mais rápido que eu consegui, mas–”, ele não consegue continuar. Lorena o abraça de volta e ficam ali juntos, “ela tá lutando”, suas palavras são ditas contra o cabelo dela e ela o segura mais firme, “ela é cabeça dura e não vai desistir fácil. Ela vai voltar, eu sei que ela vai voltar”, se é uma súplica ou uma certeza ela não sabe dizer, mas no momento é tudo que eles têm e ela vai se apegar a isso assim como ele."
+    },
+    {
+      "id": "cap-07-0028",
+      "type": "paragraph",
+      "text": "Lorena não responde. Não consegue. Mas não o solta. Neste momento, eles precisam um do outro."
+    },
+    {
+      "id": "cap-07-0029",
+      "type": "divider"
+    },
+    {
+      "id": "cap-07-0030",
+      "type": "paragraph",
+      "text": "O som do caos inunda a sala. Em meio a gritos de civis e algumas ordens policiais ao longe, a voz de Paulinho soa cristalina e desesperada."
+    },
+    {
+      "id": "cap-07-0031",
+      "type": "paragraph",
+      "text": "“Me perdoa”, o som do tecido rasgando, “olha pra mim, Juquinha. Olha pra mim, abre o olho! Fica aqui, Juquinha. Luta mais um pouco, a ajuda já tá vindo. Você vai ficar bem. Ok? Só mais um pouco, Lorena tá te esperando. Ela vai me moer vivo se você desistir, Juquinha. Só mais um pouco, ok? Eu sei que você tá cansada, mas só mais um pouco e você vai conseguir ver ela de novo. Ela tá te esperando, Juquinha.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Me perdoa”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", o som do tecido rasgando, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“olha pra mim, Juquinha. Olha"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pra mim, abre o olho! Fica aqui, Juquinha. Luta mais um pouco, a ajuda já"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tá vindo. Você vai ficar bem. Ok? Só mais um pouco, Lorena tá te"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "esperando. Ela vai me moer vivo se você desistir, Juquinha. Só mais um"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pouco, ok? Eu sei que você tá cansada, mas só mais um pouco e você vai"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "conseguir ver ela de novo. Ela tá te esperando, Juquinha.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0032",
+      "type": "paragraph",
+      "text": "Uma voz que ninguém ali é capaz de identificar, de um dos socorristas, um pouco distante e abafada, o som das rodas da maca dificultando o entendimento."
+    },
+    {
+      "id": "cap-07-0033",
+      "type": "paragraph",
+      "text": "“O senhor conhece a vítima?”\n“É minha irmã.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“O senhor conhece a vítima?”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“É minha irmã.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0034",
+      "type": "paragraph",
+      "text": "“Nome?”\n“Eduarda Fragoso”, a voz de Paulinho soa automática. “Idade?”\n“Vinte e cinco.”\n“Tipo sanguíneo?”\n“O-.”\n“Alergias? Doenças crônicas?”\n“Não.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Nome?”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Eduarda Fragoso”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", a voz de Paulinho soa automática. “Idade?”\n“Vinte e cinco.”\n“Tipo sanguíneo?”\n“O-.”\n“Alergias? Doenças crônicas?”\n“Não.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0035",
+      "type": "paragraph",
+      "text": "O time de TI ainda está trabalhando para limpar mais o áudio, isolar o barulho do helicóptero, melhorar a qualidade das vozes. Na versão que eles estão ouvindo as vozes estão distantes, mas se eles se concentrarem o suficiente, conseguem entender as palavras gritadas com urgência."
+    },
+    {
+      "id": "cap-07-0036",
+      "type": "paragraph",
+      "text": "“Ferimento por arm– pulmão foi atingi– em queda livre. Merda, tá caindo muito rápido!–ecisar fazer a descompressão agora!! Manda preparar o centro cirúrgico.\"",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Ferimento por arm– pulmão foi atingi– em queda livre. Merda, tá caindo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "muito rápido!–ecisar fazer a descompressão agora!! Manda preparar o"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "centro cirúrgico.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0037",
+      "type": "paragraph",
+      "text": "Alguns segundos se passam com vozes indistintas sob o barulho ensurdecedor das hélices."
+    },
+    {
+      "id": "cap-07-0038",
+      "type": "paragraph",
+      "text": "\"Confirmação re–timativa: dois minutos.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "\"Confirmação re–timativa: dois minutos.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0039",
+      "type": "paragraph",
+      "text": "“De novo”, a voz do delegado é séria. Está em pé na sala de conferência, olhando nos olhos de cada policial ali dentro com ele. O áudio é reproduzido novamente. E de novo. E de novo. E de novo. A cada nova reprodução, os olhares endurecem, o foco aumenta, a lealdade paira no ar como elemento químico misturado entre as moléculas de oxigênio, “Santiago Ferette está em custódia da Polícia Civil do Estado de São Paulo sob acusação de tentativa de homicídio”, ele busca por sinais específicos: alguém que se mexa desconfortável na cadeira, que não mantenha contato visual. Não encontra, “ele recebeu voz de prisão ainda na Fundação antes de ser encaminhado ao hospital para tratar de um ferimento no ombro, baleado em legítima defesa de terceiros pelo policial Paulo Reitz. Estamos seguindo todos os protocolos à risca, temos vinte e quatro horas para entregar o auto de prisão em flagrante lavrado ao Ministério Público e à Defensoria e assim o faremos. Paulinho virá para a delegacia assim que tiver notícias de Juquinha para prestar seu depoimento e entregar sua arma para a perícia. Enquanto isso, seguiremos trabalhando nos depoimentos das testemunhas e de Lucélia”, ele novamente olha para todos antes de seguir, “teremos dois agentes com Ferette o tempo todo. Um dentro do quarto e um fora. Ninguém, absolutamente ninguém entra sozinho, exceto seus advogados, como manda a lei. Coloque o áudio de novo.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“De novo”, a voz do delegado é séria. Está em pé na sala de conferência, olhando nos olhos de cada policial ali dentro com ele. O áudio é reproduzido novamente. E de novo. E de novo. E de novo. A cada nova reprodução, os olhares endurecem, o foco aumenta, a lealdade paira no ar como elemento químico misturado entre as moléculas de oxigênio, “Santiago Ferette está em custódia da Polícia Civil do Estado de São Paulo sob acusação de tentativa de homicídio”, ele busca por sinais específicos: alguém que se mexa desconfortável na cadeira, que não mantenha contato visual. Não encontra, “ele recebeu voz de prisão ainda na Fundação antes de ser encaminhado ao hospital para tratar de um ferimento no ombro, baleado em legítima defesa de terceiros pelo policial Paulo Reitz. Estamos seguindo todos os protocolos à risca, temos vinte e quatro horas para entregar o auto de prisão em flagrante lavrado ao Ministério Público e à Defensoria e assim o faremos. Paulinho virá para a delegacia assim que tiver notícias de Juquinha para prestar seu depoimento e entregar sua arma para a perícia. Enquanto isso, seguiremos trabalhando nos depoimentos das testemunhas e de Lucélia”, ele novamente olha para todos antes de seguir, “teremos dois agentes com Ferette o tempo todo. Um dentro do quarto e um fora. Ninguém, absolutamente "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ninguém"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " entra sozinho, exceto seus advogados, como manda a lei. Coloque o áudio de novo.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0040",
+      "type": "paragraph",
+      "text": "A sala novamente se inunda de caos. A esta altura, ele sabe que todos ali sentem o peso do que está acontecendo. E confia neles cegamente."
+    },
+    {
+      "id": "cap-07-0041",
+      "type": "paragraph",
+      "text": "“Lembrem-se dessas palavras. Lembrem-se de Eduarda Fragoso – da nossa Juquinha – com uma bala no peito pra nos conseguir essa chance. Lembrem-se disso quando estiverem lá dentro e ele tentar comprar a lealdade de vocês, porque ele vai tentar comprar a lealdade de vocês. Lembrem-se dessas palavras, de seus irmãos, de seus distintivos, de seu juramento. Aníbal, Carol e Emer estão dispensados desse trabalho por sua participação na operação. Excelente trabalho, vocês três”, ele levanta a mão quando os três começam a falar ao mesmo tempo, “eu sei que querem continuar, mas eu preciso de vocês aqui documentando e finalizando os depoimentos que tomaram na cena do crime. As próximas semanas serão longas, teremos muito trabalho pela frente. Santiago Ferette tem muito mais a responder do que tentar matar Juquinha. E vamos pegá-lo por cada vida que ele conseguiu tirar e cada centavo que ele roubou enquanto fazia isso.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Lembrem-se dessas palavras. Lembrem-se de Eduarda Fragoso – da "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "nossa"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Juquinha – com uma bala no peito pra nos conseguir essa chance. Lembrem-se disso quando estiverem lá dentro e ele tentar comprar a lealdade de vocês, porque ele "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "vai"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " tentar comprar a lealdade de vocês. Lembrem-se dessas palavras, de seus irmãos, de seus distintivos, de seu juramento. Aníbal, Carol e Emer estão dispensados desse trabalho por sua participação na operação. Excelente trabalho, vocês três”, ele levanta a mão quando os três começam a falar ao mesmo tempo, “eu sei que querem continuar, mas eu preciso de vocês aqui documentando e finalizando os depoimentos que tomaram na cena do crime. As próximas semanas serão longas, teremos muito trabalho pela frente. Santiago Ferette tem muito mais a responder do que tentar matar Juquinha. E vamos pegá-lo por cada vida que ele conseguiu tirar e cada centavo que ele roubou enquanto fazia isso.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0042",
+      "type": "paragraph",
+      "text": "“Delegado?”"
+    },
+    {
+      "id": "cap-07-0043",
+      "type": "paragraph",
+      "text": "“Pois não?”"
+    },
+    {
+      "id": "cap-07-0044",
+      "type": "paragraph",
+      "text": "“A notícia saiu. Já tá circulando pela internet toda, portais de confiança.”"
+    },
+    {
+      "id": "cap-07-0045",
+      "type": "paragraph",
+      "text": "“Merda! Traz aqui, deixa eu ver”, a policial entrega o tablet já aberto na página de um dos principais portais jornalísticos do país."
+    },
+    {
+      "id": "cap-07-0046",
+      "type": "heading",
+      "text": "ATAQUE A TIROS NA FUNDAÇÃO FERETTE DEIXA FERIDOS EM ESTADO GRAVE",
+      "level": 3,
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "ATAQUE A TIROS NA FUNDAÇÃO FERETTE DEIXA"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "FERIDOS EM ESTADO GRAVE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0047",
+      "type": "paragraph",
+      "text": "Uma pessoa ficou gravemente ferida e foi levada de helicóptero ao Hospital Albert Einstein após ataque a tiros no prédio da sede da Fundação Ferette nesta tarde. Além da vítima – até o momento não identificada –, o próprio presidente da Fundação, o benfeitor Santiago Ferette, foi atingido e encaminhado para o mesmo hospital em estado estável e fora de risco."
+    },
+    {
+      "id": "cap-07-0048",
+      "type": "paragraph",
+      "text": "Segundo informações apuradas pelo nosso time junto a testemunhas e funcionários da Fundação, uma jovem teria entrado no prédio portando uma arma e realizado disparos contra a sala da presidência, onde Ferette estava em reunião com a outra vítima. Seguranças teriam conseguido desarmar e imobilizar a jovem que foi levada para a Delegacia de Polícia da Aclimação. Ainda não obtivemos informações sobre um possível motivo que teria levado ao ataque nem sobre o alvo, mas tudo leva a crer que o ataque era direcionado ao presidente da Fundação."
+    },
+    {
+      "id": "cap-07-0049",
+      "type": "paragraph",
+      "text": "A assessoria de imprensa do hospital, em resposta à nossa tentativa de contato, se recusou a passar quaisquer informações sobre a vítima mais grave e seu atual estado de saúde. A Polícia Civil foi acionada e iniciou o processo de investigação do caso."
+    },
+    {
+      "id": "cap-07-0050",
+      "type": "paragraph",
+      "text": "Seguimos em apuração e voltaremos com mais informações a qualquer momento."
+    },
+    {
+      "id": "cap-07-0051",
+      "type": "paragraph",
+      "text": "“Essa nota saiu muito rápido, delegado”, Sandro dá voz ao que todos presentes na sala pensam."
+    },
+    {
+      "id": "cap-07-0052",
+      "type": "paragraph",
+      "text": "“Foi plantado. O safado já tinha tudo planejado. Aposto um salário do Paulinho que ele pretendia matar a sobrinha do galerista e se vender como herói, esse vagabundo!!”"
+    },
+    {
+      "id": "cap-07-0053",
+      "type": "paragraph",
+      "text": "“Se for isso mesmo, nós temos ainda mais munição contra ele, já que não apenas ela tá viva como tá aqui com a gente.”"
+    },
+    {
+      "id": "cap-07-0054",
+      "type": "paragraph",
+      "text": "“É, mas a gente não tem tempo a perder. Timing é tudo! Ninguém aqui vai desperdiçar a bala de prata que Juquinha conseguiu. Se demorarmos muito, ele consegue escapar. Apressem a validação do áudio com a perícia! Usem as armas que precisarem pra fazer isso andar mais rápido! Eu já vou adiantar o contato pra começar a virar essa maré pro nosso lado e evitar que algum juiz vendido consiga que ele escape por entre nossos dedos”, ele se levanta da cadeira já com o celular na orelha, “mantenham Lucélia sob vigilância vinte e quatro horas, eu não quero saber de ninguém respirando na mesma cela que ela. Ela não levanta sem eu saber, ela não anda sem eu saber, ela não coça a bunda sem eu saber. Estamos entendidos??”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“É, mas a gente não tem tempo a perder. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Timing"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " é tudo! Ninguém aqui vai desperdiçar a bala de prata que Juquinha conseguiu. Se demorarmos muito, ele consegue escapar. Apressem a validação do áudio com a perícia! Usem as armas que precisarem pra fazer isso andar mais rápido! Eu já vou adiantar o contato pra começar a virar essa maré pro nosso lado e evitar que algum juiz vendido consiga que ele escape por entre nossos dedos”, ele se levanta da cadeira já com o celular na orelha, “mantenham Lucélia sob vigilância vinte e quatro horas, eu não quero saber de ninguém respirando na mesma cela que ela. Ela não levanta sem eu saber, ela não anda sem eu saber, ela não coça a bunda sem eu saber. Estamos entendidos??”"
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0055",
+      "type": "paragraph",
+      "text": "“Sim, senhor!”"
+    },
+    {
+      "id": "cap-07-0056",
+      "type": "paragraph",
+      "text": "“Boa noite?”, ele atende no terceiro toque.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Boa noite?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "”, ele atende no terceiro toque."
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0057",
+      "type": "paragraph",
+      "text": "“Boa noite, senhor Rogério Dantas. Delegado Jairo Barroso falando. Tenho um trabalho pra você.”"
+    },
+    {
+      "id": "cap-07-0058",
+      "type": "divider"
+    },
+    {
+      "id": "cap-07-0059",
+      "type": "paragraph",
+      "text": "“Ok, se num vai por bem, vai por mal”, Eduarda levanta o olhar da sobremesa que empurra de um lado para o outro no prato, quase intocada, e o fixa nela, cenho franzido, “o que tá acontecendo? Cê tá dissociando olhando pra essa torta há pelo menos cinco minutos. Eu nem sabia que cê conseguia ficar cinco minutos em silêncio!”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Ok, se num vai por bem, vai por mal”, Eduarda levanta o olhar da"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sobremesa que empurra de um lado para o outro no prato, quase intocada,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "e o fixa nela, cenho franzido, “o que tá acontecendo? Cê tá dissociando"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "olhando pra essa torta há pelo menos cinco minutos. Eu nem sabia que cê"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "conseguia ficar cinco minutos em silêncio!”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0060",
+      "type": "paragraph",
+      "text": "Tudo bem que o fato de que ela começou a trabalhar na polícia recentemente fez com que seus horários não batessem tão regularmente, forçando um certo nível de afastamento, mas ainda assim Eduarda costuma desabafar quando alguma coisa a incomoda.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tudo bem que o fato de que ela começou a trabalhar na polícia"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "recentemente fez com que seus horários não batessem tão regularmente,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "forçando um certo nível de afastamento, mas ainda assim Eduarda costuma"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "desabafar quando alguma coisa a incomoda."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0061",
+      "type": "paragraph",
+      "text": "O fato é que Eduarda é um livro aberto, um espírito livre. Ela vive aos berros, não se prende nem se fecha em qualquer tipo de armário, completamente alérgica a eles. É claro que ela não vai desabafar sobre seus mais íntimos desejos, dúvidas e anseios com qualquer pessoa que cruza seu caminho, mas uma vez que ela forma uma ligação com alguém – e não é difícil isso acontecer, considerando o tanto que ela é carismática e se recusa a não ser o centro das atenções – ela não costuma guardar seus sentimentos por muito tempo.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "O fato é que Eduarda é um livro aberto, um espírito livre. Ela vive aos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "berros, não se prende nem se fecha em qualquer tipo de armário,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "completamente alérgica a eles. É claro que ela não vai desabafar sobre"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "seus mais íntimos desejos, dúvidas e anseios com qualquer pessoa que"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "cruza seu caminho, mas uma vez que ela forma uma ligação com alguém –"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "e não é difícil isso acontecer, considerando o tanto que ela é carismática e"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "se recusa a não ser o centro das atenções – ela não costuma guardar seus"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sentimentos por muito tempo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0062",
+      "type": "paragraph",
+      "text": "Maggye sabe que isso veio de seus pais, da forma como a ensinaram desde muito cedo a trabalhar seus sentimentos falando deles em voz alta. Tudo, de acordo com eles, é mais fácil de ser dissecado e tratado e discutido quando se joga luz. Ela leva isso consigo como um pilar.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Maggye sabe que isso veio de seus pais, da forma como a ensinaram desde"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "muito cedo a trabalhar seus sentimentos falando deles em voz alta. Tudo,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "de acordo com eles, é mais fácil de ser dissecado e tratado e discutido"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "quando se joga luz. Ela leva isso consigo como um pilar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0063",
+      "type": "paragraph",
+      "text": "Primeiro, ela acha as palavras que encaixam com os barulhos, cores e cheiros que aquele sentimento tem; depois, ela as coloca em ordem; depois, lhes dá sons; e então começa o trabalho de lidar com aquilo. Nem sempre é fácil. Não é porque ela consegue trazê-lo à luz que aquele sentimento não tem efeito. Não é porque ela consegue chamar um coração partido pelo nome que ele dói menos.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Primeiro, ela acha as palavras que encaixam com os barulhos, cores e"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "cheiros que aquele sentimento tem; depois, ela as coloca em ordem; depois,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "lhes dá sons; e então começa o trabalho de lidar com aquilo. Nem sempre é"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "fácil. Não é porque ela consegue trazê-lo à luz que aquele sentimento não"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tem efeito. Não é porque ela consegue chamar um coração partido pelo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "nome que ele dói menos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0064",
+      "type": "paragraph",
+      "text": "E não é que Maggye ache que ela esteja de coração partido neste momento, ou decepcionada, ou qualquer coisa negativa propriamente dita. Ela só está… Quieta. Uma Eduarda tão introspectiva nunca – literalmente nunca – esteve presente diante dela. É uma visão estranha, incômoda, errada.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "E não é que Maggye ache que ela esteja de coração partido neste momento,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ou decepcionada, ou qualquer coisa negativa propriamente dita. Ela só"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "está… Quieta. Uma Eduarda tão introspectiva nunca – literalmente nunca"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "– esteve presente diante dela. É uma visão estranha, incômoda, errada."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0065",
+      "type": "paragraph",
+      "text": "Ela suspira, ajeita sua postura, encostando na cadeira depois de educadamente deixar o garfo ao lado do prato – indiscutivelmente filha de Violeta Fragoso.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ela suspira, ajeita sua postura, encostando na cadeira depois de"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "educadamente deixar o garfo ao lado do prato – indiscutivelmente filha de"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Violeta Fragoso."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0066",
+      "type": "paragraph",
+      "text": "“Eu tava pensando numa coisa que Paulinho me perguntou.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Eu tava pensando numa coisa que Paulinho me perguntou.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0067",
+      "type": "paragraph",
+      "text": "“Paulinho é seu mentor na delegacia, né? O chato?”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Paulinho é seu mentor na delegacia, né? O chato?”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0068",
+      "type": "paragraph",
+      "text": "“Isso, mas ele nem tá tão chato mais.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Isso, mas ele nem tá tão chato mais.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0069",
+      "type": "paragraph",
+      "text": "“Ah, é? Por que o chato não tá tão chato mais?”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Ah, é? Por que o chato não tá tão chato mais?”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0070",
+      "type": "paragraph",
+      "text": "“Ele tá apaixonado”, Maggye sabe que ela está adiando o assunto, sabe o que significa. Ela está ordenando as palavras que já achou. Opta por dar esse tempinho a ela, sabe que ela vai falar quando tiver terminado de organizar tudo. Mas isso não quer dizer que ela não vai cumprir sua obrigação de amiga e atormentar a vida dela um pouquinho. Abre um sorriso antes mesmo de falar.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Ele tá apaixonado”, Maggye sabe que ela está adiando o assunto, sabe o"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "que significa. Ela está ordenando as palavras que já achou. Opta por dar"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "esse tempinho a ela, sabe que ela vai falar quando tiver terminado de"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "organizar tudo. Mas isso não quer dizer que ela não vai cumprir sua"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "obrigação de amiga e atormentar a vida dela um pouquinho. Abre um"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sorriso antes mesmo de falar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0071",
+      "type": "paragraph",
+      "text": "“Por você?”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Por você?”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0072",
+      "type": "paragraph",
+      "text": "“Meu Deus, não!!”, sinceramente, Maggye tem uma certa dúvida se a reação de ânsia de vômito dela foi totalmente teatral, o que só faz com que ela ria mais alto, “eu já estaria usando uma cerca elétrica de colar se fosse o caso!”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Meu Deus, não!!”, sinceramente, Maggye tem uma certa dúvida se a"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "reação de ânsia de vômito dela foi totalmente teatral, o que só faz com que"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ela ria mais alto, “eu já estaria usando uma cerca elétrica de colar se fosse"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "o caso!”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0073",
+      "type": "paragraph",
+      "text": "“Ai, amiga”, ela começa quando finalmente consegue se recuperar da crise de riso, “às vezes eu acho que sua sapatonice fica menos diluída por causa da sua altura, só isso explica o tanto que cê tem horror a macho”, usando o próprio garfo, ela rouba um pedaço da torta que segue ignorada, “acho muito fofo.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Ai, amiga”, ela começa quando finalmente consegue se recuperar da crise"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "de riso, “às vezes eu acho que sua sapatonice fica menos diluída por causa"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "da sua altura, só isso explica o tanto que cê tem horror a macho”, usando o"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "próprio garfo, ela rouba um pedaço da torta que segue ignorada, “acho"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "muito fofo.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0074",
+      "type": "paragraph",
+      "text": "“Sendo que cê nem é tão mais alta que eu assim?”, Eduarda empurra o prato até o meio da mesa, pega um pedacinho para si.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Sendo que cê nem é tão mais alta que eu assim?”, Eduarda empurra o"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "prato até o meio da mesa, pega um pedacinho para si."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0075",
+      "type": "paragraph",
+      "text": "“E minha heterossexualidade é muito bem distribuída. Eu consigo lidar com uma mulher encantada por mim, por exemplo.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“E minha heterossexualidade é muito bem distribuída. Eu consigo lidar"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "com uma mulher encantada por mim, por exemplo.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0076",
+      "type": "paragraph",
+      "text": "“Ah, mas aí cê precisa lembrar que estamos falando de mulheres, as criaturas mais maravilhosas que já agraciaram esta terra.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Ah, mas aí cê precisa lembrar que estamos falando de mulheres, as"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "criaturas mais maravilhosas que já agraciaram esta terra.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0077",
+      "type": "paragraph",
+      "text": "Ela ri de novo, “ok, você tem um ponto.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Ela ri de novo, “ok, você tem um ponto.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0078",
+      "type": "paragraph",
+      "text": "“É claro que eu tenho! Enfim. Ele tá apaixonado por uma moça chamada Gerluce e tá abaixando um pouco as defesas dele. E, é claro, eu tô me metendo no relacionamento dele porque nunca que macho vai saber tratar aquela mulher maravilhosa direito, tenho que dar uns toques pra ele num estragar tudo. Como todo macho faz.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“É claro que eu tenho! Enfim. Ele tá apaixonado por uma moça chamada"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Gerluce e tá abaixando um pouco as defesas dele. E, é claro, eu tô me"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "metendo no relacionamento dele porque nunca que macho vai saber tratar"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "aquela mulher maravilhosa direito, tenho que dar uns toques pra ele num"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "estragar tudo. Como todo macho faz.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0079",
+      "type": "paragraph",
+      "text": "“Você gosta dele”, a frase é simples. Sem segundas intenções, sem significados ocultos, sem indiretas. Ela pega mais um pedaço da torta.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Você gosta dele”, a frase é simples. Sem segundas intenções, sem"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "significados ocultos, sem indiretas. Ela pega mais um pedaço da torta."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0080",
+      "type": "paragraph",
+      "text": "“Gosto sim. Por baixo daquele distintivo enorme que ele usa de escudo tem um cara legal. Leal, engraçado”, ela sorri quando Eduarda também pega mais um pedaço da sobremesa, agora quase finalizada.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Gosto sim. Por baixo daquele distintivo enorme que ele usa de escudo tem"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "um cara legal. Leal, engraçado”, ela sorri quando Eduarda também pega"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mais um pedaço da sobremesa, agora quase finalizada."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0081",
+      "type": "paragraph",
+      "text": "“E o que aconteceu que te deixou…”, ela gesticula com o garfo em círculos diante dela, “assim.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“E o que aconteceu que te deixou…”, ela gesticula com o garfo em círculos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "diante dela, “assim.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0082",
+      "type": "paragraph",
+      "text": "“Ele tá se encantando pelo amor de novo – já foi casado antes e deu muito ruim. Ela tá descendo a marreta nesse escudo e ele tá tentando reconstruir. Eu tento ajudar a entender que não é o fim do mundo ele se abrir pra pessoas e coisas legais. Ele me perguntou se eu já me apaixonei antes.” “Ah”, o que mais ela pode dizer? Não tem nada na vida que Eduarda queira mais do que se apaixonar. Ela sabe bem como esse assunto é delicado para ela. Paulinho está apaixonado e lutando contra o sentimento que ela daria tudo para viver.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Ele tá se encantando pelo amor de novo – já foi casado antes e deu muito"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ruim. Ela tá descendo a marreta nesse escudo e ele tá tentando reconstruir."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu tento ajudar a entender que não é o fim do mundo ele se abrir pra"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pessoas e coisas legais. Ele me perguntou se eu já me apaixonei antes.”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Ah”, o que mais ela pode dizer? Não tem nada na vida que Eduarda"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "queira mais do que se apaixonar. Ela sabe bem como esse assunto é"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "delicado para ela. Paulinho está apaixonado e lutando contra o sentimento"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "que ela daria tudo para viver."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0083",
+      "type": "paragraph",
+      "text": "No silêncio que se segue, ela olha para o parque ao lado do restaurante. Não é o mesmo que aquele dia, mas a cena normalmente é a mesma: pessoas fazendo caminhada; dando uma volta de bicicleta; algumas correndo; famílias fazendo piquenique; pessoas sozinhas sentadas no gramado; um primeiro encontro; um último adeus. Vidas seguindo seus rumos. Ela observa a vida e se lembra de Lorena. E nos olhos de Eduarda, ela vê a mesma melancolia refletida em tons de castanho que ela viu em tons de verde.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "No silêncio que se segue, ela olha para o parque ao lado do restaurante."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Não é o mesmo que aquele dia, mas a cena normalmente é a mesma:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pessoas fazendo caminhada; dando uma volta de bicicleta; algumas"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "correndo; famílias fazendo piquenique; pessoas sozinhas sentadas no"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "gramado; um primeiro encontro; um último adeus. Vidas seguindo seus"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "rumos. Ela observa a vida e se lembra de Lorena. E nos olhos de Eduarda,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ela vê a mesma melancolia refletida em tons de castanho que ela viu em"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tons de verde."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0084",
+      "type": "paragraph",
+      "text": "Com um novo sorriso no rosto e o último pedaço da torta, ela se pergunta e se…",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Com um novo sorriso no rosto e o último pedaço da torta, ela se pergunta"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " e se"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0085",
+      "type": "divider"
+    },
+    {
+      "id": "cap-07-0086",
+      "type": "paragraph",
+      "text": "A primeira coisa que Maggye faz quando finalmente chega à recepção é se ajoelhar diante da poltrona onde Lorena está e puxá-la num abraço apertado e silencioso."
+    },
+    {
+      "id": "cap-07-0087",
+      "type": "paragraph",
+      "text": "Paulinho, que está na poltrona ao lado de Lorena, se levanta para que Maggye tome seu lugar e possa conversar com ela. Apesar disso, ele não se afasta, fica em pé perto delas. Zenilda está do outro lado de Lorena, com Leonardo ao lado de Zenilda. Eles formam uma unidade com Lorena no centro."
+    },
+    {
+      "id": "cap-07-0088",
+      "type": "paragraph",
+      "text": "“Vocês podem me contar alguma coisa? O que aconteceu?”, Maggye pergunta com cuidado. Ela não quer deixar ninguém mal, mas está preocupada."
+    },
+    {
+      "id": "cap-07-0089",
+      "type": "paragraph",
+      "text": "“Ela–”, Lorena pigarreia quando a voz falha. Tenta de novo, “ela estava na Fundação em reunião com meu pai – é uma longa história que eu não tenho como te falar agora…”"
+    },
+    {
+      "id": "cap-07-0090",
+      "type": "paragraph",
+      "text": "“Eu posso contar depois, se vocês quiserem”, Paulinho oferece, olhos fixos em Lorena, que assente para ele."
+    },
+    {
+      "id": "cap-07-0091",
+      "type": "paragraph",
+      "text": "“Obrigada, Paulinho”, voltando a olhar para Maggye, ela continua, “Lucélia tava lá. Obrigada por isso, Maggye. Se não fosse por isso nós não a teríamos visto quando vimos e o estrago poderia ter sido muito maior”, ela aperta a mão que Maggye mantém entre as suas, “Lucélia atingiu ela no peito. Ela tá em cirurgia, a gente tá sem informação além disso. Eu tô tão preocupada, Maggye!”, apoiando a cabeça no ombro dela, Lorena se deixa consolar por um momento, já tentando reunir forças de novo. Ela não sabe até quando vai conseguir seguir sem pelo menos uma notícia, alguma coisa na qual se apegar."
+    },
+    {
+      "id": "cap-07-0092",
+      "type": "paragraph",
+      "text": "“A notícia saiu. Quer dizer, a versão do pai saiu”, Leonardo passa para eles depois de alguns minutos em silêncio. Ele lê a notícia para os outros."
+    },
+    {
+      "id": "cap-07-0093",
+      "type": "paragraph",
+      "text": "“Se alguém tinha alguma dúvida de que esse desgraçado já tinha tudo planejado…”, Paulinho diz entre dentes. Tenta segurar um pouco as palavras que queimam em seu peito em respeito ao local onde estão e a companhia que tem."
+    },
+    {
+      "id": "cap-07-0094",
+      "type": "paragraph",
+      "text": "“Então foi tudo em vão?”, Lorena indaga, uma exaustão que parece vir direto de sua alma, “o plano deu errado?”"
+    },
+    {
+      "id": "cap-07-0095",
+      "type": "paragraph",
+      "text": "“Eu não diria isso”, Zenilda levanta os olhos do celular que tem em mãos, um brilho quase selvagem neles, um sorriso nos lábios, “o delegado entrou em contato com Rogério. Eles começaram a preparar o contragolpe. Ferette só foi mais rápido, mas talvez isso até mesmo funcione a nosso favor quando a verdade inteira sair. A princípio, eles não vão liberar o áudio porque precisa passar por perícia, mas vão frear essa narrativa ainda hoje. Não foi em vão, meu amor”, ela coloca a mão sobre a perna de Lorena e sorri para ela, “a gente só tá começan–”"
+    },
+    {
+      "id": "cap-07-0096",
+      "type": "paragraph",
+      "text": "“Boa noite. Família de Eduarda Fragoso?”"
+    },
+    {
+      "id": "cap-07-0097",
+      "type": "paragraph",
+      "text": "Lorena é a primeira a levantar seguida por todos os demais. Maggye segura sua mão, braços encostando completamente; Zenilda segura sua outra mão; Leonardo fica atrás delas, entre as duas; Paulinho dá um pequeno passo à frente, um pouco à direita de Maggye, um escudo, mas deixa o caminho entre Lorena e a médica livre. Ela aparenta ter menos de quarenta anos, seus cabelos escuros presos num coque firme sob a touca. Ela usa o típico pijama cirúrgico num tom de verde pastel e grandes óculos redondos sobre os bonitos olhos castanhos."
+    },
+    {
+      "id": "cap-07-0098",
+      "type": "paragraph",
+      "text": "“Somos nós”, Lorena fala, “eu sou noiva dela. Lorena”, ela oferece a mão em cumprimento."
+    },
+    {
+      "id": "cap-07-0099",
+      "type": "paragraph",
+      "text": "“Prazer, Lorena. Meu nome é Juliana, sou cirurgiã torácica e chefe da equipe aqui do Einstein. Antes de mais nada eu quero começar dizendo que Eduarda está estável e que respondeu muito bem ao procedimento”, ela dá a eles um momento para absorver a notícia, respirar fundo, reaver um pouco de suas energias, “eu vou tentar não encher vocês de termos técnicos que mais confundem do que ajudam, ok? Ela foi baleada no peito, mas, por sorte – e muita sorte – nenhum grande vaso ou seu coração foram atingidos. O pulmão, porém, foi atingido em cheio. O resgate dela foi muito rápido e a atuação do time in loco foi excelente, o que nos deu o melhor cenário possível. A cirurgia que fizemos foi por vídeo – por isso foi tão rápida – a melhor forma possível, por ser muito pouco invasiva e de recuperação mais rápida. Ela está com um dreno para remover qualquer fluido da caixa torácica para que o pulmão que fechamos com sucesso possa se expandir corretamente.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Prazer, Lorena. Meu nome é Juliana, sou cirurgiã torácica e chefe da equipe aqui do Einstein. Antes de mais nada eu quero começar dizendo que Eduarda está estável e que respondeu muito bem ao procedimento”, ela dá a eles um momento para absorver a notícia, respirar fundo, reaver um pouco de suas energias, “eu vou tentar não encher vocês de termos técnicos que mais confundem do que ajudam, ok? Ela foi baleada no peito, mas, por sorte – e muita sorte – nenhum grande vaso ou seu coração foram atingidos. O pulmão, porém, foi atingido em cheio. O resgate dela foi muito rápido e a atuação do time "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "in loco"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " foi excelente, o que nos deu o melhor cenário possível. A cirurgia que fizemos foi por vídeo – por isso foi tão rápida – a melhor forma possível, por ser muito pouco invasiva e de recuperação mais rápida. Ela está com um dreno para remover qualquer fluido da caixa torácica para que o pulmão que fechamos com sucesso possa se expandir corretamente.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0100",
+      "type": "paragraph",
+      "text": "“Ela já tá acordada?”, Zenilda pergunta."
+    },
+    {
+      "id": "cap-07-0101",
+      "type": "paragraph",
+      "text": "“Não. Ela ainda está intubada e sendo transferida pra UTI particular onde vai ficar em observação pelas próximas horas. Ela se mantendo estável e os exames mostrando que não há problemas, ela será extubada e deve acordar rapidamente. Mas já aviso que vai voltar a dormir logo depois tanto por efeito dos sedativos no corpo dela quanto por exaustão física e mental.”"
+    },
+    {
+      "id": "cap-07-0102",
+      "type": "paragraph",
+      "text": "“A gente pode ver ela?”, a voz de Lorena sai mais como um pedido do que uma pergunta. O olhar da médica se suaviza um pouco."
+    },
+    {
+      "id": "cap-07-0103",
+      "type": "paragraph",
+      "text": "“Agora, vocês podem observar pela janela da UTI, se quiserem. Mas, pelo menos nesta primeira hora, ela não vai receber visitas. Se estiver estável, eu posso liberar a entrada muito rápida de alguns de vocês antes da extubação se a visão não lhes incomodar. Ver quem amamos com um tubo na garganta não é bonito, eu preciso que vocês tenham isso em mente para não se desesperar. O tubo está lá para ajudar. Para que ela possa respirar enquanto seu corpo descansa um pouco.”"
+    },
+    {
+      "id": "cap-07-0104",
+      "type": "paragraph",
+      "text": "“Doutora, ela é o amor da minha vida. Eu não me importo com tubos, mas eu preciso sentir que ela está aqui ou eu não vou ter paz.”"
+    },
+    {
+      "id": "cap-07-0105",
+      "type": "paragraph",
+      "text": "“Eu entendo. Só reforço que a visão não é bonita, mas garanto que ela está nas melhores mãos possíveis. Sua noiva é muito forte, Lorena. O corpo dela não quer saber de desistir”, ela sorri para Lorena, gentil, “um dos enfermeiros vai chegar daqui a pouco com a informação de onde ela está e levá-los até a sala de espera da área de UTI. Não se assustem com a quantidade de gente que vai entrar e sair de lá, ok? Todo o nosso time precisa garantir que está tudo bem. Se isso os deixar muito ansiosos, eu sugiro que saiam e dêem uma volta, tomem um lanche, se distraiam um pouco.”"
+    },
+    {
+      "id": "cap-07-0106",
+      "type": "paragraph",
+      "text": "“Doutora?”, Paulinho começa com cuidado, “durante o voo, um dos socorristas, ele–”, ele olha para Lorena antes de seguir, as palavras da médica gravadas em sua mente. Juquinha está bem. Ela está respondendo bem. Limpa a garganta antes de seguir, “ele usou uma agulha no peito dela. Por quê?”"
+    },
+    {
+      "id": "cap-07-0107",
+      "type": "paragraph",
+      "text": "“É um quadro que chamamos de hemopneumotórax, quando sangue e ar saem do pulmão perfurado e vão para a caixa torácica, aumentando a pressão por não ter pra onde escapar. O que o socorrista fez foi dar uma saída ao ar acumulado dentro do tórax, evitando assim que a pressão esmagasse os órgãos dela. É uma manobra muito comum nesses casos e que fez toda a diferença quando ela chegou aqui.”"
+    },
+    {
+      "id": "cap-07-0108",
+      "type": "paragraph",
+      "text": "“Entendo. Muito obrigado, doutora. Por tudo”, Paulinho diz para ela, imediatamente seguido por todos os demais."
+    },
+    {
+      "id": "cap-07-0109",
+      "type": "paragraph",
+      "text": "Quando a médica sai, eles se permitem respirar aliviados. Lorena se vira para Maggye e a abraça novamente. Um a um, os demais se juntam a elas, corações batendo no mesmo compasso."
+    },
+    {
+      "id": "cap-07-0110",
+      "type": "divider"
+    },
+    {
+      "id": "cap-07-0111",
+      "type": "paragraph",
+      "text": "Lorena passa os primeiros vinte minutos de espera colada ao vidro da UTI, olhos tão fixos em Eduarda que ela precisa balançar a cabeça se forçando a piscar algumas vezes. Como se nos milissegundos em que seus olhos ficam fechados ela fosse desaparecer, como se aquela visão fosse uma miragem, um truque de sua mente, uma tentativa desesperada de lhe proteger da verdade que Eduarda não está mais com ela."
+    },
+    {
+      "id": "cap-07-0112",
+      "type": "paragraph",
+      "text": "Perto da marca de trinta minutos, Zenilda finalmente a puxa de lá, a força a se sentar na poltrona, coloca um copo de água em sua mão e a proíbe de se levantar até que beba tudo."
+    },
+    {
+      "id": "cap-07-0113",
+      "type": "paragraph",
+      "text": "“Eu sei que você tá preocupada, mas a qualquer momento os técnicos vão te banir do hospital por ficar ali olhando pra ela como se fosse um espírito obsessor. Uns dois literalmente se assustaram com você ali, Lorena.”"
+    },
+    {
+      "id": "cap-07-0114",
+      "type": "paragraph",
+      "text": "Então ela se senta a contragosto e se força a ficar ali, os minutos se arrastando por horas a cada novo ciclo de sessenta segundos, o próprio espaço-tempo se distorcendo na clara intenção de torturá-la mais. Ela revisita todos os erros que cometeu em cada um dos milhões de minutos que está neste mundo, com certeza pagando por cada um deles ali enquanto espera pelo momento em que vai poder tocar Eduarda de novo."
+    },
+    {
+      "id": "cap-07-0115",
+      "type": "paragraph",
+      "text": "Por diversas vezes, Maggye e Zenilda tentam fazer com que ela coma alguma coisa, sem sucesso. Comer é literalmente impossível, sente sua garganta fechada como se o medo e a preocupação tivessem se materializado e se instalado ali, mal deixando que o ar passe."
+    },
+    {
+      "id": "cap-07-0116",
+      "type": "paragraph",
+      "text": "Perto da marca dos quarenta minutos, Gerluce aparece na porta da recepção. Lorena, grata por alguma distração, observa Paulinho como ele fez com ela vinte e quatro horas atrás. A surpresa que lhe diz que ele não pediu para que ela fosse até ele. O afeto honesto e uma espécie de devoção muito parecida com a que Eduarda carrega por ela em seus próprios olhos."
+    },
+    {
+      "id": "cap-07-0117",
+      "type": "paragraph",
+      "text": "Nos olhos vermelhos e inchados – milagrosamente secos – ela vê parte da muralha que ele se forçou a construir desde que chegaram ao hospital ruir e dar espaço a uma vulnerabilidade que ela até então não tinha visto nele. E, apesar da situação que eles se encontram, ela fica genuinamente feliz de saber que ele tem com quem contar, alguém que vai até ele sem que ele peça."
+    },
+    {
+      "id": "cap-07-0118",
+      "type": "paragraph",
+      "text": "Gerluce educadamente cumprimenta a todos em seu caminho até ele que espera por ela de pé, uma expressão incrédula e grata no rosto. Lorena sorri quando se abraçam, mas logo desvia o olhar, dá a eles uma sombra de privacidade mesmo estando em público. Ela está feliz por ele, de verdade, mesmo que a visão lhe cause uma pequena pontada no peito. Ela olha para a janela, mas não se levanta. Vira para Maggye quando sente o apertão em sua mão, um sorriso preocupado no rosto."
+    },
+    {
+      "id": "cap-07-0119",
+      "type": "paragraph",
+      "text": "“Eu tava na casa da dona Josefa quando Rogério recebeu a ligação e me contou o que aconteceu. Vim assim que pude. Tem alguma novidade?”"
+    },
+    {
+      "id": "cap-07-0120",
+      "type": "paragraph",
+      "text": "“Ela tá ali na UTI”, ele aponta para a sala com o queixo, “intubada, mas estável. Pelo que a médica disse, ela reagiu bem à cirurgia e está em observação pré-extubação. Devem deixar Lorena entrar lá daqui a pouco.”"
+    },
+    {
+      "id": "cap-07-0121",
+      "type": "paragraph",
+      "text": "“Só ela?”"
+    },
+    {
+      "id": "cap-07-0122",
+      "type": "paragraph",
+      "text": "“Eu acho que é melhor assim. Pelo que eu entendi, a situação dela agora é extremamente delicada, então é melhor evitar. Quando ela estiver respirando sozinha a médica deve dar novas instruções e, se puder, mais pessoas entram. Eu vou ficar até tirarem o tubo dela. Depois, eu vou pra delegacia prestar esclarecimentos oficialmente. Eu tenho que entregar minha arma pra perícia e o delegado vai lavrar o auto de prisão em flagrante daquele–”, ele se força a parar. Fecha os olhos e respira fundo, mandíbula travada com força. Ninguém ali precisa de mais motivo de estresse, nem ele próprio. Os braços de Gerluce em sua cintura, o cheiro de seu xampu, o calor de seu corpo têm efeito imediato e ele se permite acalmar por ela. Ainda um tanto surpreso por ela ter ido até ele sem que ele tenha chamado, só por saber que Juquinha está internada, “eu preciso saber que ela tá respirando sozinha ou eu não vou conseguir fazer mais nada”, ele admite em voz baixa, braços ao redor dela, rosto enterrado nos escuros cachos de seu cabelo."
+    },
+    {
+      "id": "cap-07-0123",
+      "type": "paragraph",
+      "text": "“Shh, tá tudo bem. Ela vai ficar bem, cê vai ver. Eu pedi pra minha Santa Rita de Cássia no caminho pra cá. E ela é muito forte, deu pra ver na cara dela as vezes que a gente se encontrou. E com certeza ela tá sendo muito bem tratada aqui nesse hospital todo chique”, ela fala a última parte ainda mais baixo, com receio de chamar atenção de alguém e chutarem ela pra fora."
+    },
+    {
+      "id": "cap-07-0124",
+      "type": "paragraph",
+      "text": "Ele sabe que ela está falando sério, mas ri mesmo assim, um pouco da dor e da preocupação se aliviando em seu peito. Ele aperta o abraço, beija o topo de sua cabeça."
+    },
+    {
+      "id": "cap-07-0125",
+      "type": "divider"
+    },
+    {
+      "id": "cap-07-0126",
+      "type": "paragraph",
+      "text": "Na marca dos cinquenta e sete minutos, um dos técnicos, ao sair da sala, para na recepção ao invés de seguir seu caminho como fez todas as outras vezes. Lorena se levanta imediatamente."
+    },
+    {
+      "id": "cap-07-0127",
+      "type": "paragraph",
+      "text": "“Ela está reagindo muito bem, todos os exames têm se mostrado estáveis e com boa progressão. Dra. Juliana autorizou uma visita bem rápida, coisa de dez minutos. Você tá pronta?”"
+    },
+    {
+      "id": "cap-07-0128",
+      "type": "paragraph",
+      "text": "“Sim. Sim, por favor.”"
+    },
+    {
+      "id": "cap-07-0129",
+      "type": "paragraph",
+      "text": "“Ok, mas antes, por favor, chaves, celular, bolsa, casaco ficam aqui. Ou, se você preferir, num armário que tem na antessala. Não precisa ter pressa. Ah! É uma boa tirar os anéis também, a não ser que algum seja particularmente importante. Você vai precisar lavar as mãos e passar álcool antes de entrar.”"
+    },
+    {
+      "id": "cap-07-0130",
+      "type": "paragraph",
+      "text": "Lorena entrega os objetos para Zenilda e respira fundo, tenta acalmar o coração, firmar as mãos. Com uma despedida silenciosa, ela segue o técnico até a antessala."
+    },
+    {
+      "id": "cap-07-0131",
+      "type": "paragraph",
+      "text": "“Aqui na pia, por favor, lave bem as mãos – não precisa machucar sua pele, só lave bem – lembre-se de lavar debaixo das unhas, também.”"
+    },
+    {
+      "id": "cap-07-0132",
+      "type": "paragraph",
+      "text": "Ela usa aqueles segundos para tentar se acalmar, se obriga a desacelerar, os movimentos repetitivos das mãos seu foco único. O técnico pega um avental descartável de um dos armários da antessala enquanto ela seca metodicamente as mãos com o papel toalha."
+    },
+    {
+      "id": "cap-07-0133",
+      "type": "paragraph",
+      "text": "Lorena veste o avental de mangas longas que ele amarra em suas costas, passa álcool nas mãos e coloca a máscara – encaixa o elástico atrás das orelhas e ajusta o clipe do nariz garantindo que está tudo devidamente no lugar."
+    },
+    {
+      "id": "cap-07-0134",
+      "type": "paragraph",
+      "text": "“Ora ora, temos aqui alguém que levou a pandemia a sério”, o técnico comenta, tentando aliviar um pouco o clima de ansiedade que toma conta do aposento, “infelizmente, um caso raro, mas que bom que é o caso. Antes de entrar, olhe pra mim, por favor”, ela o faz, se força a focar os olhos ansiosos nos dele. Ele conscientemente respira fundo e ela faz o mesmo automaticamente, “muito bem. Agora, preste atenção, por favor: eu estarei com vocês o tempo todo; você já viu pela janela, mas reforço que ela está muito pálida e seus lábios um tanto ressecados, seus olhos estão fechados com micropore para evitar que por algum espasmo muscular eles se abram. A sedação dela está sendo diminuída aos poucos a fim de que o próprio corpo dela acorde e retome a respiração autônoma, então é esperado que ela responda a estímulos, como sua voz ou seu toque, mas tenha em mente que ela ainda não vai acordar de todo.”"
+    },
+    {
+      "id": "cap-07-0135",
+      "type": "paragraph",
+      "text": "“Então eu posso tocar nela?”"
+    },
+    {
+      "id": "cap-07-0136",
+      "type": "paragraph",
+      "text": "“Pode sim, mas precisa ser com muito cuidado. Alguns locais são terminantemente proibidos: ela está com um dreno que sai da lateral do corpo – abaixo da axila – não toque nele por nada, nem no tubo na boca dela, nem em qualquer outro fio ou tubo ou curativo. Estão todos concentrados do lado direito, então melhor se você ficar do lado esquerdo”, ela assente de leve, cenho franzido em concentração, “também pode falar com ela, mas mantenha sua voz baixa. Palavras de afirmação ajudam, contato físico também ajuda. Se a pele estiver livre de instrumentos médicos quaisquer que sejam eles, você pode tocar, só não aperte com força nem puxe. E, por fim, a sala não estará em silêncio nem escura. A gente precisa da luz para observar como o corpo dela se comporta fisicamente e as máquinas emitem bipes e zumbidos ritmados. Tudo certo? Precisa de mais um minuto?”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Pode sim, mas precisa ser com "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "muito"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " cuidado. Alguns locais são terminantemente proibidos: ela está com um dreno que sai da lateral do corpo – abaixo da axila – não toque nele por nada, nem no tubo na boca dela, nem em qualquer outro fio ou tubo ou curativo. Estão todos concentrados do lado direito, então melhor se você ficar do lado esquerdo”, ela assente de leve, cenho franzido em concentração, “também pode falar com ela, mas mantenha sua voz baixa. Palavras de afirmação ajudam, contato físico também ajuda. Se a pele estiver livre de instrumentos médicos quaisquer que sejam eles, você pode tocar, só não aperte com força nem puxe. E, por fim, a sala não estará em silêncio nem escura. A gente precisa da luz para observar como o corpo dela se comporta fisicamente e as máquinas emitem bipes e zumbidos ritmados. Tudo certo? Precisa de mais um minuto?”"
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0137",
+      "type": "paragraph",
+      "text": "“Não”, ela respira fundo mais uma vez. É o último momento em que ela pode se iludir de que isso tudo não está acontecendo, que não passa de um pesadelo. Porque na hora que ela entrar e Eduarda estiver ali na sua frente, ao alcance de suas mãos, tudo será real, tangível, impossível de fugir, “vamos, por favor.”"
+    },
+    {
+      "id": "cap-07-0138",
+      "type": "paragraph",
+      "text": "Ele passa o crachá no leitor que fica ao lado das portas de vidro que se abrem automaticamente quando a luz do leitor brilha em verde."
+    },
+    {
+      "id": "cap-07-0139",
+      "type": "paragraph",
+      "text": "O primeiro passo é sempre o mais difícil. Ela se deixa levar pelo puxão em seu peito, deixa que aquela força tome conta de seus movimentos, deixa que a leve até Eduarda devagar."
+    },
+    {
+      "id": "cap-07-0140",
+      "type": "paragraph",
+      "text": "Quando finalmente chega até ela, é preciso lutar contra sua própria mente. Ela está tão pálida, sua pele fria ao toque que Lorena precisa fechar os olhos e focar nos bipes ritmados do monitor cardíaco para lembrar que ela está viva, só sedada. Que ela logo vai acordar. Ela mantém a mão no antebraço dela, entre o oxímetro em seu dedo e a braçadeira que mede a pressão em seu bíceps. Tomando muito cuidado com o tubo em sua boca, ela toca a têmpora dela com a testa."
+    },
+    {
+      "id": "cap-07-0141",
+      "type": "paragraph",
+      "text": "“Eu achava que não queria me casar”, ela começa em voz baixa, quase para si mesma. Olhos focados nos próprios movimentos, corre o polegar traçando as veias que saltam nas costas da mão dela. A falta de reação deixa um gosto estranho em sua boca. Nada é mais errado do que Eduarda não reagir a seus toques. Mesmo dormindo, ela sempre reage, como se seu corpo fosse naturalmente incapaz de ser indiferente. Eduarda não tem uma linguagem de amor, tem todas. Mas toque físico é o mais latente. O constante som do monitor cardíaco ajuda, mesmo que pouco, “sempre que o assunto vinha à tona, eu sentia uma repulsa pela ideia. Mesmo quando era minha mãe que comentava. Tudo me parecia meio, não sei, antiquado, talvez? Performativo demais, exagerado."
+    },
+    {
+      "id": "cap-07-0142",
+      "type": "paragraph",
+      "text": "Aí você apareceu”, ela ri de leve, balançando a cabeça, “você apareceu e eu descobri que eu nunca fui contra nada disso. Eu só não sabia que eu queria tudo com você, meu amor”, quando as primeiras lágrimas ardem em seus olhos, ela não luta contra elas. Vulnerabilidade é um privilégio, uma dádiva e não uma arma, como seu pai a fez acreditar ser. Com Eduarda, ela pode chorar, pode se abrir, pode fechar os olhos e se deixar cair, porque sabe que sempre terá os braços dela aí para segurá-la, grata pela oportunidade de ajudar, de amparar, “eu quis os encontros, os olhares, os toques, o crescimento da intimidade. Eu quis as músicas, as bobagens, os poemas, as mensagens no meio do dia apenas falando que estava pensando em mim. Eu quis aprender e ajustar nosso ritmo, achar nosso tempo. Eu quis cada vez que eu precisei de um pouco mais ou quando você precisou, porque nosso equilíbrio não vem de cinquenta-cinquenta, mas do tanto que a gente precisa no momento. Eu quis seu cuidado e a forma como moldou seu desejo de acordo com o que eu pedi”, ela parece estar dormindo. Talvez pudesse acreditar nisso se não fosse pelo tubo em sua boca e o tanto que permanece imóvel, e o tanto que está pálida. Lorena odeia a situação, mas ela está ali. E vai acordar logo. Ela sente tanta falta dos olhos tão expressivos, tão carinhosos e brincalhões, tão espertos, inteligentes e brilhantes."
+    },
+    {
+      "id": "cap-07-0143",
+      "type": "paragraph",
+      "text": "“Eu quero casar com você. Véu e grinalda, buquês, votos de amor eterno e companheirismo incondicional. Eu quero dançar com você cercadas por todos que amamos e que nos amam. Eu quero uma lua de mel oficial, dessa vez com celular desligado e nenhuma possibilidade de alguém nos interromper!”, apesar do incômodo que sentiram, ela ri da lembrança. Porque esses pequenos incômodos também fazem parte da história delas e ela ama tudo que têm, tiveram e terão, “eu quero fotos cortando o bolo, nós duas segurando a faca e rindo, seus pais e minha mãe rindo com a gente. Eu quero dias longos com noites ainda mais longas. Eu quero filhos com você, Eduarda. Netos. Cachorros, gatos, viagens. Eu quero envelhecer ao seu lado. Eu quero rearranjar as estrelas no céu e formar uma constelação com o seu nome. Eu quero tudo com você, tudo de você. Quero reconhecer sua presença em cada coisa linda que me acontecer porque tudo que eu vivo só tem as cores e formas e cheiros que têm porque eu te encontrei.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Eu quero casar com você. Véu e grinalda, buquês, votos de amor eterno e companheirismo incondicional. Eu quero dançar com você cercadas por todos que amamos e que nos amam. Eu quero uma lua de mel oficial, dessa vez com celular desligado e nenhuma possibilidade de alguém nos interromper!”, apesar do incômodo que sentiram, ela ri da lembrança. Porque esses pequenos incômodos também fazem parte da história delas e ela ama tudo que têm, tiveram e terão, “eu quero fotos cortando o bolo, nós duas segurando a faca e rindo, seus pais e minha mãe rindo com a gente. Eu quero dias longos com noites ainda mais longas. Eu quero filhos com você, Eduarda. Netos. Cachorros, gatos, viagens. Eu quero envelhecer ao seu lado. Eu quero rearranjar as estrelas no céu e formar uma constelação com o seu nome. Eu quero tudo com você, tudo "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "de"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " você. Quero reconhecer sua presença em cada coisa linda que me acontecer porque tudo que eu vivo só tem as cores e formas e cheiros que têm porque eu te encontrei.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0144",
+      "type": "paragraph",
+      "text": "Em seus ouvidos, apenas o constante batimento dela importa. Um lembrete de que ela só está descansando, mas viva, presente. Ela dá um apertão leve no antebraço dela, vê seus dedos reagirem milimetricamente e, quando novamente toca sua têmpora com a testa, o pequeno descompasso no monitor é tudo que ela precisa."
+    },
+    {
+      "id": "cap-07-0145",
+      "type": "paragraph",
+      "text": "Porque Eduarda vai sempre reagir a ela. Sempre.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Porque Eduarda vai sempre reagir a ela. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Sempre"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0146",
+      "type": "paragraph",
+      "text": "Lorena quer gritar, rir alto, correr por todo o hospital. Porque aquele pequeno descompasso significa tudo."
+    },
+    {
+      "id": "cap-07-0147",
+      "type": "paragraph",
+      "text": "“Descanse, meu amor. A hora que você acordar, eu estarei aqui.”"
+    },
+    {
+      "id": "cap-07-0148",
+      "type": "divider"
+    },
+    {
+      "id": "cap-07-0149",
+      "type": "paragraph",
+      "text": "Eu já matei muita gente. Mas gente de verdade! Pobre não é gente. Pobre doente, então, aí que eu não sujo minhas mãos mesmo! Esse bando de animal é desperdício de tempo e de dinheiro. Morre um e tem outros três pra tomar seu lugar.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu já matei muita gente. Mas gente de verdade! Pobre não é gente. Pobre"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "doente, então, aí que eu não sujo minhas mãos mesmo! Esse bando de"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "animal é desperdício de tempo e de dinheiro. Morre um e tem outros três"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pra tomar seu lugar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0150",
+      "type": "paragraph",
+      "text": "A voz dele não sai de sua mente."
+    },
+    {
+      "id": "cap-07-0151",
+      "type": "paragraph",
+      "text": "Pobre não é gente.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Pobre não é gente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0152",
+      "type": "paragraph",
+      "text": "Pobre doente, então, aí que eu não sujo minhas mãos mesmo!",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Pobre doente, então, aí que eu não sujo minhas mãos mesmo!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0153",
+      "type": "paragraph",
+      "text": "O jeito como ele cuspiu as palavras. O desprezo."
+    },
+    {
+      "id": "cap-07-0154",
+      "type": "paragraph",
+      "text": "Bando de animal.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Bando de animal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0155",
+      "type": "paragraph",
+      "text": "Desperdício de tempo e de dinheiro.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Desperdício de tempo e de dinheiro."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0156",
+      "type": "paragraph",
+      "text": "Não sujo minhas mãos.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Não sujo minhas mãos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0157",
+      "type": "paragraph",
+      "text": "O nojo."
+    },
+    {
+      "id": "cap-07-0158",
+      "type": "paragraph",
+      "text": "Pobre não é gente.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Pobre não é gente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0159",
+      "type": "paragraph",
+      "text": "Dentro da sala, sua irmã caminha até a cama devagar, Leonardo consegue ver a tensão nos ombros, a dor nos olhos, o medo. Mas é quando Lorena encosta a testa com todo o cuidado do mundo na têmpora dela, tentando ao máximo não tocar no tubo que sai de sua boca que a culpa finalmente o atinge em cheio."
+    },
+    {
+      "id": "cap-07-0160",
+      "type": "paragraph",
+      "text": "“Quando eu me tornei essa pessoa, mãe?”, ele pergunta baixinho. Pobre não é gente, “como eu fiz tanto malabarismo mental pra justificar o que ele– o que nós estávamos fazendo?”, Zenilda segura sua mão e coloca a outra em seu ombro, abraçando seu braço em silêncio, “tantas vidas, tanta gente. E, pra piorar, eu ainda coloquei a arma na mão da mulher que eu amo pra atirar neles!”, não sujo minhas mãos.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Quando eu me tornei essa pessoa, mãe?”, ele pergunta baixinho. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Pobre"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "não é gente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", “como eu fiz tanto malabarismo mental pra justificar o que ele– o que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "nós"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " estávamos fazendo?”, Zenilda segura sua mão e coloca a outra em seu ombro, abraçando seu braço em silêncio, “tantas vidas, tanta "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "gente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". E, pra piorar, eu ainda coloquei a arma na mão da mulher que eu amo pra atirar neles!”, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "não sujo minhas mãos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0161",
+      "type": "paragraph",
+      "text": "“Não, meu amor, não é ass–”"
+    },
+    {
+      "id": "cap-07-0162",
+      "type": "paragraph",
+      "text": "“É sim, mãe!”, ele se afasta do vidro, enojado consigo mesmo. Bando de animal. Pressiona as mãos contra os olhos, depois as passa para o cabelo, que puxa, “é sim… E agora,” ele olha para a sala de novo, ombros pendendo sob o peso que vai carregar pelo resto da vida, “o amor da vida da minha irmã se colocou na frente de todos eles. Não por amor e não só pela Lorena, mas porque era o que precisava ser feito pra dar um fim nisso tudo”, quando o capeta te receber, diga a ele que eu te mandei, “como eu posso consertar isso?”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“É sim, mãe!”, ele se afasta do vidro, enojado consigo mesmo. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Bando de"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "animal"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Pressiona as mãos contra os olhos, depois as passa para o cabelo, que puxa, “é sim… E agora,” ele olha para a sala de novo, ombros pendendo sob o peso que vai carregar pelo resto da vida, “o amor da vida da minha irmã se colocou na frente de todos eles. Não por amor e não só pela Lorena, mas porque era o que precisava ser feito pra dar um fim nisso tudo”, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "quando o capeta te receber, diga a ele que eu te mandei"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", “como eu posso consertar isso?”"
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0163",
+      "type": "paragraph",
+      "text": "“Algumas coisas são impossíveis de consertar, Leonardo”, Paulinho diz sem se levantar da poltrona. Sem sequer olhar para ele, olhos fixos em suas mãos. Ainda consegue ver manchas do sangue dela, mesmo que estejam limpas, “vidas se foram e nada nunca vai trazê-las de volta. Não tem conserto pra morte”, ele então olha para Leonardo. São tantos sentimentos que ele nem sabe como começar a nomeá-los, “quando a hora chegar, coopere com a polícia, nos ajude a garantir que seu pai nunca mais vai machucar alguém e aceite sua própria punição. O que vier depois disso, é da sua consciência.”"
+    },
+    {
+      "id": "cap-07-0164",
+      "type": "paragraph",
+      "text": "Ao seu lado, Gerluce se mantém num silêncio ensurdecedor. Leonardo sabe quem ela é. Sabe o peso que aquele silêncio tem, sabe o que ele significa. E sabe que qualquer punição que a Justiça lhe der, não será o suficiente."
+    },
+    {
+      "id": "cap-07-0165",
+      "type": "divider"
+    },
+    {
+      "id": "cap-07-0166",
+      "type": "heading",
+      "text": "ATAQUE NA FUNDAÇÃO: CÂMERA DE SEGURANÇA MOSTRA VÍTIMA SENDO BALEADA E CAUSA REVIRAVOLTA NO CASO",
+      "level": 3,
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "ATAQUE NA FUNDAÇÃO: CÂMERA DE SEGURANÇA"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "MOSTRA VÍTIMA SENDO BALEADA E CAUSA"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "REVIRAVOLTA NO CASO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0167",
+      "type": "paragraph",
+      "text": "Um vídeo do circuito interno de câmeras da Fundação Ferette flagrou o momento do ataque de mais cedo. No vídeo da sala da presidência, Ferette e uma jovem – agora identificada como a policial civil, Eduarda Fragoso – aparentam estar discutindo, com trocas de palavras ríspidas e até mesmo um princípio de violência física partindo de Ferette, quando ele primeiro a puxa pela gola da jaqueta e depois a empurra. Logo após este momento, a policial se vira para o lado e é atingida em cheio – o ângulo da câmera não permite ver a atiradora, mas obtivemos confirmação de que ela foi desarmada não por seguranças, como informado anteriormente, mas sim por outro policial civil."
+    },
+    {
+      "id": "cap-07-0168",
+      "type": "paragraph",
+      "text": "Santiago Ferette, por sua vez, foi baleado quando, após a policial cair, apontou uma arma para ela e foi impedido de realizar o disparo pelo mesmo policial que desarmou a atiradora."
+    },
+    {
+      "id": "cap-07-0169",
+      "type": "heading",
+      "text": "ROMANCE PODE TER LIGAÇÃO COM O CASO",
+      "level": 3,
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "ROMANCE PODE TER LIGAÇÃO COM O CASO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0170",
+      "type": "paragraph",
+      "text": "A policial Eduarda Fragoso – filha do desembargador Henrique Fragoso e da consultora de moda Violeta Fragoso – ganhou certa notoriedade no campo pessoal ao aparecer na coluna do jornalista de celebridades Téo Pereira assumindo um relacionamento amoroso com Lorena Ferette, filha de Santiago Ferette com a advogada Zenilda Esteves – atualmente em processo de divórcio após se tornar público um caso de infidelidade por parte do empresário."
+    },
+    {
+      "id": "cap-07-0171",
+      "type": "paragraph",
+      "text": "O presidente da Fundação Ferette é reconhecidamente conservador, tendo laços com políticos de extrema-direita e entidades tidas como polêmicas no quesito direitos humanos. Apesar de nunca ter falado sobre o assunto abertamente, a opinião geral é de que o empresário é homofóbico. Um dos comentários no artigo de Téo Pereira, inclusive, reforça esta ideia: “Agora que o Ferette vai chorar sangue\", escreveu um leitor.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "O presidente da Fundação Ferette é reconhecidamente conservador, tendo laços com políticos de extrema-direita e entidades tidas como polêmicas no quesito direitos humanos. Apesar de nunca ter falado sobre o assunto abertamente, a opinião geral é de que o empresário é homofóbico. Um dos comentários no artigo de Téo Pereira, inclusive, reforça esta ideia: “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Agora que o Ferette vai chorar sangue"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\", escreveu um leitor."
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0172",
+      "type": "paragraph",
+      "text": "Pouco tempo após a publicação do artigo, formou-se uma teoria – nunca confirmada oficialmente – de que Ferette teria expulsado a filha de casa após descoberta do relacionamento com a policial."
+    },
+    {
+      "id": "cap-07-0173",
+      "type": "heading",
+      "text": "POSICIONAMENTO DA POLÍCIA CIVIL",
+      "level": 3,
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "POSICIONAMENTO DA POLÍCIA CIVIL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0174",
+      "type": "paragraph",
+      "text": "Em nota, a assessoria de imprensa da Polícia Civil do Estado de São Paulo confirmou que Eduarda Fragoso é a vítima levada ao Hospital Albert Einstein em estado gravíssimo, mas se recusou a dar detalhes de seu estado ou de seus ferimentos. Ainda em nota, a Polícia informa que não comenta inquéritos em andamento e reforça que está trabalhando arduamente para a resolução deste caso e de todos os demais relacionados direta ou indiretamente com ele. A assessoria de imprensa finaliza sua nota reiterando que homofobia e transfobia são crimes equiparados ao racismo no Brasil e, como tal, serão sempre tratados com a devida seriedade. A nota completa pode ser lida em nosso portal assim como no site da entidade.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Em nota, a assessoria de imprensa da Polícia Civil do Estado de São Paulo confirmou que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eduarda Fragoso é a vítima levada ao Hospital"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Albert Einstein em estado gravíssimo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", mas se recusou a dar detalhes de seu estado ou de seus ferimentos. Ainda em nota, a Polícia informa que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "não comenta inquéritos em andamento"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " e reforça que está "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "trabalhando arduamente para a resolução deste caso e de todos os"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "demais relacionados direta ou indiretamente com ele"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". A assessoria de imprensa finaliza sua nota reiterando que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "homofobia e transfobia são"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "crimes equiparados ao racismo no Brasil e, como tal, serão sempre"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tratados com a devida seriedade."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " A nota completa pode ser lida em nosso portal assim como no site da entidade."
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0175",
+      "type": "divider"
+    },
+    {
+      "id": "cap-07-0176",
+      "type": "paragraph",
+      "text": "Lorena entra no quarto em silêncio, de cabeça erguida. Nos olhos de sua mente, a imagem de Eduarda na UTI: intubada e pálida, mas viva. Seu coração batendo forte pelo monitor. Em seu peito, ela ainda sente preocupação, ainda sente dor, ainda sente raiva, revolta, nojo, mas tem um sentimento bem específico que ela não sente. Não mais. E é isso mais do que qualquer outra coisa que move seus pés até ali.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena entra no quarto em silêncio, de cabeça erguida. Nos olhos de sua mente, a imagem de Eduarda na UTI: intubada e pálida, mas "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "viva"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Seu coração batendo forte pelo monitor. Em seu peito, ela ainda sente preocupação, ainda sente dor, ainda sente raiva, revolta, nojo, mas tem um sentimento bem específico que ela não sente. Não mais. E é isso mais do que qualquer outra coisa que move seus pés até ali."
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0177",
+      "type": "paragraph",
+      "text": "O policial dentro do quarto se levanta quando ela entra. Ela o reconhece, mas não sabe seu nome. Ele, porém, sabe o dela. Todos eles parecem saber quem ela é, estendem a ela a lealdade que pertence a Eduarda."
+    },
+    {
+      "id": "cap-07-0178",
+      "type": "paragraph",
+      "text": "Ele sai do quarto em silêncio, coloca rapidamente a mão sobre seu ombro quando seus caminhos cruzam, um gesto de apoio, de respeito, de aceitação e companheirismo. Como se o distintivo de Eduarda estivesse pendurado em seu pescoço."
+    },
+    {
+      "id": "cap-07-0179",
+      "type": "paragraph",
+      "text": "“O que você quer aqui, Lorena? Veio chorar a morte daquela policialzinha ridícula? Dar um de seus chiliques lacradores?”, não é a primeira vez que ela se vê em pé num quarto de hospital com ele deitado numa cama, mas é a primeira vez que ela não sente um pingo de simpatia."
+    },
+    {
+      "id": "cap-07-0180",
+      "type": "paragraph",
+      "text": "“Vim me despedir de você pela última vez”, ele parece confuso com as palavras dela, mas não diz nada. Ela não esperava que ele dissesse, “hoje marca o primeiro dia do resto da minha vida. E o último dia da sua como um homem livre.”"
+    },
+    {
+      "id": "cap-07-0181",
+      "type": "paragraph",
+      "text": "Ele ri. Uma gargalhada que parece sair do fundo do peito, um tanto insana, um tanto desesperada. Ela apenas observa, mãos firmes, respiração controlada, indiferente."
+    },
+    {
+      "id": "cap-07-0182",
+      "type": "paragraph",
+      "text": "“Lorena, Lorena. Tanto tempo e você ainda não sabe quem eu sou, né? Eu nunca serei preso. Só estou aqui por um detalhe jurídico que logo logo será devidamente contornado. Quando as vinte e quatro horas se passarem eu serei liberado como se nada tivesse acontecido.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Lorena, Lorena. Tanto tempo e você ainda não sabe quem eu sou, né? Eu "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "nunca"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " serei preso. Só estou aqui por um detalhe jurídico que logo logo será devidamente contornado. Quando as vinte e quatro horas se passarem eu serei liberado como se nada tivesse acontecido.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0183",
+      "type": "paragraph",
+      "text": "“Não, dr. Ferette. Eu sou literalmente a única pessoa que sempre soube quem você é. Que nunca foi enganada por você. Talvez eu não soubesse o nível da sua ruindade, mas eu sempre soube que você é podre. Você que não faz a menor ideia de quem eu sou”, como naquele dia, a postura dela é ereta, mãos nas costas, segura. Mas, desta vez, perfeitamente confortável em sua própria pele, completamente certa de si, finalmente intocada pelo ódio dele, “deixe que eu me apresente: meu nome é Lorena Fragoso, tenho vinte e três anos, sou poeta e escritora, lésbica e noiva da policial civil Eduarda Fragoso. E hoje, pela primeira vez na minha vida, eu não sinto mais medo. Hoje, eu te devolvo esse sentimento.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Não, dr. Ferette. Eu sou literalmente a única pessoa que sempre soube quem você é. Que nunca foi enganada por você. Talvez eu não soubesse o nível da sua ruindade, mas eu sempre soube que você é podre. Você que não faz a menor ideia de quem "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "eu"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " sou”, como "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "naquele"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " dia, a postura dela é ereta, mãos nas costas, segura. Mas, desta vez, perfeitamente confortável em sua própria pele, completamente certa de si, finalmente intocada pelo ódio dele, “deixe que eu me apresente: meu nome é Lorena Fragoso, tenho vinte e três anos, sou poeta e escritora, lésbica e noiva da policial civil Eduarda Fragoso. E hoje, pela primeira vez na minha vida, eu não sinto mais medo. Hoje, eu te devolvo esse sentimento.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0184",
+      "type": "paragraph",
+      "text": "Ele ri de novo. Desta vez com menos humor insano e com mais raiva, mais desprezo."
+    },
+    {
+      "id": "cap-07-0185",
+      "type": "paragraph",
+      "text": "“E por que eu teria medo? Medo de você? Faça-me o favor!!”"
+    },
+    {
+      "id": "cap-07-0186",
+      "type": "paragraph",
+      "text": "“Eduarda sobreviveu”, ela se permite sorrir. Não para desestabilizá-lo – apesar de que isso é sempre um ponto positivo – mas pelo fato em si. Eduarda está viva. Eduarda voltou para ela. Eduarda vai se levantar daquela cama e seguir pintando o mundo de cores que apenas ela sabe o tom correto, “e estava grampeada”, o sorriso dele morre nos lábios. Ela vê o momento exato em que começa a brilhar nos olhos dele aquilo que ela sempre viu nos seus próprios olhos praticamente sua vida toda: medo, “você nunca mais vai machucar alguém, Santiago. Nunca mais terá um dia sequer de paz. Vai apodrecer numa cela abandonado por tudo e por todos. Você sabe o que disse e o que fez. Hoje, eu te devolvo o medo que você cultivou em mim por tanto tempo. O último elo que me prendia a você. Eu vou sair desse quarto e nunca mais vou olhar pra trás. Você não existirá mais. Você está acabado. E o mundo seguirá girando normalmente.”"
+    },
+    {
+      "id": "cap-07-0187",
+      "type": "paragraph",
+      "text": "Ela o observa por mais um segundo antes de virar as costas e ir até a porta. A voz dele chega quando ela coloca a mão na maçaneta, “eu tenho muita gente grande comendo na minha mão, Lorena. Políticos, juízes, policiais. Muita gente poderosa!! Eu nunca serei preso!”"
+    },
+    {
+      "id": "cap-07-0188",
+      "type": "paragraph",
+      "text": "Ela não se vira."
+    },
+    {
+      "id": "cap-07-0189",
+      "type": "paragraph",
+      "text": "“Será que tem mesmo?”"
+    },
+    {
+      "id": "cap-07-0190",
+      "type": "paragraph",
+      "text": "Ela sai do quarto, fecha a porta e o deixa lá dentro, esbravejando e gritando palavras desesperadas e vazias. Lorena respira fundo. Pela primeira vez na vida, livre."
+    },
+    {
+      "id": "cap-07-0191",
+      "type": "paragraph",
+      "text": "Zenilda está esperando por ela na recepção perto da UTI, onde o grupo deles montou acampamento nas poltronas confortáveis. Paulinho está com os braços apoiados nos joelhos, olhos fixos nas mãos agora já limpas, com Gerluce ao seu lado, dizendo algo em voz baixa. Lorena sabe, porém, que ele ainda consegue ver o sangue dela ali. Ela sente a dor que emana dele em ondas, pensa em conversar com ele assim que conseguir; Maggye também está ali, mexendo no celular, provavelmente atualizando os pais sobre a situação tanto de Lucélia quanto de Eduarda; Leonardo está sentado ao lado de Zenilda, um peso novo sobre seus ombros. A visão aperta seu peito, uma parte de si sempre será cegamente leal a ele, mas algumas coisas estão acima de lealdade. E justiça é a principal delas."
+    },
+    {
+      "id": "cap-07-0192",
+      "type": "paragraph",
+      "text": "Apesar de não ser assim tão tarde esta área do hospital se encontra naquele silêncio inquieto como se algo estivesse à espreita, prestes a acontecer. Lorena odeia hospitais por isso. É impossível realmente descansar num lugar como este."
+    },
+    {
+      "id": "cap-07-0193",
+      "type": "paragraph",
+      "text": "“Você parece mais leve”, Zenilda mantém a voz baixa, como o ambiente parece exigir deles. Seus olhos brilham. Lorena vê neles alívio, carinho e orgulho."
+    },
+    {
+      "id": "cap-07-0194",
+      "type": "paragraph",
+      "text": "“Eu–”, ela não sabe bem o que dizer, como explicar o que sente. Lorena respira fundo uma vez, de olhos fechados. Sua mãe aguarda pacientemente, “eu não sei o que o futuro me espera. Eu sei que os próximos meses serão puxados com a recuperação dela e os ajustes que teremos que fazer em nossas vidas. Mas”, ela balança a cabeça, sorriso nos lábios, ombros não mais sobrecarregados com o peso do medo constante, esperança ardendo no peito, “eu sinto que é o primeiro dia do resto da minha vida. Sem ele. Eu deixei ele pra trás.”"
+    },
+    {
+      "id": "cap-07-0195",
+      "type": "paragraph",
+      "text": "Zenilda sorri abertamente para ela e, em silêncio, a puxa para um abraço apertado. Lorena se questiona em que momento ela se tornou tão mais alta que a mãe; e por que só nota agora, quando a abraça de volta igualmente forte."
+    },
+    {
+      "id": "cap-07-0196",
+      "type": "paragraph",
+      "text": "“Você sempre foi a melhor de nós, Lorena”, a frase é sussurrada diretamente contra sua alma. Ela fecha os olhos, lágrimas silenciosas descendo pelo rosto, “eu sinto muito que eu tenha demorado tanto pra ver isso.”"
+    },
+    {
+      "id": "cap-07-0197",
+      "type": "paragraph",
+      "text": "Talvez, Lorena pensa, este seja o primeiro dia do resto de nossas vidas.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Talvez"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", Lorena pensa, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "este seja o primeiro dia do resto de"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " nossas "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "vidas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0198",
+      "type": "divider"
+    },
+    {
+      "id": "cap-07-0199",
+      "type": "paragraph",
+      "text": "O médico intensivista que será responsável – juntamente com o fisioterapeuta pulmonar – pela extubação de Eduarda lhes informa que o procedimento será por volta das vinte e três horas."
+    },
+    {
+      "id": "cap-07-0200",
+      "type": "paragraph",
+      "text": "Zenilda e Gerluce, munidas do poderoso tom de voz de mãe, os forçam a ir para a lanchonete. Nem que seja apenas para sair um pouco da recepção, mexer um pouco as pernas, gastar um pouco da energia que acumulam em seus corpos.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Zenilda e Gerluce, munidas do poderoso "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tom de voz de mãe"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", os forçam a ir para a lanchonete. Nem que seja apenas para sair um pouco da recepção, mexer um pouco as pernas, gastar um pouco da energia que acumulam em seus corpos."
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0201",
+      "type": "paragraph",
+      "text": "Lorena ainda não consegue comer, mas aceita o chá de camomila que Maggye coloca na mesa depois de sequestrar os copos de café que ela e Paulinho pegaram, “não existe a menor possibilidade de vocês dois beberem café a essa altura da noite e com a quantidade absurda de ansiedade que tá até emanando de vocês. Já basta Duda internada, ninguém mais precisa arriscar um ataque do coração aqui, ainda mais que ela tá quase sendo extubada.”"
+    },
+    {
+      "id": "cap-07-0202",
+      "type": "paragraph",
+      "text": "“É isso aí”, Gerluce completa, sentada de frente para Maggye, que está ao lado de Lorena, “e se você não quiser chá, policial, pode tomar água. Ou suco natural. Ou água de coco. Ou suco detox. Ou vitamina. Eu tenho quase certeza que tem opção de shake de proteína também. Meu Deus, gente! Isso é uma lanchonete de hospital ou um restaurante?”"
+    },
+    {
+      "id": "cap-07-0203",
+      "type": "paragraph",
+      "text": "E assim um grupo de pessoas tão diferentes que mais parece o início de uma piada ruim – um policial, uma cuidadora de idosos, uma galerista, uma garçonete, um empresário e uma advogada – fica ali sentado, conversando sobre tudo e sobre nada – Zenilda e Leonardo mais observando do que participando – unidos por um laço curiosamente de tons alaranjados."
+    },
+    {
+      "id": "cap-07-0204",
+      "type": "paragraph",
+      "text": "A vida é meio engraçada assim. Gerluce e Lorena, pessoas com trajetórias de vida tão radicalmente diferentes, se vêem achando vários pontos em comum em sua visão de mundo, um ponto de partida para o que promete ser uma amizade, talvez até mesmo uma parceria. Paulinho mal vê a hora de contar sobre este momento para Juquinha. Mal vê a hora que poderão se sentar os quatro, ou talvez os seis – juntamente com Maggye e Junior – num lugar bem menos antisséptico e deixar a vida acontecer."
+    },
+    {
+      "id": "cap-07-0205",
+      "type": "paragraph",
+      "text": "“Boa noite, pessoal”, uma enfermeira se aproxima da mesa deles, sorriso gentil no rosto, “desculpa, não queria incomodar vocês, mas o time pediu pra informar que a extubação vai acontecer agora e, quando terminarem – é bem rápido, entre cinco e dez minutos – vocês poderão entrar. No máximo dois por vez, contanto que sigam à risca todas as recomendações que eles vão passar”, eles se levantam, mas antes que possam voltar para a área de recepção, ela fala de novo, “as janelas estarão cobertas, não é o tipo de procedimento que precisa de audiência. Só peço que aguardem até alguém vir falar com vocês.”"
+    },
+    {
+      "id": "cap-07-0206",
+      "type": "divider"
+    },
+    {
+      "id": "cap-07-0207",
+      "type": "paragraph",
+      "text": "Sete minutos e trinta e dois segundos depois – não que ela estivesse contando – o médico aparece na porta da antessala, olha para Lorena."
+    },
+    {
+      "id": "cap-07-0208",
+      "type": "paragraph",
+      "text": "“Ela tá acordada. Desorientada, mas chamando por você”, ela se levanta antes mesmo dele terminar o que tem para falar. Na antessala, ela nem pergunta nada, vai imediatamente até a pia, “seus cuidados devem ser o mesmo da outra vez, mas como agora ela estará acordada, tem alguns cuidados a mais que você – e todos os demais – precisa tomar: evite emoções fortes; não permita que ela fale muito – a garganta dela tá terrivelmente machucada por causa do tubo e vai ficar sem fôlego muito rápido; nada de risadas; ela muito provavelmente deve pedir água, mas por mais que possa ser ruim pra você, não dê. Ela só vai beber alguma coisa com algum membro da equipe por perto”, ela veste o avental e, enquanto ele o amarra em suas costas, a máscara, “ela agora estará sentada e deve ficar assim, nada de mexer na inclinação da cama; ela muito provavelmente terá alguns casos de tosse – o que vai doer como o diabo –, quando acontecer, coloque um travesseiro no peito dela pra tentar minimizar o incômodo; ela estará com uma máscara de plástico sobre nariz e boca que é terminantemente proibido retirar”, ao lado das portas, ela só consegue olhar para dentro da sala. A encontra com os olhos fechados e cenho franzido. Ela só quer entrar logo, “no momento, ela tá bem grogue, é bem possível que acorde e durma de novo diversas vezes. Sempre que ela acordar, tente ficar no campo de visão dela e reafirmar que está tudo bem, pra evitar um possível pânico. Dúvidas?”"
+    },
+    {
+      "id": "cap-07-0209",
+      "type": "paragraph",
+      "text": "“Não”, o esforço que ela faz para não correr até Eduarda quando as portas se abrem é hercúleo."
+    },
+    {
+      "id": "cap-07-0210",
+      "type": "paragraph",
+      "text": "Seus lábios ainda estão ressecados, mas está menos pálida. E, quando Lorena toca o mesmo antebraço, sua pele não está mais tão fria. Mas é apenas quando ela finalmente abre os olhos que seu mundo volta a girar. Os lindos olhos castanhos – escuros como chocolate, brilhantes como holofotes – se encontram com os dela e tudo volta mais um pouco ao lugar; respirar se torna um pouco mais fácil; o coração dela bate mais forte para todos ouvirem, num compasso mais rápido e – Lorena percebe com um sorriso que ela não pode ver – em sincronia com o dela.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Seus lábios ainda estão ressecados, mas está menos pálida. E, quando Lorena toca o mesmo antebraço, sua pele não está mais tão fria. Mas é apenas quando ela "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "finalmente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " abre os olhos que seu mundo volta a girar. Os lindos olhos castanhos – escuros como chocolate, brilhantes como holofotes – se encontram com os dela e tudo volta mais um pouco ao lugar; respirar se torna um pouco mais fácil; o coração dela bate mais forte para todos ouvirem, num compasso mais rápido e – Lorena percebe com um sorriso que ela não pode ver – em sincronia com o dela."
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0211",
+      "type": "paragraph",
+      "text": "“Lore–”"
+    },
+    {
+      "id": "cap-07-0212",
+      "type": "paragraph",
+      "text": "“Shhh, nada de falar”, ela sussurra com a testa encostada na dela, olhos fechados, “eu sei. Você tá bem, meu amor. Você voltou. E eu tô aqui com você”, Lorena leva a mão até a dela, “aperta minha mão”, ela pede baixinho e Eduarda obedece da melhor forma que consegue, “viu? Eu tô aqui. Eu te amo”, o sorriso dela é a coisa mais linda que Lorena já viu na vida. Com a mão livre, ela limpa as lágrimas que descem pelo rosto, tomando cuidado com a máscara de plástico transparente que o médico lhe informou para não mexer."
+    },
+    {
+      "id": "cap-07-0213",
+      "type": "paragraph",
+      "text": "Ela está claramente exausta, mas luta para não adormecer de novo, como se estivesse com medo do que pode acontecer se ela se permitir apagar de novo e ser levada pelas sombras. A visão lhe causa um aperto no peito, nunca imaginou ver Eduarda assim. Eduarda que é sempre tão viva, tão segura de si, agora com tanto medo. Ela aperta sua mão de novo, suas palavras baixas, mas firmes, reais, “olha pra mim, meu amor. Pode dormir. Está tudo bem, eu juro. Eu estarei aqui todas as vezes que você acordar. Pode descansar, você tá em segurança”, ela levanta os olhos e encontra os do médico do outro lado da sala, afastado, mas perto o suficiente caso sua ação seja necessária, “eu posso levantar o braço dela?”"
+    },
+    {
+      "id": "cap-07-0214",
+      "type": "paragraph",
+      "text": "“Pode sim, só cuidado para não puxar nem balançar muito o tronco dela.”"
+    },
+    {
+      "id": "cap-07-0215",
+      "type": "paragraph",
+      "text": "Quando tem certeza que seus olhos estão focados de verdade nos dela, que ela está consciente do que está acontecendo, Lorena delicadamente leva a mão dela até seu peito, encosta as costas em seu coração, palmas unidas sobre ele. Eduarda fecha os olhos, sente os batimentos em perfeita sincronia com os bipes que inundam a sala."
+    },
+    {
+      "id": "cap-07-0216",
+      "type": "paragraph",
+      "text": "“Eu te amo, Duda”, ela sussurra perto do ouvido dela quando volta seu braço para a maca. Ela ainda pisca demoradamente duas vezes antes de adormecer."
+    },
+    {
+      "id": "cap-07-0217",
+      "type": "paragraph",
+      "text": "“Você se saiu muito bem, Lorena”, o tom de voz dele é ainda mais baixo agora, “não tire sua máscara em momento algum, ok? Essa noite será longa, ela deve acordar rapidamente outras vezes. Faça como fez agora e a acalme, reafirme que ela está em segurança. Se não conseguir, acione o botão de emergência imediatamente. Nosso time vai entrar aqui várias vezes pra acompanhar a situação dela, administrar analgésicos, verificar o dreno. Se ela – ou você – tiver algum incômodo, sentir frio, precisar de alguma coisa, só acionar o time de enfermagem. Lembre-se de lavar muito bem as mãos depois de ir ao banheiro e de passar álcool quando voltar pra cá.”"
+    },
+    {
+      "id": "cap-07-0218",
+      "type": "divider"
+    },
+    {
+      "id": "cap-07-0219",
+      "type": "paragraph",
+      "text": "Paulinho entra na sala cinco minutos depois. Entra sendo talvez uma palavra um tanto forte demais, considerando que ele para exatamente depois da linha das portas de vidro, aparentemente incapaz de se mover, seus olhos fixos nela. Lorena está na poltrona que encostou na cama, braço removido para permitir um pouco mais de proximidade só quebrada pela barra de segurança lateral que os enfermeiros deixaram levantada.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Paulinho entra na sala cinco minutos depois. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Entra"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " sendo talvez uma palavra um tanto forte demais, considerando que ele para exatamente depois da linha das portas de vidro, aparentemente incapaz de se mover, seus olhos fixos nela. Lorena está na poltrona que encostou na cama, braço removido para permitir um pouco mais de proximidade só quebrada pela barra de segurança lateral que os enfermeiros deixaram levantada."
+        }
+      ]
+    },
+    {
+      "id": "cap-07-0220",
+      "type": "paragraph",
+      "text": "O leve gemido de dor abafado pela máscara de oxigênio é o suficiente para fazer com que ele cruze os poucos metros que os separam. Coloca a mão em seu tornozelo quando chega perto o suficiente, olhos indo de Lorena para Juquinha, sem saber o que fazer."
+    },
+    {
+      "id": "cap-07-0221",
+      "type": "paragraph",
+      "text": "Lorena apenas corre os dedos pelo cabelo dela até que sua feição relaxe novamente. A dor e a tristeza duram mais tempo na feição de Lorena, porém. Ele consegue entender perfeitamente o sentimento."
+    },
+    {
+      "id": "cap-07-0222",
+      "type": "paragraph",
+      "text": "“É horrível ver ela assim”, ela admite baixinho, olhos focados em Juquinha, mão em seu antebraço."
+    },
+    {
+      "id": "cap-07-0223",
+      "type": "paragraph",
+      "text": "“Você é muito forte, Lorena”, ela não diz nada, mas olha para ele. Espera que ele seja capaz de entender o quanto aquelas palavras significam para ela, “eu sou muito grato a o que quer que seja que permitiu vocês se encontrarem.”"
+    },
+    {
+      "id": "cap-07-0224",
+      "type": "paragraph",
+      "text": "“Foi a Maggye, pode agradecer a ela lá fora”, eles riem baixinho, a tensão um pouco menor, um pouco mais de leveza."
+    },
+    {
+      "id": "cap-07-0225",
+      "type": "paragraph",
+      "text": "“Pode deixar que eu vou pagar um lanche pra ela no restaurante Michelin fantasiado de lanchonete”, eles ficam assim por um tempo. O silêncio entre eles interrompido apenas pelos constantes e ritmados bipes do coração do elo que os une. Ele respira fundo, se aproxima um pouco mais, “eu vou pra delegacia agora, Juquinha. Hoje a gente começa a acabar com o reino de morte que ele criou. E é tudo graças a você”, ela abre um pouco os olhos, ainda muito pesados pelo efeito do sono e das drogas que circulam por seu corpo. Primeiro, olha para Lorena, pisca demoradamente enquanto ela faz um cafuné em seus cabelos. Quando seu cérebro registra que está de fato acordada e que é tudo real, ela olha para Paulinho, “sua patricinha folgada”, ela sorri daquele jeito de criança atentada que ela costuma ter sempre que ele fala algo que ela gosta. As palavras possuem absolutamente nenhum fogo por trás delas, soam como uma declaração de amor, “nunca mais me assusta assim”, ele aperta o tornozelo dela. De novo, ela pisca demoradamente. E ele entende perfeitamente o que aquele gesto significa."
+    },
+    {
+      "id": "cap-07-0226",
+      "type": "paragraph",
+      "text": "Ela olha mais uma vez para Lorena, olhos pesados, e se deixa adormecer mais uma vez."
+    }
+  ],
+  "notes": {
+    "before": [
+      {
+        "id": "cap-07-0001",
+        "type": "paragraph",
+        "text": "se vc é de alguma das seguintes áreas, pfv abrace o lúdico, não me xingue (só se eu tiver falado alguma asneira gigantesca): jurídica, jornalística, médica, policial, audiovisual"
+      },
+      {
+        "id": "cap-07-0002",
+        "type": "paragraph",
+        "text": "abraço especial a @CamEelaCabeYo_s no twitter por ter me ajudado no embromation médico (que eu gastei tempo demais tentando criar um cenário verossímil, sabe-se lá pq) (é pq eu sou um nerdola do krl)",
+        "segments": [
+          {
+            "type": "text",
+            "text": "abraço especial a "
+          },
+          {
+            "type": "link",
+            "href": "https://x.com/CamEelaCabeYo_s",
+            "children": [
+              {
+                "type": "text",
+                "text": "@CamEelaCabeYo_s"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " no twitter por ter me ajudado no embromation médico (que eu gastei tempo demais tentando criar um cenário verossímil, sabe-se lá pq) (é pq eu sou um nerdola do krl)"
+          }
+        ]
+      }
+    ],
+    "after": [
+      {
+        "id": "cap-07-0227",
+        "type": "paragraph",
+        "text": "era pros Fragoso terem chegado nesse cap, mas eu inventei tanto blablabla que acabou que num deu pra ser agora, mas #vem #aí"
+      },
+      {
+        "id": "cap-07-0228",
+        "type": "paragraph",
+        "text": "como sempre: obrigado por chegar aqui! amo vcs beijo"
+      }
+    ]
+  }
+}

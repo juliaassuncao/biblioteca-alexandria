@@ -1,0 +1,17 @@
+{
+  "chapterId": "cap-07",
+  "groups": [
+    {
+      "type": "document",
+      "kind": "article",
+      "start": "cap-07-0046",
+      "end": "cap-07-0050"
+    },
+    {
+      "type": "document",
+      "kind": "article",
+      "start": "cap-07-0166",
+      "end": "cap-07-0174"
+    }
+  ]
+}

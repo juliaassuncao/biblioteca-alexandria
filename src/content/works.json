@@ -270,12 +270,7 @@
       "rating": "Explicit",
       "archiveWarning": null
     },
-    "tags": [
-      "Romance",
-      "Investigação",
-      "Drama",
-      "Antropologia forense"
-    ],
+    "tags": ["Romance", "Investigação", "Drama", "Antropologia forense"],
     "contentAdvisories": [
       "Violência",
       "Trauma",
@@ -312,9 +307,7 @@
       "coverOfficial": false
     },
     "chapters": [],
-    "relationships": [
-      "Lorena Ferette / Eduarda “Juquinha” Fragoso"
-    ],
+    "relationships": ["Lorena Ferette / Eduarda “Juquinha” Fragoso"],
     "characters": [
       "Eduarda Fragoso",
       "Lorena Ferette",
@@ -340,17 +333,8 @@
     "fandom": "Três Graças (TV)",
     "category": "F/F",
     "classification": null,
-    "tags": [
-      "Drama",
-      "Segunda chance",
-      "Medicina",
-      "Oncologia"
-    ],
-    "contentAdvisories": [
-      "Câncer",
-      "Doença",
-      "Violência"
-    ],
+    "tags": ["Drama", "Segunda chance", "Medicina", "Oncologia"],
+    "contentAdvisories": ["Câncer", "Doença", "Violência"],
     "stats": {
       "words": null,
       "publishedChapters": null,
@@ -411,10 +395,7 @@
       "ao3Name": "perrysbian",
       "authorLink": "https://x.com/mdvguillenx"
     },
-    "ao3Authors": [
-      "AlanisCaratella",
-      "perrysbian"
-    ],
+    "ao3Authors": ["AlanisCaratella", "perrysbian"],
     "synopsis": "Alanis Guillen, uma artista contemporânea, decide encerrar seu ciclo no Brasil oferecendo uma última oficina de arte antes de recomeçar em outro país. Para ela, serão apenas seis meses de despedida.\n\nDo outro lado, Gabriela Medvedovsky, uma tenista premiada que precisou interromper a carreira após uma gravidez inesperada, dedica seus dias à criação da pequena Sofia, uma menina de quatro anos que parece ter herdado não a disciplina das quadras, mas a inquietação das cores. Enquanto Gabriela tenta retomar o controle de sua vida, Sofia transforma cada parede da casa em sua primeira exposição particular.\n\nQuando uma amiga sugere a oficina de Alanis como solução para a energia artística da criança, o encontro entre essas duas mulheres revela muito mais do que uma simples aula de pintura.\n\nEm meio a tintas, recomeços e escolhas adiadas, ambas precisarão confrontar os caminhos que deixaram para trás e descobrir que, às vezes, o futuro começa justamente onde parecia haver apenas um ponto final. Uma história sensível sobre maternidade e segundas chances, onde redesenhar o destino será a maior lição.",
     "status": "ongoing",
     "language": "pt-BR",
@@ -924,9 +905,7 @@
       "ao3Name": "medvegoals",
       "authorLink": "https://x.com/medvegoals"
     },
-    "ao3Authors": [
-      "medvegoals"
-    ],
+    "ao3Authors": ["medvegoals"],
     "synopsis": "Após uma desilusão amorosa, Eduarda Fragoso se muda para São Paulo para recomeçar a\nvida como fotógrafa em uma das maiores revistas do Brasil. Engraçada, intensa e incapaz de\npassar despercebida, ela fez uma promessa silenciosa: Nunca mais se apaixonar.\nLorena Ferette, filha do CEO da revista e diretora de marketing, vive presa entre a lealdade à\nfamília e os próprios princípios. Quando um escândalo ameaça destruir o nome dos Ferette,\nLorena é forçada a aceitar um acordo perigoso e Eduarda acaba envolvida nele.\nUm contrato. Um segredo. E regras que nenhuma das duas consegue seguir.",
     "status": "ongoing",
     "language": "pt-BR",
@@ -1499,13 +1478,8 @@
       "rating": "Explicit (+18)",
       "archiveWarning": "Creator Chose Not To Use Archive Warnings"
     },
-    "relationships": [
-      "Lorena Ferette/Eduarda \"Juquinha\" Fragoso"
-    ],
-    "characters": [
-      "Lorena Ferette",
-      "Eduarda \"Juquinha\" Fragoso"
-    ],
+    "relationships": ["Lorena Ferette/Eduarda \"Juquinha\" Fragoso"],
+    "characters": ["Lorena Ferette", "Eduarda \"Juquinha\" Fragoso"],
     "tags": [
       "loquinha - Freeform",
       "Roommates",
@@ -2014,13 +1988,8 @@
       "rating": "Explicit (+18)",
       "archiveWarning": "Creator Chose Not To Use Archive Warnings"
     },
-    "relationships": [
-      "Lorena Ferette/Eduarda \"Juquinha\" Fragoso"
-    ],
-    "characters": [
-      "Lorena Ferette",
-      "Eduarda \"Juquinha\" Fragoso"
-    ],
+    "relationships": ["Lorena Ferette/Eduarda \"Juquinha\" Fragoso"],
+    "characters": ["Lorena Ferette", "Eduarda \"Juquinha\" Fragoso"],
     "tags": [
       "Enemies to Lovers",
       "Slow Burn",
@@ -2471,6 +2440,316 @@
         "id": "work-note-0011",
         "type": "paragraph",
         "text": "Boa leitura :)"
+      }
+    ]
+  },
+  {
+    "id": "estudo-de-caso",
+    "slug": "estudo-de-caso",
+    "title": "Estudo de caso",
+    "author": {
+      "displayName": "nonielb",
+      "ao3Name": "nonielb",
+      "authorLink": "https://x.com/noniel_b"
+    },
+    "ao3Authors": ["nonielb"],
+    "relationships": ["Lorena Ferette/Eduarda \"Juquinha\" Fragoso"],
+    "characters": [
+      "Eduarda \"Juquinha\" Fragoso",
+      "Lorena Ferette",
+      "Santiago Ferette",
+      "Paulo \"Paulinho\" Reitz",
+      "Gerluce Maria das Graças",
+      "Maggye Damatta",
+      "Lolô (Três Graças)"
+    ],
+    "synopsis": "\"Macedo!\", passos rápidos, urgentes, obedientes. Como devem ser, quando seu dono chama. Como os de Zenilda se tornaram. Como os de Leonardo são. Como os de Lorena nunca foram.\n\n\"Pois não, doutor?\"\n\"Pegue o carro. Tenho uma tarefa pra você.\"\nOU\nSantiago Ferette é um covarde narcisista e Eduarda Fragoso é um problema.",
+    "status": "completed",
+    "language": "pt-BR",
+    "fandom": "Três Graças (TV) — Loquinha",
+    "category": "F/F",
+    "classification": {
+      "rating": "Mature (M)",
+      "archiveWarning": "Graphic Depictions Of Violence"
+    },
+    "tags": [
+      "Canon Compliant",
+      "Character Study",
+      "Established Relationship",
+      "Fluff and Angst",
+      "author is ace but these hoes are NOT",
+      "Medical Recovery",
+      "Panic Attacks",
+      "Hospitalization"
+    ],
+    "contentAdvisories": [
+      "Atentado com arma de fogo, pensamentos relacionados a morte, descrição (leve) de ataques de pânico."
+    ],
+    "stats": {
+      "words": 162836,
+      "publishedChapters": 17,
+      "plannedChapters": 17,
+      "publishedAt": "2026-03-25",
+      "updatedAt": "2026-09-30"
+    },
+    "cover": {
+      "variant": "typographic",
+      "tone": "violet",
+      "ornament": "stars",
+      "caption": ""
+    },
+    "reading": {
+      "mode": "internal",
+      "externalUrl": null
+    },
+    "downloads": {
+      "enabled": true
+    },
+    "links": {
+      "original": "https://archiveofourown.org/works/81846846"
+    },
+    "editorial": {
+      "submittedByAuthor": true,
+      "contentReady": false,
+      "sourceFile": "estudo_de_caso.pdf",
+      "sourceUpdatedAt": "2026-09-30",
+      "coverOfficial": false
+    },
+    "chapters": [
+      {
+        "id": "cap-01",
+        "number": 1,
+        "title": "Chapter 1",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-02",
+        "number": 2,
+        "title": "Chapter 2",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-03",
+        "number": 3,
+        "title": "Chapter 3",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": false,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-04",
+        "number": 4,
+        "title": "Chapter 4",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-05",
+        "number": 5,
+        "title": "Chapter 5",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-06",
+        "number": 6,
+        "title": "Chapter 6",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [
+          "Atentado com arma de fogo, sangue e descrição de sentimentos ligados a morte."
+        ],
+        "blocks": []
+      },
+      {
+        "id": "cap-07",
+        "number": 7,
+        "title": "Chapter 7",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-08",
+        "number": 8,
+        "title": "Chapter 8",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-09",
+        "number": 9,
+        "title": "Chapter 9",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-10",
+        "number": 10,
+        "title": "Chapter 10",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-11",
+        "number": 11,
+        "title": "Chapter 11",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-12",
+        "number": 12,
+        "title": "Chapter 12",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-13",
+        "number": 13,
+        "title": "Chapter 13",
+        "notes": {
+          "hasBefore": false,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-14",
+        "number": 14,
+        "title": "Chapter 14",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-15",
+        "number": 15,
+        "title": "Chapter 15",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-16",
+        "number": 16,
+        "title": "Chapter 16",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      },
+      {
+        "id": "cap-17",
+        "number": 17,
+        "title": "Chapter 17",
+        "notes": {
+          "hasBefore": true,
+          "hasAfter": true,
+          "before": [],
+          "after": []
+        },
+        "contentWarnings": [],
+        "blocks": []
+      }
+    ],
+    "workNotes": [
+      {
+        "id": "work-note-0001",
+        "type": "paragraph",
+        "text": "Isso começou com a gringa me perguntando sobre um headcanon sobre a novela e me atormentando dias e noites pra escrever isso aqui. Todos os erros são exclusivamente meus, mas se for pra reclamar, a culpa é dela pq eu não sou escritor!"
+      },
+      {
+        "id": "work-note-0002",
+        "type": "paragraph",
+        "text": "VALE NOTAR: favor considerar tudo que aconteceu na novela até a vernissage de Bagdá (que foi quando eu comecei a escrever). O evento em si nunca aconteceu aqui."
       }
     ]
   }

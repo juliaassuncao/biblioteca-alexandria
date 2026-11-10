@@ -1,0 +1,27 @@
+{
+  "chapterId": "cap-02",
+  "groups": [
+    {
+      "type": "document",
+      "kind": "letter",
+      "start": "cap-02-0045",
+      "end": "cap-02-0051"
+    },
+    {
+      "type": "excerpt",
+      "start": "cap-02-0061",
+      "end": "cap-02-0063"
+    },
+    {
+      "type": "chat",
+      "start": "cap-02-0065",
+      "end": "cap-02-0083"
+    },
+    {
+      "type": "notice",
+      "kind": "notice",
+      "start": "cap-02-0085",
+      "end": "cap-02-0085"
+    }
+  ]
+}

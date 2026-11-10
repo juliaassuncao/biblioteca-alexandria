@@ -1,6 +1,7 @@
 @use '../../styles/tokens' as t;
 .copper { background:radial-gradient(circle at 75% 20%,#a77b62,transparent 44%),linear-gradient(145deg,#79533e,#382a27 90%); color:#fff0d6; }
 .plum { background:radial-gradient(circle at 75% 20%,#96778c,transparent 44%),linear-gradient(145deg,#65405d,#2d2033 90%); color:#f7e8d7; }
+.violet { background:radial-gradient(circle at 75% 20%,#9775bd,transparent 44%),linear-gradient(145deg,#634085,#291d42 90%); color:#f5e9da; }
 .sunrise { background:radial-gradient(circle at 75% 20%,#fff5cf,transparent 44%),linear-gradient(145deg,#f1d49b,#cf9975 90%); color:#6a452d; }
 .court { background:radial-gradient(circle at 75% 20%,#497568,transparent 44%),linear-gradient(145deg,#214c43,#102d2a 90%); color:#f2f2db; }
 .court .ornament svg { color:#d8ee69; }

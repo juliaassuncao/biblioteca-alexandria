@@ -1,0 +1,1684 @@
+{
+  "id": "cap-04",
+  "blocks": [
+    {
+      "id": "cap-04-0002",
+      "type": "paragraph",
+      "text": "Sentada em uma das cadeiras da minúscula sala cujas principais atrações são a cafeteira elétrica e as enormes janelas que chamam de cantina, ela olha para a tela do celular aberta na lista de contatos. Bebe mais um gole de água, respira fundo e toca o ícone de ligação. Ele atende quase imediatamente."
+    },
+    {
+      "id": "cap-04-0003",
+      "type": "paragraph",
+      "text": "“Duda, meu amorzinho! Boa noite!”"
+    },
+    {
+      "id": "cap-04-0004",
+      "type": "paragraph",
+      "text": "Desde o dia em que saíram do país para esta viagem, Eduarda fala com os pais quase diariamente – mesmo quando um dia cheio de trabalho obriga que seja de forma rápida. Uma mensagem de voz aqui, uma foto ali, resumos rápidos dos acontecimentos. Eles se falam todos os dias, mas ainda assim ouvir a voz dele é como se um trem desgovernado colidisse com seu peito e ela precisa fechar os olhos e respirar fundo para se centrar. Ela sente tanto a falta deles!",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Desde o dia em que saíram do país para esta viagem, Eduarda fala com os pais quase diariamente – mesmo quando um dia cheio de trabalho obriga que seja de forma rápida. Uma mensagem de voz aqui, uma foto ali, resumos rápidos dos acontecimentos. Eles se falam todos os dias, mas ainda assim ouvir a voz dele é como se um trem desgovernado colidisse com seu peito e ela precisa fechar os olhos e respirar fundo para se centrar. Ela sente "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "tanto"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " a falta deles!"
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0005",
+      "type": "paragraph",
+      "text": "“Boa noite, pai…”"
+    },
+    {
+      "id": "cap-04-0006",
+      "type": "paragraph",
+      "text": "“Duda? Aconteceu alguma coisa? Tá tudo bem?”, é claro que ele perceberia de imediato."
+    },
+    {
+      "id": "cap-04-0007",
+      "type": "paragraph",
+      "text": "“Aconteceu sim… Eu preciso da sua ajuda. Profissionalmente. Um conselho, por assim dizer.”"
+    },
+    {
+      "id": "cap-04-0008",
+      "type": "paragraph",
+      "text": "Ser policial sempre foi um sonho. Traçar seu próprio caminho, andar com as próprias pernas. É muito privilegiada e não tem como se desvencilhar completamente desse privilégio. E ela também não quer isso. Ela tem muito orgulho de ser filha de quem é e de ser amada por eles como é. Não tem vergonha da “vida de herdeira” que levou por tantos anos porque esse privilégio lhe foi dado com amor e carinho, uma consequência natural, não um fardo. Ainda assim, não é a vida que ela quer para si. Ela quer que seu caminho seja trilhado com as próprias pernas, com o próprio suor, com o próprio esforço. Ela quer ser Eduarda Fragoso, não Eduarda Fragoso.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Ser policial sempre foi um sonho. Traçar seu próprio caminho, andar com as próprias pernas. É muito privilegiada e não tem como se desvencilhar completamente desse privilégio. E ela também não quer isso. Ela tem muito orgulho de ser filha de quem é e de ser amada por eles como é. Não tem vergonha da “vida de herdeira” que levou por tantos anos porque esse privilégio lhe foi dado com amor e carinho, uma consequência natural, não um fardo. Ainda assim, não é a vida que ela quer para si. Ela quer que seu caminho seja trilhado com as próprias pernas, com o próprio suor, com o próprio esforço. Ela quer ser "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eduarda"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Fragoso, não Eduarda "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Fragoso"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0009",
+      "type": "paragraph",
+      "text": "“Oh, meu amor… Eu sinto muito. Me fala o que aconteceu e o que você precisa de mim.”"
+    },
+    {
+      "id": "cap-04-0010",
+      "type": "paragraph",
+      "text": "Então ela fala. Conta sobre a entrevista com Ferette, sobre a ameaça, sobre o atentado, sobre o que fizeram, o pouco que sabem, as ligações que conseguiram fazer. Conta sobre a casa de farinha, sobre a Chacrinha, sobre o povo morrendo nas mãos dele direta e indiretamente todos os dias."
+    },
+    {
+      "id": "cap-04-0011",
+      "type": "paragraph",
+      "text": "“Santiago Ferette é um dos homens mais nojentos que eu já tive o desprazer de conhecer! Eu vou voltar–”"
+    },
+    {
+      "id": "cap-04-0012",
+      "type": "paragraph",
+      "text": "“Pai, não pre–”"
+    },
+    {
+      "id": "cap-04-0013",
+      "type": "paragraph",
+      "text": "“Precisa sim. Ah, mas com certeza que precisa! Você ouviu bem o que você acabou de me falar? Em que universo você acha que eu ficaria aqui enquanto sua vida e a vida da mulher que você ama estão em risco? É claro que eu vou voltar!”, ele diz, como pai, “vocês têm algo de concreto contra ele?”, pergunta, como membro do judiciário."
+    },
+    {
+      "id": "cap-04-0014",
+      "type": "paragraph",
+      "text": "“De concreto mesmo, nada. Temos um inquérito aberto com muitas informações, fotos, notas fiscais frias, documentos de compra de farinha e insumos para produção de remédios, mas sem insumos das fórmulas em si. Temos nomes de pessoas diretamente na folha de pagamento dele. Pessoal da vigilância sanitária, do judiciário, da polícia. Mas nenhuma assinatura dele especificamente.”"
+    },
+    {
+      "id": "cap-04-0015",
+      "type": "paragraph",
+      "text": "“É material mais do que suficiente para quebra de sigilo bancário, telefônico e telemático de todos os nomes citados, inclusive dele, da sócia e de todo mundo ligado à Fundação. Além de mandados de busca e apreensão. Por que isso ainda não foi feito?”"
+    },
+    {
+      "id": "cap-04-0016",
+      "type": "paragraph",
+      "text": "“Porque não vai andar. Quando pedimos da casa de farinha ele deu um jeito de limpar tudo antes de chegarmos. Demos de cara com uma fábrica sendo montada, com todos os documentos devidamente assinados e oficializados”, aquilo ainda lhe fazia o sangue ferver! Mas se alguma coisa saiu de positivo foi que até a poeira baixar, ele estava obrigado a distribuir remédios verdadeiros para a população, “ele tem uma folha de pagamentos muito pesada, pai. Eles vão barrar os pedidos, usar uma desculpa qualquer de evidências circunstanciais. Já aconteceu antes, então nós paramos de gastar as poucas balas que conseguimos e estamos acumulando mais. Nós só conseguimos aquela entrevista com ele porque usamos um inquérito que eles mesmos abriram sobre o roubo da estátua. Ele é um safado escorregadio muito bem protegido.”"
+    },
+    {
+      "id": "cap-04-0017",
+      "type": "paragraph",
+      "text": "“Você tá certa”, ele diz, depois de um momento em silêncio, “o que vocês têm permite começar e normalmente seria o suficiente para uma prisão preventiva, mas não deve colar com ele, realmente. Meu amor, eu te conheço como poucos nesse mundo. O que você tá pensando?”"
+    },
+    {
+      "id": "cap-04-0018",
+      "type": "paragraph",
+      "text": "Ela respira fundo uma vez, duas, “e se a gente conseguisse tirar esse escudo dele?”"
+    },
+    {
+      "id": "cap-04-0019",
+      "type": "paragraph",
+      "text": "“Como exatamente?”, a voz dele sai em partes preocupada e em partes curiosa."
+    },
+    {
+      "id": "cap-04-0020",
+      "type": "paragraph",
+      "text": "“Se defendê-lo for muito mais danoso para a imagem e a reputação dos envolvidos do que ajudar a fazer tudo sumir, como sempre fazem”, ainda sentada na cadeira ela gira a garrafa de água com a mão livre, olhos presos na janela sem ver nada, “a gente coloca os escudos dele contra a parede usando a opinião pública a nosso favor.”"
+    },
+    {
+      "id": "cap-04-0021",
+      "type": "paragraph",
+      "text": "“Vazamento, Duda?”, a leve decepção na voz dele machuca muito mais do que ela imaginou que machucaria. Henrique Fragoso é um homem muito honesto, muito justo. Ela sabe que se algum dia o destino lhes pregar uma peça e ele tiver que julgar algum caso que a envolva, mesmo se o coração dele sangrar, a toga que ele usa falará muito mais alto. E ela o ama mil vezes mais por isso."
+    },
+    {
+      "id": "cap-04-0022",
+      "type": "paragraph",
+      "text": "“Eu acho que a gente nunca vai conseguir derrubar ele sem sujar as mãos na lama que ele espalha.”"
+    },
+    {
+      "id": "cap-04-0023",
+      "type": "paragraph",
+      "text": "“Considerando quem você é e o seu envolvimento pessoal, qualquer passo milimetricamente em falso que você der vai, com toda certeza, destruir sua carreira e esse inquérito, meu amor”, ele carrega a frase com a dor de um pai que vê a filha se arriscar e nada pode fazer além de observar de mãos atadas, “você tá ciente disso?”"
+    },
+    {
+      "id": "cap-04-0024",
+      "type": "paragraph",
+      "text": "“Ele já matou tanta gente, pai…”, ela está exausta. Sente o peso de cada uma das vidas nos próprios ombros, como se tivesse alguma coisa que pudesse ter feito para impedir, “e agora que a gente conseguiu forçar ele a distribuir remédios verdadeiros, agora que a gente conseguiu mais tempo pra seguir com as investigações…”, ela não diz em voz alta. Ele entende e também sente o peso do que poderia ter acontecido, “ele está ficando mais inconsequente ou mais confiante de que consegue escapar. Qualquer que seja o caso, ele está mais perigoso. Ele precisa ser parado.”"
+    },
+    {
+      "id": "cap-04-0025",
+      "type": "paragraph",
+      "text": "“Eu quero tirar esse homem da sociedade e enfiar numa jaula desde o momento que tive o desprazer de conhecê-lo anos atrás num evento”, a voz dele é firme. Quem não o conhece talvez até diga que ele soa frio e objetivo, mas ela consegue identificar o fogo por trás das palavras como ninguém mais conseguiria. Ela é filha de Henrique Fragoso em muitos sentidos além do genético, “ele finge bem. Sabe que botões apertar, como se vender, mas é podre. Mas pra isso dar certo, vocês precisam de alguma coisa irrefutável. Algo grande, ou os escudos não caem. Algo que brilhe mais do que seu envolvimento pessoal. Duda, cê tá planejando alguma coisa?”"
+    },
+    {
+      "id": "cap-04-0026",
+      "type": "paragraph",
+      "text": "“Sim e não. Eu quero arrancar uma confissão dele, mas ainda não sei como. Ele parece estar sempre um passo à frente, tem ouvidos em todos os lugares. Mas”, ela se lembra vividamente do chilique dele na delegacia, da forma que ela conseguiu tão facilmente tirá-lo do eixo. Principalmente, ela se lembra de como ele recuperou o controle quando Paulinho e Jairo se envolveram, “ele rachou durante a entrevista. É impulsivo, tem um ego gigantesco e me odeia por uma lista infindável de motivos. Eu acho que a melhor forma de conseguir arrancar algo dele é dar corda pra ele.”"
+    },
+    {
+      "id": "cap-04-0027",
+      "type": "paragraph",
+      "text": "“Outra entrevista na delegacia?”"
+    },
+    {
+      "id": "cap-04-0028",
+      "type": "paragraph",
+      "text": "“Não… Não, eu não acho que isso dará certo. Ele rachou, mas na delegacia ele consegue sempre controlar a narrativa e usar o direito de finalizar a entrevista a hora que quiser. Pra dar certo, eu acho que ele teria que estar no controle do ambiente, ou pelo menos acreditar que está.”"
+    },
+    {
+      "id": "cap-04-0029",
+      "type": "paragraph",
+      "text": "Ele fica alguns segundos em silêncio de novo. Quando fala, porém, ela sabe que ele entendeu o que ela não disse, “a história fala por si”, ele começa com cuidado, “a opinião pública muitas vezes abre as portas em investigações grandes. Isso é inegável. Este caso grande, porém, tem muitas variáveis de ambos os lados que podem ser usadas para minar tudo. A única coisa que eu te peço, que eu te imploro, é que você não puxe o gatilho antes da hora. Você só terá uma chance. Faça valer a pena.”"
+    },
+    {
+      "id": "cap-04-0030",
+      "type": "divider"
+    },
+    {
+      "id": "cap-04-0031",
+      "type": "paragraph",
+      "text": "O dia na delegacia é um tanto menos caótico do que Lorena esperava. Sentada na mesa de Eduarda – computador devidamente travado, todas as pastas de inquéritos fechadas, quadro virado para a parede, delegado sentado na mesa ao lado. Tudo que precisa estar sob sigilo protegido seja fisicamente seja pelo simples fato de que ela respeita o trabalho da namorada e evita ao máximo causar algum mal entendido ou quebra confiança – ela imaginava que mais pessoas entrariam e sairiam da sala dos investigadores carregando pastas, repassando algumas informações, pegando outras, café ruim em copos descartáveis, algum criminoso gritando em algum lugar da carceragem, policiais cansados ou estressados. O que vê, porém, é um ambiente controlado: Aníbal entra na sala uma vez para confirmar uma informação com ela, já que Eduarda não estava por perto; um dos policiais traz uma pasta fechada e deixa na mesa de Paulinho; alguns outros passam pela porta conversando cumprimentam o chefe e seguem adiante. Sem correrias, sem gritarias, apenas a organização de uma delegacia num bairro rico – mas o café é tão terrível quanto ela imaginava que fosse."
+    },
+    {
+      "id": "cap-04-0032",
+      "type": "paragraph",
+      "text": "Troca algumas mensagens com Maggye tanto para saber como a amiga está – ainda preocupada com Kasper, que segue agindo de forma suspeita, que Lucélia insiste ter relação com drogas – quanto para repassar uma versão editada do que aconteceu. Não faz sentido ela contar a verdade completa, Maggye já está sobrecarregada com os próprios problemas, Lorena não quer piorar as coisas. Diz apenas que o carro delas foi atingido por uma bala possivelmente proveniente de uma tentativa mal-sucedida de assalto e que estava tudo bem, apesar do susto."
+    },
+    {
+      "id": "cap-04-0033",
+      "type": "paragraph",
+      "text": "A primeira coisa que nota quando ouve Paulinho entrar na sala é que ele está andando um pouco diferente, os ombros um tanto tensos, como se estivesse sentindo dor; a segunda e mais importante, porém, é que ele está sozinho. Ele fala antes dela ter a chance de questionar."
+    },
+    {
+      "id": "cap-04-0034",
+      "type": "paragraph",
+      "text": "“Ela tá bem, juro. Só precisou fazer uma ligação e daqui a pouco vem pra cá”, a voz dele sai um pouco diferente, forçada. Lorena franze o cenho, tentando decifrar o que há de errado, mas não pergunta. Não tem intimidade com ele e Eduarda comentou algumas vezes que ele é meio fechado com quem não tem convívio – e com quem tem, também."
+    },
+    {
+      "id": "cap-04-0035",
+      "type": "paragraph",
+      "text": "“Por que cê tá falando desse jeito?”, Jairo pergunta da cadeira dele. Lorena tinha esquecido completamente que ele sequer estava ali."
+    },
+    {
+      "id": "cap-04-0036",
+      "type": "paragraph",
+      "text": "“Er… Talvez Juquinha tenha uma mão mais pesada do que eu imaginava.”"
+    },
+    {
+      "id": "cap-04-0037",
+      "type": "paragraph",
+      "text": "“Como é essa história aí?”"
+    },
+    {
+      "id": "cap-04-0038",
+      "type": "paragraph",
+      "text": "“Eu levei ela pra academia, pra tentar gastar um pouco da energia que tava acumulada e, bem”, ele se senta na cadeira de visitante que tem na frente da mesa dele fazendo uma careta leve de dor, “ela acertou bem na minha costela com tudo.”"
+    },
+    {
+      "id": "cap-04-0039",
+      "type": "paragraph",
+      "text": "“Juquinha? A nossa Juquinha? Juquinha namorada da querida Lorena aqui presente? Te acertou a ponto de te deixar andando torto e falando engraçado?”"
+    },
+    {
+      "id": "cap-04-0040",
+      "type": "paragraph",
+      "text": "Paulinho levanta a blusa do lado esquerdo, meio a contragosto, uma belíssima marca vermelha bem no meio das costelas. Delegado Jairo faz uma careta, soltando o ar por entre os dentes, um misto de simpatia por um investigador e orgulho(?) pela outra. Rapidamente, se vira para Lorena – péssima decisão, uma fisgada lhe diz."
+    },
+    {
+      "id": "cap-04-0041",
+      "type": "paragraph",
+      "text": "“Ela tá bem de verdade, juro. Eu não acertei ela, só precisei segurar pelos pulsos um certo momento, talvez tenha ficado algumas marcas. Desculpa. Não era a minha intenção.”"
+    },
+    {
+      "id": "cap-04-0042",
+      "type": "paragraph",
+      "text": "É então que Lorena nota: a voz dele, a tensão no ombro. Não se trata apenas da dor física de ter tomado um soco nas costelas. É receio de ter machucado alguém importante e, mais que isso, receio da reação dela.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "É então que Lorena nota: a voz dele, a tensão no ombro. Não se trata apenas da dor física de ter tomado um soco nas costelas. É receio de ter machucado alguém importante e, mais que isso, receio da reação "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "dela"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0043",
+      "type": "paragraph",
+      "text": "Eduarda fala muito sobre a família que formou com eles, da forma que se importam genuinamente uns com os outros, do afeto que surgiu da convivência inicialmente forçada e da dinâmica que ela encontrou já formada, mas que não admitiu não ser envolvida. Porque, no fim das contas, aquela era a essência dela: incapaz de aceitar um ambiente no qual ela não fizesse parte de tudo. Mimada? Sim, com certeza. Mas acima de tudo carismática, irresistível. O que ela não imaginava, porém, é que esse sentimento – essa família – se aplicaria também a ela. A emoção a pega desprevenida, aperta sua garganta. Porque essa preocupação dele aparentemente tão boba, tão discreta no meio de algo muito maior, soa como aceitação. Ela limpa a garganta, tenta afastar a emoção e firmar a voz."
+    },
+    {
+      "id": "cap-04-0044",
+      "type": "paragraph",
+      "text": "“Tá tudo bem”, ela diz com um sorriso que espera que ele entenda. Obrigada, diz silenciosamente, por se importar. Com ela. Comigo. Com o que nós somos, “Juquinha não é frágil e tenho certeza que se você tivesse cruzado algum limite, provavelmente estaria mancando muito mais”, ela completa.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Tá tudo bem”, ela diz com um sorriso que espera que ele entenda. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Obrigada"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", diz silenciosamente, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "por se importar. Com ela. Comigo. Com o"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "que nós somos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", “Juquinha não é frágil e tenho certeza que se você tivesse cruzado algum limite, provavelmente estaria mancando muito mais”, ela completa."
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0045",
+      "type": "paragraph",
+      "text": "“Ah, disso eu não tenho dúvidas!”"
+    },
+    {
+      "id": "cap-04-0046",
+      "type": "paragraph",
+      "text": "Ela volta ao próprio celular, buscando alguma distração enquanto espera por Eduarda e tentando dar a Paulinho e Jairo alguma privacidade enquanto sussurram algo que ela imagina ser sobre algum inquérito em andamento. Algo que provavelmente não tem nada a ver com ela, seu pai, casa de farinha."
+    },
+    {
+      "id": "cap-04-0047",
+      "type": "paragraph",
+      "text": "Está considerando pegar o caderno dentro da bolsa quando o barulho das rodinhas da cadeira chama sua atenção. Delegado Jairo, ela nota, já saiu da sala, Paulinho agora na frente dela, sentado na cadeira, olhando para ela com a expressão de criança que quer atenção, mas está com medo de atrapalhar. Fofo."
+    },
+    {
+      "id": "cap-04-0048",
+      "type": "paragraph",
+      "text": "“Pois não?”"
+    },
+    {
+      "id": "cap-04-0049",
+      "type": "paragraph",
+      "text": "“Eu queria te perguntar uma coisa… pessoal”, ela levanta as sobrancelhas, completamente surpresa – e curiosa."
+    },
+    {
+      "id": "cap-04-0050",
+      "type": "paragraph",
+      "text": "“Claro, pode perguntar”, bloqueia o celular e o coloca sobre a mesa, tela para baixo."
+    },
+    {
+      "id": "cap-04-0051",
+      "type": "paragraph",
+      "text": "“Gerluce tá escondendo uma coisa de mim”, ela começa a se questionar se é possível ter um aneurisma apenas por surpresa e mudanças de rumo repentinas numa conversa. Ela sente uma pequena dor de cabeça ameaçando se formar, pisca diversas vezes, tentando assimilar o que ele disse."
+    },
+    {
+      "id": "cap-04-0052",
+      "type": "paragraph",
+      "text": "“Er…”"
+    },
+    {
+      "id": "cap-04-0053",
+      "type": "paragraph",
+      "text": "“Não, essa parte é uma certeza. Eu não sei o que pode ser, é claro, mas essa parte eu já sei que é verdade. O que eu quero te perguntar é o que você acha que eu tenho que fazer pra ela se abrir comigo”, ele olha pra ela como se ela guardasse os segredos da humanidade dentro de si. Uma esperança quase infantil, desesperada."
+    },
+    {
+      "id": "cap-04-0054",
+      "type": "paragraph",
+      "text": "“Imagino que você já tenha comentado disso com Juquinha?”"
+    },
+    {
+      "id": "cap-04-0055",
+      "type": "paragraph",
+      "text": "“Sim.”"
+    },
+    {
+      "id": "cap-04-0056",
+      "type": "paragraph",
+      "text": "“E…?”"
+    },
+    {
+      "id": "cap-04-0057",
+      "type": "paragraph",
+      "text": "“Ela me mandou parar de interrogar ela e dar espaço.”"
+    },
+    {
+      "id": "cap-04-0058",
+      "type": "paragraph",
+      "text": "“Me parece um conselho excelente? Você acha que ela pode estar te traindo ou algo assim?”"
+    },
+    {
+      "id": "cap-04-0059",
+      "type": "paragraph",
+      "text": "“Não. Gerluce é uma mulher muito ética – acho que vocês adorariam se conhecer, inclusive – e, de verdade, muito ocupada, vida muito cheia de responsabilidades – ela é a provedora de casa, tem uma filha adolescente que está grávida – ela não teria sequer tempo pra me trair. Eu confio nela nesse ponto.”"
+    },
+    {
+      "id": "cap-04-0060",
+      "type": "paragraph",
+      "text": "“Então o que você acha que é?”"
+    },
+    {
+      "id": "cap-04-0061",
+      "type": "paragraph",
+      "text": "“Eu não sei! Pra ela esconder algo de mim, esquivar de todas as minhas perguntas eu não sei, acho que ela pode ter feito alguma coisa errada.”"
+    },
+    {
+      "id": "cap-04-0062",
+      "type": "paragraph",
+      "text": "“Você acha que ela cometeu um crime?”"
+    },
+    {
+      "id": "cap-04-0063",
+      "type": "paragraph",
+      "text": "“É… É, eu acho que pode ser isso sim…”"
+    },
+    {
+      "id": "cap-04-0064",
+      "type": "paragraph",
+      "text": "Ela coloca os braços sobre a mesa, cruza as mãos e se inclina um pouco para frente, “Paulinho, eu posso ser bem sincera com você?”"
+    },
+    {
+      "id": "cap-04-0065",
+      "type": "paragraph",
+      "text": "“Claro, foi por isso que eu comecei essa conversa.”"
+    },
+    {
+      "id": "cap-04-0066",
+      "type": "paragraph",
+      "text": "“Se Gerluce cometeu um crime – e isso é um se enorme que nós sinceramente não deveríamos sequer pensar e sim deixar que ela mesma fale quando se sentir pronta para isso – eu acho que ela deve ter motivo pra isso.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Se Gerluce cometeu um crime – e isso é um "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "se"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " enorme que nós sinceramente não deveríamos sequer pensar e sim deixar que ela mesma fale quando se sentir pronta para isso – eu acho que ela deve ter motivo pra isso.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0067",
+      "type": "paragraph",
+      "text": "“Eu sou policial, Lorena”, como se isso explicasse tudo."
+    },
+    {
+      "id": "cap-04-0068",
+      "type": "paragraph",
+      "text": "“Você é um homem, Paulinho”, ele olha para ela como se tentasse decifrar alguma mensagem subliminar, como se fosse uma bomba relógio que ele tenta achar o fio certo a cortar."
+    },
+    {
+      "id": "cap-04-0069",
+      "type": "paragraph",
+      "text": "“Eu to na dúvida se você diz isso no sentido lésbico, no sentido feminista ou no sentido factual”, ela ri de leve dele, encantada. Eduarda com toda certeza faz da vida dele um inferno."
+    },
+    {
+      "id": "cap-04-0070",
+      "type": "paragraph",
+      "text": "“No sentido factual. O que eu quero dizer é que Gerluce não namora o policial, ela namora o homem, o CPF e não o distintivo.”"
+    },
+    {
+      "id": "cap-04-0071",
+      "type": "paragraph",
+      "text": "“Mas o CPF e o distintivo estão ambos no mesmo pescoço”, diz exasperado, jogando as mãos para cima, imediatamente se arrependendo quando sente uma fisgada leve."
+    },
+    {
+      "id": "cap-04-0072",
+      "type": "paragraph",
+      "text": "“Sim. Mas ainda assim são coisas diferentes”, ela ajusta um pouco a posição, chega um pouco mais para frente, “ser policial, eu entendo, não é o mesmo que ser, sei lá, um engenheiro. Eu sei que consome e exige mais de vocês do que uma outra profissão qualquer, eu sei disso. Mas ela não namora o distintivo, ela namora o CPF. Gerluce, pelo que Juquinha e você me dizem, é uma pessoa muito certa, mas Paulinho, ética é um privilégio de gente rica. A ética por si só – inabalável, certinha, preto no branco – é muito mas muito difícil de se manter quando gente como meu pai – com o poder dele, com o conforto dele, com o dinheiro dele – tenta, e consegue, a todo custo sugar tudo que pessoas como ela têm. E, quando se tem muito pouco, o que sobra pra ser sugado é a vida, a alma”, ela dá a ele um momento para processar o que ouviu, cenho franzido, lábios apertados numa linha fina, uma peça do quebra-cabeças que ele gira nas mãos: lacuna correta, posição errada, “gente como ela por vezes se vê na necessidade de roubar pra comer. Quando a gente diz que roubar é errado, é com uma visão ética que ignora o contexto. E o contexto é sempre muito importante”, com cuidado, não sabendo exatamente se essa barreira já tinha caído, ela coloca a mão sobre as dele, que estão entrelaçadas em cima da mesa. Dá um tapinha carinhoso, sorri para ele, “respondendo mais diretamente à pergunta que você me fez: o que quer que seja que ela fez – se é que fez algo, claro – é algo que ela precisa se sentir segura o suficiente para conversar com você. Se ela te ama, e Juquinha é capaz de colocar a mão no fogo por ela então eu acredito que ela ame, ela precisa saber que pode contar com o homem que ela ama para não necessariamente ficar do lado dela, mas para ouvir e acolher. Você não vai conseguir isso se colocar seu distintivo à frente do CPF.”"
+    },
+    {
+      "id": "cap-04-0073",
+      "type": "paragraph",
+      "text": "“Eu fui casado uma vez”, ele diz em voz baixa, surpreendendo tanto ela quanto a si mesmo por tocar naquele assunto. Alguma coisa na forma que ela fala, que ela se porta, faz ele querer se abrir com ela. Talvez seja porque Juquinha a ama ou talvez seja simplesmente por ela e pela energia que ela tem, “ela me traiu”, ela aperta as mãos dele, “confiança é muito importante pra mim. Não é apenas o distintivo que pesa. Eu tenho medo de confiar e quebrar a cara de novo.”"
+    },
+    {
+      "id": "cap-04-0074",
+      "type": "paragraph",
+      "text": "“Então acolha ela com medo, mesmo”, ele levanta a cabeça na hora, como se tivesse tomado um soco no peito. Surpreso, confuso, “eu não estou dizendo que é simples nem que seu medo não é válido, não é isso. O que eu quero dizer é que amor é o sentimento mais humilhante, mais vulnerável que existe. Porque o amor, Paulinho, ele não se importa com o passado, ele não se importa com o futuro. O amor não se importa com as lições que a sociedade tenta nos impôr, nem com os limites dessas lições. O amor não se importa com o que consideramos cafonices, com imagem que queremos manter, com o verniz de desinteresse que a sociedade nos obriga a passar à guisa de autoproteção, com dores que temos, não se importa com postura. Ninguém tem a capacidade de ser blasé diante do amor. Ele não aceita nem admite isso.É mais do que apenas um sentimento, é uma entidade própria que quer o que quer, exige o que exige e que em troca nos dá tudo. Tudo, Paulinho”, pela primeira vez desde que ele entrou na sala, os ombros dele relaxam, uma lacuna a menos no quadro, uma peça nova nas mãos, “eu não sou religiosa. Mas, se fosse, eu seria devota do amor. Mesmo quando tenho medo, mesmo quando ele exige de mim cafonices, quando me humilha. Porque quando eu olho pra ela, detetive, quando a vejo sorrir, quando a vejo emocionada, quando a vejo sonhando, quando ela me toca, quando ela me beija, é uma bênção e uma dádiva, e eu entendo que o amor não está cobrando preço algum, ele apenas me permite sentir tudo isso inteiramente e eu sou mais viva assim”, ela sorri, levantando os ombros, em paz com seus sentimentos, “então siga em frente mesmo com medo ou pule fora e abra mão de tudo.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Então acolha ela com medo, mesmo”, ele levanta a cabeça na hora, como se tivesse tomado um soco no peito. Surpreso, confuso, “eu não estou dizendo que é simples nem que seu medo não é válido, não é isso. O que eu quero dizer é que amor é o sentimento mais humilhante, mais vulnerável que existe. Porque o amor, Paulinho, ele não se importa com o passado, ele não se importa com o futuro. O amor não se importa com as lições que a sociedade tenta nos impôr, nem com os limites dessas lições. O amor não se importa com o que consideramos cafonices, com imagem que queremos manter, com o verniz de desinteresse que a sociedade nos obriga a passar à guisa de autoproteção, com dores que temos, não se importa com postura. Ninguém tem a capacidade de ser blasé diante do amor. Ele não aceita nem admite isso.É mais do que apenas um sentimento, é uma entidade própria que quer o que quer, exige o que exige e que em troca nos dá tudo. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tudo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", Paulinho”, pela primeira vez desde que ele entrou na sala, os ombros dele relaxam, uma lacuna a menos no quadro, uma peça nova nas mãos, “eu não sou religiosa. Mas, se fosse, eu seria devota do amor. Mesmo quando tenho medo, mesmo quando ele exige de mim cafonices, quando me humilha. Porque quando eu olho pra ela, detetive, quando a vejo sorrir, quando a vejo emocionada, quando a vejo sonhando, quando ela me toca, quando ela me beija, é uma bênção e uma dádiva, e eu entendo que o amor não está cobrando preço algum, ele apenas me permite sentir tudo isso inteiramente e eu sou mais viva assim”, ela sorri, levantando os ombros, em paz com seus sentimentos, “então siga em frente mesmo com medo ou pule fora e abra mão de tudo.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0075",
+      "type": "paragraph",
+      "text": "“Exatamente o que eu falei. Só muito mais eloquente”, Paulinho até cogita olhar para a porta, mas prefere observar Lorena: ela é linda, isso é inegável. Seus olhos verdes que hipnotizam não apenas pela cor, mas pela inteligência e gentileza que emana deles; o cabelo escuro em longas ondas; as maçãs do rosto destacadas; os lábios cheios; um senso estético que nem todo mundo conseguiria fazer funcionar como ela consegue; as covinhas que surgem quando ela sorri. Lorena é linda por dentro e por fora, mas o que ele quer ver é o que acontece quando Juquinha entra em cena."
+    },
+    {
+      "id": "cap-04-0076",
+      "type": "paragraph",
+      "text": "E o que ele vê é um espetáculo."
+    },
+    {
+      "id": "cap-04-0077",
+      "type": "paragraph",
+      "text": "Lorena se veste de luz quando a vê: seus olhos, sua pele, seu sorriso, é como se tudo se acendesse de uma vez. Ele não consegue pensar numa analogia que se aplique à forma como Lorena parece emanar vida, como ela se torna ao mesmo tempo mais calma e mais energizada. Ele vê nela tudo aquilo que ela acabou de citar. Da devoção à gratidão."
+    },
+    {
+      "id": "cap-04-0078",
+      "type": "paragraph",
+      "text": "Ele se empurra para trás, volta com a cadeira até a própria mesa, olha para Juquinha na porta, escorada no batente de braços cruzados, sorriso divertido no rosto, olhos focados em Lorena. Elas são completamente obcecadas uma pela outra, é a única coisa que passa pela cabeça dele. Patéticas. Como só o amor consegue fazer.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Ele se empurra para trás, volta com a cadeira até a própria mesa, olha para Juquinha na porta, escorada no batente de braços cruzados, sorriso divertido no rosto, olhos focados em Lorena. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Elas são completamente obcecadas uma"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pela outra,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " é a única coisa que passa pela cabeça dele. Patéticas. Como só o amor consegue fazer."
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0079",
+      "type": "paragraph",
+      "text": "Qualquer pessoa homofóbica que ficasse cinco minutos no mesmo ambiente que elas apenas se olhando sairia de lá curada, ele tem certeza disso."
+    },
+    {
+      "id": "cap-04-0080",
+      "type": "paragraph",
+      "text": "“Bem, então talvez você devesse fazer umas aulinhas de conversação com a com sua consagrada. Teria me ajudado muito mais”, Juquinha descruza os braços e vai lentamente até Lorena, que apenas se encosta na cadeira completamente, esperando por ela, covinhas finalmente dando o ar da graça. Quando ela passa por entre as mesas, olhos sempre em Lorena, mostra o dedo do meio para ele."
+    },
+    {
+      "id": "cap-04-0081",
+      "type": "paragraph",
+      "text": "Com ambas as mãos no rosto dela, se inclina para baixo, para e olha para os lados teatralmente antes de dar um selinho demorado, as mãos de Lorena imediatamente em seus pulsos."
+    },
+    {
+      "id": "cap-04-0082",
+      "type": "paragraph",
+      "text": "Eduarda se afasta de leve e ela aproveita o momento para constatar o que Paulinho já tinha lhe avisado que veria: as marcas avermelhadas em ambos os braços que, mesmo ela já esperando, lhe causam uma fisgada no estômago."
+    },
+    {
+      "id": "cap-04-0083",
+      "type": "paragraph",
+      "text": "Lorena sabe que dentro de si tem partes que ainda não explorou, mantidas nas sombras. Crescer em modo de luta ou fuga não permite muitos momentos de autoconhecimento, apenas um ambiente pacífico seria capaz de permitir isso completamente e morar com Eduarda, mesmo que ainda não num lugar só delas, aos poucos joga luz nesses cantos de sua alma."
+    },
+    {
+      "id": "cap-04-0084",
+      "type": "paragraph",
+      "text": "É de um desses cantos que vem um perigoso rosnado. Minha, é o som que não se materializa em palavras, mas que, alheio a ela, brilha em seus olhos: selvagem, possessivo, visceral.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "É de um desses cantos que vem um perigoso rosnado. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Minha"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", é o som que não se materializa em palavras, mas que, alheio a ela, brilha em seus olhos: selvagem, possessivo, visceral."
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0085",
+      "type": "paragraph",
+      "text": "Ela desvia o olhar e encontra os dele. Pondo de forma simples, ele parece um cachorro chutado, olhar triste, sôfrego. Lorena traz a mão direita dela até os lábios, beija os nós dos dedos também vermelhos. O rosnado diminui, momentaneamente satisfeito, mas ainda atento, ainda presente, permanente."
+    },
+    {
+      "id": "cap-04-0086",
+      "type": "paragraph",
+      "text": "“Amor–”, Eduarda tenta, mas é calada por um apertão leve em seu braço. Lorena nega com a cabeça, olhos fechados."
+    },
+    {
+      "id": "cap-04-0087",
+      "type": "paragraph",
+      "text": "“Tá tudo bem. Paulinho me contou. Quer dizer, eu não tô exatamente feliz com o que eu tô vendo, mas eu já sabia. E ver o pequeno estrago que você causou ajuda bastante”, ela completa soltando um arzinho pelo nariz, tentando aliviar o clima. Mostrando para ambos que a situação, apesar de incômoda, não é um problema. Pelo menos, não é um problema que eles tenham que lidar. Ela, por outro lado, tem muito o que se questionar e entender."
+    },
+    {
+      "id": "cap-04-0088",
+      "type": "paragraph",
+      "text": "“Oi?”, ela se vira para Paulinho, Lorena agora abraçada à cintura dela, que mantém a mão direita distraidamente nos cabelos dela, correndo os dedos ora pelas mechas, ora pela pele de sua nuca. Com um suspiro cansado, ele levanta de novo a blusa, mostrando a marca."
+    },
+    {
+      "id": "cap-04-0089",
+      "type": "paragraph",
+      "text": "“Eita. Er… Desculpa?”"
+    },
+    {
+      "id": "cap-04-0090",
+      "type": "paragraph",
+      "text": "“Não tem problema”, ele abana a mão, como se varresse o pedido, despreocupado, “como foi a conversa com seu consultor?”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Não tem problema”, ele abana a mão, como se varresse o pedido, despreocupado, “como foi a conversa com seu "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "consultor"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "?”"
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0091",
+      "type": "paragraph",
+      "text": "“A conversa com meu pai foi ótima, obrigada”, revira os olhos brincando com o título usado só por implicância. Mas logo fica mais séria. Afinal, foi exatamente nesse intuito que ligou para ele, mais até do que pelo desabafo, “eu pedi um conselho pra ele sobre essa situação toda.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“A conversa com meu "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pai"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " foi ótima, obrigada”, revira os olhos brincando com o título usado só por implicância. Mas logo fica mais séria. Afinal, foi exatamente nesse intuito que ligou para ele, mais até do que pelo desabafo, “eu pedi um conselho pra ele sobre essa situação toda.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0092",
+      "type": "paragraph",
+      "text": "“E…?”"
+    },
+    {
+      "id": "cap-04-0093",
+      "type": "paragraph",
+      "text": "“A gente precisa de uma prova contra Ferette. Uma coisa irrefutável. E depois disso a gente precisa saber jogar o jogo público.”"
+    },
+    {
+      "id": "cap-04-0094",
+      "type": "paragraph",
+      "text": "“Público?”, Lorena pergunta, “você diz de vazar pra mídia?”"
+    },
+    {
+      "id": "cap-04-0095",
+      "type": "paragraph",
+      "text": "“Não tudo. A gente não pode comprometer o inquérito nem o que a gente tem. Mas… Um homem tão poderoso só vai cair se a gente tirar a rede de proteção dele. E, bem, só tem uma forma de fazer isso.”"
+    },
+    {
+      "id": "cap-04-0096",
+      "type": "paragraph",
+      "text": "“Pressão pública”, Paulinho diz, pensativo, “fazer com que o apoio a ele seja muito mais caro do que a mesada que eles recebem”, com a mão livre, Eduarda aponta para ele, indicando que ele estava correto."
+    },
+    {
+      "id": "cap-04-0097",
+      "type": "paragraph",
+      "text": "“Tá. Então a gente faz o quê? Vaza o dossiê?”, Paulinho pergunta."
+    },
+    {
+      "id": "cap-04-0098",
+      "type": "paragraph",
+      "text": "“Não. O dossiê é robusto, mas é circunstancial. Ele prova a existência do esquema da casa de farinha, mas não que Ferette está por trás disso. Com os advogados e rede de proteção que ele tem, não vai colar. Claro que vai arranhar a imagem dele, mas não é a bala de prata que a gente precisa”, ela retruca, “e a gente não pode usar essa arma várias vezes. Se não der certo na primeira, não teremos outra chance”, e muito provavelmente não teremos mais carreira, ela pensa, mas não diz.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Não. O dossiê é robusto, mas é circunstancial. Ele prova a existência do esquema da casa de farinha, mas não que Ferette está por trás disso. Com os advogados e rede de proteção que ele tem, não vai colar. Claro que vai arranhar a imagem dele, mas não é a bala de prata que a gente precisa”, ela retruca, “e a gente não pode usar essa arma várias vezes. Se não der certo na primeira, não teremos outra chance”, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "e muito provavelmente não teremos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mais carreira"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", ela pensa, mas não diz."
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0099",
+      "type": "paragraph",
+      "text": "“A gente ainda não tem uma prova concreta contra ele. E, mesmo com a montanha de material que a gente tem, ele vai conseguir uma forma de escapar de um mandado de busca e apreensão, escorregadio como aquele sujeito é”, ele completa."
+    },
+    {
+      "id": "cap-04-0100",
+      "type": "paragraph",
+      "text": "“Ok, então a gente foca primeiro na outra parte dessa ideia: a mídia. Vocês possuem algum contato grande? Alguém com a reputação que a gente precisa pra colocar a maré a nosso favor quando tivermos algo?”"
+    },
+    {
+      "id": "cap-04-0101",
+      "type": "paragraph",
+      "text": "O silêncio é ensurdecedor, os três perdidos em pensamentos, buscando uma solução. Lorena é a primeira a falar depois de uns segundos."
+    },
+    {
+      "id": "cap-04-0102",
+      "type": "paragraph",
+      "text": "“Rogério?”, dois pares de olhos castanhos focam nela, que encolhe os ombros, certa do que falou, “tio Rogério é um homem quase tão poderoso quanto meu pai. Eles são do mesmo círculo social, mesmos contatos políticos e publicitários. Aliás, ele era o sócio majoritário da Fundação antes de ‘morrer’”, ela usa os dedos para indicar as aspas, “tinha mais contato com entidades sérias do que meu pai, que se interessava mesmo em vender sua imagem de benfeitor.”"
+    },
+    {
+      "id": "cap-04-0103",
+      "type": "paragraph",
+      "text": "Silêncio novamente. Dessa vez mais pensativo, analítico – e, no caso de uma certa pessoa, de orgulho."
+    },
+    {
+      "id": "cap-04-0104",
+      "type": "paragraph",
+      "text": "“Meio que ela tem razão”, o orgulho claramente transparece no tom – não que ela tenha tentado mascarar."
+    },
+    {
+      "id": "cap-04-0105",
+      "type": "paragraph",
+      "text": "“Meio que essa ideia toda ainda é muito maluca e um tanto perigosa. A gente não pode sair por aí falando de inquéritos em aberto, Juquinha”, ele diz, voz mais dura, mais próxima do papel de mentor que eles já mal lembram que ele tem, “e, principalmente, o delegado não vai ficar nada feliz com a ideia.”"
+    },
+    {
+      "id": "cap-04-0106",
+      "type": "paragraph",
+      "text": "“O que cê propõe então?”, o tom sai de desafio, o que faz com que Lorena levante uma sobrancelha, meio surpresa pela audácia com que ela fala com alguém teoricamente superior a ela."
+    },
+    {
+      "id": "cap-04-0107",
+      "type": "paragraph",
+      "text": "“A gente continua a investigação. No sapatinho, como delegado gosta de dizer. Com atenção, sem dar espaço pra jogarem a corregedoria em cima da gente e estragar qualquer chance que a gente tenha antes mesmo de começar.”"
+    },
+    {
+      "id": "cap-04-0108",
+      "type": "paragraph",
+      "text": "“Ele tá ficando cada vez mais perigoso, Paulinho!”, Lorena aperta a cintura dela quando ela se exalta. O efeito é imediato: o contato serve de foco que a traz de volta para o agora. A tira de dentro daquele carro, apaga a imagem da marca no vidro, do que poderia ter sido, mas que não foi. Ela respira fundo, se controla antes de seguir, “ele atirou na gente hoje. O que vai acontecer amanhã? Até quando a gente vai ficar na defensiva esperando o próximo passo dele? A gente precisa dar um passo à frente!”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Ele tá ficando cada vez mais perigoso, Paulinho!”, Lorena aperta a cintura dela quando ela se exalta. O efeito é imediato: o contato serve de foco que a traz de volta para o agora. A tira de dentro daquele carro, apaga a imagem da marca no vidro, do que poderia ter sido, mas que não foi. Ela respira fundo, se controla antes de seguir, “ele atirou na gente "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "hoje"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". O que vai acontecer amanhã? Até quando a gente vai ficar na defensiva esperando o próximo passo dele? A gente "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "precisa"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " dar um passo à frente!”"
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0109",
+      "type": "paragraph",
+      "text": "“Eu sei disso! E eu concordo, mas nós vamos fazer o que precisamos fazer e vamos fazer tudo isso bem amarradinho. Qualquer passo em falso e qualquer chance de pegar esse safado vai por água abaixo!”, ele tenta se acalmar, não querendo chamar atenção nem do delegado nem dos colegas, “o fato é que agora neste momento nós não temos essa bala de prata e enquanto nós não temos, a gente precisa trabalhar com o que tem e amarrar as pontas soltas pra, quando tivermos, usarmos de forma rápida e eficaz.” “Eu poderia estar ouvindo essas coisas?”, Lorena pergunta baixinho para ninguém em particular depois de uns segundos de silêncio desconfortável."
+    },
+    {
+      "id": "cap-04-0110",
+      "type": "paragraph",
+      "text": "“Bem, nós não temos prova de nada nem passamos detalhes do que sabemos”, Paulinho responde, “se seguirmos as regras ao pé da letra, teoricamente, sim. Mas discutimos uma estratégia de ação. Então, tecnicamente, não”, Eduarda só concorda com a cabeça e Lorena segue perfeitamente confusa. Eles ficam em silêncio por um tempo, os três olhando para nada em particular, ruminando o que foi dito. Eduarda é a primeira a quebrar o silêncio depois de alguns segundos, fechando o assunto anterior por ora. Pelo menos até eles terem algo novo."
+    },
+    {
+      "id": "cap-04-0111",
+      "type": "paragraph",
+      "text": "“Cê falou com seu chefe, amor?”, volta a correr os dedos pelo cabelo dela."
+    },
+    {
+      "id": "cap-04-0112",
+      "type": "paragraph",
+      "text": "“Falei sim. Ele me deu o resto da semana de folga se eu assim quiser. Se eu precisar de mais dias, ele disse que tenta me liberar.”"
+    },
+    {
+      "id": "cap-04-0113",
+      "type": "paragraph",
+      "text": "“Bota aí Adelson até a morte!! Que que cê acha, então, da gente sair da cidade hoje?”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Bota aí "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Adelson até a morte"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "!! Que que cê acha, então, da gente sair da cidade hoje?”"
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0114",
+      "type": "paragraph",
+      "text": "“Sendo que você tem que trabalhar amanhã”, Paulinho fala da cadeira dele, olhos na tela."
+    },
+    {
+      "id": "cap-04-0115",
+      "type": "paragraph",
+      "text": "“Sendo que ninguém te perguntou nada, pequeno Paulo!”"
+    },
+    {
+      "id": "cap-04-0116",
+      "type": "paragraph",
+      "text": "“Eu adoraria, mas ele tem razão, amor. Só pra sair de São Paulo a gente demoraria mais de uma hora, já já anoitece. E pra onde a gente iria?”"
+    },
+    {
+      "id": "cap-04-0117",
+      "type": "paragraph",
+      "text": "“Que tal… Campos?”"
+    },
+    {
+      "id": "cap-04-0118",
+      "type": "paragraph",
+      "text": "“Campos fica a pelo menos três horas daqui!”"
+    },
+    {
+      "id": "cap-04-0119",
+      "type": "paragraph",
+      "text": "“Não se preocupe com esse detalhe. O ponto aqui é só um: você quer sair da cidade comigo essa noite?”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Não se preocupe com esse detalhe. O ponto aqui é só um: você "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "quer"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " sair da cidade comigo essa noite?”"
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0120",
+      "type": "paragraph",
+      "text": "“Claro. Eu adoraria, mas–”, Eduarda a interrompe com um beijo rápido, consciente do ambiente que estão."
+    },
+    {
+      "id": "cap-04-0121",
+      "type": "paragraph",
+      "text": "“Sem mas, então. Me dê uns minutinhos para resolver essa parte e também pra conversar com o delegado pra me dar pelo menos a manhã de folga pra gente poder curtir um pouco mais sem tanta pressa.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Sem "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mas"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", então. Me dê uns minutinhos para resolver essa parte e também pra conversar com o delegado pra me dar pelo menos a manhã de folga pra gente poder curtir um pouco mais sem tanta pressa.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0122",
+      "type": "paragraph",
+      "text": "Ao passar entre as mesas novamente, ela cutuca a orelha de Paulinho antes de sair saltitando pela sala, tirando o celular do bolso."
+    },
+    {
+      "id": "cap-04-0123",
+      "type": "paragraph",
+      "text": "“Te falar uma coisa, Lorena… Essa sua namorada é doida.”"
+    },
+    {
+      "id": "cap-04-0124",
+      "type": "paragraph",
+      "text": "“É o jeitinho dela”, diz com um riso leve e um levantar de ombros."
+    },
+    {
+      "id": "cap-04-0125",
+      "type": "paragraph",
+      "text": "Eles ficam um tempo confortavelmente perdidos em seus próprios pensamentos. Até que ele quebra o silêncio de novo."
+    },
+    {
+      "id": "cap-04-0126",
+      "type": "paragraph",
+      "text": "“Então você acha que eu tenho que simplesmente ignorar se Gerluce tiver cometido um crime? Simples assim?”"
+    },
+    {
+      "id": "cap-04-0127",
+      "type": "paragraph",
+      "text": "“Não foi isso que eu disse”, ela se vira na cadeira, ele faz o mesmo, ambos se aproximam um pouco, mais sérios, “se ela cometeu um crime e, de novo, vamos focar bastante no se aqui, ela deve pagar por ele. E, pelo que vocês falam, eu acredito que se ela seguiu por esse caminho, ela tem consciência das consequências e não vai fugir delas”, ela se ajeita na cadeira, inclina o corpo um pouco para frente, voz baixa, sincera, “o que eu quis dizer é que você precisa se colocar como namorado dela mais do que policial. Talvez ela ainda não tenha conversado com você sobre o que quer que seja que ela está escondendo porque você quer descobrir ou até mesmo arrancar a verdade dela antes que ela esteja pronta pra contar. Você precisa acolher, dar a ela um lugar seguro.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Não foi isso que eu disse”, ela se vira na cadeira, ele faz o mesmo, ambos se aproximam um pouco, mais sérios, “se ela cometeu um crime e, de novo, vamos focar bastante no "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "se"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " aqui, ela deve pagar por ele. E, pelo que vocês falam, eu acredito que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "se"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " ela seguiu por esse caminho, ela tem consciência das consequências e não vai fugir delas”, ela se ajeita na cadeira, inclina o corpo um pouco para frente, voz baixa, sincera, “o que eu quis dizer é que você precisa se colocar como namorado dela mais do que policial. Talvez ela ainda não tenha conversado com você sobre o que quer que seja que ela está escondendo porque você quer descobrir ou até mesmo arrancar a verdade dela antes que ela esteja pronta pra contar. Você precisa acolher, dar a ela um lugar seguro.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0128",
+      "type": "paragraph",
+      "text": "“Passar pano pra um possível crime?”, Lorena começa a balançar a cabeça já na primeira palavra."
+    },
+    {
+      "id": "cap-04-0129",
+      "type": "paragraph",
+      "text": "“Acolher não é passar pano, Paulinho. São coisas completamente diferentes. Acolher é ouvir. Dar à pessoa um lugar seguro para que ela se abra sobre seus sentimentos, pensamentos, escolhas, erros e acertos. O que vai acontecer depois disso é outra história, é algo que vocês sentam, absorvem, conversam e decidem o caminho que tomarão. Juntos ou separados”, a feição dele muda levemente, um pouco mais próxima do entendimento do que da ofensa. Ela conta como uma vitória, “eu vou dar um exemplo usando crianças porque eu acho que é mais fácil a gente entender as coisas quando se trata delas”, ele assente devagar, sobrancelhas franzidas, tentando de verdade entender, “imagine que você chega em casa e dá de cara com uma das janelas quebrada, do lado da janela, uma bola abandonada. A situação é chata, talvez até irritante. O que você acha mais correto fazer? Chamar a criança e pedir para que explique a situação ou brigar e confrontar?”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Acolher "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "não é"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " passar pano, Paulinho. São coisas completamente diferentes. Acolher é ouvir. Dar à pessoa um lugar seguro para que ela se abra sobre seus sentimentos, pensamentos, escolhas, erros e acertos. O que vai acontecer depois disso é outra história, é algo que vocês sentam, absorvem, conversam e decidem o caminho que tomarão. Juntos ou separados”, a feição dele muda levemente, um pouco mais próxima do entendimento do que da ofensa. Ela conta como uma vitória, “eu vou dar um exemplo usando crianças porque eu acho que é mais fácil a gente entender as coisas quando se trata delas”, ele assente devagar, sobrancelhas franzidas, tentando de verdade entender, “imagine que você chega em casa e dá de cara com uma das janelas quebrada, do lado da janela, uma bola abandonada. A situação é chata, talvez até irritante. O que você acha mais correto fazer? Chamar a criança e pedir para que explique a situação ou brigar e confrontar?”"
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0130",
+      "type": "paragraph",
+      "text": "“Conversar.”"
+    },
+    {
+      "id": "cap-04-0131",
+      "type": "paragraph",
+      "text": "“Exato. O correto é chegar com a criança, dar a ela a segurança de poder falar o que aconteceu, explicar a situação. A janela não estará menos quebrada ao final da conversa, a situação não deixará de ser chata ao final da conversa. Vocês ainda têm uma janela para consertar, mas também tem uma pessoa que agora confia em você um pouco mais apesar de ter cometido um erro. Uma pessoa que vai explicar, se abrir, se deixar ser vulnerável com você ao invés de temer sua reação. E, veja bem, você pode proibí-la de brincar com a bola por um tempo; pode definir regras; pode se sentir decepcionado; pode dizer que está decepcionado. Isso é consequência do ato”, ela se aproxima um pouco mais, pega a mão dele e dá um leve apertão antes de se afastar de novo, “você pune o ato, você não pune a pessoa. Acolhimento. Seus sentimentos são válidos, os da pessoa são válidos. O que vem depois é consequência.”"
+    },
+    {
+      "id": "cap-04-0132",
+      "type": "paragraph",
+      "text": "“Essa atitude é a correta com crianças exatamente porque elas não sabem o que estão fazendo. Adultos sabem”, ele insiste, teimoso."
+    },
+    {
+      "id": "cap-04-0133",
+      "type": "paragraph",
+      "text": "“Insegurança, medo, receio não deixam de existir quando a gente atinge uma certa idade, Paulinho”, Juquinha volta à sala. Senta, como sempre, no armário baixo que fica atrás da mesa e puxa a cadeira com Lorena para perto. Entrega a ela um copo de água que trouxe consigo e beija de leve sua têmpora. Como a cadeira tem encosto das costas curto, Lorena, ao tombar a cabeça um pouco para trás, se apoia mais nos braços dela do que na cadeira em si. Distraidamente, Eduarda volta a correr os dedos pelo cabelo dela, “você tá desse jeito exatamente porque tá com medo de ter seu coração partido de novo, por exemplo.”"
+    },
+    {
+      "id": "cap-04-0134",
+      "type": "paragraph",
+      "text": "“Ok. E quem vai me acolher, então?”"
+    },
+    {
+      "id": "cap-04-0135",
+      "type": "paragraph",
+      "text": "“O que está acontecendo aqui agora, Paulinho?”, Lorena pergunta com a voz gentil. Ele aperta os lábios, um tanto envergonhado, “além disso, você por acaso já conversou com Gerluce sobre esse medo?”"
+    },
+    {
+      "id": "cap-04-0136",
+      "type": "paragraph",
+      "text": "“Conversar”, Juquinha enfatiza a palavra, “e não usar isso como uma forma de tentar fazer ela se sentir mal e abrir o jogo com você. Isso que ela tá perguntando”, completa. O silêncio dele diz tudo, “pois então. Você está abrindo mão do seu acolhimento em prol de forçar a barra com ela porque você tem medo que ela te machuque”, apesar das palavras diretas, ela não as diz com maldade ou com deboche, mas com finalidade.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Conversar”"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", Juquinha enfatiza a palavra, “e não usar isso como uma forma de tentar fazer ela se sentir mal e abrir o jogo com você. Isso que ela tá perguntando”, completa. O silêncio dele diz tudo, “pois então. Você está abrindo mão do seu acolhimento em prol de forçar a barra com ela porque você tem medo que ela te machuque”, apesar das palavras diretas, ela não as diz com maldade ou com deboche, mas com finalidade."
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0137",
+      "type": "paragraph",
+      "text": "Paulinho é uma pessoa extremamente importante para ela, mas aquela teimosia poderia custar a ele o amor da vida dele e aquilo a assustava mais do que ela podia dizer a ele. Porque Gerluce e depois Lorena foram os motivos que os aproximaram mais até do que a convivência e a parceria. Foi graças a elas que eles se tornaram amigos de verdade, irmãos. Gerluce não mudou quem ele é, ela iluminou as partes dele que talvez ele nem soubesse que tinha deixado no escuro e, por causa dessa luz, dessa leveza, desse escudo abaixado, ele também pôde ver a luz que Lorena acendeu nela. E o reconhecimento disso aparou as arestas da implicância entre eles. Ela passou a demonstrar mais interesse, afeto; ele passou a respeitar mais a opinião dela, a mente afiada e língua muito mais. Aquela não era a delegacia dos apaixonados à toa, suas musas que moldaram o relacionamento deles."
+    },
+    {
+      "id": "cap-04-0138",
+      "type": "paragraph",
+      "text": "“Vamos fazer assim”, ela segue depois de deixar que ele ruminasse a idéia um pouco, “você chama ela pra uma noite fora hoje. Eu já queria te pedir pra não ir pra casa hoje, por que não juntar o útil ao agradável? Eu tomei a liberdade de aproveitar que o delegado não fez jogo duro comigo e a conversa foi rapidinha pra adiantar uma pernoite num hotel lá na Vila Olímpia pra vocês.”"
+    },
+    {
+      "id": "cap-04-0139",
+      "type": "paragraph",
+      "text": "“Vila Ol– Juquinha, o que diabos você tem na cabeça?? Vila Olímpia?”"
+    },
+    {
+      "id": "cap-04-0140",
+      "type": "paragraph",
+      "text": "“Sim. Olha, não vamos fingir surpresa que não existe nem sentir uma ofensa que não faz sentido. Eu tô preocupada de verdade com a sua segurança. E eu acho que hoje, considerando que estamos todos afetados pelo ataque de mais cedo, seria o momento perfeito pra você ser atacado também. Eu não quero correr esse risco, ok? Se não quiser ir pro hotel, tudo bem. Mas não vá pra casa. Não siga sua rotina”, ela levanta a mão que não está em Lorena impedindo que ele fale alguma coisa, “por favor, Paulinho”, ela está cansada de fingir que está tudo bem. Na mente dele, vem o rosto dela naquele tatame: o desespero, o medo, a culpa – logicamente descabida, mas emocionalmente presente –, a forma como ela chorou em seus braços. E é a imagem que o desarma mais do que qualquer coisa."
+    },
+    {
+      "id": "cap-04-0141",
+      "type": "paragraph",
+      "text": "“Tá. Ok, eu vou ver com ela e, mesmo se ela não puder ir, eu prometo que eu vou”, ele soa tão contrariado quanto está, mas entende o ponto dela e concorda com ele. A verdade é que eles precisam de um momento para se recuperar do choque de realidade que receberam, de um momento para clarear as ideias e montar um plano concreto. Porque outro ponto que Juquinha tem razão é que Ferette está ficando cada vez mais perigoso, mais acuado, inconsequente. Se ele não for parado logo, alguém mais perderia a vida. E muitas já foram perdidas."
+    },
+    {
+      "id": "cap-04-0142",
+      "type": "paragraph",
+      "text": "Ela relaxa os ombros, desliga o modo briga que tinha entrado e o agradece com os olhos. Agora só cabe a ela torcer para que seja o suficiente, que amanhã estejam todos ali de novo."
+    },
+    {
+      "id": "cap-04-0143",
+      "type": "paragraph",
+      "text": "“As informações do hotel e da reserva já devem estar no seu email”, o celular dela apita e ela rapidamente lê a mensagem abrindo um sorriso quando termina de ler, “já o nosso compromisso também já está quase tudo certo. Daqui uns vinte minutos a gente pode ir”, diz para Lorena, celular abandonado em cima da mesa."
+    },
+    {
+      "id": "cap-04-0144",
+      "type": "paragraph",
+      "text": "“Ir exatamente para onde?”"
+    },
+    {
+      "id": "cap-04-0145",
+      "type": "paragraph",
+      "text": "“Deixa de ser curiosa! Logo logo cê vai saber. Agora me deixa só finalizar o trabalho por aqui pra gente não se atrasar.”"
+    },
+    {
+      "id": "cap-04-0146",
+      "type": "paragraph",
+      "text": "Lorena, meio a contragosto, levanta da cadeira para ela poder reassumir seu posto e se senta do outro lado da mesa. Aproveita esse momento para informar a mãe e Maggye que, aparentemente, estaria fora da cidade até o dia seguinte e para não se preocuparem caso ela não respondesse – o que, desta vez, ela de fato não fará. Uma vez foi mais que o suficiente. Lição devidamente aprendida, ela pensa, azeda.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena, meio a contragosto, levanta da cadeira para ela poder reassumir seu posto e se senta do outro lado da mesa. Aproveita esse momento para informar a mãe e Maggye que, aparentemente, estaria fora da cidade até o dia seguinte e para não se preocuparem caso ela não respondesse – o que, desta vez, ela de fato não fará. Uma vez foi mais que o suficiente. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lição"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "devidamente aprendida"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", ela pensa, azeda."
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0147",
+      "type": "divider"
+    },
+    {
+      "id": "cap-04-0148",
+      "type": "paragraph",
+      "text": "São Paulo tem plena capacidade de ser, ao mesmo tempo, colorida e profundamente cinza. É uma cidade cercada de arte, de cor nas ruas, nas pessoas, nos parques, murais, museus; mas também entrega a brutalidade urbana dos arranha-céus que variam entre o tedioso cinza do concreto e o brilhante dos vidros impessoais. Principalmente quando vista de cima, o normal era justamente o genérico concreto, o metal e o vidro."
+    },
+    {
+      "id": "cap-04-0149",
+      "type": "paragraph",
+      "text": "O pôr-do-sol, porém, é o momento em que tudo explode em cor: laranja, vermelho, rosa, o azul que lentamente migra para o roxo no céu. E, claro, muito daquilo era criação da poluição, mas não era menos bonito por isso. É como se a cidade se abrisse à beleza que muitas vezes só se acha ao procurar ativamente; um afago na alma, um momento de pausa, de reconexão, de lembrete daquilo que muitas vezes se esquece que existe em meio a tanta rotina. Pertencemos a esse mundo o tempo todo, não apenas em momentos raros de uma estranha ideia de recompensa por algo concluído, entregue."
+    },
+    {
+      "id": "cap-04-0150",
+      "type": "paragraph",
+      "text": "Eduarda dá a Lorena um momento para absorver tudo que está ao redor delas, as cores, o vento, a luz. Luz essa que ilumina o rosto dela, mas que também cria sombras que apenas aquele momento do dia tem o poder de criar, um efeito mais selvagem, menos controlado, menos contido. Ela sente o calor se espalhar lentamente partindo de um ponto um pouco abaixo do umbigo."
+    },
+    {
+      "id": "cap-04-0151",
+      "type": "paragraph",
+      "text": "Elas mantêm o contato visual quando seus olhos se encontram pela eternidade de alguns segundos, a intensidade suficiente para fazer ruborizar o rosto de qualquer um que tivesse perto o suficiente para presenciar a cena."
+    },
+    {
+      "id": "cap-04-0152",
+      "type": "paragraph",
+      "text": "Com um sorriso que diz muito mais do que deveria, Eduarda se vira e vai em direção à pessoa que pacientemente as espera, dedos entrelaçados com os de Lorena."
+    },
+    {
+      "id": "cap-04-0153",
+      "type": "paragraph",
+      "text": "“Boa tarde, Linda”, ela imediatamente vira para Lorena, dedo indicador levantado, “é literalmente o nome dela!!”"
+    },
+    {
+      "id": "cap-04-0154",
+      "type": "paragraph",
+      "text": "“Marlinda dos Anjos”, ela estende a mão para Lorena, que aceita o cumprimento com um sorriso educadamente resguardado, “muitíssimo bem casada e profundamente monogâmica. Muito prazer.”"
+    },
+    {
+      "id": "cap-04-0155",
+      "type": "paragraph",
+      "text": "Desta vez, Lorena ri e relaxa, “Lorena Esteves. Prazer.”"
+    },
+    {
+      "id": "cap-04-0156",
+      "type": "paragraph",
+      "text": "“Estamos com permissão para saída em dez minutos. A previsão do voo é de coisa de quarenta e cinco minutos com esse clima. Não tem previsão de chuva, o que vai nos ajudar consideravelmente. Por fim, o pessoal de Campos confirmou que está tudo certo in loco. A casa está preparada pra receber vocês.”"
+    },
+    {
+      "id": "cap-04-0157",
+      "type": "paragraph",
+      "text": "“Ótimo, muito obrigada por organizarem tudo tão em cima da hora e mais uma vez, me desculpa. Eu não gosto de pegar ninguém desprevenido.”"
+    },
+    {
+      "id": "cap-04-0158",
+      "type": "paragraph",
+      "text": "“Nada a se desculpar, a senhorita nunca nos pede nada. O fato de que pediu hoje apenas mostra que é um caso especial e temos muito prazer em podermos ajudar. Vou começar os preparos, subam assim que estiverem prontas”, com um curto aceno para ambas, ela se vira e sobe na cabine."
+    },
+    {
+      "id": "cap-04-0159",
+      "type": "paragraph",
+      "text": "“Linda faz parte de um grupo de governança que meus pais mantêm. Por isso ela tem tanta informação. Eles cuidam de tudo: transporte, alimentação, manutenção, segurança até o time jurídico faz parte do grupo deles. São pessoas de confiança dos meus pais que trabalham exclusivamente pra eles há muitos anos. Tem até uns dois casos de segunda geração com a gente”, ela completa dando de ombros."
+    },
+    {
+      "id": "cap-04-0160",
+      "type": "paragraph",
+      "text": "“Quanto dinheiro sua família tem??”"
+    },
+    {
+      "id": "cap-04-0161",
+      "type": "paragraph",
+      "text": "Eduarda ri e, tocando de leve nas costas dela, se encaminha para a porta aberta do helicóptero, “muito. Já voou de helicóptero antes?”, ela pergunta ao lado da aeronave."
+    },
+    {
+      "id": "cap-04-0162",
+      "type": "paragraph",
+      "text": "“Não, nunca.”"
+    },
+    {
+      "id": "cap-04-0163",
+      "type": "paragraph",
+      "text": "“Ok. Primeiro: mão aqui nessa barra, pé aqui nesse degrau e”, ela ajuda Lorena a se impulsionar pra cima, se acomodando no banco de couro. Eduarda logo se junta a ela e ajuda a colocar o cinto, “segundo: é extremamente barulhento. Por isso”, ela pega um dos headsets que estão presos ao teto, “coloque isso aqui. Ele não apenas ajuda a abafar o som das hélices e do motor, como também tem microfone. O sistema de comunicação é interligado entre os passageiros e o piloto, é claro, pode entrar no sistema sempre que precisar conversar com a gente.”"
+    },
+    {
+      "id": "cap-04-0164",
+      "type": "paragraph",
+      "text": "Eduarda fecha e trava a porta, afivela o próprio cinto e coloca o headset. Confirma que está tudo certo e em segurança tanto para si quanto para Lorena e só então dá o sinal para Linda que aguarda pacientemente antes de dar a partida no motor e as hélices começarem a girar."
+    },
+    {
+      "id": "cap-04-0165",
+      "type": "paragraph",
+      "text": "“Boa tarde mais uma vez”, a voz de Linda sai meio mecânica pelos fones do headset, mas entendível, “ainda temos uns minutinhos antes da decolagem. Assim que decolarmos eu vou fechar meu canal de comunicação pra dar privacidade às senhoritas. Se precisarem de mim, podem acionar esse botão vermelho que está no teto e ele automaticamente abre o canal. Se eu precisar abrir do meu lado, eu acionarei a luz interna antes.”"
+    },
+    {
+      "id": "cap-04-0166",
+      "type": "paragraph",
+      "text": "“Obrigada, Linda”, Eduarda pega a mão de Lorena e a apoia em sua coxa, palma para cima, “A decolagem em si é meio vertiginosa, porque a gente sai do chão pra cima, ao invés de acelerar gradativamente e pra frente, como nos aviões”, lentamente, ela traça as linhas com os dedos, concentrada, como se aquele momento fosse de extrema importância – e é. Quando se trata delas, sempre é, “e, bem, é um tanto mais emocionante porque a gente fica a altitudes bem menores, o que dá uma sensação de ser mais rápido, mas juro pra você que é tudo bem seguro e Linda é excelente no trabalho dela.”"
+    },
+    {
+      "id": "cap-04-0167",
+      "type": "paragraph",
+      "text": "Lorena imagina que tanto a aeronave quanto o sistema de comunicação internos devem ser de altíssima qualidade porque, apesar de óbvio que as hélices estão funcionando, o volume é bem menor do que ela esperava, conseguindo entender perfeitamente quando Linda as avisa do início da decolagem."
+    },
+    {
+      "id": "cap-04-0168",
+      "type": "paragraph",
+      "text": "Ela esperava uma subida mais brusca, mais instável, mas aparentemente a piloto realmente é excelente. A vertigem é bem menos intensa, o helicóptero subindo quase que perfeitamente estável. Ou talvez tudo tenha corrido mais tranquilamente por ela estar hipnotizada pelos dedos de Eduarda em sua pele, subindo de sua mão pelo braço e voltando. Por vezes ela deixa os dedos em contato com seu pulso, sentindo a batida de seu coração, conversando com ele num idioma único e silenciosamente estrondoso. A voz dela é leve, apesar do barulho externo, quase distraída quando retorna ao assunto anterior."
+    },
+    {
+      "id": "cap-04-0169",
+      "type": "paragraph",
+      "text": "“O dinheiro da família da minha mãe é muito antigo. Já meu pai se fez com muito esforço. Ser desembargador honesto dá com certeza uma vida muito confortável, mas nem de longe permitiria alcançar tudo que eles têm”, Lorena coloca a mão sobre a dela, que para os movimentos que fazia, dá a ela o tempo e o espaço para escolher o rumo que tomarão. Entrelaça os dedos com os dela e passa ela mesma a traçar linhas aleatórias pelas costas da mão de Eduarda, subindo pelo antebraço, mapeando cada poro, cada veia, cada osso, forma um caminho pelo qual ela segue confiantemente de olhos fechados e a certeza de que o destino final é, sempre, elas, “o patrimônio deles é enorme, como você já notou. Eles gostam muito de conforto e são apaixonados por arte e decoração. A questão é que dinheiro é a matéria-prima para se fazer mais dinheiro e, por não precisar de mais, eles são filantropos. Cada um em sua área, eles possuem programas de apoio nas comunidades mais pobres: cursos profissionalizantes, descobrimento de talentos, bolsas de estudo, distribuição de cestas básicas, consultoria e apoio jurídico pro bono independente do resultado do processo e tanta coisa além que eu nem sei de tudo.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“O dinheiro da família da minha mãe é muito antigo. Já meu pai se fez com muito esforço. Ser desembargador honesto dá com certeza uma vida muito confortável, mas nem de longe permitiria alcançar tudo que eles têm”, Lorena coloca a mão sobre a dela, que para os movimentos que fazia, dá a ela o tempo e o espaço para escolher o rumo que tomarão. Entrelaça os dedos com os dela e passa ela mesma a traçar linhas aleatórias pelas costas da mão de Eduarda, subindo pelo antebraço, mapeando cada poro, cada veia, cada osso, forma um caminho pelo qual ela segue confiantemente de olhos fechados e a certeza de que o destino final é, sempre, elas, “o patrimônio deles é enorme, como você já notou. Eles gostam muito de conforto e são apaixonados por arte e decoração. A questão é que dinheiro é a matéria-prima para se fazer mais dinheiro e, por não precisar de mais, eles são filantropos. Cada um em sua área, eles possuem programas de apoio nas comunidades mais pobres: cursos profissionalizantes, descobrimento de talentos, bolsas de estudo, distribuição de cestas básicas, consultoria e apoio jurídico "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pro bono"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " independente do resultado do processo e tanta coisa além que eu nem sei de tudo.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0170",
+      "type": "paragraph",
+      "text": "“Como eu nunca ouvi nada disso?”"
+    },
+    {
+      "id": "cap-04-0171",
+      "type": "paragraph",
+      "text": "“Porque eles não fazem alarde de nada disso. Eles vivem a vida deles e ajudam quem precisa. Sinceramente, eu acho que eles precisavam sim fazer um pouco mais de barulho sobre essas ações. Não por eles, mas pra chamar mais atenção ao tema, fazer com que outras pessoas também ajudem, criar uma corrente. Mas eles são cabeça dura e gostam de viver a vida deles sem qualquer holofote além de seus trabalhos”, Lorena dá um beijinho no ombro dela, aperta seu bíceps com a mão livre, algo que Eduarda notou que ela adora fazer."
+    },
+    {
+      "id": "cap-04-0172",
+      "type": "paragraph",
+      "text": "“Deve ser muito bom ter uma família funcional e consciente”, Eduarda dá um apertão de leve em suas mãos entrelaçadas, um reconhecimento do que foi dito."
+    },
+    {
+      "id": "cap-04-0173",
+      "type": "paragraph",
+      "text": "“E, se você assim quiser, essa família é sua também. Eu já te falei antes, mas vou repetir porque é verdade: meus pais já te amam. Inclusive, quando conversei com meu pai hoje ele disse que estão voltando. Finalmente esse encontro vai acontecer!”, Eduarda dá um beijinho na mandíbula dela, “a gente não pode fazer muito pelos Ferette, a não ser que eles queiram se ajudar e, pra isso, eles precisam primeiro pagar pelo que fizeram. E eu não creio que seu pai esteja muito disposto a isso.”"
+    },
+    {
+      "id": "cap-04-0174",
+      "type": "paragraph",
+      "text": "“Com toda certeza que não. Já Leo, eu acredito que sim. Ele é uma boa pessoa.”"
+    },
+    {
+      "id": "cap-04-0175",
+      "type": "paragraph",
+      "text": "“Você é uma boa irmã”, Eduarda diz simplesmente. O caso é que Lorena ama Leonardo, ela sabe disso, ela só não sabe se Lorena ama o irmão ou a pessoa."
+    },
+    {
+      "id": "cap-04-0176",
+      "type": "paragraph",
+      "text": "Eduarda é filha única, ela não entende o laço entre irmãos de sangue. Alguém com quem se cresceu, as implicâncias e os limites, até onde é permitido ir, onde é longe demais. Quanto do peso dessas decisões vem do sangue e quanto vem do afeto. Ela ama Paulinho e o tem como um irmão que surgiu meio a contragosto, mas é diferente. Mesmo que eles não tenham se escolhido propriamente dito, tendo sido jogados numa parceria pela arbitrariedade do sistema, o laço entre eles surgiu da admiração e do reconhecimento ético."
+    },
+    {
+      "id": "cap-04-0177",
+      "type": "paragraph",
+      "text": "Se perguntarem, Eduarda vai sempre falar que Paulinho é seu irmão, sua lealdade livre de peso genético ou de um sobrenome. Ela não sabe, verdadeiramente não sabe o que sentiria no lugar de Lorena.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Se perguntarem, Eduarda vai sempre falar que Paulinho "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "é"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " seu irmão, sua lealdade livre de peso genético ou de um sobrenome. Ela não sabe, verdadeiramente não sabe o que sentiria no lugar de Lorena."
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0178",
+      "type": "paragraph",
+      "text": "“Você não gosta dele”, ela esperava que Lorena ficasse mais na defensiva, mas a frase sai apenas triste. Eduarda não sabe se dói mais ou menos."
+    },
+    {
+      "id": "cap-04-0179",
+      "type": "paragraph",
+      "text": "“Eu não o conheço”, é a resposta mais simples que ela pode dar. Mas sabe que é necessário mais, “eu interagi muito pouco com ele e, bem, o que eu vejo é uma pessoa, eu não sei, vazia? Quem é ele quando não é filho de Santiago Ferette ou namorado de Viviane?”, ela tenta ao máximo não soar como se estivesse atacando o sujeito, mas não vai fingir um respeito que não sente. A honestidade, às vezes, é uma linha muito tênue. Qualquer centímetro para um lado ou para o outro e o estrago pode ser enorme, mas ela vai sempre optar por esse caminho, “eu sei que você o ama e acredita nele”, ela vira o corpo o pouco que o local permite. Com cuidado, dando a ela tempo para impedir o toque se assim o quiser, ela levanta o rosto de Lorena com os dedos em seu queixo, acariciando com o polegar, olhos nos dela, “eu não desejo mal a ele, muito pelo contrário”, corre a mão por seu rosto até que seus dedos se enterram nas ondas escuras de seu cabelo e a traz para perto, testa com testa, mesmo que os microfones atrapalhem um pouco, forçando uma certa distância, “de todo coração, eu desejo que ele se torne digno do seu sentimento. Do seu afeto, da forma que você acredita nele, da opinião que você tem dele."
+    },
+    {
+      "id": "cap-04-0180",
+      "type": "paragraph",
+      "text": "Eu tenho uma obrigação em relação a ele enquanto policial: em algum momento, nós teremos que prendê-lo e ele terá que pagar pelo erro gravíssimo que cometeu. Quando isso acontecer, eu quero que você entenda que eu não vou poder te informar de antemão. Você sabe que isso vai acontecer, já sabia antes de eu receber aquele dossiê e ele também sabe, Zenilda com certeza conversou com ele”, Lorena assente de leve, testa ainda em contato com a dela, olhos fechados, “se ele é a pessoa que você acredita que ele é, ele vai entender e aceitar. Agora, do ponto de vista pessoal… Eu ainda não sei a profundidade do envolvimento dele neste caso, mas o que eu sei me embrulha o estômago”, ela se afasta um pouco, fixa os olhos em suas mãos entrelaçadas. Às vezes ela se pergunta onde uma termina e a outra começa; se, diante da enormidade e infinitude do universo, isso sequer importa, “eu não sei a linha de defesa dele, eu não sei o que o Ministério Público vai buscar. Meu trabalho é juntar fatos e a interpretação e julgamento desses fatos não cabe a mim. Mas… Eu não conseguiria me manter em pé se tivesse nos meus ombros, direta ou indiretamente, o peso de tanta crueldade.”"
+    },
+    {
+      "id": "cap-04-0181",
+      "type": "paragraph",
+      "text": "A primeira lágrima que cai sobre sua mão quase faz com que ela retire tudo que disse. Mas como poderia? Como poderiam seguir em frente tendo um elefante deste tamanho constantemente as seguindo em todo cômodo que estiverem? Ela sabe que falou o que precisava ser falado, a parte racional dela repete que foi necessário, que ela vai entender, que ela já entende. Mas o coração dela só consegue ver as lágrimas nas costas de sua mão e em seu rosto e a culpa que sente é sufocante."
+    },
+    {
+      "id": "cap-04-0182",
+      "type": "paragraph",
+      "text": "“Lorena, eu–”, ela balança a cabeça negativamente, olhos fechados e por um segundo ela sente pânico. Ilógico, ela sabe disso, mas real da mesma forma."
+    },
+    {
+      "id": "cap-04-0183",
+      "type": "paragraph",
+      "text": "“Não peça desculpas”, a voz dela sai fraca, precisa de uma segunda tentativa para fazer com que as palavras se formem. Ela abre os olhos e o que Eduarda vê é resignação, decepção, “eu…”, limpa a garganta quando a voz falha, balança a cabeça como se o movimento pudesse ajudar a remover as nuvens que se formam em sua mente a impedindo de seguir adiante, “eu ainda não consegui assimilar a realidade de que eu não talvez não conheça meu irmão. Com meu pai foi uma construção de anos, evidências deixadas pelo caminho, fios soltos. Eu nunca imaginei a profundidade da ruindade dele, mas eu nunca duvidei dela”, desta vez, a voz dela sai firme. Santiago Ferette é uma ferida em processo de cicatrização – aquela fase em que às vezes dá uma fisgada de dor, uma pontada. Ali, presente, constante, incômoda, mas não mais sangrando, não mais aberta, sem risco de infecção, sem necessidade de antibióticos e de atenção constante. O completo contrário de Leonardo, “durante a conversa com minha mãe, eu questionei se ela me amava enquanto filha ou enquanto pessoa.”"
+    },
+    {
+      "id": "cap-04-0184",
+      "type": "paragraph",
+      "text": "“Oh, meu amor…”"
+    },
+    {
+      "id": "cap-04-0185",
+      "type": "paragraph",
+      "text": "“Desde o momento em que Leonardo me contou da casa de farinha eu tenho me questionado a mesma coisa. Quem eu amo? Meu irmão ou Leonardo? Qual deles é real? Algum deles é real? Ele me disse que a bola estava no meu campo. Que eu que deveria decidir o que fazer com a informação.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Desde o momento em que Leonardo me contou da casa de farinha eu tenho me questionado a mesma coisa. Quem eu amo? Meu irmão ou Leonardo? Qual deles é real? "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Algum deles"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " é real? Ele me disse que a bola estava no meu campo. Que eu que deveria decidir o que fazer com a informação.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0186",
+      "type": "paragraph",
+      "text": "Eduarda não é uma pessoa violenta. Nunca foi. Afeto, conversa, ética, justiça, consciência formaram uma nascente de onde brota coragem. Pura, límpida, constante. Eduarda não é uma pessoa violenta, mas, forjada de coragem, não suporta covardia. Sente no peito queimar o mesmo fogo que aquela bala no vidro de seu carro fez acender."
+    },
+    {
+      "id": "cap-04-0187",
+      "type": "paragraph",
+      "text": "“Lorena.”"
+    },
+    {
+      "id": "cap-04-0188",
+      "type": "paragraph",
+      "text": "“Eu sei.”"
+    },
+    {
+      "id": "cap-04-0189",
+      "type": "paragraph",
+      "text": "“Sabe?”, a pergunta é cautelosa, não acusatória. Você sabe mesmo? Da covardia? Da manipulação? Do jogo sujo? Você consegue ver? A injustiça? O tanto que isso o aproxima muito mais de Santiago do que de você? Sabe mesmo? O tanto que você merece uma pessoa melhor como irmão?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Sabe?”, a pergunta é cautelosa, não acusatória. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Você sabe mesmo? Da"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "covardia? Da manipulação? Do jogo sujo? Você consegue ver? A"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "injustiça? O tanto que isso o aproxima muito mais de Santiago do que de"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "você? Sabe mesmo? O tanto que você merece uma pessoa melhor como"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "irmão?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0190",
+      "type": "paragraph",
+      "text": "“Eu acho que tô começando a saber”, ela aperta novamente suas mãos juntas, puxa o braço dela um pouco mais para junto de si, a outra mão em seu antebraço, uma âncora. Desce os dedos até o pulso dela, sente os batimentos firmes e estáveis de seu coração por baixo das marcas que não consegue ver, mas que sente mesmo assim, “eu quero te pedir uma coisa.”"
+    },
+    {
+      "id": "cap-04-0191",
+      "type": "paragraph",
+      "text": "“Claro, o que você quiser.”"
+    },
+    {
+      "id": "cap-04-0192",
+      "type": "paragraph",
+      "text": "“A partir do momento que sairmos desse helicóptero, eu não quero mais falar da minha família. Chega de Santiago, de Leonardo, de tiro”, a voz dela soa cansada, mas firme, decidida. Leva a mão de Eduarda até os lábios, beija os nós. A visão é suficiente para iniciar um fogo diferente em Eduarda, um bem mais bem-vindo, “esse lugar, essa casa… Eu quero que seja nosso lugar.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“A partir do momento que sairmos desse helicóptero, eu não quero mais falar da minha família. Chega de Santiago, de Leonardo, de tiro”, a voz dela soa cansada, mas firme, decidida. Leva a mão de Eduarda até os lábios, beija os nós. A visão é suficiente para iniciar um fogo diferente em Eduarda, um bem mais bem-vindo, “esse lugar, essa casa… Eu quero que seja "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "nosso"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " lugar.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0193",
+      "type": "paragraph",
+      "text": "“Nosso loquinhaverso?”, a gargalhada de Lorena, mesmo modificada pelos fones, é sempre um bálsamo para ela. Principalmente num dia tenebroso como aquele.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Nosso "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "loquinhaverso"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "?”, a gargalhada de Lorena, mesmo modificada pelos fones, é sempre um bálsamo para ela. Principalmente num dia tenebroso como aquele."
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0194",
+      "type": "paragraph",
+      "text": "“Isso. Nosso loquinhaverso.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Isso. Nosso "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "loquinhaverso."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "”"
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0195",
+      "type": "paragraph",
+      "text": "“Será um imenso prazer! Mas eu queria ainda assim deixar claro que, se você quiser, sempre que você quiser, em qualquer lugar que você quiser, eu vou ouvir o que você tiver pra falar.”"
+    },
+    {
+      "id": "cap-04-0196",
+      "type": "paragraph",
+      "text": "Lorena afasta o próprio microfone e a puxa pela jaqueta, esmagando os lábios nos dela, um tanto torto devido ao outro microfone, “você é perfeita”, mais um beijo, “perfeita.”"
+    },
+    {
+      "id": "cap-04-0197",
+      "type": "paragraph",
+      "text": "O assunto seria retomado em algum momento, ela sabe disso. Lorena não é o tipo de pessoa que varre as dificuldades para debaixo do tapete e espera que sumam magicamente. Por mais que seja difícil, por mais que possa doer, por mais que possa destruir sua realidade e a forçar a reconstruí-la, ela não vai abaixar a cabeça."
+    },
+    {
+      "id": "cap-04-0198",
+      "type": "paragraph",
+      "text": "Mas no momento, ela precisa de paz, de conforto. De um lugar onde possa estar vulnerável, segura, onde possa se entregar e apenas ser por um momento.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Mas no momento, ela precisa de paz, de conforto. De um lugar onde possa estar vulnerável, segura, onde possa se entregar e apenas "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ser"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " por um momento."
+        }
+      ]
+    },
+    {
+      "id": "cap-04-0199",
+      "type": "paragraph",
+      "text": "Eduarda é capaz de construir um universo inteiro para dar isso a ela."
+    }
+  ],
+  "notes": {
+    "before": [
+      {
+        "id": "cap-04-0001",
+        "type": "paragraph",
+        "text": "acabou que esse cap ficou grande demais (meu deus, gente. isso era pra ser uma oneshot o que tá acontecendo!??) e ao invés de entregar uma atualização de 13k, preferi dividir pra não ficar muito maçante."
+      }
+    ],
+    "after": [
+      {
+        "id": "cap-04-0200",
+        "type": "paragraph",
+        "text": "só pra constar!! eu já tinha planejado essa ideia de vazamento de informação antes da novela! rs e precisei ajustar um pouco a postura de Henrique agora que já sei melhor quem ele é"
+      },
+      {
+        "id": "cap-04-0201",
+        "type": "paragraph",
+        "text": "mais uma vez obrigado a todo mundo que segue lendo e acompanhando, obrigado pelos comentários e por quem não comenta, mas que acompanha."
+      },
+      {
+        "id": "cap-04-0202",
+        "type": "paragraph",
+        "text": "beijo de luz!!"
+      }
+    ]
+  }
+}

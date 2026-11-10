@@ -23,7 +23,6 @@ const filters: { value: CatalogFilter; label: string }[] = [
 ];
 
 export default function Home() {
-  const featuredChapter = featuredWork?.chapters.at(-1);
   const { query, setQuery, filter, setFilter, filtered } =
     useCatalogFilter(works);
   return (
@@ -49,26 +48,23 @@ export default function Home() {
               Com carinho, de Loquinha para Loquinha ♡
             </span>
           </div>
-          {featuredWork && featuredChapter && (
+          {featuredWork && (
             <div className={styles.spotlight}>
-              <span className={styles.labelTop}>NOVO CAPÍTULO DISPONÍVEL</span>
+              <span className={styles.labelTop}>NOVA HISTÓRIA NA BIBLIOTECA</span>
               <div className={styles.spotlightCover}>
                 <WorkCover work={featuredWork} featured />
               </div>
               <span className={styles.heroChapterNumber}>
-                Capítulo {featuredChapter.number}
-              </span>
-              <span className={styles.heroChapterTitle}>
-                {featuredChapter.title}
+                {featuredWork.title}
               </span>
               <span className={styles.heroBookAuthor}>
                 por <AuthorLink author={featuredWork.author} />
               </span>
               <Link
                 className={styles.featureLink}
-                to={`/obra/${featuredWork.slug}/capitulo/${featuredChapter.number}`}
+                to={`/obra/${featuredWork.slug}`}
               >
-                Ler novo capítulo <ArrowRight size={15} />
+                Conhecer a obra <ArrowRight size={15} />
               </Link>
             </div>
           )}

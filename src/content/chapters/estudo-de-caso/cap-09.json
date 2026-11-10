@@ -1,0 +1,2174 @@
+{
+  "id": "cap-09",
+  "blocks": [
+    {
+      "id": "cap-09-0002",
+      "type": "paragraph",
+      "text": "Eduarda dorme por quase cinco horas."
+    },
+    {
+      "id": "cap-09-0003",
+      "type": "paragraph",
+      "text": "Ou talvez dorme não seja a melhor palavra. A equipe da UTI entra e sai do bloco em intervalos constantes, aferindo pressão, cuidando do frasco do dreno, verificando curativos, nível de dor, saturação, ajustando medicamento. Uma rotina brutal que mina suas energias físicas e mentais – mesmo que seu objetivo único seja garantir que seu corpo continue funcionando como deve. Apesar do susto de mais cedo, os enfermeiros e intensivistas afirmam que ela está progredindo muito bem em todas as três principais frentes físicas: pulmão, dreno e ferimento da bala.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Ou talvez "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "dorme"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " não seja a melhor palavra. A equipe da UTI entra e sai do bloco em intervalos constantes, aferindo pressão, cuidando do frasco do dreno, verificando curativos, nível de dor, saturação, ajustando medicamento. Uma rotina brutal que mina suas energias físicas e mentais – mesmo que seu objetivo único seja garantir que seu corpo continue funcionando como deve. Apesar do susto de mais cedo, os enfermeiros e intensivistas afirmam que ela está progredindo muito bem em todas as três principais frentes físicas: pulmão, dreno e ferimento da bala."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0004",
+      "type": "paragraph",
+      "text": "Já na frente psicológica, as coisas vão depender muito de como ela vai reagir à primeira sessão com a terapeuta. O que é possível ser feito pelos pais e por Lorena está sendo feito. Eduarda se agarra com todas as forças ao apoio que eles lhe dão, às palavras que sussurram quando acham que ela já está apagada, aos toques leves em seu rosto, cabelo, braço – onde for possível tocar sem causar algum dano."
+    },
+    {
+      "id": "cap-09-0005",
+      "type": "paragraph",
+      "text": "Inegavelmente, desesperadamente, Eduarda precisa de um descanso."
+    },
+    {
+      "id": "cap-09-0006",
+      "type": "paragraph",
+      "text": "A fonoaudióloga chega ao bloco quando ela consegue se manter acordada por alguns minutos. Traz consigo um potinho com gelatina e, veja bem, no estado que Eduarda está, ela vai sim se permitir uma felicidade quase infantil diante da ideia de dolorosamente engolir alguma coisa que não seja a própria saliva. A dor já é uma certeza, pelo menos dessa vez a dor terá sabor de morango."
+    },
+    {
+      "id": "cap-09-0007",
+      "type": "paragraph",
+      "text": "E, como nada naquele lugar é simples, ela precisa primeiro fazer alguns testes. A fono toca seu pescoço e pede para que engula a fim de testar se a laringe está cumprindo seu dever corretamente; pede para que ela emita um som constante; ajusta a técnica para que ela consiga acionar as cordas vocais sem sobrecarregar tanto o coitado do pulmão operado."
+    },
+    {
+      "id": "cap-09-0008",
+      "type": "paragraph",
+      "text": "Quando está satisfeita o suficiente com os testes, a primeira tentativa da dor saborizada será, como quase tudo ali, uma operação em equipe: Violeta se prepara com o travesseiro para o caso dela tossir – algo que, infelizmente, a médica já lhe adianta que é uma possibilidade real – enquanto a fono toca a lateral do pescoço dela com o estetoscópio e prepara o primeiro aviãozinho vermelho."
+    },
+    {
+      "id": "cap-09-0009",
+      "type": "paragraph",
+      "text": "A boa notícia quando ela de fato tosse é que seu corpo está conseguindo proteger seu pulmão contra invasores via oral. A má notícia é que dói mesmo com o travesseiro amenizando um pouco."
+    },
+    {
+      "id": "cap-09-0010",
+      "type": "paragraph",
+      "text": "A segunda tentativa, porém, vem sem tosse. Só a dor da garganta ainda sensível pela intubação com sabor artificial de morango."
+    },
+    {
+      "id": "cap-09-0011",
+      "type": "paragraph",
+      "text": "Uma das melhores sensações que ela teve desde que acordou da sedação."
+    },
+    {
+      "id": "cap-09-0012",
+      "type": "divider"
+    },
+    {
+      "id": "cap-09-0013",
+      "type": "paragraph",
+      "text": "“Boa tarde, Eduarda, dona Violeta. Eu sou Ana Lucia, psicóloga. Trabalho junto com a equipe da Dra. Juliana. Tudo joia?”, Eduarda começa a notar um certo padrão na equipe da cirurgiã: até o momento, todas as integrantes são mulheres. Isso provavelmente explica o alto índice de recuperação dos pacientes do Einstein."
+    },
+    {
+      "id": "cap-09-0014",
+      "type": "paragraph",
+      "text": "“Boa tarde, querida. Tudo bem, obrigada. Eu vou deixar vocês à vontade”, Violeta se levanta e a cumprimenta com um aperto de mão. Depois se vira para a filha, “meu amor, seu pai que deve assumir quando a consulta de vocês terminar. Eu devo voltar aqui mais tarde com Lorena pra te dar boa noite, ok?”, Eduarda confirma com a cabeça e um piscar de olhos demorado. Violeta passa os dedos pelo cabelo dela, sorrindo com os olhos, “eu também te amo. Muito prazer, Ana. Bom trabalho pra vocês.”"
+    },
+    {
+      "id": "cap-09-0015",
+      "type": "paragraph",
+      "text": "“Sua mãe é linda. E elegantérrima! Mesmo com o avental e a máscara,” ela diz para Eduarda quando se vêem a sós. Puxa uma cadeira e se senta ao lado do leito, do lado esquerdo, na altura do joelho de Eduarda. Assim, elas conseguem se olhar sem que ela precise mover o pescoço e sustentá-lo virado. Ana cruza as pernas e apoia um caderninho no joelho, “neste primeiro momento, eu vou tentar deixar tudo mais simples, evitar perguntas complexas ou que exijam respostas verbais quando possível. Sinta-se à vontade pra acenar com a cabeça ou com as mãos quando o que tiver a dizer for simples o suficiente. Se quiser tentar falar, será ótimo”, um aceno curto com a cabeça. Ana nota que Eduarda não está na defensiva, uma postura comum em casos como o dela. O que ela nota, porém, latente como se um letreiro em LED piscasse em seus olhos, é que Eduarda Fragoso está profundamente frustrada. Ela resolve ir direto ao ponto, algo que Lorena lhe disse ser a melhor estratégia, “eu fiquei sabendo do que aconteceu hoje mais cedo. Você tá se sentindo melhor?”"
+    },
+    {
+      "id": "cap-09-0016",
+      "type": "paragraph",
+      "text": "Ela força a mandíbula e assente curtamente."
+    },
+    {
+      "id": "cap-09-0017",
+      "type": "paragraph",
+      "text": "“Frustrada?”"
+    },
+    {
+      "id": "cap-09-0018",
+      "type": "paragraph",
+      "text": "Novamente um aceno de confirmação."
+    },
+    {
+      "id": "cap-09-0019",
+      "type": "paragraph",
+      "text": "“Por não ter conseguido sentar?”"
+    },
+    {
+      "id": "cap-09-0020",
+      "type": "paragraph",
+      "text": "Uma pequena hesitação, sobrancelhas juntas. Não exatamente ou não totalmente.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Uma pequena hesitação, sobrancelhas juntas. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Não exatamente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " ou "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "não"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "totalmente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0021",
+      "type": "paragraph",
+      "text": "“Por ter entrado em pânico?”"
+    },
+    {
+      "id": "cap-09-0022",
+      "type": "paragraph",
+      "text": "Ela fecha os olhos rapidamente e confirma. Passa a língua pelos lábios – ainda um tanto ressecados apesar do hidratante que Violeta aplicou e deixou ali para que seja usado constantemente – e não parece conseguir manter contato visual por muito tempo. Vergonha.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Ela fecha os olhos rapidamente e confirma. Passa a língua pelos lábios – ainda um tanto ressecados apesar do hidratante que Violeta aplicou e deixou ali para que seja usado constantemente – e não parece conseguir manter contato visual por muito tempo. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Vergonha"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0023",
+      "type": "paragraph",
+      "text": "“Eduarda, você quase morreu”, a frase dita de forma gentil, mas firme, faz com que ela olhe imediatamente para a psicóloga, “eu sei que você sabe disso, mas você sabe?”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Eduarda, você quase morreu”, a frase dita de forma gentil, mas firme, faz com que ela olhe imediatamente para a psicóloga, “eu sei que você sabe disso, mas você "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sabe"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "?”"
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0024",
+      "type": "paragraph",
+      "text": "Cenhos franzidos, ela mantém os olhos nos dela. Confusão.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Cenhos franzidos, ela mantém os olhos nos dela. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Confusão"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0025",
+      "type": "paragraph",
+      "text": "“Você foi baleada no peito há vinte e quatro horas. Há seis, você já estava tentando se sentar. Apesar do dreno que imagino ser profundamente desconfortável, não existem grandes marcas ou cortes ou imobilizações. Sua cirurgia foi por vídeo, são pequenas incisões nas costelas”, a confusão persiste, “o que eu quero dizer é que não tem muita coisa física que te lembre que você esteve entre a vida e a morte. E talvez por isso você esteja tão frustrada com seu corpo e o fato de que ele não está respondendo da forma que você quer que ele responda.”"
+    },
+    {
+      "id": "cap-09-0026",
+      "type": "paragraph",
+      "text": "Entendimento inunda seus olhos. Ela deixa que Eduarda absorva e processe um pouco antes de seguir.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Entendimento"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " inunda seus olhos. Ela deixa que Eduarda absorva e processe um pouco antes de seguir."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0027",
+      "type": "paragraph",
+      "text": "“Eu conheci a formidável Lorena agora há pouco”, a mudança repentina de assuntos a pega desprevenida, mas o sorriso surge em seus lábios ao ouvir o nome. Nenhum pudor, vergonha ou discrição. A psicóloga sorri, “eu pedi pra ela me dar uma ideia geral sobre você já que neste primeiro momento você não vai conseguir falar muito. Uma das coisas que ela me disse é que você ama cuidar e proteger.”"
+    },
+    {
+      "id": "cap-09-0028",
+      "type": "paragraph",
+      "text": "Um aceno com a cabeça, lábios ainda levemente levantados num sorriso simples e discreto. Daqueles sorrisos permanentes quando se fala de um tópico bom sem a euforia do debate, apenas o prazer."
+    },
+    {
+      "id": "cap-09-0029",
+      "type": "paragraph",
+      "text": "“Imagino que isso esteja contribuindo pra essa frustração que você está sentindo agora, né? Não poder cuidar, não poder proteger.”"
+    },
+    {
+      "id": "cap-09-0030",
+      "type": "paragraph",
+      "text": "Um aceno triste, derrotado."
+    },
+    {
+      "id": "cap-09-0031",
+      "type": "paragraph",
+      "text": "“Então eu volto ao ponto principal: você quase morreu. E eu não estou dizendo isso por crueldade. Eu estou dizendo isso porque eu preciso que você mude a forma que você está olhando seu próprio corpo agora”, o olhar desta vez é de concentração, de uma tentativa aberta de entender, “você está com dificuldade de respirar, com dor, sem autonomia e entende que seu corpo está falhando e te deixando na mão. Mas a verdade é que seu corpo sobreviveu e está tentando reaprender a viver, Eduarda. Você consegue entender a diferença?”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Então eu volto ao ponto principal: você quase morreu. E eu não estou dizendo isso por crueldade. Eu estou dizendo isso porque eu preciso que você mude a forma que você está olhando seu próprio corpo agora”, o olhar desta vez é de concentração, de uma tentativa aberta de entender, “você está com dificuldade de respirar, com dor, sem autonomia e entende que seu corpo está falhando e te deixando na mão. Mas a verdade é que seu corpo sobreviveu e está tentando reaprender a "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "viver"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", Eduarda. Você consegue entender a diferença?”"
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0032",
+      "type": "paragraph",
+      "text": "“Ah…”, a voz sai fraca, mas os olhos dizem tudo. E uma nova onda de vergonha recai sobre ela. Uma vergonha diferente, desta vez. Não a sensação debilitante que fecha as portas e bloqueia a mente, mas o peso incômodo de quem finalmente entendeu que está errando consigo mesmo."
+    },
+    {
+      "id": "cap-09-0033",
+      "type": "paragraph",
+      "text": "“Lorena me contou de quando uma viagem muito importante pra vocês foi interrompida e tiveram que voltar para São Paulo às pressas. Que você estava muito frustrada com a situação, mas que, ainda assim, foi gentil e educada com aqueles que interromperam o final de semana de vocês. Vamos tentar fazer isso agora?”, as lágrimas finalmente chegam, algo que Lorena já havia avisado que muito provavelmente aconteceria. Ana marca o momento como uma vitória. Um passo no rumo certo. O primeiro deles, “você também é digna de sua gentileza e paciência”, ela dá um tapinha leve e encorajador no joelho dela, “o caminho será longo. E eu não vou mentir pra você e dizer que será fácil, porque você já teve um gostinho hoje de que em alguns momentos será bem difícil. Você vai precisar reaprender os limites do seu corpo e da sua mente, mas quem você é não mudou. Sua essência não mudou. Você ama cuidar. Então por que não cuidar de si mesma?”"
+    },
+    {
+      "id": "cap-09-0034",
+      "type": "divider"
+    },
+    {
+      "id": "cap-09-0035",
+      "type": "paragraph",
+      "text": "Joaquim foge com uma parcela do dinheiro que estava na estátua."
+    },
+    {
+      "id": "cap-09-0036",
+      "type": "paragraph",
+      "text": "Não que isso seja exatamente uma surpresa para Gerluce. Ou Viviane. Ou Júnior. Ou Consuelo. Na verdade, só Misael se surpreende com o fato. Talvez por ser o único do grupo inocente ou cego o suficiente para acreditar que Joaquim tem capacidade de verdadeiramente se importar com alguém além de si mesmo."
+    },
+    {
+      "id": "cap-09-0037",
+      "type": "paragraph",
+      "text": "Eles estão reunidos, como sempre, no ferro-velho – convocados por Gerluce com urgência. A notícia relevante é que a estátua em si foi deixada para trás e boa parte do dinheiro também. E, para ela, nada além disso importa no momento."
+    },
+    {
+      "id": "cap-09-0038",
+      "type": "paragraph",
+      "text": "Aos amigos – e cúmplices – ela conta de Eduarda, da culpa e de sua decisão. Mais do que isso, ela conta o plano que traçou juntamente com Rogério e Zenilda mais cedo."
+    },
+    {
+      "id": "cap-09-0039",
+      "type": "paragraph",
+      "text": "O inquérito não pode ser anulado. Independente do que aconteça com Arminda; independente do fato de que o CPF de Rogério está novamente ativo; independente do fato que ele tem a documentação que comprova que a estátua é dele. O inquérito não pode ser anulado, mas Eduarda Fragoso lhes comprou uma chance de evitar punições mais severas, pagando com o próprio sangue e quase com a própria vida."
+    },
+    {
+      "id": "cap-09-0040",
+      "type": "paragraph",
+      "text": "E, se uma completa desconhecida é capaz de se colocar como escudo do povo da Chacrinha, por que eles ainda estão ali adiando o inevitável, vivendo de mentiras?"
+    },
+    {
+      "id": "cap-09-0041",
+      "type": "paragraph",
+      "text": "Como Júnior consegue olhar para Maggye sem que a culpa o corroa por dentro? Como ela mesma consegue olhar para Paulinho? Como podem ficar inertes diante de um sacrifício daquele tamanho em nome deles?"
+    },
+    {
+      "id": "cap-09-0042",
+      "type": "paragraph",
+      "text": "Só a verdade cura. E ela já está cansada de se sentir doente."
+    },
+    {
+      "id": "cap-09-0043",
+      "type": "paragraph",
+      "text": "Misael é o único contra o plano. É, também, o único que tentou matar Ferette. Uma decisão burra, apesar de compreensível. E que tem nenhuma ligação com os demais, é o que Gerluce lhe diz. Ele que lide com as consequências de seus atos, como eles vão fazer sobre os deles."
+    },
+    {
+      "id": "cap-09-0044",
+      "type": "divider",
+      "text": "****"
+    },
+    {
+      "id": "cap-09-0045",
+      "type": "paragraph",
+      "text": "Às quinze horas, na Aclimação, ela começa a lidar com as consequências das ações que se viu forçada a cometer e das quais não se arrepende."
+    },
+    {
+      "id": "cap-09-0046",
+      "type": "paragraph",
+      "text": "Se tivesse a chance de reviver sua vida, faria de novo tantas vezes quanto precisasse. E em todas ela aceitaria o que viesse depois."
+    },
+    {
+      "id": "cap-09-0047",
+      "type": "paragraph",
+      "text": "Na sala de estar, além do grupo: Claudia, Gisleyne, dona Josefa, Zenilda, Rogério, Leonardo, Raul, Joélly, Lígia, João Rubens, Kasper e Maggye."
+    },
+    {
+      "id": "cap-09-0048",
+      "type": "paragraph",
+      "text": "Eles contam dos remédios falsos; da denúncia na delegacia da Chacrinha – e da retaliação; das mortes, perdas irreparáveis; do desespero e do desamparo; do plano; do roubo; do dinheiro; da esperança."
+    },
+    {
+      "id": "cap-09-0049",
+      "type": "paragraph",
+      "text": "Juntos, eles ouvem o áudio do grampo corporal de Eduarda que logo se tornará público. Cada palavra que Ferette cuspiu sobre eles, seus amigos, seus entes queridos. Com lágrimas que há muito tempo correm por todos os rostos, eles ouvem o tiro. E um homem justo aterrorizado pela ideia de mais uma luz se apagar nas mãos daquele monstro. Eles ouvem o resgate – o barulho das hélices agora apenas um ruído baixo ao fundo – a urgência dos socorristas, quão perto Eduarda esteve da morte. Eles ouvem o silêncio que se segue por longos minutos quando o áudio termina. Foi por ele, o silêncio parece gritar, foi por ele que fizemos o que fizemos. E é por ela que faremos o que precisa ser feito.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Juntos, eles ouvem o áudio do grampo corporal de Eduarda que logo se tornará público. Cada palavra que Ferette cuspiu sobre eles, seus amigos, seus entes queridos. Com lágrimas que há muito tempo correm por todos os rostos, eles ouvem o tiro. E um homem justo aterrorizado pela ideia de mais uma luz se apagar nas mãos daquele monstro. Eles ouvem o resgate – o barulho das hélices agora apenas um ruído baixo ao fundo – a urgência dos socorristas, quão perto Eduarda esteve da morte. Eles ouvem o silêncio que se segue por longos minutos quando o áudio termina. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Foi por ele"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", o silêncio parece gritar, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "foi por ele que fizemos o que fizemos. E é por ela que faremos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "o que precisa ser feito"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0050",
+      "type": "paragraph",
+      "text": "Eles não pedem perdão. Não pelo que fizeram."
+    },
+    {
+      "id": "cap-09-0051",
+      "type": "paragraph",
+      "text": "Júnior pede pela mentira, pela omissão – para Maggye, para seus pais. E desaba num pranto aliviado amparado pelos braços dela."
+    },
+    {
+      "id": "cap-09-0052",
+      "type": "paragraph",
+      "text": "Kasper, João Rubens e Rogério aceitam o acordo sem ressalvas."
+    },
+    {
+      "id": "cap-09-0053",
+      "type": "divider",
+      "text": "****"
+    },
+    {
+      "id": "cap-09-0054",
+      "type": "paragraph",
+      "text": "Às dezesseis, mais por simbolismo do que por necessidade, a estátua das Três Graças é posicionada em local de destaque na Galeria Damatta pelo grupo da Chacrinha – onde ficará até que Rogério defina seu destino."
+    },
+    {
+      "id": "cap-09-0055",
+      "type": "paragraph",
+      "text": "“Parabéns, Kasper”, a voz de João Rubens soa triste acima de tudo. Se posiciona ao lado do marido, mas seus olhos estão fixos no mármore esculpido à sua frente. É uma linda obra, mas não lhe instiga qualquer sentimento relevante, “finalmente você realizou seu sonho. Era por causa delas que você estava agindo daquela forma, não é?”"
+    },
+    {
+      "id": "cap-09-0056",
+      "type": "paragraph",
+      "text": "Kasper, por sua vez, observa o grupo que se abraça, aliviado. Uma missão cumprida, um peso retirado dos ombros. Finalmente livres, mesmo que a caminho da delegacia para se entregar."
+    },
+    {
+      "id": "cap-09-0057",
+      "type": "paragraph",
+      "text": "Então ele olha para sua grande obsessão de vida. Elas são lindas, indiscutivelmente lindas. Mas o chamado delas não está ali mais. Tudo que ele ouve é a voz carregada de ódio de Santiago Ferette admitindo o mais imperdoável dos pecados. O choro contido de um policial – não, de um irmão – enquanto a melhor amiga de sua filha lutava pela vida. O depoimento daquelas pessoas sobre suas perdas e seu desespero."
+    },
+    {
+      "id": "cap-09-0058",
+      "type": "paragraph",
+      "text": "Ele olha para aquela estátua linda e se questiona como se permitiu chegar tão perto de jogar fora sua família – seu marido, sua filha, sua parceria de vinte e cinco anos – por causa delas enquanto Júnior daria tudo para ter o pai de volta. E, na impossibilidade disso, entregou sua própria liberdade para que ninguém mais passasse pela mesma dor que ele carrega em si permanentemente."
+    },
+    {
+      "id": "cap-09-0059",
+      "type": "paragraph",
+      "text": "“A única coisa que eu realizei foi o maior erro da minha vida ao mentir pra você e pra nossa filha”, ele se vira para João Rubens, mas não tenta tocá-lo. Ele não sabe mais se é permitido, “e, se você me permitir, eu vou passar o resto dela tentando consertar isso.”"
+    },
+    {
+      "id": "cap-09-0060",
+      "type": "paragraph",
+      "text": "João Rubens não responde. Assente algumas vezes, uma lágrima silenciosa descendo pelo rosto, e pega a mão dele um apertão rápido."
+    },
+    {
+      "id": "cap-09-0061",
+      "type": "divider",
+      "text": "****"
+    },
+    {
+      "id": "cap-09-0062",
+      "type": "paragraph",
+      "text": "Enquanto Eduarda reaprende a engolir, Gerluce Maria das Graças, Albano Souza Júnior, Viviane Fonseca, Misael dos Santos e Consuelo de Sousa se entregam para a polícia pelo roubo da estátua Três Graças."
+    },
+    {
+      "id": "cap-09-0063",
+      "type": "divider"
+    },
+    {
+      "id": "cap-09-0064",
+      "type": "paragraph",
+      "text": "“Eu prendi a Gerluce hoje.”"
+    },
+    {
+      "id": "cap-09-0065",
+      "type": "paragraph",
+      "text": "Lorena está num jardim externo, lendo um pouco num dos confortáveis bancos estofados que ficam às margens das ilhas verdes que protegem do sol e do calor. Se dependesse exclusivamente dela, estaria na UTI com Eduarda o tempo todo, mas sabe que assim como ela, Henrique e Violeta também querem ficar com a filha. Então ela se força a dar um passo para trás e dividir o tempo com eles."
+    },
+    {
+      "id": "cap-09-0066",
+      "type": "paragraph",
+      "text": "Logicamente falando, é até melhor assim. Para os quatro. Eduarda nunca fica sozinha, mas também não fica sempre com a mesma pessoa, o que inevitavelmente a levaria a se sentir como um fardo. E também permite que os três descansem."
+    },
+    {
+      "id": "cap-09-0067",
+      "type": "paragraph",
+      "text": "É claro que eles passam na UTI de tempos em tempos independente disso e, nos momentos mais críticos, o acordo silencioso é que, se possível, estarão todos juntos."
+    },
+    {
+      "id": "cap-09-0068",
+      "type": "paragraph",
+      "text": "Ela fecha o livro imediatamente. O coloca numa mesa ali ao lado e toca o estofado ao lado dela, um convite para ele se sentar com ela."
+    },
+    {
+      "id": "cap-09-0069",
+      "type": "paragraph",
+      "text": "“Eu sinto muito de verdade, Paulinho”, apesar do instinto de tocar nele, algo que ela sempre teve em si, mas que se intensificou muito quando Eduarda entrou em sua vida, ela não o faz. Ele não parece estar pronto."
+    },
+    {
+      "id": "cap-09-0070",
+      "type": "paragraph",
+      "text": "“Eu nunca me senti tão sujo por fazer meu trabalho. Mas como eu poderia deixar que alguma outra pessoa fizesse no meu lugar?”, Lorena não consegue apontar um sentimento específico no meio do turbilhão que emana dele em ondas: raiva, dor, orgulho, amor. Como luzes coloridas numa balada, uma imagem nova cada vez que se pisca os olhos. Todas reais, mas nunca durando tempo suficiente para se considerar permanente, “eu precisava que ela tivesse lá. Ela cuidaria disso. E teria cuidado de Gerluce. Teria sido gentil, justa”, a voz dele é baixa, insuportavelmente triste, “ela é muito mais humana do que eu.”"
+    },
+    {
+      "id": "cap-09-0071",
+      "type": "paragraph",
+      "text": "“E como você cuidou disso? O que aconteceu?”"
+    },
+    {
+      "id": "cap-09-0072",
+      "type": "paragraph",
+      "text": "“Ela chegou na delegacia com alguns amigos dela: Viviane, Júnior, com sua mãe e Rogério. Eles roubaram a estátua.”"
+    },
+    {
+      "id": "cap-09-0073",
+      "type": "paragraph",
+      "text": "“A Três Graças? Que Arminda abriu o inquérito depois de ter mentido que nada tinha acontecido?”"
+    },
+    {
+      "id": "cap-09-0074",
+      "type": "paragraph",
+      "text": "“Isso. Você sabe, Viviane é a farmacêutica da Chacrinha – ela entregava as pílulas de farinha pra população que ela ama. Júnior encontrou o pai morto na sala de casa. A esposa do Misael também morreu por causa dos remédios falsos. Lígia, a mãe da Gerluce, tá doente e piorava a cada dia”, ele tem os braços apoiados nos joelhos, olhos fixos no distintivo em suas mãos. É a primeira vez que ela vê o objeto em algum lugar que não seja no pescoço dele, “ela ia morrer, Lorena. Os policiais da Chacrinha estão na folha de pagamento do Ferette. E eu tive que ouvir cada palavra dela”, ele finalmente se levanta, andando de um lado para outro no espaço imediatamente na frente dela, “depois de ouvir cada palavra dele! Depois de sentir o sangue da Juquinha nas minhas mãos, de ver ela fechando os olhos sem saber se ela ia conseguir abrir eles de novo”, ele para de andar e olha para ela, chorando. Derrotado, perdido, “e eu precisei levar ela. Eu precisei levar todos eles pra carceragem. Porque esse maldito distintivo”, ele o levanta até a altura do ombro – segurando com tanta força que é um choque que não esteja amassado – mostrando para ela, “me obriga a fazer isso!”, ele joga o distintivo para o lado, com força. Ele vai parar debaixo do banco ao lado. Ele finalmente desaba. Suas pernas falham e Lorena o segura, se pondo em pé num pulo, o guia com cuidado de volta ao banco. Ela se agacha na frente dele, mãos em seu rosto.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Isso. Você sabe, Viviane é a farmacêutica da Chacrinha – ela entregava as pílulas de farinha pra população que ela ama. Júnior encontrou o pai morto na sala de casa. A esposa do Misael também morreu por causa dos remédios falsos. Lígia, a mãe da Gerluce, tá doente e piorava a cada dia”, ele tem os braços apoiados nos joelhos, olhos fixos no distintivo em suas mãos. É a primeira vez que ela vê o objeto em algum lugar que não seja no pescoço dele, “ela ia morrer, Lorena. Os policiais da Chacrinha estão na folha de pagamento do Ferette. E eu tive que ouvir cada palavra dela”, ele finalmente se levanta, andando de um lado para outro no espaço imediatamente na frente dela, “depois de ouvir cada palavra dele! Depois de sentir o sangue da Juquinha nas minhas mãos, de ver ela fechando os olhos sem saber se ela ia conseguir abrir eles de novo”, ele para de andar e olha para ela, chorando. Derrotado, perdido, “e eu precisei levar ela. Eu precisei levar todos eles pra carceragem. Porque esse "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "maldito"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " distintivo”, ele o levanta até a altura do ombro – segurando com tanta força que é um choque que não esteja amassado – mostrando para ela, “me obriga a fazer isso!”, ele joga o distintivo para o lado, com força. Ele vai parar debaixo do banco ao lado. Ele finalmente desaba. Suas pernas falham e Lorena o segura, se pondo em pé num pulo, o guia com cuidado de volta ao banco. Ela se agacha na frente dele, mãos em seu rosto."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0075",
+      "type": "paragraph",
+      "text": "“Você ouviu tudo que ela tinha pra falar?”"
+    },
+    {
+      "id": "cap-09-0076",
+      "type": "paragraph",
+      "text": "“Sim.”"
+    },
+    {
+      "id": "cap-09-0077",
+      "type": "paragraph",
+      "text": "“Sem interromper?”"
+    },
+    {
+      "id": "cap-09-0078",
+      "type": "paragraph",
+      "text": "“Isso”, acolhimento.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Isso”, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "acolhimento"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0079",
+      "type": "paragraph",
+      "text": "“E você perguntou como ela pôde fazer aquilo com você?”"
+    },
+    {
+      "id": "cap-09-0080",
+      "type": "paragraph",
+      "text": "“Quê? Não! Claro que não”, você consegue ver?",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Quê? Não! Claro que não”, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "você consegue ver?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0081",
+      "type": "paragraph",
+      "text": "“E você deu as costas a ela?”"
+    },
+    {
+      "id": "cap-09-0082",
+      "type": "paragraph",
+      "text": "“Não. Como eu poderia?”, está tão claro, abra os olhos.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Não. Como eu poderia?”, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "está tão claro, abra os olhos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0083",
+      "type": "paragraph",
+      "text": "“Ela mentiu pra você. Ninguém te julgaria se você saísse de lá e a deixasse pra trás”, só mais um passo.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Ela mentiu pra você. Ninguém te julgaria se você saísse de lá e a deixasse pra trás”, "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "só mais um passo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0084",
+      "type": "paragraph",
+      "text": "“Eu não poderia nunca deixar ela sozinha ali–”, ele para. Fecha a boca, olha para ela com um brilho novo nos olhos."
+    },
+    {
+      "id": "cap-09-0085",
+      "type": "paragraph",
+      "text": "“Você entendeu agora, né?”, ela se levanta e busca o distintivo dele. Se senta no banco, de frente para ele, “ela teria feito exatamente a mesma coisa, Paulinho. E não é apenas porque você que a treinou, mas porque vocês dois sabem que é o que precisava ser feito. Talvez ela só fosse mais charmosa e carinhosa, mas as ações seriam as mesmas”, Lorena deixa a mão no ombro dele por alguns segundos enquanto ele processa a informação. Até ele relaxar um pouco os ombros, suspirando, “o que você tá sentindo?”"
+    },
+    {
+      "id": "cap-09-0086",
+      "type": "paragraph",
+      "text": "“Raiva. Orgulho. Revolta. Saudade.”"
+    },
+    {
+      "id": "cap-09-0087",
+      "type": "paragraph",
+      "text": "Ela entrega o distintivo para ele, “notou como não tem traição ou conflito na sua lista?”"
+    },
+    {
+      "id": "cap-09-0088",
+      "type": "paragraph",
+      "text": "“Eu entendi o motivo dela – deles. Ela não é uma criminosa, Lorena.”"
+    },
+    {
+      "id": "cap-09-0089",
+      "type": "paragraph",
+      "text": "“Eu sei. Ela fez o que ela precisou fazer. Você entendeu a estratégia deles?”"
+    },
+    {
+      "id": "cap-09-0090",
+      "type": "paragraph",
+      "text": "“Sua mãe me explicou antes de eu sair de lá. Eles se entregando conta a favor deles diante do juiz. Devolveram a estátua por iniciativa própria. E o que sobrou do dinheiro, que ainda é uma quantia enorme”, ele passa os dedos pelo metal, uma parte visivelmente arranhada. Pensa que talvez exista uma mensagem ali, mesmo que ele não a compreenda completamente ainda, “Rogério tem a papelada que prova que a estátua é dele e disse em depoimento que perdoa o roubo. E, com a confissão, a motivação deles deixa de ser teórica. Zenilda já entrou com os pedidos pra eles responderem em liberdade. Quando a gente soltar os áudios, a rede de apoio dele deve ruir. Eles estão todos muito confiantes de que vai dar certo.”"
+    },
+    {
+      "id": "cap-09-0091",
+      "type": "paragraph",
+      "text": "“Ou seja, o inquérito da estátua se torna uma ramificação do inquérito dos remédios falsos e ambos se validam. O roubo reforça o dano que Santiago causou na sociedade e a confissão cruel dele traz humanidade ao roubo.”"
+    },
+    {
+      "id": "cap-09-0092",
+      "type": "paragraph",
+      "text": "Ele vira o rosto para ela, “como você consegue ficar tão calma?”"
+    },
+    {
+      "id": "cap-09-0093",
+      "type": "paragraph",
+      "text": "O riso dela é completamente sem humor, “não tem uma célula calma no meu corpo, Paulinho. Parte de mim ainda se surpreende com o nível da crueldade dele. Eu tenho muito da personalidade dele em mim, sabe, e isso me assusta muito. Saber que eu vim dele”, ela apoia o braço no encosto do banco e a cabeça em seu punho fechado, “Duda uma vez me disse que eu sou a única coisa boa que ele fez na vida”, a mera menção ao nome dela suaviza suas feições, “cada horror novo que a gente descobre que ele fez me embrulha mais o estômago. Meu coração dói pelas histórias da Chacrinha, das pessoas que vivem lá. E pelo dano colateral – você, Maggye, Vivi. Eu não tô calma”, ela quebra o contato visual rapidamente. Olha para além dele, para o verde das plantas ao redor; para a forma como parecem dançar na brisa constante. E pensa nela. O constante puxão invisível em seu peito fazendo espalhar por todo seu corpo um calor que nada tem a ver com temperatura. Ela sorri, “eu tô esperançosa. Pela primeira vez na vida, eu acredito que vai dar certo.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "O riso dela é completamente sem humor, “não tem uma célula calma no meu corpo, Paulinho. Parte de mim ainda se surpreende com o nível da crueldade dele. Eu tenho muito da personalidade dele em mim, sabe, e isso me assusta muito. Saber que eu vim dele”, ela apoia o braço no encosto do banco e a cabeça em seu punho fechado, “Duda uma vez me disse que eu sou a única coisa boa que ele fez na vida”, a mera menção ao nome dela suaviza suas feições, “cada horror novo que a gente descobre que ele fez me embrulha mais o estômago. Meu coração dói pelas histórias da Chacrinha, das "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "pessoas"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que vivem lá. E pelo dano colateral – você, Maggye, Vivi. Eu não tô calma”, ela quebra o contato visual rapidamente. Olha para além dele, para o verde das plantas ao redor; para a forma como parecem dançar na brisa constante. E pensa nela. O constante puxão invisível em seu peito fazendo espalhar por todo seu corpo um calor que nada tem a ver com temperatura. Ela sorri, “eu tô esperançosa. Pela primeira vez na vida, eu acredito que vai dar certo.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0094",
+      "type": "paragraph",
+      "text": "“Graças a ela.”"
+    },
+    {
+      "id": "cap-09-0095",
+      "type": "paragraph",
+      "text": "“Graças a vocês todos. Mas, sim. Principalmente, graças a ela. Como cê me achou aqui?”, ela pergunta depois de um segundo de silêncio confortável."
+    },
+    {
+      "id": "cap-09-0096",
+      "type": "paragraph",
+      "text": "“Esbarrei com seu sogro quando cheguei. Ele me falou que cê tava aqui. Ele é meio intimidador, né?”"
+    },
+    {
+      "id": "cap-09-0097",
+      "type": "paragraph",
+      "text": "“Dr. Henrique? Intimidador?”, ela franze o cenho, completamente perdida, “ele é uma das pessoas mais doces que já encontrei na vida!”"
+    },
+    {
+      "id": "cap-09-0098",
+      "type": "paragraph",
+      "text": "“Sério? Hah. Ele ficou bem na defensiva quando perguntei de você. Precisei provar que sou amigo da Juquinha pra ele abaixar um pouco a guarda.”"
+    },
+    {
+      "id": "cap-09-0099",
+      "type": "paragraph",
+      "text": "“Hum… Bem, você é um cara desconhecido perguntando sobre uma moça que não bastando ser uma moça ainda é noiva da filha dele. Acho que a reação faz sentido”, ainda assim, ela guarda aquela informação num lugar especial em seu coração. Ao redor deles, a luz do sol começa a dar lugar às luzes artificiais dos elegantes postes espalhados por toda a área. Mais um dia quente de verão terminando. Um dos raros que não promete chuva, “agora me conta direito o que aconteceu. Não o que eles relataram, mas como.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Hum… Bem, você é um cara desconhecido perguntando sobre uma moça que não bastando ser uma moça ainda é noiva da filha dele. Acho que a reação faz sentido”, ainda assim, ela guarda aquela informação num lugar especial em seu coração. Ao redor deles, a luz do sol começa a dar lugar às luzes artificiais dos elegantes postes espalhados por toda a área. Mais um dia quente de verão terminando. Um dos raros que não promete chuva, “agora me conta direito o que aconteceu. Não o que eles relataram, mas "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "como"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ".”"
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0100",
+      "type": "paragraph",
+      "text": "Ele se vira de frente para ela, sentado na outra ponta do banco. Conta tudo de novo, focando em como Gerluce se portou, o que ela demonstrou. Dessa vez, o orgulho é a única cor que brilha. Ele está mais calmo, um pouco mais em paz."
+    },
+    {
+      "id": "cap-09-0101",
+      "type": "paragraph",
+      "text": "Lorena concorda com Gerluce: só a verdade cura.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Lorena concorda com Gerluce: "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "só a verdade cura."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0102",
+      "type": "paragraph",
+      "text": "“Rogério vai fazer dela presidente da Fundação assim que ela estiver em liberdade”, o sorriso dele é contagiante."
+    },
+    {
+      "id": "cap-09-0103",
+      "type": "paragraph",
+      "text": "“E você? O que você vai fazer quando ela sair de lá?”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“E você? O que "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "você"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " vai fazer quando ela sair de lá?”"
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0104",
+      "type": "paragraph",
+      "text": "“Eu vou pedir ela em casamento.”"
+    },
+    {
+      "id": "cap-09-0105",
+      "type": "divider"
+    },
+    {
+      "id": "cap-09-0106",
+      "type": "paragraph",
+      "text": "A questão com terapia é que de vez em quando ela te deixa mentalmente exausto. E a questão com ficar mentalmente exausta é que Eduarda já está todos os outros sabores de exausta ao mesmo tempo."
+    },
+    {
+      "id": "cap-09-0107",
+      "type": "paragraph",
+      "text": "Então ela faz o que se espera que ela faça: apaga como se tivesse sido sedada novamente quando a psicóloga dá a sessão por produtivamente encerrada com pelo menos dez minutos sobrando."
+    },
+    {
+      "id": "cap-09-0108",
+      "type": "paragraph",
+      "text": "A boa notícia é que desta vez ela consegue dormir profundamente por uma hora. Sua mente finalmente em silêncio. Mais uma pequena vitória para ela colocar na lista ainda muito curta."
+    },
+    {
+      "id": "cap-09-0109",
+      "type": "paragraph",
+      "text": "Um cafuné gostoso é o que a acorda lentamente, mas é a visão dela que realmente liga todos os seus neurônios. Mesmo com avental e máscara, ela é linda. Profundamente linda. Indiscutivelmente linda. Sobrenaturalmente linda. As lágrimas chegam inesperadamente e ela as ignora, nem mesmo as sente. E ali, presa naqueles olhos tão únicos – não por sua cor, apesar de lindíssima, mas pelo brilho deles, pela forma como parecem atravessar sua alma ao mesmo tempo a recriando e acariciando – por um segundo, fica fácil respirar de novo."
+    },
+    {
+      "id": "cap-09-0110",
+      "type": "paragraph",
+      "text": "Eduarda sente falta do cheiro dela. Claro, sente falta de tudo: do toque, do gosto, de poder vê-la direito, do calor de seu corpo. Mas é o cheiro dela que faz tudo desacelerar, brilhar, cantar."
+    },
+    {
+      "id": "cap-09-0111",
+      "type": "paragraph",
+      "text": "“Bom dia, linda”, Lorena toca a testa dela com a sua, ambas fechando os olhos com o contato."
+    },
+    {
+      "id": "cap-09-0112",
+      "type": "paragraph",
+      "text": "Ela sabe que não tem necessidade, que Lorena nunca pediria isso dela, mas ela precisa, então respira da melhor forma que consegue, umedece os lábios ainda levemente ressecados.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Ela sabe que não tem necessidade, que Lorena nunca pediria isso dela, mas ela "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "precisa"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", então respira da melhor forma que consegue, umedece os lábios ainda levemente ressecados."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0113",
+      "type": "paragraph",
+      "text": "“Oi, amor”, a voz é bem baixa e ainda dói consideravelmente tanto na garganta quanto no peito. Ela não se arrepende."
+    },
+    {
+      "id": "cap-09-0114",
+      "type": "paragraph",
+      "text": "“Vocês definitivamente são o casal mais lindo que eu já vi. E eu sou casada. E feliz no meu casamento”, é a primeira vez que Eduarda nota que não estão sozinhas ali. Ela abre um sorriso travesso, perfeitamente feliz em ser inconvenientemente apaixonada por Lorena, “fiquei sabendo que a senhorita comeu gelatina hoje.”"
+    },
+    {
+      "id": "cap-09-0115",
+      "type": "paragraph",
+      "text": "Ela confirma com a cabeça como uma criança de três anos que conseguiu colorir dentro das linhas pela primeira vez na vida, “ran–”, inspira, prende, expira, “king”, levanta dois dedos da mão esquerda rapidamente."
+    },
+    {
+      "id": "cap-09-0116",
+      "type": "paragraph",
+      "text": "“Ranking?”, ela confirma com a cabeça, “ranking dois? Ah! Segundo melhor momento do dia?”, ela confirma de novo, sorriso crescendo nos lábios. A médica ri de leve, “deixa eu adivinhar: o melhor momento do dia foi quando você ganhou uma bitoquinha da sua querida?”, e o sorriso aumenta ainda mais, mostrando os dentes, olhos brilhando como holofotes, batimentos fortes para todos ouvirem, “se seu humor e energia ficarem sempre positivos assim, vou receitar bitoquinhas de oito em oito horas. O que você acha, Lorena?”"
+    },
+    {
+      "id": "cap-09-0117",
+      "type": "paragraph",
+      "text": "“Olha, doutora, eu até concordo com o medicamento, mas discordo da posologia. O caso é bem crítico. Acho que vale ajustar para, no máximo, a cada duas horas.”"
+    },
+    {
+      "id": "cap-09-0118",
+      "type": "paragraph",
+      "text": "Desta vez, ela ri alto, “não abusa. Se a progressão for positiva, a gente aumenta a frequência”, ela pisca para Lorena antes de se aproximar do leito para fazer as checagens de praxe, “tudo positivamente dentro do esperado. Amanhã cedo o pessoal da enfermagem vai fazer o banho de leito com você e deve ter a primeira troca de curativo no seu peito. A gente não costura esse tipo de ferida. Você tem alguma ideia de como é o tratamento? Chegam a explicar isso na Academia?”"
+    },
+    {
+      "id": "cap-09-0119",
+      "type": "paragraph",
+      "text": "Eduarda faz um movimento girando a mão para um lado e depois para o outro. Mais ou menos.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Eduarda faz um movimento girando a mão para um lado e depois para o outro. "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Mais ou menos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0120",
+      "type": "paragraph",
+      "text": "“Não é confortável. E normalmente é assustador porque é necessário preencher o buraco com uma espécie de gaze antibacteriana que vai absorver qualquer secreção lá dentro enquanto o ferimento fecha de dentro pra fora. Eles vão tirar a gaze externa, o curativo interno, limpar com soro, introduzir o novo curativo interno e fechar de novo com esse adesivo plástico transparente pra que possamos manter a vigilância sem precisar destampar tudo toda vez”, Eduarda fecha os olhos e deixa a cabeça cair contra o travesseiro, um tanto derrotada, “é… Dias de luta. Mas pra te dar um prêmio por ter se comportado bem hoje, o que você acha de um pouquinho de sorvete?”, ela abre os olhos imediatamente, um pouco do brilho de volta a eles, “prefere creme, baunilha ou coco?”, ela levanta um dedo, “creme, então. Lembre-se do que a fono treinou com você mais cedo, ok?”, ela confirma com a cabeça. Juliana se dirige aos demais, “não precisa ser alguém da enfermagem a dar o sorvete, pode ser qualquer um de vocês. Mas é melhor que o façam com alguém junto. É pouco, claro, e as colheradas devem ser bem pequenas. Nosso lema”, ela volta a olhar para Eduarda, “é devagar e sempre.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Não é confortável. E normalmente é assustador porque é necessário preencher o buraco com uma espécie de gaze antibacteriana que vai absorver qualquer secreção lá dentro enquanto o ferimento fecha de dentro pra fora. Eles vão tirar a gaze externa, o curativo interno, limpar com soro, introduzir o novo curativo interno e fechar de novo com esse adesivo plástico transparente pra que possamos manter a vigilância sem precisar destampar tudo toda vez”, Eduarda fecha os olhos e deixa a cabeça cair contra o travesseiro, um tanto derrotada, “é… Dias de luta. Mas pra te dar um prêmio por ter se comportado bem hoje, o que você acha de um pouquinho de sorvete?”, ela abre os olhos imediatamente, um pouco do brilho de volta a eles, “prefere creme, baunilha ou coco?”, ela levanta um dedo, “creme, então. Lembre-se do que a fono treinou com você mais cedo, ok?”, ela confirma com a cabeça. Juliana se dirige aos demais, “não precisa ser alguém da enfermagem a dar o sorvete, pode ser qualquer um de vocês. Mas é melhor que o façam com alguém junto. É pouco, claro, e as colheradas devem ser bem pequenas. Nosso lema”, ela volta a olhar para Eduarda, “é "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "devagar e sempre"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ".”"
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0121",
+      "type": "paragraph",
+      "text": "A médica se despede com um tapinha gentil no joelho de Eduarda."
+    },
+    {
+      "id": "cap-09-0122",
+      "type": "paragraph",
+      "text": "Henrique observa a forma como sua filha e Lorena estão se olhando, a saudade quase tangível."
+    },
+    {
+      "id": "cap-09-0123",
+      "type": "paragraph",
+      "text": "“Lorena, meu bem, você fica aqui umas horinhas? A gente vai jantar e eu vou me preparar pra pernoite. Aí eu volto pra te render, pode ser?”"
+    },
+    {
+      "id": "cap-09-0124",
+      "type": "paragraph",
+      "text": "“Claro, seu Henrique! Pode ir lá sem pressa. Eu fico aqui, sem problema.”"
+    },
+    {
+      "id": "cap-09-0125",
+      "type": "paragraph",
+      "text": "Assim que a porta se fecha atrás deles e começam a tirar os aventais e máscaras, Violeta ri."
+    },
+    {
+      "id": "cap-09-0126",
+      "type": "paragraph",
+      "text": "“Você não é discreto.”"
+    },
+    {
+      "id": "cap-09-0127",
+      "type": "paragraph",
+      "text": "“Minha querida, a gente poderia ter falado que vai largar tudo e virar palhaço de circo que, pra elas, não teria feito qualquer diferença.”"
+    },
+    {
+      "id": "cap-09-0128",
+      "type": "paragraph",
+      "text": "Violeta mantém os olhos nelas pelo vidro transparente da porta, “elas são muito fofas juntas.”"
+    },
+    {
+      "id": "cap-09-0129",
+      "type": "paragraph",
+      "text": "Henrique deixa um beijo demorado em sua têmpora, “são lindas.”"
+    },
+    {
+      "id": "cap-09-0130",
+      "type": "divider"
+    },
+    {
+      "id": "cap-09-0131",
+      "type": "paragraph",
+      "text": "Paulinho coloca o celular em cima da mesa e encosta na cadeira da lanchonete. Toma um gole do café ultrafaturado, seus olhos não registram o que acontece ao seu redor, mente ainda em modo trabalho."
+    },
+    {
+      "id": "cap-09-0132",
+      "type": "paragraph",
+      "text": "Ele repassa para o delegado a última atualização do pessoal que está cuidando do futuro hóspede VIP do sistema prisional do Estado de São Paulo. Todos, sem exceção, receberam propostas de suborno. Todos, sem exceção, reportaram oficialmente."
+    },
+    {
+      "id": "cap-09-0133",
+      "type": "paragraph",
+      "text": "Seus advogados fizeram uma visita rápida regada a muita gritaria e chilique. Aparentemente, a rede de apoio dele já tinha começado a ruir antes mesmo da última pá de cal pública."
+    },
+    {
+      "id": "cap-09-0134",
+      "type": "paragraph",
+      "text": "Não conseguiram reverter a prisão em flagrante nem impedir sua conversão para preventiva, mas estão mais confiantes em conseguir mudar para domiciliar por causa do tiro. É claro que Paulinho não quer que ele consiga essa mordomia, mas não pretende comprar essa briga. Seu foco, no momento, é garantir que ele caia. Se ele cair passando uma pequena temporada de férias se despedindo do luxo que comprou com seu dinheiro sujo de sangue, que seja."
+    },
+    {
+      "id": "cap-09-0135",
+      "type": "paragraph",
+      "text": "O juiz ainda não emitiu o mandado de prisão contra Macedo, Arminda e Leonardo e cada segundo que passa é um risco maior nos dois primeiros casos. Macedo é seu foco total, porém. Seu envolvimento nos crimes de Ferette é muito mais direto que o dela e, sem dúvidas, o celular dele é uma bomba de impacto bem maior que o dela."
+    },
+    {
+      "id": "cap-09-0136",
+      "type": "paragraph",
+      "text": "No que dependesse dele, todo mundo que algum dia emitiu meio pensamento positivo sobre Ferette deveria ser interrogado e investigado a fundo, mas ele precisa ter os pés no chão. Sabe que não é assim que a banda toca. Eles vão dançar de acordo com a música e puxar para o meio da pista todos que conseguirem. Com calma e com inteligência."
+    },
+    {
+      "id": "cap-09-0137",
+      "type": "paragraph",
+      "text": "Ele se assusta com o som do celular vibrando em cima da mesa. Balança a cabeça a fim de tentar recuperar um pouco do foco antes de olhar a tela. Ele franze o cenho."
+    },
+    {
+      "id": "cap-09-0138",
+      "type": "paragraph",
+      "text": "“Dona Zenilda? Tá tudo bem?”"
+    },
+    {
+      "id": "cap-09-0139",
+      "type": "paragraph",
+      "text": "“Oi, querido. Tudo certo sim. Desculpa te ligar diretamente e principalmente a esta hora, mas eu estou tentando falar com Lorena e não consigo. Imagino que ela esteja na UTI sem o celular?”"
+    },
+    {
+      "id": "cap-09-0140",
+      "type": "paragraph",
+      "text": "“Ah! Não tem problema. Sim, ela tá com a Juquinha agora. Aconteceu alguma coisa?”"
+    },
+    {
+      "id": "cap-09-0141",
+      "type": "paragraph",
+      "text": "“Não exatamente, mas pode vir a acontecer. Vai depender apenas dela. Você pode falar com ela que eu devo passar aí mais tarde? Preciso conversar com ela sobre alguns desdobramentos no meu divórcio com Ferette que são de interesse dela.”"
+    },
+    {
+      "id": "cap-09-0142",
+      "type": "paragraph",
+      "text": "“Claro. Eu vou pra lá daqui a pouco, pegar o finzinho do horário de visitas. Aviso pra ela sim.”"
+    },
+    {
+      "id": "cap-09-0143",
+      "type": "paragraph",
+      "text": "“Ótimo! Muito obrigado. Eu tô só terminando de preparar o material pra pedir a liberação do pessoal da Chacrinha e depois devo ir.”"
+    },
+    {
+      "id": "cap-09-0144",
+      "type": "paragraph",
+      "text": "Ele batuca os dedos sobre a mesa, pensativo. Decide que perguntar não faz mal, “quanto a isso”, ele começa devagar, um pouco sem jeito, “qual a sua expectativa?”"
+    },
+    {
+      "id": "cap-09-0145",
+      "type": "paragraph",
+      "text": "“Eu acho que o material que a gente tem é bem forte e a forma como eles fizeram tudo hoje com certeza vai contar a favor deles. Se tudo seguir pelo rumo que a gente espera com a divulgação dos áudios eu tenho esperança de que saiam em uns dois dias, no máximo.”"
+    },
+    {
+      "id": "cap-09-0146",
+      "type": "paragraph",
+      "text": "Ele prende a respiração por alguns segundos e depois a solta lentamente. Dois dias. Ele consegue lidar com dois dias. Ela também consegue, ele sabe disso."
+    },
+    {
+      "id": "cap-09-0147",
+      "type": "paragraph",
+      "text": "“Entendo. Muito obrigado, doutora. Vou deixar a senhora ir. E pode deixar que eu aviso a Lorena.”"
+    },
+    {
+      "id": "cap-09-0148",
+      "type": "paragraph",
+      "text": "“Sem problemas. Boa noite, detetive. Um abraço.”"
+    },
+    {
+      "id": "cap-09-0149",
+      "type": "paragraph",
+      "text": "“Outro.”"
+    },
+    {
+      "id": "cap-09-0150",
+      "type": "paragraph",
+      "text": "O café já está gelado e excessivamente amargo quando ele bebe mais um gole, mas a reportagem que se inicia na televisão sem som faz com que o líquido desça por sua garganta como o mais puro néctar dos deuses."
+    },
+    {
+      "id": "cap-09-0151",
+      "type": "divider"
+    },
+    {
+      "id": "cap-09-0152",
+      "type": "heading",
+      "text": "ÁUDIOS REVELAM QUE O EMPRESÁRIO SANTIAGO FERETTE ESTÁ POR TRÁS DE ATENTADO E CONFESSA PARTICIPAÇÃO EM ESQUEMA DE FABRICAÇÃO DE REMÉDIOS FALSOS",
+      "level": 3,
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "ÁUDIOS REVELAM QUE O EMPRESÁRIO SANTIAGO"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "FERETTE ESTÁ POR TRÁS DE ATENTADO E CONFESSA"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "PARTICIPAÇÃO EM ESQUEMA DE FABRICAÇÃO DE"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "REMÉDIOS FALSOS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0153",
+      "type": "paragraph",
+      "text": "A redação obteve acesso a gravações de áudio realizadas no dia de ontem na sede da Fundação Ferette, quando a policial civil – e companheira da filha de Santiago Ferette, presidente da Fundação responsável por fabricação e distribuição de remédios de alto custo para a comunidade carente da Chacrinha – foi atingida por disparo de arma de fogo e levada em estado gravíssimo ao Hospital Albert Einstein."
+    },
+    {
+      "id": "cap-09-0154",
+      "type": "paragraph",
+      "text": "No diálogo que antecede o ataque, a policial confronta o empresário sobre seu relacionamento com a filha de Santiago que profere ofensas homofóbicas contra ela e que se opõe ao relacionamento, exigindo que seja rompido."
+    },
+    {
+      "id": "cap-09-0155",
+      "type": "paragraph",
+      "text": "Santiago chega a argumentar que a filha corria perigo ao lado da policial, mencionando uma tentativa de homicídio contra ela. Eduarda confirma que seu veículo foi atingido por disparo de arma de fogo e que, por ser blindado, o atirador não teve sucesso. A policial, então, acusa Santiago de ser o mandante deste atentado, uma vez que não era de conhecimento público que ela e Lorena estavam no carro alvejado."
+    },
+    {
+      "id": "cap-09-0156",
+      "type": "paragraph",
+      "text": "Nosso time buscou informações sobre este caso: na tarde do dia anterior ao ataque na Fundação, foi dada a notícia inicialmente como um caso de bala perdida que teria atingido um veículo blindado na região da Aclimação. Nenhum nome foi ligado ao caso. Em contato com a assessoria do desembargador Henrique Fragoso, pai de Eduarda, obtivemos a confirmação de que o veículo em questão é de sua filha e que ela e a noiva estavam no carro na hora do disparo e que não se feriram.",
+      "segments": [
+        {
+          "type": "text",
+          "text": "Nosso time buscou informações sobre este caso: na tarde do dia anterior ao ataque na Fundação, foi dada a notícia inicialmente como um caso de "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "bala perdida"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " que teria atingido um veículo blindado na região da Aclimação. Nenhum nome foi ligado ao caso. Em contato com a assessoria do desembargador Henrique Fragoso, pai de Eduarda, obtivemos a confirmação de que o veículo em questão é de sua filha e que ela e a noiva estavam no carro na hora do disparo e que não se feriram."
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0157",
+      "type": "paragraph",
+      "text": "Imagens de câmeras de segurança divulgadas no início da noite de ontem mostram o momento em que a discussão entre Eduarda e Santiago fica acalorada, culminando no que agora está confirmado ter sido um ataque direto contra a policial e não contra o empresário, como inicialmente informado. O material de hoje traz a confissão de Santiago Ferette. Leia a transcrição das falas de Santiago abaixo. O áudio completo também está disponível:"
+    },
+    {
+      "id": "cap-09-0158",
+      "type": "paragraph",
+      "text": "“Sabe de uma coisa, sua sapatinha nojenta? Você tem razão num ponto: eu já matei muita gente. Mas gente de verdade! Porque pobre não é gente. Pobre doente, então, aí que eu não sujo minhas mãos mesmo! Esse bando de animal é desperdício de tempo e de dinheiro. Morre um e tem outros três pra tomar seu lugar. Se formos bem sinceros, eu tô é fazendo um favor pra sociedade me livrando deles. Mas de todas as pessoas que eu já matei, você será a mais prazerosa. E eu vou adorar ver Lorena chorando em cima do seu caixão. E não vai haver poder que seu papaizinho desembargador possa ter que vai te trazer de volta do inferno! Quando o capeta te receber, diga a ele que eu te mandei.”",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "“Sabe de uma coisa, sua sapatinha nojenta? Você tem razão num"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "ponto: eu já matei muita gente. Mas gente de verdade! Porque pobre"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "não é gente. Pobre doente, então, aí que eu não sujo minhas mãos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mesmo! Esse bando de animal é desperdício de tempo e de dinheiro."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Morre um e tem outros três pra tomar seu lugar. Se formos bem"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "sinceros, eu tô é fazendo um favor pra sociedade me livrando deles."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Mas de todas as pessoas que eu já matei, você será a mais prazerosa."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "E eu vou adorar ver Lorena chorando em cima do seu caixão. E não"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "vai haver poder que seu papaizinho desembargador possa ter que vai"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "te trazer de volta do inferno! Quando o capeta te receber, diga a ele"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "que eu te mandei.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0159",
+      "type": "heading",
+      "text": "PÍLULAS DE FARINHA",
+      "level": 3,
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "PÍLULAS DE FARINHA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0160",
+      "type": "paragraph",
+      "text": "Este material corrobora um inquérito em andamento na Polícia Civil do Estado de São Paulo ao qual obtivemos acesso exclusivo que apura fraude em licitações municipais operadas pela Fundação Ferette. Segundo as investigações, o empresário captava os recursos destinados à fabricação e distribuição de remédios de alto custo para a comunidade carente da Chacrinha."
+    },
+    {
+      "id": "cap-09-0161",
+      "type": "paragraph",
+      "text": "Porém, as pílulas distribuídas eram compostas exclusivamente de farinha. A suspeita é de que o esquema teria levado à morte de, pelo menos, dez pessoas. Os altíssimos valores desviados teriam sido usados para financiar a vida de alto padrão do empresário – com patrimônio estimado em R$ 350 milhões."
+    },
+    {
+      "id": "cap-09-0162",
+      "type": "paragraph",
+      "text": "O inquérito aponta que nem a ex-esposa do empresário nem a filha sabiam do esquema. No entanto, o filho mais velho, Leonardo Ferette, é apontado como coparticipante no esquema."
+    },
+    {
+      "id": "cap-09-0163",
+      "type": "heading",
+      "text": "ESTADO DE SAÚDE DOS ENVOLVIDOS",
+      "level": 3,
+      "segments": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "ESTADO DE SAÚDE DOS ENVOLVIDOS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0164",
+      "type": "paragraph",
+      "text": "Em nota, por meio de sua assessoria, Henrique e Violeta Fragoso, informaram que Eduarda foi atingida no tórax, tendo seu pulmão perfurado pelo projétil. Ela passou por uma videotoracoscopia de urgência e se encontra em estado estável na UTI do Einstein."
+    },
+    {
+      "id": "cap-09-0165",
+      "type": "paragraph",
+      "text": "Santiago Ferette, baleado no ombro por outro policial agindo em defesa de Eduarda, está sob custódia da Polícia no mesmo hospital e será encaminhado para o sistema prisional assim que obtiver alta. A Justiça converteu sua prisão em flagrante para prisão preventiva por tentativa de homicídio qualificado."
+    },
+    {
+      "id": "cap-09-0166",
+      "type": "divider"
+    },
+    {
+      "id": "cap-09-0167",
+      "type": "paragraph",
+      "text": "“Prontinho”, a enfermeira lhe entrega o celular sem a capinha de proteção e devidamente higienizado, “só lembre-se que o horário de visitação termina em vinte minutos e o senhor não pode ficar além disso.”"
+    },
+    {
+      "id": "cap-09-0168",
+      "type": "paragraph",
+      "text": "Paulinho termina de ajustar sua máscara e pega o aparelho, “sem problemas. Muito obrigado.”"
+    },
+    {
+      "id": "cap-09-0169",
+      "type": "paragraph",
+      "text": "Ele se lembra de quando Lorena foi à delegacia pela primeira vez. Da forma que olhou tudo ao redor, analisando e catalogando cada detalhe, cada cheiro, cada cor, cada som. No dia, ele achou que ela estava analisando a delegacia da mesma forma que qualquer civil faz: tentando entender seu funcionamento; aquela curiosidade que todo mundo leva sobre um mundo ao mesmo tempo amplamente divulgado e sempre maquiado. Próximo o suficiente da realidade para ser convincente, mas longe o suficiente para proteger protocolos e pessoal. Hoje, ele sabe que ela analisava o lugar buscando conhecer melhor o mundo de alguém que naquele momento ela já amava. Principalmente, ele se lembra da forma como seus olhos corriam por todo canto com um alvo bem definido em mente. E como uma bolha pareceu se formar ao redor delas no momento em que ficaram frente a frente dentro da sala."
+    },
+    {
+      "id": "cap-09-0170",
+      "type": "paragraph",
+      "text": "Elas estão na mesmíssima bolha quando ele entra no bloco."
+    },
+    {
+      "id": "cap-09-0171",
+      "type": "paragraph",
+      "text": "Juquinha está de olhos fechados, mas claramente acordada, um sorriso bobo nos lábios agora visíveis enquanto Lorena – sentada na poltrona reclinável ao lado do leito, testa encostada em sua têmpora, uma mão em seus cabelos e a outra lentamente subindo e descendo por seu braço – parece falar alguma coisa para ela. O fluxo de sua voz constante e baixo demais para ele conseguir distinguir alguma coisa."
+    },
+    {
+      "id": "cap-09-0172",
+      "type": "paragraph",
+      "text": "Ela não está mais tão pálida como da última vez que a viu – quase de volta ao saudável tom rosado – e parece respirar um pouco melhor, mesmo que ainda obviamente limitado. E está claramente exausta."
+    },
+    {
+      "id": "cap-09-0173",
+      "type": "paragraph",
+      "text": "Paulinho odeia esse lugar. Odeia o cheiro, odeia as cores, as máquinas, os sons. O tratamento ali é milhões de vezes mais humanizado do que ele está acostumado, é claro, mas ainda é um hospital. Ainda é uma UTI. E ela ainda tem um buraco no peito que ele não conseguiu impedir."
+    },
+    {
+      "id": "cap-09-0174",
+      "type": "paragraph",
+      "text": "E talvez não seja só o lugar que ele odeia."
+    },
+    {
+      "id": "cap-09-0175",
+      "type": "paragraph",
+      "text": "“Boa noite, casal. Tava de passagem pela região e resolvi dar uma subidinha aqui pra chamar minha parceira pra bater uma bolinha”, Juquinha revira os olhos, sorriso nos lábios."
+    },
+    {
+      "id": "cap-09-0176",
+      "type": "paragraph",
+      "text": "“Chegou no meu ponto que a série tá três a zero pra sua parceira”, Juquinha mexe os dedos, Lorena olha para eles, “quatro a zero.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Chegou no meu ponto que a série tá três a zero pra sua parceira”, Juquinha mexe os dedos, Lorena olha para eles, “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "quatro"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " a zero.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0177",
+      "type": "paragraph",
+      "text": "“E eu sinto no meu âmago que dessa vez vai dar bom pra mim. Só uma impressão baseada exclusivamente em forças ocultas e energias esotéricas. Eu tirei no tarot.”"
+    },
+    {
+      "id": "cap-09-0178",
+      "type": "paragraph",
+      "text": "“Por algum motivo que eu não sei explicar, eu acredito piamente que você tem um baralho de tarot.”"
+    },
+    {
+      "id": "cap-09-0179",
+      "type": "paragraph",
+      "text": "“Eu tenho. Dois.”"
+    },
+    {
+      "id": "cap-09-0180",
+      "type": "paragraph",
+      "text": "“Depois faz uma tiragem pra mim, então. Pergunta se eu devo colocar um piercing no mamilo”, o constante som do monitor cardíaco denuncia imediatamente a mudança nos batimentos Juquinha, “opa. Pensando melhor, acho que não precisa”, Paulinho ri alto enquanto Lorena, claramente divertida com a reação e sem um pingo de arrependimento, passa os dedos para a nuca dela, num carinho mais intenso visando acalmá-la. Ela se levanta quando o monitor normaliza, “senta, Paulinho. Eu vou ali fora rapidinho. Se comportem.”"
+    },
+    {
+      "id": "cap-09-0181",
+      "type": "paragraph",
+      "text": "Com um apertão carinhoso no antebraço dela, Lorena se levanta e, no caminho até a porta, dá um tapinha no ombro dele."
+    },
+    {
+      "id": "cap-09-0182",
+      "type": "paragraph",
+      "text": "Ele toma o lugar dela, sentado de lado na poltrona, de frente para a lateral do leito. Chega mais perto, celular na mão."
+    },
+    {
+      "id": "cap-09-0183",
+      "type": "paragraph",
+      "text": "“Eu não vou ficar muito tempo. O horário de visitação tá acabando”, ela assente uma vez, seus olhos um tanto tristes, “você deve estar querendo saber do caso e eu fui avisado pra evitar causar estresse desnecessário, mas eu sinto que eu te devo alguma informação. Porque ficar totalmente às cegas vai causar mais estresse ainda”, os olhos dela brilham focados, cenho franzido em concentração, “o plano está seguindo e está surtindo efeito. Eu não posso nem vou te dar detalhe porque isso não tem necessidade. Eu só preciso que você saiba que não foi em vão.”"
+    },
+    {
+      "id": "cap-09-0184",
+      "type": "paragraph",
+      "text": "As palavras fazem com que ela feche os olhos. Por um momento ele entra em pânico que talvez ela tenha desmaiado ou esteja passando mal. Ele cogita chamar a enfermagem, mas aí ela abre os olhos e tudo que ele vê é alívio."
+    },
+    {
+      "id": "cap-09-0185",
+      "type": "paragraph",
+      "text": "Ele talvez nunca admita isso em voz alta, mas sempre gostou muito dos olhos dela. Do lindo tom de chocolate ao leite que eles têm, da forma como brilham, do jeito que são expressivos. Juquinha é desbocada, incapaz de ficar longos períodos em silêncio, mas é através deles que ela mais se comunica."
+    },
+    {
+      "id": "cap-09-0186",
+      "type": "paragraph",
+      "text": "Paulinho leva a mão até a dela, mas não encosta, apenas aproxima bem, deixa que ela inicie o contato se assim quiser. Ela aperta seus dedos fracamente, sua mensagem clara. Ambos sorriem."
+    },
+    {
+      "id": "cap-09-0187",
+      "type": "paragraph",
+      "text": "“Eu queria sua opinião num assunto”, ele diz depois de alguns segundos num silêncio confortável. Juquinha levanta uma sobrancelha e ele desbloqueia o celular, toca algumas vezes na tela e vira para ela."
+    },
+    {
+      "id": "cap-09-0188",
+      "type": "paragraph",
+      "text": "Olhos arregalados, sorriso nos lábios, ela se vira para ele e depois para a tela e depois para ele de novo. E sorri mais abertamente."
+    },
+    {
+      "id": "cap-09-0189",
+      "type": "paragraph",
+      "text": "“Se me lembro bem, você me informou que seria madrinha. Nada mais justo que comece os trabalhos me ajudando a escolher as alianças”, ele sorri de volta e se ajeita na poltrona, rolando lentamente pela página enquanto ela dá seu aval ou não por cada joia que aparece."
+    },
+    {
+      "id": "cap-09-0190",
+      "type": "paragraph",
+      "text": "O sentimento é agridoce. Ele queria ouvir cada um dos mais variados comentários que ela teceria sobre cada imagem que aparece. Queria sentar com ela na mesa da delegacia ignorando a pilha de relatórios que têm para preencher e arquivar, o site aberto no computador que deveriam usar exclusivamente para trabalho. Queria rir com ela, discordar, cutucar a absurda diferença de poder aquisitivo entre eles. Provocar que Lorena está andando por aí sem uma aliança no dedo e que ela está só enrolando a moça."
+    },
+    {
+      "id": "cap-09-0191",
+      "type": "paragraph",
+      "text": "E ele se lembra dela caída naquela sala, do sangue dela em suas mãos, de como ficou aterrorizado quando seus olhos se fecharam e ele não sabia se os veria de novo."
+    },
+    {
+      "id": "cap-09-0192",
+      "type": "paragraph",
+      "text": "“Se Gerluce aceitar”, ela faz um barulho indignado com a garganta seguido de uma rápida careta de dor, “quando Gerluce aceitar”, ele se corrige, “eu quero vocês duas ao meu lado. Mesmo que eu tenha que declarar guerra contra a Igreja Católica. Você é minha irmãzinha e ela é sua alma gêmea e uma pessoa que está se tornando uma amiga pra mim. Será uma honra pra mim, Juquinha, te ter lá.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Se Gerluce aceitar”, ela faz um barulho indignado com a garganta seguido de uma rápida careta de dor, “"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "quando"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Gerluce aceitar”, ele se corrige, “eu quero vocês duas ao meu lado. Mesmo que eu tenha que declarar guerra contra a Igreja Católica. Você é minha irmãzinha e ela é sua alma gêmea e uma pessoa que está se tornando uma amiga pra mim. Será uma honra pra mim, Juquinha, te ter lá.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0193",
+      "type": "paragraph",
+      "text": "Ela busca a mão dele com a dela e aperta. Com certo esforço, ela rola a tela até uma aliança específica da lista. Uma que ele já tinha salvado nos favoritos, a única. Ela se concentra, umedece os lábios com a língua e, num fio de voz, “essa é linda.”"
+    },
+    {
+      "id": "cap-09-0194",
+      "type": "paragraph",
+      "text": "Ele deixa a testa no ombro dela, dedos entrelaçados. E chora silenciosamente."
+    },
+    {
+      "id": "cap-09-0195",
+      "type": "divider"
+    },
+    {
+      "id": "cap-09-0196",
+      "type": "paragraph",
+      "text": "“Não precisava ter saído.”"
+    },
+    {
+      "id": "cap-09-0197",
+      "type": "paragraph",
+      "text": "“Eu sei”, Lorena bebe o último gole de água da garrafa e se põe a enchê-la novamente, “eu só quis dar esse momento pra vocês. Como ela reagiu à novidade?”"
+    },
+    {
+      "id": "cap-09-0198",
+      "type": "paragraph",
+      "text": "“Nunca imaginei que fosse possível uma pessoa transmitir via energia cósmica a palavra finalmente, mas sua querida é cheia de surpresas”, ele pega um copo descartável e enche quando ela termina, “ela me ajudou a escolher a aliança.”",
+      "segments": [
+        {
+          "type": "text",
+          "text": "“Nunca imaginei que fosse possível uma pessoa transmitir via energia cósmica a palavra "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "finalmente"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", mas sua querida é cheia de surpresas”, ele pega um copo descartável e enche quando ela termina, “ela me ajudou a escolher a aliança.”"
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0199",
+      "type": "paragraph",
+      "text": "“Ah, é? Me mostra!”, ele tira o celular do bolso, mostra a imagem para ela, “é muito linda, mesmo. Acho que Gerluce vai amar!”"
+    },
+    {
+      "id": "cap-09-0200",
+      "type": "paragraph",
+      "text": "“Tomara, mesmo”, ele joga o copo no lixo reciclável e coloca o celular no bolso de novo, “bem, eu preciso ir agora. Obrigado por hoje, Lorena.”"
+    },
+    {
+      "id": "cap-09-0201",
+      "type": "paragraph",
+      "text": "“Imagina, Paulinho. Fico feliz em ajudar. E eu que agradeço por trazer um pouco de leveza pra ela. Um pouco de normalidade.”"
+    },
+    {
+      "id": "cap-09-0202",
+      "type": "paragraph",
+      "text": "Eles ficam um momento em silêncio, ambos com os olhos fixos na entrada da antessala que leva até ela."
+    },
+    {
+      "id": "cap-09-0203",
+      "type": "paragraph",
+      "text": "“Dizem que as primeiras vinte e quatro horas são as mais críticas”, ele diz em voz baixa, olhos ainda fixos na porta, como se pudesse atravessar todas as camadas físicas que impedem que sua visão a alcance lá dentro."
+    },
+    {
+      "id": "cap-09-0204",
+      "type": "paragraph",
+      "text": "“E a gente vai comemorar essa marca com sorvete de creme daqui a pouco.”"
+    },
+    {
+      "id": "cap-09-0205",
+      "type": "paragraph",
+      "text": "Ele se vira para ela imediatamente, “sorvete de cre– eu fico em choque a cada novo rumo que esse tratamento dela dá. Mal tem um dia que ela saiu daquela cirurgia!”"
+    },
+    {
+      "id": "cap-09-0206",
+      "type": "paragraph",
+      "text": "“Tratamento humanizado, equipe especializada e uma dose cavalar de dor e desconforto o tempo todo. Ela reaprendeu a engolir hoje mais cedo. A ideia agora é verificar que a garganta fixou a ideia e, se tiver ok, devem liberar pra beber curtos goles de água livremente.”"
+    },
+    {
+      "id": "cap-09-0207",
+      "type": "paragraph",
+      "text": "“Com sorvete de creme?”"
+    },
+    {
+      "id": "cap-09-0208",
+      "type": "paragraph",
+      "text": "Ela ri de leve, “isso. Por causa da consistência, principalmente. Pelo que a fono disse mais cedo, gelatina e sorvete vão descer mais devagar pela garganta, então se o corpo dela demorar muito a entender o caminho certo pra seguir, ainda assim dá tempo de impedir que alguma coisa invada o pulmão, que seria extremamente crítico. E o gelado ajuda a aliviar o incômodo na garganta por causa do tubo.”"
+    },
+    {
+      "id": "cap-09-0209",
+      "type": "paragraph",
+      "text": "“Daí ela tá vinte e quatro horas depois de uma cirurgia no pulmão tomando gelatina e sorvete”, ele balança a cabeça, “cada nova sequência de palavras me surpreende mais que a anterior. Eu definitivamente sei nada de medicina”, ele coloca a mão sobre o ombro dela, aperta de leve, “sua mãe me ligou mais cedo quando você tava sem o celular. Disse que vai passar aqui mais tarde porque precisa conversar com você sobre o divórcio dela.”"
+    },
+    {
+      "id": "cap-09-0210",
+      "type": "paragraph",
+      "text": "Lorena franze o cenho, confusa. Não consegue imaginar um motivo pelo qual ela teria que ser envolvida no divórcio dos pais."
+    },
+    {
+      "id": "cap-09-0211",
+      "type": "paragraph",
+      "text": "“Estranho. Mas obrigada pelo aviso. Vê se descansa um pouco. Imagino que tenha muito trabalho, as coisas parece que entraram em modo turbo. E ainda tem a parte da Gerluce.”"
+    },
+    {
+      "id": "cap-09-0212",
+      "type": "paragraph",
+      "text": "“É. Mas agora eu tô bem aliviado e, sei lá, mais leve. Sabendo que não tem mais mentira nenhuma entre nós. Mas eu só vou conseguir descansar de verdade a hora que ela tiver fora daquela delegacia.”"
+    },
+    {
+      "id": "cap-09-0213",
+      "type": "paragraph",
+      "text": "“Dona Zenilda cuidará disso, você vai ver!”"
+    },
+    {
+      "id": "cap-09-0214",
+      "type": "paragraph",
+      "text": "Eles se despedem quando a enfermeira se aproxima com o típico carrinho que leva para o bloco sempre que precisa fazer as verificações. Um copinho com uma colher ainda menor no topo de tudo."
+    },
+    {
+      "id": "cap-09-0215",
+      "type": "paragraph",
+      "text": "“Vamo celebrar o primeiro dia, então?”, ela pergunta, gentil."
+    },
+    {
+      "id": "cap-09-0216",
+      "type": "divider"
+    },
+    {
+      "id": "cap-09-0217",
+      "type": "paragraph",
+      "text": "Lorena deixa uma Eduarda mais bem humorada com o pai. Se despede dela com a dose prescrita de bitoquinha e a promessa de voltar logo cedo para acompanhar a fisioterapia e a segunda tentativa de sentar no leito. Pelo combinado, Henrique deve ficar com ela até o início da tarde e depois Lorena assume o posto até o início da noite. Violeta ficando com a próxima pernoite."
+    },
+    {
+      "id": "cap-09-0218",
+      "type": "paragraph",
+      "text": "Zenilda está esperando por ela nas poltronas em frente à UTI, olhos fixos no celular."
+    },
+    {
+      "id": "cap-09-0219",
+      "type": "paragraph",
+      "text": "Ela não parece incomodada ou estressada, apenas cansada. Sentimento que Lorena atribui ao fato de que ela está, essencialmente, trabalhando em três casos complexos ao mesmo tempo: o roubo, Misael tentando matar Santiago e a participação de Leonardo no esquema dos remédios falsos. O último ponto lhe causa uma fisgada de dor e decepção. Ela se questiona se em algum momento isso vai passar e, se passar, o que exatamente isso diz sobre ela."
+    },
+    {
+      "id": "cap-09-0220",
+      "type": "paragraph",
+      "text": "Anota mentalmente para conversar sobre isso com Ana Lucia na próxima sessão."
+    },
+    {
+      "id": "cap-09-0221",
+      "type": "paragraph",
+      "text": "“Ei. Tá aí tem muito tempo?”"
+    },
+    {
+      "id": "cap-09-0222",
+      "type": "paragraph",
+      "text": "“Oi, meu amor!”, Zenilda se levanta imediatamente, um sorriso cansado e genuíno no rosto. O abraço é forte, carinhoso. Lorena fecha os olhos, “não, eu cheguei agorinha pouco. Até pensei em entrar pra ver minha norinha, mas o pessoal me disse que o horário de visitação já encerrou. Como ela tá? Manda um beijo meu pra ela depois!”"
+    },
+    {
+      "id": "cap-09-0223",
+      "type": "paragraph",
+      "text": "“Pode deixar que eu mando sim. Você prefere ir pra suíte, pra área externa ou pra lanchonete? Paulinho não me deu muito detalhe do assunto que cê quer tratar comigo então não sei bem o nível de sigilo que a gente precisa.”"
+    },
+    {
+      "id": "cap-09-0224",
+      "type": "paragraph",
+      "text": "“A gente pega um lanche rápido aqui e vai pro jardim, pode ser? Num consegui parar um segundo hoje, tô precisando comer e respirar um pouco de ar fresco.”"
+    },
+    {
+      "id": "cap-09-0225",
+      "type": "paragraph",
+      "text": "Lorena repassa os acontecimentos do dia para ela no caminho até a lanchonete e depois até o jardim externo. Se sentam em uma das mesas iluminada por um poste de luz amarelada, uma brisa leve cortando um pouco do calor típico da estação."
+    },
+    {
+      "id": "cap-09-0226",
+      "type": "paragraph",
+      "text": "“Ai, eu fico tão aliviada de saber que a Juquinha tá respondendo bem e evoluindo na recuperação! Foi um susto tão grande!! Mas e você, meu amor? Como que você tá? Tá comendo direito? Bebendo água? Descansando?”"
+    },
+    {
+      "id": "cap-09-0227",
+      "type": "paragraph",
+      "text": "“Tô, mãe. Os Fragoso tão dividindo o peso de tudo comigo. É uma situação horrível”, ela gira um pouco a xícara com o chá de camomila que pediu para desacelerar e conseguir descansar um pouco durante a noite, “mas ter eles junto tá sendo muito bom. Pra ela e pra mim.”"
+    },
+    {
+      "id": "cap-09-0228",
+      "type": "paragraph",
+      "text": "“Eles parecem ser pessoas maravilhosas. Quer dizer, isso já era de se esperar, tendo em vista a filha que criaram”, Lorena sorri. Mesmo tendo o apoio de sua mãe desde o início, ela ainda sente um calor se espalhar pelo peito toda vez que ela elogia Eduarda enquanto pessoa. Porque muito além de uma companheira maravilhosa, Duda é um ser humano incrível."
+    },
+    {
+      "id": "cap-09-0229",
+      "type": "paragraph",
+      "text": "“Eles são. Enquanto pessoas, profissionais e pais. Eles são loucos por ela.”"
+    },
+    {
+      "id": "cap-09-0230",
+      "type": "paragraph",
+      "text": "“Um tema recorrente. Juquinha é um ser de muita luz e carisma. Depois a gente precisa marcar um jantar nós todos. Uma celebração dela e de vocês.”"
+    },
+    {
+      "id": "cap-09-0231",
+      "type": "paragraph",
+      "text": "“Eu acho uma ideia ótima! Assim que for possível a gente marca sim. Quem sabe até no nosso cantinho?”"
+    },
+    {
+      "id": "cap-09-0232",
+      "type": "paragraph",
+      "text": "“Que história é essa? Vocês vão morar juntas oficialmente?”, ela se inclina um pouco para frente, um sorriso cheio de dentes, olhos brilhando. Lorena ri."
+    },
+    {
+      "id": "cap-09-0233",
+      "type": "paragraph",
+      "text": "“A gente falou disso muito por alto quando ela me pediu pra sair da galeria pra ir pro apartamento da família dela quando chegou aquela primeira mensagem. Ficar lá era temporário pra minha segurança e pra ela se sentir tranquila e meio que depois disso não faria sentido eu voltar pra galeria ou buscar algum lugar pra morar sozinha. Morar com ela pode até soar, não sei, apressado, talvez? Mas, mãe…”, ela sorri mais uma vez, calma, certa, “ela é minha maior certeza. É com ela que eu quero estar, é com ela que eu vejo meu futuro”, ela dá de ombros, “me parece ser o caminho mais lógico.”"
+    },
+    {
+      "id": "cap-09-0234",
+      "type": "paragraph",
+      "text": "Zenilda puxa a mão dela entre as suas e dá um beijo, feliz, genuinamente feliz por elas."
+    },
+    {
+      "id": "cap-09-0235",
+      "type": "paragraph",
+      "text": "“Eu sei que eu já te disse isso antes, mas eu nunca vi seus olhos brilharem tanto! E se você sente que é o momento e a pessoa certos, meu amor, faça isso! Viva, Lorena. Viva seus sentimentos e sua verdade livremente, sem o peso do que os outros possam pensar. Se vocês sentem que está na hora, então está na hora e têm meu total apoio.”"
+    },
+    {
+      "id": "cap-09-0236",
+      "type": "paragraph",
+      "text": "“Obrigada, mãe”, é a vez de Lorena puxar a mão dela e dar um beijo, “seu apoio significa muito pra mim.”"
+    },
+    {
+      "id": "cap-09-0237",
+      "type": "paragraph",
+      "text": "“Eu tenho muito orgulho da mulher que você se tornou, minha filha. Muito mesmo. E fico felicíssima de saber que você encontrou uma pessoa tão maravilhosa quanto você pra dividir sua vida”, ela dá a Lorena um momento para absorver de verdade as palavras, a sinceridade por trás delas, o calor. Aperta sua mão mais uma vez antes de levar até sua própria xícara e tomar um gole do chá já quase frio, “falando em imóveis. É sobre isso que eu queria conversar com você. Durante o inventário necessário pro divórcio, eu descobri que seu pai se protegeu muito bem nesse ponto. Não tem nada no nome dele.”"
+    },
+    {
+      "id": "cap-09-0238",
+      "type": "paragraph",
+      "text": "“Como assim? Como nada?”"
+    },
+    {
+      "id": "cap-09-0239",
+      "type": "paragraph",
+      "text": "“Imóveis, veículos, as empresas, tá tudo no nome de laranjas.”"
+    },
+    {
+      "id": "cap-09-0240",
+      "type": "paragraph",
+      "text": "“Laran– é claro que tá”, ela se encosta de volta na cadeira, bufando de leve, “eu não sei nem por que isso me surpreende. O que é ocultação de patrimônio pra quem comete genocídio?”"
+    },
+    {
+      "id": "cap-09-0241",
+      "type": "paragraph",
+      "text": "“A parte engraçada, porém, é que os laranjas são você e Leonardo.”"
+    },
+    {
+      "id": "cap-09-0242",
+      "type": "paragraph",
+      "text": "“Como é que é?!”, ela dispara para frente de novo."
+    },
+    {
+      "id": "cap-09-0243",
+      "type": "paragraph",
+      "text": "“Isso mesmo. Tá tudo no nome de vocês dois. O que facilita bastante a questão do divórcio, porque meu plano já era passar pra vocês. Quer adivinhar de quem é o apartamento onde a gente morava?”"
+    },
+    {
+      "id": "cap-09-0244",
+      "type": "paragraph",
+      "text": "“Não…”"
+    },
+    {
+      "id": "cap-09-0245",
+      "type": "paragraph",
+      "text": "“Sim.”"
+    },
+    {
+      "id": "cap-09-0246",
+      "type": "paragraph",
+      "text": "“O apartamento é meu? O apartamento que ele me expulsou tá no meu nome?!”"
+    },
+    {
+      "id": "cap-09-0247",
+      "type": "paragraph",
+      "text": "“Surpresa!”, ela levanta a xícara num brinde."
+    },
+    {
+      "id": "cap-09-0248",
+      "type": "paragraph",
+      "text": "“Tá… Tá, ok. Mas o que isso quer dizer exatamente?”"
+    },
+    {
+      "id": "cap-09-0249",
+      "type": "paragraph",
+      "text": "“Isso quer dizer, meu amor, que você, maior de idade”, ela tira um papel de dentro da bolsa e entrega a ela, “pode pedir reintegração de posse.”"
+    },
+    {
+      "id": "cap-09-0250",
+      "type": "paragraph",
+      "text": "“Reintegração de posse?”, ela pega o papel, corre os olhos por ele, “você quer dizer jurídica e oficialmente expulsar ele e a jararaca da Arminda do apartamento?”"
+    },
+    {
+      "id": "cap-09-0251",
+      "type": "paragraph",
+      "text": "“Sim, mas não só isso. Ele está internado agora, mas deve receber alta logo. O ferimento dele não é de alta complexidade, mas ele ainda é um sujeito escorregadio”, Lorena olha para ela. E entende tudo, “ele provavelmente vai entrar com pedido de conversão de prisão preventiva para prisão domiciliar alegando que o presídio – seja ele qual for – não pode assegurar os cuidados médicos que ele precisa. Mas, para isso, ele precisa de um comprovante de endereço idôneo. Um imóvel em nome dele ou em contrato de aluguel ou concessão no nome dele.”"
+    },
+    {
+      "id": "cap-09-0252",
+      "type": "paragraph",
+      "text": "Lorena volta a olhar para o papel em suas mãos. Juridiquês não é o seu forte, mas ela entende perfeitamente o que o documento diz. Verifica CEP, CPF, RG, número de celular, data de nascimento, endereço, nome completo – que revira seu estômago e arde em rejeição em seu peito, apesar de correto diante da lei e do governo."
+    },
+    {
+      "id": "cap-09-0253",
+      "type": "paragraph",
+      "text": "Zenilda coloca uma caneta em cima da mesa e não diz mais nada. Não explica – não precisa explicar, está tudo bem claro. Não pede. Não manda. Apenas oferece a caneta e lhe dá a liberdade do que fazer, do caminho a trilhar."
+    },
+    {
+      "id": "cap-09-0254",
+      "type": "paragraph",
+      "text": "Eu não criei uma menina pra virar isso daí.\nVocê sempre foi esquisita.\nEu não estou te expulsando, eu já te expulsei.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu não criei uma menina pra virar isso daí."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Você sempre foi esquisita."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu não estou te expulsando, eu já te expulsei."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0255",
+      "type": "paragraph",
+      "text": "Lorena pega a caneta."
+    },
+    {
+      "id": "cap-09-0256",
+      "type": "paragraph",
+      "text": "Eu já matei muita gente.\nPobre não é gente. Pobre doente, então, aí que eu não sujo minhas mãos mesmo!\nEsse bando de animal.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu já matei muita gente."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Pobre não é gente. Pobre doente, então, aí que eu não sujo minhas mãos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "mesmo!"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Esse bando de animal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0257",
+      "type": "paragraph",
+      "text": "Gira a metade superior para fazer surgir a ponta."
+    },
+    {
+      "id": "cap-09-0258",
+      "type": "paragraph",
+      "text": "Eu prendi a Gerluce hoje.\nViviane entregava as pílulas de farinha pra população que ela ama. Júnior encontrou o pai morto na sala de casa.\nA esposa do Misael também morreu.\nLígia, a mãe da Gerluce, tá doente e piorava a cada dia. Ela ia morrer, Lorena.",
+      "segments": [
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Eu prendi a Gerluce hoje."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Viviane entregava as pílulas de farinha pra população que ela ama."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Júnior encontrou o pai morto na sala de casa."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "A esposa do Misael também morreu."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lígia, a mãe da Gerluce, tá doente e piorava a cada dia. Ela ia morrer,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "text": "Lorena."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-09-0259",
+      "type": "paragraph",
+      "text": "Ela assina o documento."
+    }
+  ],
+  "notes": {
+    "before": [
+      {
+        "id": "cap-09-0001",
+        "type": "paragraph",
+        "text": "abracem o lúdico jornalístico!!! e médico!"
+      }
+    ],
+    "after": [
+      {
+        "id": "cap-09-0260",
+        "type": "paragraph",
+        "text": "lorena e paulinho sendo bffs não era a minha intenção mas agora eu estou Obcecado"
+      },
+      {
+        "id": "cap-09-0261",
+        "type": "paragraph",
+        "text": "(será que lorena vai meter um piercing mesmo??)"
+      }
+    ]
+  }
+}
